@@ -1,0 +1,13 @@
+name: Update and deploy
+
+on:
+  workflow_dispatch:
+push:
+  branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run
+      run: echo "policy aliases"
