@@ -14,6 +14,11 @@ jobs:
     environment: azure
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
       - name: "Az login"
         uses: azure/login@v1
         with:
@@ -21,10 +26,24 @@ jobs:
           tenant-id: ${{ secrets.AZURE_TENANT_ID }}
           subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
           enable-AzPSSession: true
+
+        # TODO: run script
       - name: "Get policy alias"
         run: Get-AzPolicyAlias
-# TODO
-# install hugo
-# run script
-# commit and push
-# deploy
+        shell: pwsh
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build Hugo site
+        run: hugo
+
+      #- name: Deploy
+      #  uses: peaceiris/actions-gh-pages@v3
+      #  if: github.ref == 'refs/heads/main'
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    publish_dir: ./public
