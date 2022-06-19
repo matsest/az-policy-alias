@@ -1,0 +1,15 @@
+## Resource Types
+- [Microsoft.DBforMySQL/servers](servers)
+- [Microsoft.DBforMySQL/flexibleServers](flexibleServers)
+- [Microsoft.DBforMySQL/servers/virtualNetworkRules](servers-virtualNetworkRules)
+- [Microsoft.DBforMySQL/servers/privateEndpointConnections](servers-privateEndpointConnections)
+- [Microsoft.DBforMySQL/servers/keys](servers-keys)
+- [Microsoft.DBforMySQL/servers/securityAlertPolicies](servers-securityAlertPolicies)
+- [Microsoft.DBforMySQL/servers/firewallRules](servers-firewallRules)
+- [Microsoft.DBforMySQL/servers/configurations](servers-configurations)
+- [Microsoft.DBforMySQL/servers/databases](servers-databases)
+- [Microsoft.DBforMySQL/servers/administrators](servers-administrators)
+- [Microsoft.DBforMySQL/flexibleServers/configurations](flexibleServers-configurations)
+- [Microsoft.DBforMySQL/flexibleServers/databases](flexibleServers-databases)
+- [Microsoft.DBforMySQL/flexibleServers/firewallRules](flexibleServers-firewallRules)
+

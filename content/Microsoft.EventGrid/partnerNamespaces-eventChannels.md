@@ -1,0 +1,67 @@
+[`Microsoft.EventGrid/partnerNamespaces/eventChannels`](https://docs.microsoft.com/en-us/azure/templates/microsoft.eventgrid/partnernamespaces/eventchannels)
+
+| Default Path | Alias |
+|---|---|
+| `properties.source` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/source` |
+| `properties.destination.azureSubscriptionId` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.azureSubscriptionId` |
+| `properties.destination.resourceGroup` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.resourceGroup` |
+| `properties.destination.partnerTopicName` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.partnerTopicName` |
+| `properties.destination` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/destination` |
+| `properties.provisioningState` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/provisioningState` |
+| `properties.partnerTopicReadinessState` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/partnerTopicReadinessState` |
+| `properties.expirationTimeIfNotActivatedUtc` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/expirationTimeIfNotActivatedUtc` |
+| `properties.filter.advancedFilters[*].operatorType` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].operatorType` |
+| `properties.filter.advancedFilters[*].key` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].key` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*]` |
+| `properties.filter.advancedFilters` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters` |
+| `properties.filter` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter` |
+| `properties.partnerTopicFriendlyDescription` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/partnerTopicFriendlyDescription` |
+| `properties.source.source` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/source.source` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringContains` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringEndsWith` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringBeginsWith` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotIn` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringIn` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].BoolEquals` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberGreaterThanOrEquals` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberLessThanOrEquals` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberGreaterThan` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberLessThan` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotIn` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberIn` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotContains` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotEndsWith` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotBeginsWith` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotInRange` |
+| `properties.filter.advancedFilters[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberInRange` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringContains.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringEndsWith.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringBeginsWith.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotIn.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringIn.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotIn.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberIn.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotContains.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotEndsWith.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotBeginsWith.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotInRange.values` |
+| `properties.filter.advancedFilters[*].values` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberInRange.values` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringContains.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringEndsWith.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringBeginsWith.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotIn.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringIn.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotIn.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberIn.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotContains.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotEndsWith.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].StringNotBeginsWith.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberNotInRange.values[*]` |
+| `properties.filter.advancedFilters[*].values[*]` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberInRange.values[*]` |
+| `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].BoolEquals.value` |
+| `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberGreaterThanOrEquals.value` |
+| `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberLessThanOrEquals.value` |
+| `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberGreaterThan.value` |
+| `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberLessThan.value` |
+| `properties.filter.enableAdvancedFilteringOnArrays` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.enableAdvancedFilteringOnArrays` |
+

@@ -1,0 +1,16 @@
+## Resource Types
+- [Microsoft.Logic/workflows](workflows)
+- [Microsoft.Logic/integrationAccounts](integrationAccounts)
+- [Microsoft.Logic/integrationServiceEnvironments](integrationServiceEnvironments)
+- [Microsoft.Logic/integrationServiceEnvironments/managedApis](integrationServiceEnvironments-managedApis)
+- [Microsoft.Logic/integrationAccounts/agreements](integrationAccounts-agreements)
+- [Microsoft.Logic/integrationAccounts/assemblies](integrationAccounts-assemblies)
+- [Microsoft.Logic/integrationAccounts/batchConfigurations](integrationAccounts-batchConfigurations)
+- [Microsoft.Logic/integrationAccounts/certificates](integrationAccounts-certificates)
+- [Microsoft.Logic/integrationAccounts/maps](integrationAccounts-maps)
+- [Microsoft.Logic/integrationAccounts/partners](integrationAccounts-partners)
+- [Microsoft.Logic/integrationAccounts/schemas](integrationAccounts-schemas)
+- [Microsoft.Logic/integrationAccounts/sessions](integrationAccounts-sessions)
+- [Microsoft.Logic/workflows/accessKeys](workflows-accessKeys)
+- [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](integrationAccounts-rosettaNetProcessConfigurations)
+

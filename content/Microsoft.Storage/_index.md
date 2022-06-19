@@ -1,0 +1,16 @@
+## Resource Types
+- [Microsoft.Storage/storageAccounts/encryptionScopes](storageAccounts-encryptionScopes)
+- [Microsoft.Storage/storageAccounts](storageAccounts)
+- [Microsoft.Storage/storageAccounts/blobServices](storageAccounts-blobServices)
+- [Microsoft.Storage/storageAccounts/tableServices](storageAccounts-tableServices)
+- [Microsoft.Storage/storageAccounts/queueServices](storageAccounts-queueServices)
+- [Microsoft.Storage/storageAccounts/fileServices](storageAccounts-fileServices)
+- [Microsoft.Storage/storageAccounts/managementPolicies](storageAccounts-managementPolicies)
+- [Microsoft.Storage/storageAccounts/fileServices/shares](storageAccounts-fileServices-shares)
+- [Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies](storageAccounts-blobServices-containers-immutabilityPolicies)
+- [Microsoft.Storage/storageAccounts/privateEndpointConnections](storageAccounts-privateEndpointConnections)
+- [Microsoft.Storage/storageAccounts/objectReplicationPolicies](storageAccounts-objectReplicationPolicies)
+- [Microsoft.Storage/storageAccounts/queueServices/queues](storageAccounts-queueServices-queues)
+- [Microsoft.Storage/storageAccounts/tableServices/tables](storageAccounts-tableServices-tables)
+- [Microsoft.Storage/storageAccounts/inventoryPolicies](storageAccounts-inventoryPolicies)
+

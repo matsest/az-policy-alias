@@ -1,0 +1,16 @@
+## Resource Types
+- [Microsoft.DBforPostgreSQL/servers](servers)
+- [Microsoft.DBforPostgreSQL/flexibleServers](flexibleServers)
+- [Microsoft.DBforPostgreSQL/servers/virtualNetworkRules](servers-virtualNetworkRules)
+- [Microsoft.DBforPostgreSQL/servers/privateEndpointConnections](servers-privateEndpointConnections)
+- [Microsoft.DBforPostgreSQL/servers/keys](servers-keys)
+- [Microsoft.DBforPostgreSQL/servers/firewallRules](servers-firewallRules)
+- [Microsoft.DBforPostgreSQL/servers/securityAlertPolicies](servers-securityAlertPolicies)
+- [Microsoft.DBforPostgreSQL/servers/configurations](servers-configurations)
+- [Microsoft.DBforPostgreSQL/servers/databases](servers-databases)
+- [Microsoft.DBforPostgreSQL/servers/administrators](servers-administrators)
+- [Microsoft.DBforPostgreSQL/flexibleServers/configurations](flexibleServers-configurations)
+- [Microsoft.DBforPostgreSQL/flexibleServers/databases](flexibleServers-databases)
+- [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](flexibleServers-firewallRules)
+- [Microsoft.DBforPostgreSQL/flexibleServers/migrations](flexibleServers-migrations)
+

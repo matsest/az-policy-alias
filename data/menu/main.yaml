@@ -1,0 +1,215 @@
+---
+main:
+  - name: Microsoft.AAD
+    ref: '/Microsoft.AAD'
+  - name: Microsoft.AlertsManagement
+    ref: '/Microsoft.AlertsManagement'
+  - name: Microsoft.AnalysisServices
+    ref: '/Microsoft.AnalysisServices'
+  - name: Microsoft.ApiManagement
+    ref: '/Microsoft.ApiManagement'
+  - name: Microsoft.App
+    ref: '/Microsoft.App'
+  - name: Microsoft.AppConfiguration
+    ref: '/Microsoft.AppConfiguration'
+  - name: Microsoft.AppPlatform
+    ref: '/Microsoft.AppPlatform'
+  - name: Microsoft.Attestation
+    ref: '/Microsoft.Attestation'
+  - name: Microsoft.Authorization
+    ref: '/Microsoft.Authorization'
+  - name: Microsoft.Automanage
+    ref: '/Microsoft.Automanage'
+  - name: Microsoft.Automation
+    ref: '/Microsoft.Automation'
+  - name: Microsoft.Batch
+    ref: '/Microsoft.Batch'
+  - name: Microsoft.Blueprint
+    ref: '/Microsoft.Blueprint'
+  - name: Microsoft.BotService
+    ref: '/Microsoft.BotService'
+  - name: Microsoft.Cache
+    ref: '/Microsoft.Cache'
+  - name: Microsoft.Capacity
+    ref: '/Microsoft.Capacity'
+  - name: Microsoft.Cdn
+    ref: '/Microsoft.Cdn'
+  - name: Microsoft.Codespaces
+    ref: '/Microsoft.Codespaces'
+  - name: Microsoft.CognitiveServices
+    ref: '/Microsoft.CognitiveServices'
+  - name: Microsoft.Compute
+    ref: '/Microsoft.Compute'
+  - name: Microsoft.ConnectedVMwarevSphere
+    ref: '/Microsoft.ConnectedVMwarevSphere'
+  - name: Microsoft.Consumption
+    ref: '/Microsoft.Consumption'
+  - name: Microsoft.ContainerInstance
+    ref: '/Microsoft.ContainerInstance'
+  - name: Microsoft.ContainerRegistry
+    ref: '/Microsoft.ContainerRegistry'
+  - name: Microsoft.ContainerService
+    ref: '/Microsoft.ContainerService'
+  - name: Microsoft.CustomProviders
+    ref: '/Microsoft.CustomProviders'
+  - name: Microsoft.Dashboard
+    ref: '/Microsoft.Dashboard'
+  - name: Microsoft.DataBox
+    ref: '/Microsoft.DataBox'
+  - name: Microsoft.DataBoxEdge
+    ref: '/Microsoft.DataBoxEdge'
+  - name: Microsoft.Databricks
+    ref: '/Microsoft.Databricks'
+  - name: Microsoft.DataCatalog
+    ref: '/Microsoft.DataCatalog'
+  - name: Microsoft.Datadog
+    ref: '/Microsoft.Datadog'
+  - name: Microsoft.DataFactory
+    ref: '/Microsoft.DataFactory'
+  - name: Microsoft.DataLakeAnalytics
+    ref: '/Microsoft.DataLakeAnalytics'
+  - name: Microsoft.DataLakeStore
+    ref: '/Microsoft.DataLakeStore'
+  - name: Microsoft.DataMigration
+    ref: '/Microsoft.DataMigration'
+  - name: Microsoft.DataProtection
+    ref: '/Microsoft.DataProtection'
+  - name: Microsoft.DataShare
+    ref: '/Microsoft.DataShare'
+  - name: Microsoft.DBforMariaDB
+    ref: '/Microsoft.DBforMariaDB'
+  - name: Microsoft.DBforMySQL
+    ref: '/Microsoft.DBforMySQL'
+  - name: Microsoft.DBforPostgreSQL
+    ref: '/Microsoft.DBforPostgreSQL'
+  - name: Microsoft.DesktopVirtualization
+    ref: '/Microsoft.DesktopVirtualization'
+  - name: Microsoft.Devices
+    ref: '/Microsoft.Devices'
+  - name: Microsoft.DeviceUpdate
+    ref: '/Microsoft.DeviceUpdate'
+  - name: Microsoft.DevTestLab
+    ref: '/Microsoft.DevTestLab'
+  - name: Microsoft.DigitalTwins
+    ref: '/Microsoft.DigitalTwins'
+  - name: Microsoft.DocumentDB
+    ref: '/Microsoft.DocumentDB'
+  - name: Microsoft.EdgeOrder
+    ref: '/Microsoft.EdgeOrder'
+  - name: Microsoft.EventGrid
+    ref: '/Microsoft.EventGrid'
+  - name: Microsoft.EventHub
+    ref: '/Microsoft.EventHub'
+  - name: Microsoft.FluidRelay
+    ref: '/Microsoft.FluidRelay'
+  - name: Microsoft.GuestConfiguration
+    ref: '/Microsoft.GuestConfiguration'
+  - name: Microsoft.HDInsight
+    ref: '/Microsoft.HDInsight'
+  - name: Microsoft.HealthcareApis
+    ref: '/Microsoft.HealthcareApis'
+  - name: Microsoft.HybridCompute
+    ref: '/Microsoft.HybridCompute'
+  - name: microsoft.insights
+    ref: '/microsoft.insights'
+  - name: Microsoft.IoTCentral
+    ref: '/Microsoft.IoTCentral'
+  - name: Microsoft.KeyVault
+    ref: '/Microsoft.KeyVault'
+  - name: Microsoft.Kubernetes
+    ref: '/Microsoft.Kubernetes'
+  - name: Microsoft.KubernetesConfiguration
+    ref: '/Microsoft.KubernetesConfiguration'
+  - name: Microsoft.Kusto
+    ref: '/Microsoft.Kusto'
+  - name: Microsoft.LabServices
+    ref: '/Microsoft.LabServices'
+  - name: Microsoft.Logic
+    ref: '/Microsoft.Logic'
+  - name: Microsoft.MachineLearning
+    ref: '/Microsoft.MachineLearning'
+  - name: Microsoft.MachineLearningServices
+    ref: '/Microsoft.MachineLearningServices'
+  - name: Microsoft.ManagedIdentity
+    ref: '/Microsoft.ManagedIdentity'
+  - name: Microsoft.ManagedServices
+    ref: '/Microsoft.ManagedServices'
+  - name: Microsoft.Management
+    ref: '/Microsoft.Management'
+  - name: Microsoft.Maps
+    ref: '/Microsoft.Maps'
+  - name: Microsoft.Media
+    ref: '/Microsoft.Media'
+  - name: Microsoft.Migrate
+    ref: '/Microsoft.Migrate'
+  - name: Microsoft.NetApp
+    ref: '/Microsoft.NetApp'
+  - name: Microsoft.Network
+    ref: '/Microsoft.Network'
+  - name: Microsoft.NotificationHubs
+    ref: '/Microsoft.NotificationHubs'
+  - name: Microsoft.OffAzure
+    ref: '/Microsoft.OffAzure'
+  - name: Microsoft.OperationalInsights
+    ref: '/Microsoft.OperationalInsights'
+  - name: Microsoft.OperationsManagement
+    ref: '/Microsoft.OperationsManagement'
+  - name: Microsoft.Portal
+    ref: '/Microsoft.Portal'
+  - name: Microsoft.PowerBI
+    ref: '/Microsoft.PowerBI'
+  - name: Microsoft.PowerBIDedicated
+    ref: '/Microsoft.PowerBIDedicated'
+  - name: Microsoft.Purview
+    ref: '/Microsoft.Purview'
+  - name: Microsoft.RecoveryServices
+    ref: '/Microsoft.RecoveryServices'
+  - name: Microsoft.Relay
+    ref: '/Microsoft.Relay'
+  - name: Microsoft.Resources
+    ref: '/Microsoft.Resources'
+  - name: Microsoft.SaaS
+    ref: '/Microsoft.SaaS'
+  - name: Microsoft.Search
+    ref: '/Microsoft.Search'
+  - name: Microsoft.Security
+    ref: '/Microsoft.Security'
+  - name: Microsoft.SecurityInsights
+    ref: '/Microsoft.SecurityInsights'
+  - name: Microsoft.ServiceBus
+    ref: '/Microsoft.ServiceBus'
+  - name: Microsoft.ServiceFabric
+    ref: '/Microsoft.ServiceFabric'
+  - name: Microsoft.SignalRService
+    ref: '/Microsoft.SignalRService'
+  - name: Microsoft.Singularity
+    ref: '/Microsoft.Singularity'
+  - name: Microsoft.Solutions
+    ref: '/Microsoft.Solutions'
+  - name: Microsoft.Sql
+    ref: '/Microsoft.Sql'
+  - name: Microsoft.SqlVirtualMachine
+    ref: '/Microsoft.SqlVirtualMachine'
+  - name: Microsoft.Storage
+    ref: '/Microsoft.Storage'
+  - name: Microsoft.StorageCache
+    ref: '/Microsoft.StorageCache'
+  - name: Microsoft.StorageSync
+    ref: '/Microsoft.StorageSync'
+  - name: Microsoft.StorSimple
+    ref: '/Microsoft.StorSimple'
+  - name: Microsoft.StreamAnalytics
+    ref: '/Microsoft.StreamAnalytics'
+  - name: Microsoft.Subscription
+    ref: '/Microsoft.Subscription'
+  - name: Microsoft.Synapse
+    ref: '/Microsoft.Synapse'
+  - name: Microsoft.TimeSeriesInsights
+    ref: '/Microsoft.TimeSeriesInsights'
+  - name: Microsoft.VirtualMachineImages
+    ref: '/Microsoft.VirtualMachineImages'
+  - name: microsoft.visualstudio
+    ref: '/microsoft.visualstudio'
+  - name: Microsoft.Web
+    ref: '/Microsoft.Web'
+

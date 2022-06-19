@@ -1,0 +1,16 @@
+## Resource Types
+- [Microsoft.Cdn/profiles](profiles)
+- [Microsoft.Cdn/profiles/endpoints](profiles-endpoints)
+- [Microsoft.Cdn/profiles/endpoints/origins](profiles-endpoints-origins)
+- [Microsoft.Cdn/profiles/endpoints/origingroups](profiles-endpoints-origingroups)
+- [Microsoft.Cdn/profiles/endpoints/customdomains](profiles-endpoints-customdomains)
+- [Microsoft.Cdn/CdnWebApplicationFirewallPolicies](CdnWebApplicationFirewallPolicies)
+- [Microsoft.Cdn/profiles/afdendpoints](profiles-afdendpoints)
+- [Microsoft.Cdn/profiles/afdendpoints/routes](profiles-afdendpoints-routes)
+- [Microsoft.Cdn/profiles/customdomains](profiles-customdomains)
+- [Microsoft.Cdn/profiles/origingroups](profiles-origingroups)
+- [Microsoft.Cdn/profiles/origingroups/origins](profiles-origingroups-origins)
+- [Microsoft.Cdn/profiles/rulesets/rules](profiles-rulesets-rules)
+- [Microsoft.Cdn/profiles/secrets](profiles-secrets)
+- [Microsoft.Cdn/profiles/securitypolicies](profiles-securitypolicies)
+

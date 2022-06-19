@@ -1,0 +1,6 @@
+---
+header:
+  - name: GitHub
+    ref: https://github.com/matsest/az-policy-alias
+    icon: gdoc_github
+    external: true

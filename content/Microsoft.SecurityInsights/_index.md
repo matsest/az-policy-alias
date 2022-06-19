@@ -1,0 +1,16 @@
+## Resource Types
+- [Microsoft.SecurityInsights/alertRules](alertRules)
+- [Microsoft.SecurityInsights/cases](cases)
+- [Microsoft.SecurityInsights/bookmarks](bookmarks)
+- [Microsoft.SecurityInsights/dataConnectors](dataConnectors)
+- [Microsoft.SecurityInsights/incidents](incidents)
+- [Microsoft.SecurityInsights/settings](settings)
+- [Microsoft.SecurityInsights/automationRules](automationRules)
+- [Microsoft.SecurityInsights/watchlists](watchlists)
+- [Microsoft.SecurityInsights/alertRules/actions](alertRules-actions)
+- [Microsoft.SecurityInsights/bookmarks/relations](bookmarks-relations)
+- [Microsoft.SecurityInsights/cases/comments](cases-comments)
+- [Microsoft.SecurityInsights/incidents/comments](incidents-comments)
+- [Microsoft.SecurityInsights/incidents/relations](incidents-relations)
+- [Microsoft.SecurityInsights/threatintelligence/indicators](threatintelligence-indicators)
+

@@ -1,0 +1,61 @@
+[`Microsoft.Devices/ProvisioningServices`](https://docs.microsoft.com/en-us/azure/templates/microsoft.devices/provisioningservices)
+
+| Default Path | Alias |
+|---|---|
+| `properties.state` | `Microsoft.Devices/ProvisioningServices/state` |
+| `properties.provisioningState` | `Microsoft.Devices/ProvisioningServices/provisioningState` |
+| `properties.iotHubs[*].applyAllocationPolicy` | `Microsoft.Devices/ProvisioningServices/iotHubs[*].applyAllocationPolicy` |
+| `properties.iotHubs[*].allocationWeight` | `Microsoft.Devices/ProvisioningServices/iotHubs[*].allocationWeight` |
+| `properties.iotHubs[*].name` | `Microsoft.Devices/ProvisioningServices/iotHubs[*].name` |
+| `properties.iotHubs[*].connectionString` | `Microsoft.Devices/ProvisioningServices/iotHubs[*].connectionString` |
+| `properties.iotHubs[*].location` | `Microsoft.Devices/ProvisioningServices/iotHubs[*].location` |
+| `properties.iotHubs[*]` | `Microsoft.Devices/ProvisioningServices/iotHubs[*]` |
+| `properties.iotHubs` | `Microsoft.Devices/ProvisioningServices/iotHubs` |
+| `properties.allocationPolicy` | `Microsoft.Devices/ProvisioningServices/allocationPolicy` |
+| `properties.serviceOperationsHostName` | `Microsoft.Devices/ProvisioningServices/serviceOperationsHostName` |
+| `properties.deviceProvisioningHostName` | `Microsoft.Devices/ProvisioningServices/deviceProvisioningHostName` |
+| `properties.idScope` | `Microsoft.Devices/ProvisioningServices/idScope` |
+| `properties.authorizationPolicies[*].keyName` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies[*].keyName` |
+| `properties.authorizationPolicies[*].primaryKey` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies[*].primaryKey` |
+| `properties.authorizationPolicies[*].secondaryKey` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies[*].secondaryKey` |
+| `properties.authorizationPolicies[*].rights` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies[*].rights` |
+| `properties.authorizationPolicies[*]` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies[*]` |
+| `properties.authorizationPolicies` | `Microsoft.Devices/ProvisioningServices/authorizationPolicies` |
+| `sku.name` | `Microsoft.Devices/ProvisioningServices/sku.name` |
+| `sku.tier` | `Microsoft.Devices/ProvisioningServices/sku.tier` |
+| `sku.capacity` | `Microsoft.Devices/ProvisioningServices/sku.capacity` |
+| `sku` | `Microsoft.Devices/ProvisioningServices/sku` |
+| `properties.ipFilterRules[*]` | `Microsoft.Devices/provisioningServices/ipFilterRules[*]` |
+| `properties.ipFilterRules[*].filterName` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].filterName` |
+| `properties.ipFilterRules[*].action` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].action` |
+| `properties.ipFilterRules[*].ipMask` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].ipMask` |
+| `properties.ipFilterRules[*].target` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].target` |
+| `properties.ipFilterRules` | `Microsoft.Devices/provisioningServices/ipFilterRules` |
+| `properties.publicNetworkAccess` | `Microsoft.Devices/provisioningServices/publicNetworkAccess` |
+| `properties.privateEndpointConnections` | `Microsoft.Devices/provisioningServices/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.encryption` | `Microsoft.Devices/provisioningServices/encryption` |
+| `properties.encryption.keySource` | `Microsoft.Devices/provisioningServices/encryption.keySource` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties[*]` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*]` |
+| `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*].keyIdentifier` |
+| `properties.encryption.identity` | `Microsoft.Devices/provisioningServices/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Devices/provisioningServices/encryption.identity.userAssignedIdentity` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.enableDataResidency` | `Microsoft.Devices/provisioningServices/enableDataResidency` |
+
