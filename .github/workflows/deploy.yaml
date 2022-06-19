@@ -29,8 +29,11 @@ jobs:
 
         # TODO: run script
       - name: "Get policy alias"
-        run: Get-AzPolicyAlias
-        shell: pwsh
+        uses: azure/powershell@v1
+        with:
+          inlineScript: |
+            Get-AzVM -ResourceGroupName "ResourceGroup11"
+          azPSVersion: "latest"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
