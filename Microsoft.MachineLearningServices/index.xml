@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.MachineLearningServices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments
+   Default Path Alias     properties.compute Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute   properties.compute.target Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute.target   properties.compute.instanceCount Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute.instanceCount   properties.compute.isLocal Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute.isLocal   properties.compute.location Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute.location   properties.compute.instanceType Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/compute.instanceType   properties.errorThreshold Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/errorThreshold   properties.retrySettings Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/retrySettings   properties.retrySettings.maxRetries Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/retrySettings.maxRetries   properties.retrySettings.timeout Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/retrySettings.timeout   properties.partitionKeys Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/partitionKeys   properties.partitionKeys[*] Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/partitionKeys[*]   properties.miniBatchSize Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/miniBatchSize   properties.loggingLevel Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/loggingLevel   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/batchEndpoints
+   Default Path Alias     properties.authMode Microsoft.MachineLearningServices/workspaces/batchEndpoints/authMode   properties.description Microsoft.MachineLearningServices/workspaces/batchEndpoints/description   properties.traffic Microsoft.MachineLearningServices/workspaces/batchEndpoints/traffic   properties.scoringUri Microsoft.MachineLearningServices/workspaces/batchEndpoints/scoringUri   properties.swaggerUri Microsoft.MachineLearningServices/workspaces/batchEndpoints/swaggerUri   properties.keys Microsoft.MachineLearningServices/workspaces/batchEndpoints/keys   properties.keys.primaryKey Microsoft.MachineLearningServices/workspaces/batchEndpoints/keys.primaryKey   properties.keys.secondaryKey Microsoft.MachineLearningServices/workspaces/batchEndpoints/keys.secondaryKey    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes-versions/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/codes/versions
+   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/codes/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/codes/versions/description   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/codes/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/codes/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/codes/versions/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/codes
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/codes/description   properties.tags Microsoft.MachineLearningServices/workspaces/codes/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-computes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-computes/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/computes
+   Default Path Alias     properties.computeType Microsoft.MachineLearningServices/workspaces/computes/computeType   properties.computeLocation Microsoft.MachineLearningServices/workspaces/computes/computeLocation   properties.provisioningState Microsoft.MachineLearningServices/workspaces/computes/provisioningState   properties.description Microsoft.MachineLearningServices/workspaces/computes/description   properties.createdOn Microsoft.MachineLearningServices/workspaces/computes/createdOn   properties.modifiedOn Microsoft.MachineLearningServices/workspaces/computes/modifiedOn   properties.resourceId Microsoft.MachineLearningServices/workspaces/computes/resourceId   properties.provisioningErrors[*].error.code Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.code   properties.provisioningErrors[*].error.message Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.message   properties.provisioningErrors[*].error.details[*].code Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.details[*].code   properties.provisioningErrors[*].error.details[*].message Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.details[*].message   properties.provisioningErrors[*].error.details[*] Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.details[*]   properties.provisioningErrors[*].error.details Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.details   properties.provisioningErrors[*].error Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/connections
+   Default Path Alias     properties.category Microsoft.MachineLearningServices/workspaces/connections/category   properties.target Microsoft.MachineLearningServices/workspaces/connections/target   properties.authType Microsoft.MachineLearningServices/workspaces/connections/authType   properties.value Microsoft.MachineLearningServices/workspaces/connections/value   properties.valueFormat Microsoft.MachineLearningServices/workspaces/connections/valueFormat    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data-versions/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/data/versions
+   Default Path Alias     properties.datasetType Microsoft.MachineLearningServices/workspaces/data/versions/datasetType   properties.datastoreId Microsoft.MachineLearningServices/workspaces/data/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/data/versions/description   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/data/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/data/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/data/versions/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-datastores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-datastores/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/datastores
+   Default Path Alias     properties.contents Microsoft.MachineLearningServices/workspaces/datastores/contents.GlusterFs   properties.contents.serverAddress Microsoft.MachineLearningServices/workspaces/datastores/contents.GlusterFs.serverAddress   properties.contents.volumeName Microsoft.MachineLearningServices/workspaces/datastores/contents.GlusterFs.volumeName   properties.contents.databaseName Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.databaseName   properties.contents.endpoint Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.endpoint   properties.contents.portNumber Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.portNumber   properties.contents.serverName Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.serverName   properties.contents.credentials Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin   properties.contents.credentials.userId Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.userId   properties.contents.credentials.secrets Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.secrets.SqlAdmin   properties.contents.credentials.secrets.password Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.secrets.SqlAdmin.password   properties.contents.credentials.secrets.clientSecret Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.secrets.ServicePrincipal.clientSecret   properties.contents.credentials.secrets.sasToken Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.secrets.Sas.sasToken   properties.contents.credentials.secrets.certificate Microsoft.MachineLearningServices/workspaces/datastores/contents.AzureSqlDatabase.credentials.SqlAdmin.secrets.Certificate.certificate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments-versions/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/environments/versions
+   Default Path Alias     properties.environmentSpecificationType Microsoft.MachineLearningServices/workspaces/environments/versions/environmentSpecificationType   properties.docker Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Build   properties.docker.dockerfile Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Build.dockerfile   properties.docker.context Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Build.context   properties.docker.dockerImageUri Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Image.dockerImageUri   properties.docker.dockerSpecificationType Microsoft.MachineLearningServices/workspaces/environments/versions/docker.dockerSpecificationType   properties.docker.platform Microsoft.MachineLearningServices/workspaces/environments/versions/docker.platform   properties.docker.platform.operatingSystemType Microsoft.MachineLearningServices/workspaces/environments/versions/docker.platform.operatingSystemType   properties.condaFile Microsoft.MachineLearningServices/workspaces/environments/versions/condaFile   properties.inferenceContainerProperties Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceContainerProperties   properties.inferenceContainerProperties.livenessRoute Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceContainerProperties.livenessRoute   properties.inferenceContainerProperties.livenessRoute.path Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceContainerProperties.livenessRoute.path   properties.inferenceContainerProperties.livenessRoute.port Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceContainerProperties.livenessRoute.port   properties.inferenceContainerProperties.readinessRoute Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceContainerProperties.readinessRoute   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/environments
+   Default Path Alias     properties.tags Microsoft.MachineLearningServices/workspaces/environments/tags   properties.description Microsoft.MachineLearningServices/workspaces/environments/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-jobs/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/jobs
+   Default Path Alias     properties.algorithm Microsoft.MachineLearningServices/workspaces/jobs/Sweep.algorithm   properties.compute Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute   properties.compute Microsoft.MachineLearningServices/workspaces/jobs/Command.compute   properties.compute.instanceCount Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute.instanceCount   properties.compute.instanceCount Microsoft.MachineLearningServices/workspaces/jobs/Command.compute.instanceCount   properties.compute.instanceType Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute.instanceType   properties.compute.instanceType Microsoft.MachineLearningServices/workspaces/jobs/Command.compute.instanceType   properties.compute.isLocal Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute.isLocal   properties.compute.isLocal Microsoft.MachineLearningServices/workspaces/jobs/Command.compute.isLocal   properties.compute.location Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute.location   properties.compute.location Microsoft.MachineLearningServices/workspaces/jobs/Command.compute.location   properties.compute.target Microsoft.MachineLearningServices/workspaces/jobs/Sweep.compute.target   properties.compute.target Microsoft.MachineLearningServices/workspaces/jobs/Command.compute.target   properties.earlyTermination Microsoft.MachineLearningServices/workspaces/jobs/Sweep.earlyTermination.TruncationSelection   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-linkedServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-linkedServices/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/linkedServices
+   Default Path Alias     properties.linkedServiceResourceId Microsoft.MachineLearningServices/workspaces/linkedServices/linkedServiceResourceId   properties.linkType Microsoft.MachineLearningServices/workspaces/linkedServices/linkType   properties.createdTime Microsoft.MachineLearningServices/workspaces/linkedServices/createdTime   properties.modifiedTime Microsoft.MachineLearningServices/workspaces/linkedServices/modifiedTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models-versions/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/models/versions
+   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/models/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/models/versions/description   properties.flavors Microsoft.MachineLearningServices/workspaces/models/versions/flavors   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/models/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/models/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/models/versions/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/models
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/models/description   properties.tags Microsoft.MachineLearningServices/workspaces/models/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints-deployments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints-deployments/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments
+   Default Path Alias     properties.instanceType Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.instanceType   properties.readinessProbe Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe   properties.readinessProbe.failureThreshold Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.failureThreshold   properties.readinessProbe.initialDelay Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.initialDelay   properties.readinessProbe.period Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.period   properties.readinessProbe.successThreshold Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.successThreshold   properties.readinessProbe.timeout Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.timeout   properties.containerResourceRequirements Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements   properties.containerResourceRequirements.cpu Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.cpu   properties.containerResourceRequirements.cpuLimit Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.cpuLimit   properties.containerResourceRequirements.memoryInGB Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.memoryInGB   properties.containerResourceRequirements.memoryInGBLimit Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.memoryInGBLimit   properties.containerResourceRequirements.gpu Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.gpu   properties.containerResourceRequirements.fpga Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.fpga   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/onlineEndpoints
+   Default Path Alias     properties.authMode Microsoft.MachineLearningServices/workspaces/onlineEndpoints/authMode   properties.description Microsoft.MachineLearningServices/workspaces/onlineEndpoints/description   properties.keys Microsoft.MachineLearningServices/workspaces/onlineEndpoints/keys   properties.keys.primaryKey Microsoft.MachineLearningServices/workspaces/onlineEndpoints/keys.primaryKey   properties.keys.secondaryKey Microsoft.MachineLearningServices/workspaces/onlineEndpoints/keys.secondaryKey   properties.provisioningState Microsoft.MachineLearningServices/workspaces/onlineEndpoints/provisioningState   properties.scoringUri Microsoft.MachineLearningServices/workspaces/onlineEndpoints/scoringUri   properties.swaggerUri Microsoft.MachineLearningServices/workspaces/onlineEndpoints/swaggerUri   properties.target Microsoft.MachineLearningServices/workspaces/onlineEndpoints/target   properties.traffic Microsoft.MachineLearningServices/workspaces/onlineEndpoints/traffic    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.privateLinkServiceConnectionState Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/provisioningState   sku.name Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.name   sku.tier Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.tier   sku Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateEndpoint.subnetArmId Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateEndpoint.subnetArmId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces
+   Default Path Alias     properties.workspaceId Microsoft.MachineLearningServices/workspaces/workspaceId   properties.description Microsoft.MachineLearningServices/workspaces/description   properties.friendlyName Microsoft.MachineLearningServices/workspaces/friendlyName   properties.creationTime Microsoft.MachineLearningServices/workspaces/creationTime   properties.batchaiWorkspace Microsoft.MachineLearningServices/workspaces/batchaiWorkspace   properties.keyVault Microsoft.MachineLearningServices/workspaces/keyVault   properties.applicationInsights Microsoft.MachineLearningServices/workspaces/applicationInsights   properties.containerRegistry Microsoft.MachineLearningServices/workspaces/containerRegistry   properties.storageAccount Microsoft.MachineLearningServices/workspaces/storageAccount   properties.discoveryUrl Microsoft.MachineLearningServices/workspaces/discoveryUrl   properties.provisioningState Microsoft.MachineLearningServices/workspaces/provisioningState   sku.name Microsoft.MachineLearningServices/workspaces/sku.name   sku.tier Microsoft.MachineLearningServices/workspaces/sku.tier   sku Microsoft.MachineLearningServices/workspaces/sku   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

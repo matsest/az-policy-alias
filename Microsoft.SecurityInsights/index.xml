@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.SecurityInsights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules-actions/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/alertRules/actions
+   Default Path Alias     properties.logicAppResourceId Microsoft.SecurityInsights/alertRules/actions/logicAppResourceId   properties.workflowId Microsoft.SecurityInsights/alertRules/actions/workflowId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/alertRules
+   Default Path Alias     properties.query Microsoft.SecurityInsights/alertRules/Scheduled.query   properties.queryFrequency Microsoft.SecurityInsights/alertRules/Scheduled.queryFrequency   properties.queryPeriod Microsoft.SecurityInsights/alertRules/Scheduled.queryPeriod   properties.severity Microsoft.SecurityInsights/alertRules/Scheduled.severity   properties.triggerOperator Microsoft.SecurityInsights/alertRules/Scheduled.triggerOperator   properties.triggerThreshold Microsoft.SecurityInsights/alertRules/Scheduled.triggerThreshold   properties.eventGroupingSettings Microsoft.SecurityInsights/alertRules/Scheduled.eventGroupingSettings   properties.eventGroupingSettings.aggregationKind Microsoft.SecurityInsights/alertRules/Scheduled.eventGroupingSettings.aggregationKind   properties.alertRuleTemplateName Microsoft.SecurityInsights/alertRules/Scheduled.alertRuleTemplateName   properties.description Microsoft.SecurityInsights/alertRules/Scheduled.description   properties.displayName Microsoft.SecurityInsights/alertRules/Scheduled.displayName   properties.enabled Microsoft.SecurityInsights/alertRules/Scheduled.enabled   properties.lastModifiedUtc Microsoft.SecurityInsights/alertRules/Scheduled.lastModifiedUtc   properties.suppressionDuration Microsoft.SecurityInsights/alertRules/Scheduled.suppressionDuration   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/automationRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/automationRules/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/automationRules
+   Default Path Alias     properties.displayName Microsoft.SecurityInsights/automationRules/displayName   properties.order Microsoft.SecurityInsights/automationRules/order   properties.triggeringLogic Microsoft.SecurityInsights/automationRules/triggeringLogic   properties.triggeringLogic.isEnabled Microsoft.SecurityInsights/automationRules/triggeringLogic.isEnabled   properties.triggeringLogic.expirationTimeUtc Microsoft.SecurityInsights/automationRules/triggeringLogic.expirationTimeUtc   properties.triggeringLogic.triggersOn Microsoft.SecurityInsights/automationRules/triggeringLogic.triggersOn   properties.triggeringLogic.triggersWhen Microsoft.SecurityInsights/automationRules/triggeringLogic.triggersWhen   properties.triggeringLogic.conditions Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions   properties.triggeringLogic.conditions[*] Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*]   properties.triggeringLogic.conditions[*].conditionProperties Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*].Property.conditionProperties   properties.triggeringLogic.conditions[*].conditionProperties.propertyName Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*].Property.conditionProperties.propertyName   properties.triggeringLogic.conditions[*].conditionProperties.operator Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*].Property.conditionProperties.operator   properties.triggeringLogic.conditions[*].conditionProperties.propertyValues Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*].Property.conditionProperties.propertyValues   properties.triggeringLogic.conditions[*].conditionProperties.propertyValues[*] Microsoft.SecurityInsights/automationRules/triggeringLogic.conditions[*].Property.conditionProperties.propertyValues[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks-relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks-relations/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/bookmarks/relations
+   Default Path Alias     properties.relationName Microsoft.SecurityInsights/bookmarks/relations/relationName   properties.bookmarkId Microsoft.SecurityInsights/bookmarks/relations/bookmarkId   properties.caseIdentifier Microsoft.SecurityInsights/bookmarks/relations/caseIdentifier   properties.caseTitle Microsoft.SecurityInsights/bookmarks/relations/caseTitle   properties.caseSeverity Microsoft.SecurityInsights/bookmarks/relations/caseSeverity   properties.relatedResourceId Microsoft.SecurityInsights/bookmarks/relations/relatedResourceId   properties.relatedResourceName Microsoft.SecurityInsights/bookmarks/relations/relatedResourceName   properties.relatedResourceType Microsoft.SecurityInsights/bookmarks/relations/relatedResourceType   properties.relatedResourceKind Microsoft.SecurityInsights/bookmarks/relations/relatedResourceKind    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/bookmarks
+   Default Path Alias     properties.created Microsoft.SecurityInsights/bookmarks/created   properties.createdBy.email Microsoft.SecurityInsights/bookmarks/createdBy.email   properties.createdBy.name Microsoft.SecurityInsights/bookmarks/createdBy.name   properties.createdBy.objectId Microsoft.SecurityInsights/bookmarks/createdBy.objectId   properties.createdBy Microsoft.SecurityInsights/bookmarks/createdBy   properties.displayName Microsoft.SecurityInsights/bookmarks/displayName   properties.labels[*] Microsoft.SecurityInsights/bookmarks/labels[*]   properties.labels Microsoft.SecurityInsights/bookmarks/labels   properties.notes Microsoft.SecurityInsights/bookmarks/notes   properties.query Microsoft.SecurityInsights/bookmarks/query   properties.queryResult Microsoft.SecurityInsights/bookmarks/queryResult   properties.updated Microsoft.SecurityInsights/bookmarks/updated   properties.updatedBy.email Microsoft.SecurityInsights/bookmarks/updatedBy.email   properties.updatedBy.name Microsoft.SecurityInsights/bookmarks/updatedBy.name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases-comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases-comments/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/cases/comments
+   Default Path Alias     properties.createdTimeUtc Microsoft.SecurityInsights/cases/comments/createdTimeUtc   properties.message Microsoft.SecurityInsights/cases/comments/message   properties.userInfo.email Microsoft.SecurityInsights/cases/comments/userInfo.email   properties.userInfo.name Microsoft.SecurityInsights/cases/comments/userInfo.name   properties.userInfo.objectId Microsoft.SecurityInsights/cases/comments/userInfo.objectId   properties.userInfo Microsoft.SecurityInsights/cases/comments/userInfo    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/cases
+   Default Path Alias     properties.caseNumber Microsoft.SecurityInsights/cases/caseNumber   properties.closeReason Microsoft.SecurityInsights/cases/closeReason   properties.closedReasonText Microsoft.SecurityInsights/cases/closedReasonText   properties.createdTimeUtc Microsoft.SecurityInsights/cases/createdTimeUtc   properties.description Microsoft.SecurityInsights/cases/description   properties.endTimeUtc Microsoft.SecurityInsights/cases/endTimeUtc   properties.labels[*] Microsoft.SecurityInsights/cases/labels[*]   properties.labels Microsoft.SecurityInsights/cases/labels   properties.lastComment Microsoft.SecurityInsights/cases/lastComment   properties.lastUpdatedTimeUtc Microsoft.SecurityInsights/cases/lastUpdatedTimeUtc   properties.owner.email Microsoft.SecurityInsights/cases/owner.email   properties.owner.name Microsoft.SecurityInsights/cases/owner.name   properties.owner.objectId Microsoft.SecurityInsights/cases/owner.objectId   properties.owner Microsoft.SecurityInsights/cases/owner   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/dataConnectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/dataConnectors/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/dataConnectors
+   Default Path Alias     properties.tenantId Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.tenantId   properties.tenantId Microsoft.SecurityInsights/dataConnectors/ThreatIntelligence.tenantId   properties.workspaceId Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.workspaceId   properties.friendlyName Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.friendlyName   properties.taxiiServer Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.taxiiServer   properties.collectionId Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.collectionId   properties.userName Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.userName   properties.password Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.password   properties.taxiiLookbackPeriod Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.taxiiLookbackPeriod   properties.pollingFrequency Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.pollingFrequency   properties.dataTypes Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.dataTypes   properties.dataTypes Microsoft.SecurityInsights/dataConnectors/ThreatIntelligence.dataTypes   properties.dataTypes.taxiiClient Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.dataTypes.taxiiClient   properties.dataTypes.taxiiClient.state Microsoft.SecurityInsights/dataConnectors/ThreatIntelligenceTaxii.dataTypes.taxiiClient.state   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-comments/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/incidents/comments
+   Default Path Alias     properties.createdTimeUtc Microsoft.SecurityInsights/incidents/comments/createdTimeUtc   properties.message Microsoft.SecurityInsights/incidents/comments/message   properties.author.email Microsoft.SecurityInsights/incidents/comments/author.email   properties.author.name Microsoft.SecurityInsights/incidents/comments/author.name   properties.author.objectId Microsoft.SecurityInsights/incidents/comments/author.objectId   properties.author.userPrincipalName Microsoft.SecurityInsights/incidents/comments/author.userPrincipalName   properties.author Microsoft.SecurityInsights/incidents/comments/author   properties.lastModifiedTimeUtc Microsoft.SecurityInsights/incidents/comments/lastModifiedTimeUtc    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-relations/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/incidents/relations
+   Default Path Alias     properties.relatedResourceId Microsoft.SecurityInsights/incidents/relations/relatedResourceId   properties.relatedResourceName Microsoft.SecurityInsights/incidents/relations/relatedResourceName   properties.relatedResourceType Microsoft.SecurityInsights/incidents/relations/relatedResourceType   properties.relatedResourceKind Microsoft.SecurityInsights/incidents/relations/relatedResourceKind    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/incidents
+   Default Path Alias     properties.additionalData.alertsCount Microsoft.SecurityInsights/incidents/additionalData.alertsCount   properties.additionalData.bookmarksCount Microsoft.SecurityInsights/incidents/additionalData.bookmarksCount   properties.additionalData.commentsCount Microsoft.SecurityInsights/incidents/additionalData.commentsCount   properties.additionalData.alertProductNames[*] Microsoft.SecurityInsights/incidents/additionalData.alertProductNames[*]   properties.additionalData.alertProductNames Microsoft.SecurityInsights/incidents/additionalData.alertProductNames   properties.additionalData Microsoft.SecurityInsights/incidents/additionalData   properties.classification Microsoft.SecurityInsights/incidents/classification   properties.createdTimeUtc Microsoft.SecurityInsights/incidents/createdTimeUtc   properties.description Microsoft.SecurityInsights/incidents/description   properties.firstActivityTimeUtc Microsoft.SecurityInsights/incidents/firstActivityTimeUtc   properties.incidentNumber Microsoft.SecurityInsights/incidents/incidentNumber   properties.labels[*].labelName Microsoft.SecurityInsights/incidents/labels[*].labelName   properties.labels[*].labelType Microsoft.SecurityInsights/incidents/labels[*].labelType   properties.labels[*] Microsoft.SecurityInsights/incidents/labels[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/settings/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/settings
+   Default Path Alias     properties.dataSources Microsoft.SecurityInsights/settings/Ueba.dataSources   properties.dataSources[*] Microsoft.SecurityInsights/settings/Ueba.dataSources[*]   properties.isEnabled Microsoft.SecurityInsights/settings/EntityAnalytics.isEnabled    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/threatintelligence-indicators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/threatintelligence-indicators/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/threatintelligence/indicators
+   Default Path Alias     properties.additionalData Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.additionalData   properties.friendlyName Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.friendlyName   properties.threatIntelligenceTags Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatIntelligenceTags   properties.threatIntelligenceTags[*] Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatIntelligenceTags[*]   properties.lastUpdatedTimeUtc Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.lastUpdatedTimeUtc   properties.source Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.source   properties.displayName Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.displayName   properties.description Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.description   properties.indicatorTypes Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.indicatorTypes   properties.indicatorTypes[*] Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.indicatorTypes[*]   properties.pattern Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.pattern   properties.patternType Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.patternType   properties.patternVersion Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.patternVersion   properties.killChainPhases Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.killChainPhases   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SecurityInsights/watchlists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SecurityInsights/watchlists/</guid>
+      <description>Link to resource definition: Microsoft.SecurityInsights/watchlists
+   Default Path Alias     properties.watchlistId Microsoft.SecurityInsights/watchlists/watchlistId   properties.displayName Microsoft.SecurityInsights/watchlists/displayName   properties.provider Microsoft.SecurityInsights/watchlists/provider   properties.source Microsoft.SecurityInsights/watchlists/source   properties.created Microsoft.SecurityInsights/watchlists/created   properties.updated Microsoft.SecurityInsights/watchlists/updated   properties.createdBy Microsoft.SecurityInsights/watchlists/createdBy   properties.createdBy.email Microsoft.SecurityInsights/watchlists/createdBy.email   properties.createdBy.name Microsoft.SecurityInsights/watchlists/createdBy.name   properties.createdBy.objectId Microsoft.SecurityInsights/watchlists/createdBy.objectId   properties.updatedBy Microsoft.SecurityInsights/watchlists/updatedBy   properties.updatedBy.email Microsoft.SecurityInsights/watchlists/updatedBy.email   properties.updatedBy.name Microsoft.SecurityInsights/watchlists/updatedBy.name   properties.updatedBy.objectId Microsoft.SecurityInsights/watchlists/updatedBy.objectId   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

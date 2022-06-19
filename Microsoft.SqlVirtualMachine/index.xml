@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups-AvailabilityGroupListeners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups-AvailabilityGroupListeners/</guid>
+      <description>Link to resource definition: Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners
+   Default Path Alias     properties.provisioningState Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/provisioningState   properties.availabilityGroupName Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/availabilityGroupName   properties.loadBalancerConfigurations[*].privateIpAddress.ipAddress Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].privateIpAddress.ipAddress   properties.loadBalancerConfigurations[*].privateIpAddress.subnetResourceId Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].privateIpAddress.subnetResourceId   properties.loadBalancerConfigurations[*].privateIpAddress Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].privateIpAddress   properties.loadBalancerConfigurations[*].publicIpAddressResourceId Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].publicIpAddressResourceId   properties.loadBalancerConfigurations[*].loadBalancerResourceId Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].loadBalancerResourceId   properties.loadBalancerConfigurations[*].probePort Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].probePort   properties.loadBalancerConfigurations[*].sqlVirtualMachineInstances[*] Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].sqlVirtualMachineInstances[*]   properties.loadBalancerConfigurations[*].sqlVirtualMachineInstances Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*].sqlVirtualMachineInstances   properties.loadBalancerConfigurations[*] Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations[*]   properties.loadBalancerConfigurations Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations   properties.createDefaultAvailabilityGroupIfNotExist Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/createDefaultAvailabilityGroupIfNotExist   properties.port Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/port   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/</guid>
+      <description>Link to resource definition: Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups
+   Default Path Alias     properties.provisioningState Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/provisioningState   properties.sqlImageOffer Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/sqlImageOffer   properties.sqlImageSku Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/sqlImageSku   properties.scaleType Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/scaleType   properties.clusterManagerType Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/clusterManagerType   properties.clusterConfiguration Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/clusterConfiguration   properties.wsfcDomainProfile.domainFqdn Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.domainFqdn   properties.wsfcDomainProfile.ouPath Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.ouPath   properties.wsfcDomainProfile.clusterBootstrapAccount Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.clusterBootstrapAccount   properties.wsfcDomainProfile.clusterOperatorAccount Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.clusterOperatorAccount   properties.wsfcDomainProfile.sqlServiceAccount Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.sqlServiceAccount   properties.wsfcDomainProfile.fileShareWitnessPath Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.fileShareWitnessPath   properties.wsfcDomainProfile.storageAccountUrl Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.storageAccountUrl   properties.wsfcDomainProfile.storageAccountPrimaryKey Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.storageAccountPrimaryKey   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachines/</guid>
+      <description>Link to resource definition: Microsoft.SqlVirtualMachine/SqlVirtualMachines
+   Default Path Alias     properties.virtualMachineResourceId Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId   properties.provisioningState Microsoft.SqlVirtualMachine/SqlVirtualMachines/provisioningState   properties.sqlImageOffer Microsoft.SqlVirtualMachine/SqlVirtualMachines/sqlImageOffer   properties.sqlServerLicenseType Microsoft.SqlVirtualMachine/SqlVirtualMachines/sqlServerLicenseType   properties.sqlManagement Microsoft.SqlVirtualMachine/SqlVirtualMachines/sqlManagement   properties.sqlImageSku Microsoft.SqlVirtualMachine/SqlVirtualMachines/sqlImageSku   properties.sqlVirtualMachineGroupResourceId Microsoft.SqlVirtualMachine/SqlVirtualMachines/sqlVirtualMachineGroupResourceId   properties.wsfcDomainCredentials.clusterBootstrapAccountPassword Microsoft.SqlVirtualMachine/SqlVirtualMachines/wsfcDomainCredentials.clusterBootstrapAccountPassword   properties.wsfcDomainCredentials.clusterOperatorAccountPassword Microsoft.SqlVirtualMachine/SqlVirtualMachines/wsfcDomainCredentials.clusterOperatorAccountPassword   properties.wsfcDomainCredentials.sqlServiceAccountPassword Microsoft.SqlVirtualMachine/SqlVirtualMachines/wsfcDomainCredentials.sqlServiceAccountPassword   properties.wsfcDomainCredentials Microsoft.SqlVirtualMachine/SqlVirtualMachines/wsfcDomainCredentials   properties.autoPatchingSettings.enable Microsoft.SqlVirtualMachine/SqlVirtualMachines/autoPatchingSettings.enable   properties.autoPatchingSettings.dayOfWeek Microsoft.SqlVirtualMachine/SqlVirtualMachines/autoPatchingSettings.dayOfWeek   properties.autoPatchingSettings.maintenanceWindowStartingHour Microsoft.SqlVirtualMachine/SqlVirtualMachines/autoPatchingSettings.maintenanceWindowStartingHour   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

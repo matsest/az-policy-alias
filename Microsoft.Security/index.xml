@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Security/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.Security/advancedThreatProtectionSettings
+   Default Path Alias     properties.isEnabled Microsoft.Security/advancedThreatProtectionSettings/isEnabled   properties.isEnabled Microsoft.Security/advancedThreatProtectionSettings/current.isEnabled    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/alerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/alerts/</guid>
+      <description>Link to resource definition: Microsoft.Security/alerts
+   Default Path Alias     properties.state Microsoft.Security/alerts/state    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/alertsSuppressionRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/alertsSuppressionRules/</guid>
+      <description>Link to resource definition: Microsoft.Security/alertsSuppressionRules
+   Default Path Alias     properties.alertType Microsoft.Security/alertsSuppressionRules/alertType   properties.lastModifiedUtc Microsoft.Security/alertsSuppressionRules/lastModifiedUtc   properties.expirationDateUtc Microsoft.Security/alertsSuppressionRules/expirationDateUtc   properties.reason Microsoft.Security/alertsSuppressionRules/reason   properties.state Microsoft.Security/alertsSuppressionRules/state   properties.comment Microsoft.Security/alertsSuppressionRules/comment   properties.suppressionAlertsScope Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope   properties.suppressionAlertsScope.allOf Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf   properties.suppressionAlertsScope.allOf[*] Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf[*]   properties.suppressionAlertsScope.allOf[*].field Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf[*].field    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/assessmentMetadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/assessmentMetadata/</guid>
+      <description>Link to resource definition: Microsoft.Security/assessmentMetadata
+   Default Path Alias     properties.displayName Microsoft.Security/assessmentMetadata/displayName   properties.policyDefinitionId Microsoft.Security/assessmentMetadata/policyDefinitionId   properties.description Microsoft.Security/assessmentMetadata/description   properties.remediationDescription Microsoft.Security/assessmentMetadata/remediationDescription   properties.category[*] Microsoft.Security/assessmentMetadata/category[*]   properties.category Microsoft.Security/assessmentMetadata/category   properties.severity Microsoft.Security/assessmentMetadata/severity   properties.userImpact Microsoft.Security/assessmentMetadata/userImpact   properties.implementationEffort Microsoft.Security/assessmentMetadata/implementationEffort   properties.threats[*] Microsoft.Security/assessmentMetadata/threats[*]   properties.threats Microsoft.Security/assessmentMetadata/threats   properties.preview Microsoft.Security/assessmentMetadata/preview   properties.assessmentType Microsoft.Security/assessmentMetadata/assessmentType   properties.partnerData.partnerName Microsoft.Security/assessmentMetadata/partnerData.partnerName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/assessments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/assessments/</guid>
+      <description>Link to resource definition: Microsoft.Security/assessments
+   Default Path Alias     properties.resourceDetails.source Microsoft.Security/assessments/resourceDetails.source   properties.resourceDetails Microsoft.Security/assessments/resourceDetails   properties.displayName Microsoft.Security/assessments/displayName   properties.status.code Microsoft.Security/assessments/status.code   properties.status.cause Microsoft.Security/assessments/status.cause   properties.status.description Microsoft.Security/assessments/status.description   properties.status Microsoft.Security/assessments/status   properties.additionalData Microsoft.Security/assessments/additionalData   properties.links.azurePortalUri Microsoft.Security/assessments/links.azurePortalUri   properties.links Microsoft.Security/assessments/links   properties.metadata.displayName Microsoft.Security/assessments/metadata.displayName   properties.metadata.policyDefinitionId Microsoft.Security/assessments/metadata.policyDefinitionId   properties.metadata.description Microsoft.Security/assessments/metadata.description   properties.metadata.remediationDescription Microsoft.Security/assessments/metadata.remediationDescription   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/automations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/automations/</guid>
+      <description>Link to resource definition: Microsoft.Security/automations
+   Default Path Alias     properties.isEnabled Microsoft.Security/automations/isEnabled   properties.sources[*].eventSource Microsoft.Security/automations/sources[*].eventSource   properties.sources[*] Microsoft.Security/automations/sources[*]   properties.sources Microsoft.Security/automations/sources   properties.actions[*].actionType Microsoft.Security/automations/actions[*].actionType   properties.actions[*] Microsoft.Security/automations/actions[*]   properties.actions Microsoft.Security/automations/actions   properties.description Microsoft.Security/automations/description   properties.scopes Microsoft.Security/automations/scopes   properties.scopes[*] Microsoft.Security/automations/scopes[*]   properties.scopes[*].description Microsoft.Security/automations/scopes[*].description   properties.scopes[*].scopePath Microsoft.Security/automations/scopes[*].scopePath   properties.sources[*].ruleSets Microsoft.Security/automations/sources[*].ruleSets   properties.sources[*].ruleSets[*] Microsoft.Security/automations/sources[*].ruleSets[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/AutoProvisioningSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/AutoProvisioningSettings/</guid>
+      <description>Link to resource definition: Microsoft.Security/AutoProvisioningSettings
+   Default Path Alias     properties.autoProvision Microsoft.Security/AutoProvisioningSettings/autoProvision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</guid>
+      <description>Link to resource definition: Microsoft.Security/complianceResults
+   Default Path Alias     properties.resourceStatus Microsoft.Security/complianceResults/resourceStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</guid>
+      <description>Link to resource definition: Microsoft.Security/deviceSecurityGroups
+   Default Path Alias     properties.thresholdRules[*].displayName Microsoft.Security/deviceSecurityGroups/thresholdRules[*].displayName   properties.thresholdRules[*].description Microsoft.Security/deviceSecurityGroups/thresholdRules[*].description   properties.thresholdRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/thresholdRules[*].isEnabled   properties.thresholdRules[*].ruleType Microsoft.Security/deviceSecurityGroups/thresholdRules[*].ruleType   properties.thresholdRules[*] Microsoft.Security/deviceSecurityGroups/thresholdRules[*]   properties.thresholdRules Microsoft.Security/deviceSecurityGroups/thresholdRules   properties.thresholdRules[*].minThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].minThreshold   properties.thresholdRules[*].maxThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].maxThreshold   properties.timeWindowRules[*].displayName Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].displayName   properties.timeWindowRules[*].description Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].description   properties.timeWindowRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].isEnabled   properties.timeWindowRules[*].ruleType Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].ruleType   properties.timeWindowRules[*] Microsoft.Security/deviceSecurityGroups/timeWindowRules[*]   properties.timeWindowRules Microsoft.Security/deviceSecurityGroups/timeWindowRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/InformationProtectionPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/InformationProtectionPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Security/InformationProtectionPolicies
+   Default Path Alias     properties.lastModifiedUtc Microsoft.Security/InformationProtectionPolicies/lastModifiedUtc   properties.labels Microsoft.Security/InformationProtectionPolicies/labels   properties.informationTypes Microsoft.Security/InformationProtectionPolicies/informationTypes   properties.lastModifiedUtc Microsoft.Security/InformationProtectionPolicies/effective.lastModifiedUtc   properties.labels Microsoft.Security/InformationProtectionPolicies/effective.labels   properties.informationTypes Microsoft.Security/InformationProtectionPolicies/effective.informationTypes   properties.version Microsoft.Security/InformationProtectionPolicies/effective.version   properties.version Microsoft.Security/informationProtectionPolicies/version    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/iotSecuritySolutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/iotSecuritySolutions/</guid>
+      <description>Link to resource definition: Microsoft.Security/iotSecuritySolutions
+   Default Path Alias     properties.workspace Microsoft.Security/iotSecuritySolutions/workspace   properties.displayName Microsoft.Security/iotSecuritySolutions/displayName   properties.status Microsoft.Security/iotSecuritySolutions/status   properties.export[*] Microsoft.Security/iotSecuritySolutions/export[*]   properties.export Microsoft.Security/iotSecuritySolutions/export   properties.disabledDataSources[*] Microsoft.Security/iotSecuritySolutions/disabledDataSources[*]   properties.disabledDataSources Microsoft.Security/iotSecuritySolutions/disabledDataSources   properties.iotHubs[*] Microsoft.Security/iotSecuritySolutions/iotHubs[*]   properties.iotHubs Microsoft.Security/iotSecuritySolutions/iotHubs   properties.userDefinedResources.query Microsoft.Security/iotSecuritySolutions/userDefinedResources.query   properties.userDefinedResources.querySubscriptions[*] Microsoft.Security/iotSecuritySolutions/userDefinedResources.querySubscriptions[*]   properties.userDefinedResources.querySubscriptions Microsoft.Security/iotSecuritySolutions/userDefinedResources.querySubscriptions   properties.userDefinedResources Microsoft.Security/iotSecuritySolutions/userDefinedResources   properties.autoDiscoveredResources[*] Microsoft.Security/iotSecuritySolutions/autoDiscoveredResources[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/locations-alerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/locations-alerts/</guid>
+      <description>Link to resource definition: Microsoft.Security/locations/alerts
+   Default Path Alias     properties.state Microsoft.Security/locations/alerts/state    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/locations-jitNetworkAccessPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/locations-jitNetworkAccessPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Security/locations/jitNetworkAccessPolicies
+   Default Path Alias     properties.virtualMachines[*].id Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].id   properties.virtualMachines[*].ports[*].number Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].number   properties.virtualMachines[*].ports[*].protocol Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].protocol   properties.virtualMachines[*].ports[*].allowedSourceAddressPrefix Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].allowedSourceAddressPrefix   properties.virtualMachines[*].ports[*].allowedSourceAddressPrefixes[*] Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].allowedSourceAddressPrefixes[*]   properties.virtualMachines[*].ports[*].allowedSourceAddressPrefixes Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].allowedSourceAddressPrefixes   properties.virtualMachines[*].ports[*].maxRequestAccessDuration Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*].maxRequestAccessDuration   properties.virtualMachines[*].ports[*] Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports[*]   properties.virtualMachines[*].ports Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].ports   properties.virtualMachines[*] Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*]   properties.virtualMachines Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines   properties.requests[*].virtualMachines[*].id Microsoft.Security/locations/jitNetworkAccessPolicies/requests[*].virtualMachines[*].id   properties.requests[*].virtualMachines[*].ports[*].number Microsoft.Security/locations/jitNetworkAccessPolicies/requests[*].virtualMachines[*].ports[*].number   properties.requests[*].virtualMachines[*].ports[*].allowedSourceAddressPrefix Microsoft.Security/locations/jitNetworkAccessPolicies/requests[*].virtualMachines[*].ports[*].allowedSourceAddressPrefix   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/policies/</guid>
+      <description>Link to resource definition: Microsoft.Security/policies
+   Default Path Alias     properties.policyLevel Microsoft.Security/policies/policyLevel   properties.name Microsoft.Security/policies/name   properties.unique Microsoft.Security/policies/unique   properties.logCollection Microsoft.Security/policies/logCollection   properties.recommendations Microsoft.Security/policies/recommendations   properties.recommendations.patch Microsoft.Security/policies/recommendations.patch   properties.recommendations.baseline Microsoft.Security/policies/recommendations.baseline   properties.recommendations.antimalware Microsoft.Security/policies/recommendations.antimalware   properties.recommendations.diskEncryption Microsoft.Security/policies/recommendations.diskEncryption   properties.recommendations.acls Microsoft.Security/policies/recommendations.acls   properties.recommendations.nsgs Microsoft.Security/policies/recommendations.nsgs   properties.recommendations.waf Microsoft.Security/policies/recommendations.waf   properties.recommendations.sqlAuditing Microsoft.Security/policies/recommendations.sqlAuditing   properties.recommendations.sqlTde Microsoft.Security/policies/recommendations.sqlTde   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/pricings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/pricings/</guid>
+      <description>Link to resource definition: Microsoft.Security/pricings
+   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</guid>
+      <description>Link to resource definition: Microsoft.Security/securityContacts
+   Default Path Alias     properties.emails Microsoft.Security/securityContacts/email   properties.phone Microsoft.Security/securityContacts/phone   properties.alertNotifications.state Microsoft.Security/securityContacts/alertNotifications   properties.notificationsByRole.state Microsoft.Security/securityContacts/alertsToAdmins   properties.emails Microsoft.Security/securityContacts/emails   properties.alertNotifications.state Microsoft.Security/securityContacts/alertNotifications.state   properties.alertNotifications.minimalSeverity Microsoft.Security/securityContacts/alertNotifications.minimalSeverity   properties.notificationsByRole Microsoft.Security/securityContacts/notificationsByRole   properties.notificationsByRole.state Microsoft.Security/securityContacts/notificationsByRole.state   properties.notificationsByRole.roles Microsoft.Security/securityContacts/notificationsByRole.roles   properties.notificationsByRole.roles[*] Microsoft.Security/securityContacts/notificationsByRole.roles[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/settings/</guid>
+      <description>Link to resource definition: Microsoft.Security/settings
+   Default Path Alias     properties.enabled Microsoft.Security/settings/DataExportSetting.enabled   properties.enabled Microsoft.Security/settings/DataExportSettings.enabled    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/workspaceSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/workspaceSettings/</guid>
+      <description>Link to resource definition: Microsoft.Security/workspaceSettings
+   Default Path Alias     properties.workspaceId Microsoft.Security/workspaceSettings/workspaceId   properties.scope Microsoft.Security/workspaceSettings/scope    </description>
+    </item>
+    
+  </channel>
+</rss>

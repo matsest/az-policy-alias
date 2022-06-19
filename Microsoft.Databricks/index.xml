@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Databricks/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Databricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Databricks/workspaces/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Databricks/workspaces/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Databricks/workspaces/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.provisioningState Microsoft.Databricks/workspaces/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-virtualNetworkPeerings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-virtualNetworkPeerings/</guid>
+      <description>Link to resource definition: Microsoft.Databricks/workspaces/virtualNetworkPeerings
+   Default Path Alias     properties.allowVirtualNetworkAccess Microsoft.Databricks/workspaces/virtualNetworkPeerings/allowVirtualNetworkAccess   properties.allowForwardedTraffic Microsoft.Databricks/workspaces/virtualNetworkPeerings/allowForwardedTraffic   properties.allowGatewayTransit Microsoft.Databricks/workspaces/virtualNetworkPeerings/allowGatewayTransit   properties.useRemoteGateways Microsoft.Databricks/workspaces/virtualNetworkPeerings/useRemoteGateways   properties.databricksVirtualNetwork Microsoft.Databricks/workspaces/virtualNetworkPeerings/databricksVirtualNetwork   properties.databricksVirtualNetwork.id Microsoft.Databricks/workspaces/virtualNetworkPeerings/databricksVirtualNetwork.id   properties.databricksAddressSpace Microsoft.Databricks/workspaces/virtualNetworkPeerings/databricksAddressSpace   properties.databricksAddressSpace.addressPrefixes Microsoft.Databricks/workspaces/virtualNetworkPeerings/databricksAddressSpace.addressPrefixes   properties.databricksAddressSpace.addressPrefixes[*] Microsoft.Databricks/workspaces/virtualNetworkPeerings/databricksAddressSpace.addressPrefixes[*]   properties.remoteVirtualNetwork Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteVirtualNetwork   properties.remoteVirtualNetwork.id Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteVirtualNetwork.id   properties.remoteAddressSpace Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteAddressSpace   properties.remoteAddressSpace.addressPrefixes Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes   properties.remoteAddressSpace.addressPrefixes[*] Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Databricks/workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Databricks/workspaces/</guid>
+      <description>Link to resource definition: Microsoft.Databricks/workspaces
+   Default Path Alias     properties.managedResourceGroupId Microsoft.DataBricks/workspaces/managedResourceGroupId   properties.parameters Microsoft.DataBricks/workspaces/parameters   properties.provisioningState Microsoft.DataBricks/workspaces/provisioningState   properties.uiDefinitionUri Microsoft.DataBricks/workspaces/uiDefinitionUri   properties.authorizations[*].principalId Microsoft.DataBricks/workspaces/authorizations[*].principalId   properties.authorizations[*].roleDefinitionId Microsoft.DataBricks/workspaces/authorizations[*].roleDefinitionId   properties.authorizations[*] Microsoft.DataBricks/workspaces/authorizations[*]   properties.authorizations Microsoft.DataBricks/workspaces/authorizations   sku.name Microsoft.DataBricks/workspaces/sku.name   sku.tier Microsoft.DataBricks/workspaces/sku.tier   sku Microsoft.DataBricks/workspaces/sku   properties.parameters.amlWorkspaceId.type Microsoft.DataBricks/workspaces/parameters.amlWorkspaceId.type   properties.parameters.amlWorkspaceId.value Microsoft.DataBricks/workspaces/parameters.amlWorkspaceId.value   properties.parameters.amlWorkspaceId Microsoft.DataBricks/workspaces/parameters.amlWorkspaceId   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

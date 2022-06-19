@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.CognitiveServices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.CognitiveServices/accounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.groupIds[*] Microsoft.CognitiveServices/accounts/privateEndpointConnections/groupIds[*]   properties.groupIds Microsoft.CognitiveServices/accounts/privateEndpointConnections/groupIds   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.CognitiveServices/accounts/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</guid>
+      <description>Link to resource definition: Microsoft.CognitiveServices/accounts
+   Default Path Alias     properties.provisioningState Microsoft.CognitiveServices/accounts/provisioningState   properties.endpoint Microsoft.CognitiveServices/accounts/endpoint   sku.name Microsoft.CognitiveServices/accounts/sku.name   sku.tier Microsoft.CognitiveServices/accounts/sku.tier   sku Microsoft.CognitiveServices/accounts/sku   properties.internalId Microsoft.CognitiveServices/accounts/internalId   properties.customSubDomainName Microsoft.CognitiveServices/accounts/customSubDomainName   properties.networkAcls.defaultAction Microsoft.CognitiveServices/accounts/networkAcls.defaultAction   properties.networkAcls.ipRules[*].value Microsoft.CognitiveServices/accounts/networkAcls.ipRules[*].value   properties.networkAcls.ipRules[*] Microsoft.CognitiveServices/accounts/networkAcls.ipRules[*]   properties.networkAcls.ipRules Microsoft.CognitiveServices/accounts/networkAcls.ipRules   properties.networkAcls.virtualNetworkRules[*].id Microsoft.CognitiveServices/accounts/networkAcls.virtualNetworkRules[*].id   properties.networkAcls.virtualNetworkRules[*].state Microsoft.CognitiveServices/accounts/networkAcls.virtualNetworkRules[*].state   properties.networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint Microsoft.CognitiveServices/accounts/networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

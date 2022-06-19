@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Purview/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Purview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Purview/accounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Purview/accounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Purview/accounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Purview/accounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Purview/accounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState.description Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.status Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.provisioningState Microsoft.Purview/accounts/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Purview/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Purview/accounts/</guid>
+      <description>Link to resource definition: Microsoft.Purview/accounts
+   Default Path Alias     properties.cloudConnectors Microsoft.Purview/accounts/cloudConnectors   properties.cloudConnectors.awsExternalId Microsoft.Purview/accounts/cloudConnectors.awsExternalId   properties.createdAt Microsoft.Purview/accounts/createdAt   properties.createdBy Microsoft.Purview/accounts/createdBy   properties.createdByObjectId Microsoft.Purview/accounts/createdByObjectId   properties.endpoints Microsoft.Purview/accounts/endpoints   properties.endpoints.catalog Microsoft.Purview/accounts/endpoints.catalog   properties.endpoints.guardian Microsoft.Purview/accounts/endpoints.guardian   properties.endpoints.scan Microsoft.Purview/accounts/endpoints.scan   properties.friendlyName Microsoft.Purview/accounts/friendlyName   properties.managedResources Microsoft.Purview/accounts/managedResources   properties.managedResources.eventHubNamespace Microsoft.Purview/accounts/managedResources.eventHubNamespace   properties.managedResources.resourceGroup Microsoft.Purview/accounts/managedResources.resourceGroup   properties.managedResources.storageAccount Microsoft.Purview/accounts/managedResources.storageAccount   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.OperationsManagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</guid>
+      <description>Link to resource definition: Microsoft.OperationsManagement/managementassociations
+   Default Path Alias     properties.applicationId Microsoft.OperationsManagement/managementassociations/applicationId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementconfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementconfigurations/</guid>
+      <description>Link to resource definition: Microsoft.OperationsManagement/managementconfigurations
+   Default Path Alias     properties.applicationId Microsoft.OperationsManagement/managementconfigurations/applicationId   properties.parentResourceType Microsoft.OperationsManagement/managementconfigurations/parentResourceType   properties.parameters[*].name Microsoft.OperationsManagement/managementconfigurations/parameters[*].name   properties.parameters[*] Microsoft.OperationsManagement/managementconfigurations/parameters[*]   properties.parameters Microsoft.OperationsManagement/managementconfigurations/parameters   properties.provisioningState Microsoft.OperationsManagement/managementconfigurations/provisioningState   properties.template Microsoft.OperationsManagement/managementconfigurations/template   properties.parameters[*].value Microsoft.OperationsManagement/managementconfigurations/parameters[*].value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationsManagement/solutions/</guid>
+      <description>Link to resource definition: Microsoft.OperationsManagement/solutions
+   Default Path Alias     properties.workspaceResourceId Microsoft.OperationsManagement/solutions/workspaceResourceId   properties.provisioningState Microsoft.OperationsManagement/solutions/provisioningState   properties.containedResources[*] Microsoft.OperationsManagement/solutions/containedResources[*]   properties.containedResources Microsoft.OperationsManagement/solutions/containedResources   properties.referencedResources[*] Microsoft.OperationsManagement/solutions/referencedResources[*]   properties.referencedResources Microsoft.OperationsManagement/solutions/referencedResources    </description>
+    </item>
+    
+  </channel>
+</rss>

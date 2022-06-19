@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataShare/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataShare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares-invitations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares-invitations/</guid>
+      <description>Link to resource definition: Microsoft.DataShare/accounts/shares/invitations
+   Default Path Alias     properties.invitationId Microsoft.DataShare/accounts/shares/invitations/invitationId   properties.invitationStatus Microsoft.DataShare/accounts/shares/invitations/invitationStatus   properties.respondedAt Microsoft.DataShare/accounts/shares/invitations/respondedAt   properties.sender Microsoft.DataShare/accounts/shares/invitations/sender   properties.sentAt Microsoft.DataShare/accounts/shares/invitations/sentAt   properties.targetActiveDirectoryId Microsoft.DataShare/accounts/shares/invitations/targetActiveDirectoryId   properties.targetEmail Microsoft.DataShare/accounts/shares/invitations/targetEmail   properties.targetObjectId Microsoft.DataShare/accounts/shares/invitations/targetObjectId   properties.userEmail Microsoft.DataShare/accounts/shares/invitations/userEmail   properties.userName Microsoft.DataShare/accounts/shares/invitations/userName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares/</guid>
+      <description>Link to resource definition: Microsoft.DataShare/accounts/shares
+   Default Path Alias     properties.createdAt Microsoft.DataShare/accounts/shares/createdAt   properties.createdBy Microsoft.DataShare/accounts/shares/createdBy   properties.description Microsoft.DataShare/accounts/shares/description   properties.provisioningState Microsoft.DataShare/accounts/shares/provisioningState   properties.shareKind Microsoft.DataShare/accounts/shares/shareKind   properties.terms Microsoft.DataShare/accounts/shares/terms   properties.userEmail Microsoft.DataShare/accounts/shares/userEmail   properties.userName Microsoft.DataShare/accounts/shares/userName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataShare/accounts-sharesubscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataShare/accounts-sharesubscriptions/</guid>
+      <description>Link to resource definition: Microsoft.DataShare/accounts/sharesubscriptions
+   Default Path Alias     properties.createdAt Microsoft.DataShare/accounts/sharesubscriptions/createdAt   properties.createdBy Microsoft.DataShare/accounts/sharesubscriptions/createdBy   properties.invitationId Microsoft.DataShare/accounts/sharesubscriptions/invitationId   properties.provisioningState Microsoft.DataShare/accounts/sharesubscriptions/provisioningState   properties.shareDescription Microsoft.DataShare/accounts/sharesubscriptions/shareDescription   properties.shareKind Microsoft.DataShare/accounts/sharesubscriptions/shareKind   properties.shareName Microsoft.DataShare/accounts/sharesubscriptions/shareName   properties.shareSender Microsoft.DataShare/accounts/sharesubscriptions/shareSender   properties.shareSenderCompanyName Microsoft.DataShare/accounts/sharesubscriptions/shareSenderCompanyName   properties.shareSubscriptionStatus Microsoft.DataShare/accounts/sharesubscriptions/shareSubscriptionStatus   properties.shareTerms Microsoft.DataShare/accounts/sharesubscriptions/shareTerms   properties.providerEmail Microsoft.DataShare/accounts/sharesubscriptions/providerEmail   properties.providerName Microsoft.DataShare/accounts/sharesubscriptions/providerName   properties.providerTenantName Microsoft.DataShare/accounts/sharesubscriptions/providerTenantName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataShare/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataShare/accounts/</guid>
+      <description>Link to resource definition: Microsoft.DataShare/accounts
+   Default Path Alias     properties.createdAt Microsoft.DataShare/accounts/createdAt   properties.createdBy Microsoft.DataShare/accounts/createdBy   properties.provisioningState Microsoft.DataShare/accounts/provisioningState   properties.userEmail Microsoft.DataShare/accounts/userEmail   properties.userName Microsoft.DataShare/accounts/userName    </description>
+    </item>
+    
+  </channel>
+</rss>

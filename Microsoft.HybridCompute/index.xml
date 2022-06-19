@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.HybridCompute/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.HybridCompute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/machines/extensions
+   Default Path Alias     properties.forceUpdateTag Microsoft.HybridCompute/machines/extensions/forceUpdateTag   properties.publisher Microsoft.HybridCompute/machines/extensions/publisher   properties.type Microsoft.HybridCompute/machines/extensions/type   properties.typeHandlerVersion Microsoft.HybridCompute/machines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.HybridCompute/machines/extensions/autoUpgradeMinorVersion   properties.settings Microsoft.HybridCompute/machines/extensions/settings   properties.protectedSettings Microsoft.HybridCompute/machines/extensions/protectedSettings   properties.provisioningState Microsoft.HybridCompute/machines/extensions/provisioningState   properties.instanceView.name Microsoft.HybridCompute/machines/extensions/instanceView.name   properties.instanceView.type Microsoft.HybridCompute/machines/extensions/instanceView.type   properties.instanceView.typeHandlerVersion Microsoft.HybridCompute/machines/extensions/instanceView.typeHandlerVersion   properties.instanceView.status.code Microsoft.HybridCompute/machines/extensions/instanceView.status.code   properties.instanceView.status.level Microsoft.HybridCompute/machines/extensions/instanceView.status.level   properties.instanceView.status.displayStatus Microsoft.HybridCompute/machines/extensions/instanceView.status.displayStatus   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/machines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/machines/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/machines
+   Default Path Alias     properties.osVersion Microsoft.HybridCompute/imageSKU   properties.osName Microsoft.HybridCompute/imageOffer   properties.osProfile.computerName Microsoft.HybridCompute/machines/osProfile.computerName   properties.osProfile Microsoft.HybridCompute/machines/osProfile   properties.provisioningState Microsoft.HybridCompute/machines/provisioningState   properties.status Microsoft.HybridCompute/machines/status   properties.lastStatusChange Microsoft.HybridCompute/machines/lastStatusChange   properties.errorDetails[*].code Microsoft.HybridCompute/machines/errorDetails[*].code   properties.errorDetails[*].message Microsoft.HybridCompute/machines/errorDetails[*].message   properties.errorDetails[*].target Microsoft.HybridCompute/machines/errorDetails[*].target   properties.errorDetails[*].details[*].code Microsoft.HybridCompute/machines/errorDetails[*].details[*].code   properties.errorDetails[*].details[*].message Microsoft.HybridCompute/machines/errorDetails[*].details[*].message   properties.errorDetails[*].details[*].target Microsoft.HybridCompute/machines/errorDetails[*].details[*].target   properties.errorDetails[*].details[*] Microsoft.HybridCompute/machines/errorDetails[*].details[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/provisioningState   properties.groupIds Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds   properties.groupIds[*] Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/privateLinkScopes
+   Default Path Alias     properties.publicNetworkAccess Microsoft.HybridCompute/privateLinkScopes/publicNetworkAccess   properties.provisioningState Microsoft.HybridCompute/privateLinkScopes/provisioningState   properties.privateEndpointConnections Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired   properties.privateEndpointConnections[*].properties.provisioningState Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].provisioningState   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

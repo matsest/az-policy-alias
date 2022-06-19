@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.StorageCache/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.StorageCache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageCache/caches-storageTargets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageCache/caches-storageTargets/</guid>
+      <description>Link to resource definition: Microsoft.StorageCache/caches/storageTargets
+   Default Path Alias     properties.junctions[*] Microsoft.StorageCache/caches/storageTargets/junctions[*]   properties.junctions[*].namespacePath Microsoft.StorageCache/caches/storageTargets/junctions[*].namespacePath   properties.junctions[*].targetPath Microsoft.StorageCache/caches/storageTargets/junctions[*].targetPath   properties.junctions[*].nfsExport Microsoft.StorageCache/caches/storageTargets/junctions[*].nfsExport   properties.junctions Microsoft.StorageCache/caches/storageTargets/junctions   properties.targetType Microsoft.StorageCache/caches/storageTargets/targetType   properties.provisioningState Microsoft.StorageCache/caches/storageTargets/provisioningState   properties.nfs3 Microsoft.StorageCache/caches/storageTargets/nfs3   properties.nfs3.target Microsoft.StorageCache/caches/storageTargets/nfs3.target   properties.nfs3.usageModel Microsoft.StorageCache/caches/storageTargets/nfs3.usageModel   properties.clfs Microsoft.StorageCache/caches/storageTargets/clfs   properties.clfs.target Microsoft.StorageCache/caches/storageTargets/clfs.target   properties.unknown Microsoft.StorageCache/caches/storageTargets/unknown   properties.unknown.unknownMap Microsoft.StorageCache/caches/storageTargets/unknown.unknownMap    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageCache/caches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageCache/caches/</guid>
+      <description>Link to resource definition: Microsoft.StorageCache/caches
+   Default Path Alias     properties.cacheSizeGB Microsoft.StorageCache/caches/cacheSizeGB   properties.health Microsoft.StorageCache/caches/health   properties.health.state Microsoft.StorageCache/caches/health.state   properties.health.statusDescription Microsoft.StorageCache/caches/health.statusDescription   properties.mountAddresses[*] Microsoft.StorageCache/caches/mountAddresses[*]   properties.mountAddresses Microsoft.StorageCache/caches/mountAddresses   properties.provisioningState Microsoft.StorageCache/caches/provisioningState   properties.subnet Microsoft.StorageCache/caches/subnet   properties.upgradeStatus Microsoft.StorageCache/caches/upgradeStatus   properties.upgradeStatus.currentFirmwareVersion Microsoft.StorageCache/caches/upgradeStatus.currentFirmwareVersion   properties.upgradeStatus.firmwareUpdateStatus Microsoft.StorageCache/caches/upgradeStatus.firmwareUpdateStatus   properties.upgradeStatus.firmwareUpdateDeadline Microsoft.StorageCache/caches/upgradeStatus.firmwareUpdateDeadline   properties.upgradeStatus.lastFirmwareUpdate Microsoft.StorageCache/caches/upgradeStatus.lastFirmwareUpdate   properties.upgradeStatus.pendingFirmwareVersion Microsoft.StorageCache/caches/upgradeStatus.pendingFirmwareVersion   sku Microsoft.</description>
+    </item>
+    
+  </channel>
+</rss>

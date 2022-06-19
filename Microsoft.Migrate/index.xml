@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Migrate/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Migrate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups-assessments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups-assessments/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/groups/assessments
+   Default Path Alias     properties.azureLocation Microsoft.Migrate/assessmentprojects/groups/assessments/azureLocation   properties.azureOfferCode Microsoft.Migrate/assessmentprojects/groups/assessments/azureOfferCode   properties.eaSubscriptionId Microsoft.Migrate/assessmentprojects/groups/assessments/eaSubscriptionId   properties.azurePricingTier Microsoft.Migrate/assessmentprojects/groups/assessments/azurePricingTier   properties.azureStorageRedundancy Microsoft.Migrate/assessmentprojects/groups/assessments/azureStorageRedundancy   properties.scalingFactor Microsoft.Migrate/assessmentprojects/groups/assessments/scalingFactor   properties.percentile Microsoft.Migrate/assessmentprojects/groups/assessments/percentile   properties.timeRange Microsoft.Migrate/assessmentprojects/groups/assessments/timeRange   properties.perfDataStartTime Microsoft.Migrate/assessmentprojects/groups/assessments/perfDataStartTime   properties.perfDataEndTime Microsoft.Migrate/assessmentprojects/groups/assessments/perfDataEndTime   properties.stage Microsoft.Migrate/assessmentprojects/groups/assessments/stage   properties.currency Microsoft.Migrate/assessmentprojects/groups/assessments/currency   properties.azureHybridUseBenefit Microsoft.Migrate/assessmentprojects/groups/assessments/azureHybridUseBenefit   properties.discountPercentage Microsoft.Migrate/assessmentprojects/groups/assessments/discountPercentage   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/groups
+   Default Path Alias     properties.groupStatus Microsoft.Migrate/assessmentprojects/groups/groupStatus   properties.machineCount Microsoft.Migrate/assessmentprojects/groups/machineCount   properties.assessments[*] Microsoft.Migrate/assessmentprojects/groups/assessments[*]   properties.assessments Microsoft.Migrate/assessmentprojects/groups/assessments   properties.areAssessmentsRunning Microsoft.Migrate/assessmentprojects/groups/areAssessmentsRunning   properties.createdTimestamp Microsoft.Migrate/assessmentprojects/groups/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentprojects/groups/updatedTimestamp   properties.groupType Microsoft.Migrate/assessmentProjects/groups/groupType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-hypervcollectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-hypervcollectors/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/hypervcollectors
+   Default Path Alias     properties.discoverySiteId Microsoft.Migrate/assessmentprojects/hypervcollectors/discoverySiteId   properties.createdTimestamp Microsoft.Migrate/assessmentprojects/hypervcollectors/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentprojects/hypervcollectors/updatedTimestamp   properties.agentProperties.id Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.id   properties.agentProperties.version Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.version   properties.agentProperties.lastHeartbeatUtc Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.lastHeartbeatUtc   properties.agentProperties.spnDetails.authority Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.authority   properties.agentProperties.spnDetails.applicationId Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.applicationId   properties.agentProperties.spnDetails.audience Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.audience   properties.agentProperties.spnDetails.objectId Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.objectId   properties.agentProperties.spnDetails.tenantId Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.tenantId   properties.agentProperties.spnDetails Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails   properties.agentProperties Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-importcollectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-importcollectors/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/importcollectors
+   Default Path Alias     properties.discoverySiteId Microsoft.Migrate/assessmentProjects/importcollectors/discoverySiteId   properties.createdTimestamp Microsoft.Migrate/assessmentProjects/importcollectors/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentProjects/importcollectors/updatedTimestamp    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.Migrate/assessmentprojects/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-servercollectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-servercollectors/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/servercollectors
+   Default Path Alias     properties.discoverySiteId Microsoft.Migrate/assessmentProjects/servercollectors/discoverySiteId   properties.createdTimestamp Microsoft.Migrate/assessmentProjects/servercollectors/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentProjects/servercollectors/updatedTimestamp   properties.agentProperties Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties   properties.agentProperties.id Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.id   properties.agentProperties.version Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.version   properties.agentProperties.lastHeartbeatUtc Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.lastHeartbeatUtc   properties.agentProperties.spnDetails Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails   properties.agentProperties.spnDetails.authority Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.authority   properties.agentProperties.spnDetails.applicationId Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.applicationId   properties.agentProperties.spnDetails.audience Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.audience   properties.agentProperties.spnDetails.objectId Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.objectId   properties.agentProperties.spnDetails.tenantId Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.tenantId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-vmwarecollectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-vmwarecollectors/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentprojects/vmwarecollectors
+   Default Path Alias     properties.discoverySiteId Microsoft.Migrate/assessmentprojects/vmwarecollectors/discoverySiteId   properties.createdTimestamp Microsoft.Migrate/assessmentprojects/vmwarecollectors/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentprojects/vmwarecollectors/updatedTimestamp   properties.agentProperties.id Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.id   properties.agentProperties.version Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.version   properties.agentProperties.lastHeartbeatUtc Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.lastHeartbeatUtc   properties.agentProperties.spnDetails.authority Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.authority   properties.agentProperties.spnDetails.applicationId Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.applicationId   properties.agentProperties.spnDetails.audience Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.audience   properties.agentProperties.spnDetails.objectId Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.objectId   properties.agentProperties.spnDetails.tenantId Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.tenantId   properties.agentProperties.spnDetails Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails   properties.agentProperties Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/assessmentProjects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/assessmentProjects/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/assessmentProjects
+   Default Path Alias     properties.createdTimestamp Microsoft.Migrate/assessmentProjects/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/assessmentProjects/updatedTimestamp   properties.serviceEndpoint Microsoft.Migrate/assessmentProjects/serviceEndpoint   properties.assessmentSolutionId Microsoft.Migrate/assessmentProjects/assessmentSolutionId   properties.projectStatus Microsoft.Migrate/assessmentProjects/projectStatus   properties.customerWorkspaceId Microsoft.Migrate/assessmentProjects/customerWorkspaceId   properties.customerWorkspaceLocation Microsoft.Migrate/assessmentProjects/customerWorkspaceLocation   properties.numberOfGroups Microsoft.Migrate/assessmentProjects/numberOfGroups   properties.numberOfMachines Microsoft.Migrate/assessmentProjects/numberOfMachines   properties.numberOfAssessments Microsoft.Migrate/assessmentProjects/numberOfAssessments   properties.lastAssessmentTimestamp Microsoft.Migrate/assessmentProjects/lastAssessmentTimestamp   properties.provisioningState Microsoft.Migrate/assessmentProjects/provisioningState   properties.publicNetworkAccess Microsoft.Migrate/assessmentProjects/publicNetworkAccess   properties.privateEndpointConnections Microsoft.Migrate/assessmentProjects/privateEndpointConnections   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/migrateprojects/privateEndpointConnections
+   Default Path Alias     properties.privateLinkServiceConnectionState Microsoft.Migrate/migrateProjects/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Migrate/migrateProjects/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Migrate/migrateProjects/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Migrate/migrateProjects/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-solutions/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/migrateprojects/solutions
+   Default Path Alias     properties.tool Microsoft.Migrate/migrateprojects/solutions/tool   properties.purpose Microsoft.Migrate/migrateprojects/solutions/purpose   properties.goal Microsoft.Migrate/migrateprojects/solutions/goal   properties.status Microsoft.Migrate/migrateprojects/solutions/status   properties.cleanupState Microsoft.Migrate/migrateprojects/solutions/cleanupState   properties.summary.instanceType Microsoft.Migrate/migrateprojects/solutions/summary.instanceType   properties.summary Microsoft.Migrate/migrateprojects/solutions/summary   properties.details.groupCount Microsoft.Migrate/migrateprojects/solutions/details.groupCount   properties.details.assessmentCount Microsoft.Migrate/migrateprojects/solutions/details.assessmentCount   properties.details.extendedDetails Microsoft.Migrate/migrateprojects/solutions/details.extendedDetails   properties.details Microsoft.Migrate/migrateprojects/solutions/details   properties.summary Microsoft.Migrate/migrateProjects/solutions/summary.Databases   properties.summary.databasesAssessedCount Microsoft.Migrate/migrateProjects/solutions/summary.Databases.databasesAssessedCount   properties.summary.databaseInstancesAssessedCount Microsoft.Migrate/migrateProjects/solutions/summary.Databases.databaseInstancesAssessedCount   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/migrateprojects
+   Default Path Alias     properties.registeredTools[*] Microsoft.Migrate/migrateprojects/registeredTools[*]   properties.registeredTools Microsoft.Migrate/migrateprojects/registeredTools   properties.lastSummaryRefreshedTime Microsoft.Migrate/migrateprojects/lastSummaryRefreshedTime   properties.refreshSummaryState Microsoft.Migrate/migrateprojects/refreshSummaryState   properties.provisioningState Microsoft.Migrate/migrateprojects/provisioningState   properties.summary Microsoft.Migrate/migrateProjects/summary   properties.serviceEndpoint Microsoft.Migrate/migrateProjects/serviceEndpoint   properties.utilityStorageAccountId Microsoft.Migrate/migrateProjects/utilityStorageAccountId   properties.publicNetworkAccess Microsoft.Migrate/migrateProjects/publicNetworkAccess   properties.privateEndpointConnections Microsoft.Migrate/migrateProjects/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.Migrate/migrateProjects/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections-moveResources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections-moveResources/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/moveCollections/moveResources
+   Default Path Alias     properties.provisioningState Microsoft.Migrate/moveCollections/moveResources/provisioningState   properties.sourceId Microsoft.Migrate/moveCollections/moveResources/sourceId   properties.targetId Microsoft.Migrate/moveCollections/moveResources/targetId   properties.existingTargetId Microsoft.Migrate/moveCollections/moveResources/existingTargetId   properties.resourceSettings Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses   properties.resourceSettings.domainNameLabel Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses.domainNameLabel   properties.resourceSettings.fqdn Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses.fqdn   properties.resourceSettings.publicIpAllocationMethod Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses.publicIpAllocationMethod   properties.resourceSettings.sku Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses.sku   properties.resourceSettings.zones Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-publicIPAddresses.zones   properties.resourceSettings.zoneRedundant Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Sql-servers-databases.zoneRedundant   properties.resourceSettings.frontendIPConfigurations Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-loadBalancers.frontendIPConfigurations   properties.resourceSettings.frontendIPConfigurations[*] Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-loadBalancers.frontendIPConfigurations[*]   properties.resourceSettings.frontendIPConfigurations[*].name Microsoft.Migrate/moveCollections/moveResources/resourceSettings.Microsoft-Network-loadBalancers.frontendIPConfigurations[*].name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/moveCollections
+   Default Path Alias     properties.sourceRegion Microsoft.Migrate/moveCollections/sourceRegion   properties.targetRegion Microsoft.Migrate/moveCollections/targetRegion   properties.provisioningState Microsoft.Migrate/moveCollections/provisioningState   properties.errors Microsoft.Migrate/moveCollections/errors   properties.errors.properties.code Microsoft.Migrate/moveCollections/errors.code   properties.errors.properties.message Microsoft.Migrate/moveCollections/errors.message   properties.errors.properties.target Microsoft.Migrate/moveCollections/errors.target   properties.errors.properties.details Microsoft.Migrate/moveCollections/errors.details   properties.errors.properties.details[*] Microsoft.Migrate/moveCollections/errors.details[*]   properties.errors.properties.details[*].code Microsoft.Migrate/moveCollections/errors.details[*].code   properties.errors.properties.details[*].message Microsoft.Migrate/moveCollections/errors.details[*].message   properties.errors.properties.details[*].target Microsoft.Migrate/moveCollections/errors.details[*].target   properties.errors.properties.details[*].details Microsoft.Migrate/moveCollections/errors.details[*].details   properties.errors.properties.details[*].details[*] Microsoft.Migrate/moveCollections/errors.details[*].details[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups-assessments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups-assessments/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/projects/groups/assessments
+   Default Path Alias     properties.azureLocation Microsoft.Migrate/projects/groups/assessments/azureLocation   properties.azureOfferCode Microsoft.Migrate/projects/groups/assessments/azureOfferCode   properties.azurePricingTier Microsoft.Migrate/projects/groups/assessments/azurePricingTier   properties.azureStorageRedundancy Microsoft.Migrate/projects/groups/assessments/azureStorageRedundancy   properties.scalingFactor Microsoft.Migrate/projects/groups/assessments/scalingFactor   properties.percentile Microsoft.Migrate/projects/groups/assessments/percentile   properties.timeRange Microsoft.Migrate/projects/groups/assessments/timeRange   properties.stage Microsoft.Migrate/projects/groups/assessments/stage   properties.currency Microsoft.Migrate/projects/groups/assessments/currency   properties.azureHybridUseBenefit Microsoft.Migrate/projects/groups/assessments/azureHybridUseBenefit   properties.discountPercentage Microsoft.Migrate/projects/groups/assessments/discountPercentage   properties.pricesTimestamp Microsoft.Migrate/projects/groups/assessments/pricesTimestamp   properties.createdTimestamp Microsoft.Migrate/projects/groups/assessments/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/projects/groups/assessments/updatedTimestamp   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/projects/groups
+   Default Path Alias     properties.machines[*] Microsoft.Migrate/projects/groups/machines[*]   properties.machines Microsoft.Migrate/projects/groups/machines   properties.assessments[*] Microsoft.Migrate/projects/groups/assessments[*]   properties.assessments Microsoft.Migrate/projects/groups/assessments   properties.createdTimestamp Microsoft.Migrate/projects/groups/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/projects/groups/updatedTimestamp    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects/</guid>
+      <description>Link to resource definition: Microsoft.Migrate/projects
+   Default Path Alias     properties.numberOfMachines Microsoft.Migrate/projects/numberOfMachines   properties.numberOfGroups Microsoft.Migrate/projects/numberOfGroups   properties.numberOfAssessments Microsoft.Migrate/projects/numberOfAssessments   properties.createdTimestamp Microsoft.Migrate/projects/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/projects/updatedTimestamp   properties.discoveryStatus Microsoft.Migrate/projects/discoveryStatus   properties.customerWorkspaceId Microsoft.Migrate/projects/customerWorkspaceId   properties.provisioningState Microsoft.Migrate/projects/provisioningState   properties.customerWorkspaceLocation Microsoft.Migrate/projects/customerWorkspaceLocation   properties.lastDiscoveryTimestamp Microsoft.Migrate/projects/lastDiscoveryTimestamp   properties.lastDiscoverySessionId Microsoft.Migrate/projects/lastDiscoverySessionId   properties.lastAssessmentTimestamp Microsoft.Migrate/projects/lastAssessmentTimestamp    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.StreamAnalytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-functions/</guid>
+      <description>Link to resource definition: Microsoft.StreamAnalytics/streamingjobs/functions
+   Default Path Alias     properties.type Microsoft.StreamAnalytics/streamingjobs/functions/type   properties.etag Microsoft.StreamAnalytics/streamingjobs/functions/etag   properties.properties.inputs Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.inputs   properties.properties.inputs Microsoft.StreamAnalytics/streamingjobs/functions/inputs   properties.properties.inputs[*] Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.inputs[*]   properties.properties.inputs[*] Microsoft.StreamAnalytics/streamingjobs/functions/inputs[*]   properties.properties.inputs[*].dataType Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.inputs[*].dataType   properties.properties.inputs[*].dataType Microsoft.StreamAnalytics/streamingjobs/functions/inputs[*].dataType   properties.properties.inputs[*].isConfigurationParameter Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.inputs[*].isConfigurationParameter   properties.properties.inputs[*].isConfigurationParameter Microsoft.StreamAnalytics/streamingjobs/functions/inputs[*].isConfigurationParameter   properties.properties.output Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.output   properties.properties.output Microsoft.StreamAnalytics/streamingjobs/functions/output   properties.properties.output.dataType Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.output.dataType   properties.properties.output.dataType Microsoft.StreamAnalytics/streamingjobs/functions/output.dataType   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-inputs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-inputs/</guid>
+      <description>Link to resource definition: Microsoft.StreamAnalytics/streamingjobs/inputs
+   Default Path Alias     properties.type Microsoft.StreamAnalytics/streamingjobs/inputs/type   properties.serialization.type Microsoft.StreamAnalytics/streamingjobs/inputs/serialization.type   properties.serialization Microsoft.StreamAnalytics/streamingjobs/inputs/serialization   properties.diagnostics.conditions[*].since Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics.conditions[*].since   properties.diagnostics.conditions[*].code Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics.conditions[*].code   properties.diagnostics.conditions[*].message Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics.conditions[*].message   properties.diagnostics.conditions[*] Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics.conditions[*]   properties.diagnostics.conditions Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics.conditions   properties.diagnostics Microsoft.StreamAnalytics/streamingjobs/inputs/diagnostics   properties.etag Microsoft.StreamAnalytics/streamingjobs/inputs/etag   properties.datasource Microsoft.StreamAnalytics/streamingjobs/inputs/Stream.datasource   properties.datasource.type Microsoft.StreamAnalytics/streamingjobs/inputs/Stream.datasource.type   properties.serialization Microsoft.StreamAnalytics/streamingjobs/inputs/serialization.Csv   properties.serialization Microsoft.StreamAnalytics/streamingjobs/inputs/serialization.Parquet   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-outputs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-outputs/</guid>
+      <description>Link to resource definition: Microsoft.StreamAnalytics/streamingjobs/outputs
+   Default Path Alias     properties.datasource.type Microsoft.StreamAnalytics/streamingjobs/outputs/datasource.type   properties.datasource Microsoft.StreamAnalytics/streamingjobs/outputs/datasource   properties.serialization.type Microsoft.StreamAnalytics/streamingjobs/outputs/serialization.type   properties.serialization Microsoft.StreamAnalytics/streamingjobs/outputs/serialization   properties.diagnostics.conditions[*].since Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics.conditions[*].since   properties.diagnostics.conditions[*].code Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics.conditions[*].code   properties.diagnostics.conditions[*].message Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics.conditions[*].message   properties.diagnostics.conditions[*] Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics.conditions[*]   properties.diagnostics.conditions Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics.conditions   properties.diagnostics Microsoft.StreamAnalytics/streamingjobs/outputs/diagnostics   properties.etag Microsoft.StreamAnalytics/streamingjobs/outputs/etag   properties.datasource Microsoft.StreamAnalytics/streamingjobs/outputs/datasource.Microsoft-Storage-Blob   properties.datasource.properties.storageAccounts Microsoft.StreamAnalytics/streamingjobs/outputs/datasource.Microsoft-Storage-Blob.storageAccounts   properties.datasource.properties.storageAccounts[*] Microsoft.StreamAnalytics/streamingjobs/outputs/datasource.Microsoft-Storage-Blob.storageAccounts[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-transformations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-transformations/</guid>
+      <description>Link to resource definition: Microsoft.StreamAnalytics/streamingjobs/transformations
+   Default Path Alias     properties.streamingUnits Microsoft.StreamAnalytics/streamingjobs/transformations/streamingUnits   properties.query Microsoft.StreamAnalytics/streamingjobs/transformations/query   properties.etag Microsoft.StreamAnalytics/streamingjobs/transformations/etag   properties.validStreamingUnits Microsoft.StreamAnalytics/streamingjobs/transformations/validStreamingUnits    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs/</guid>
+      <description>Link to resource definition: Microsoft.StreamAnalytics/streamingjobs
+   Default Path Alias     properties.sku.name Microsoft.StreamAnalytics/streamingjobs/sku.name   properties.sku Microsoft.StreamAnalytics/streamingjobs/sku   properties.jobId Microsoft.StreamAnalytics/streamingjobs/jobId   properties.provisioningState Microsoft.StreamAnalytics/streamingjobs/provisioningState   properties.jobState Microsoft.StreamAnalytics/streamingjobs/jobState   properties.outputStartMode Microsoft.StreamAnalytics/streamingjobs/outputStartMode   properties.outputStartTime Microsoft.StreamAnalytics/streamingjobs/outputStartTime   properties.lastOutputEventTime Microsoft.StreamAnalytics/streamingjobs/lastOutputEventTime   properties.eventsOutOfOrderPolicy Microsoft.StreamAnalytics/streamingjobs/eventsOutOfOrderPolicy   properties.outputErrorPolicy Microsoft.StreamAnalytics/streamingjobs/outputErrorPolicy   properties.eventsOutOfOrderMaxDelayInSeconds Microsoft.StreamAnalytics/streamingjobs/eventsOutOfOrderMaxDelayInSeconds   properties.eventsLateArrivalMaxDelayInSeconds Microsoft.StreamAnalytics/streamingjobs/eventsLateArrivalMaxDelayInSeconds   properties.dataLocale Microsoft.StreamAnalytics/streamingjobs/dataLocale   properties.compatibilityLevel Microsoft.StreamAnalytics/streamingjobs/compatibilityLevel   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

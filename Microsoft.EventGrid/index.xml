@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.EventGrid/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.EventGrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/domains-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/domains-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/domains/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.EventGrid/domains/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.EventGrid/domains/privateEndpointConnections/privateEndpoint   properties.groupIds[*] Microsoft.EventGrid/domains/privateEndpointConnections/groupIds[*]   properties.groupIds Microsoft.EventGrid/domains/privateEndpointConnections/groupIds   properties.privateLinkServiceConnectionState.status Microsoft.EventGrid/domains/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.EventGrid/domains/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.EventGrid/domains/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.EventGrid/domains/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.EventGrid/domains/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/domains-topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/domains-topics/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/domains/topics
+   Default Path Alias     properties.provisioningState Microsoft.EventGrid/domains/topics/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/domains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/domains/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/domains
+   Default Path Alias     properties.provisioningState Microsoft.EventGrid/domains/provisioningState   properties.endpoint Microsoft.EventGrid/domains/endpoint   properties.inputSchema Microsoft.EventGrid/domains/inputSchema   properties.inputSchemaMapping.inputSchemaMappingType Microsoft.EventGrid/domains/inputSchemaMapping.inputSchemaMappingType   properties.inputSchemaMapping Microsoft.EventGrid/domains/inputSchemaMapping   properties.metricResourceId Microsoft.EventGrid/domains/metricResourceId   properties.privateEndpointConnections[*].id Microsoft.EventGrid/domains/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.EventGrid/domains/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.EventGrid/domains/privateEndpointConnections[*].type   properties.privateEndpointConnections[*] Microsoft.EventGrid/domains/privateEndpointConnections[*]   properties.privateEndpointConnections Microsoft.EventGrid/domains/privateEndpointConnections   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.EventGrid/domains/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.EventGrid/domains/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.groupIds[*] Microsoft.EventGrid/domains/privateEndpointConnections[*].groupIds[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/eventSubscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/eventSubscriptions/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/eventSubscriptions
+   Default Path Alias     properties.topic Microsoft.EventGrid/eventSubscriptions/topic   properties.provisioningState Microsoft.EventGrid/eventSubscriptions/provisioningState   properties.destination.endpointType Microsoft.EventGrid/eventSubscriptions/destination.endpointType   properties.destination.properties.endpointUrl Microsoft.EventGrid/eventSubscriptions/destination.endpointUrl   properties.destination.properties.endpointBaseUrl Microsoft.EventGrid/eventSubscriptions/destination.endpointBaseUrl   properties.destination Microsoft.EventGrid/eventSubscriptions/destination   properties.filter.subjectBeginsWith Microsoft.EventGrid/eventSubscriptions/filter.subjectBeginsWith   properties.filter.subjectEndsWith Microsoft.EventGrid/eventSubscriptions/filter.subjectEndsWith   properties.filter.includedEventTypes[*] Microsoft.EventGrid/eventSubscriptions/filter.includedEventTypes[*]   properties.filter.includedEventTypes Microsoft.EventGrid/eventSubscriptions/filter.includedEventTypes   properties.filter.isSubjectCaseSensitive Microsoft.EventGrid/eventSubscriptions/filter.isSubjectCaseSensitive   properties.filter Microsoft.EventGrid/eventSubscriptions/filter   properties.labels[*] Microsoft.EventGrid/eventSubscriptions/labels[*]   properties.labels Microsoft.EventGrid/eventSubscriptions/labels   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-eventChannels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-eventChannels/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/partnerNamespaces/eventChannels
+   Default Path Alias     properties.source Microsoft.EventGrid/partnerNamespaces/eventChannels/source   properties.destination.azureSubscriptionId Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.azureSubscriptionId   properties.destination.resourceGroup Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.resourceGroup   properties.destination.partnerTopicName Microsoft.EventGrid/partnerNamespaces/eventChannels/destination.partnerTopicName   properties.destination Microsoft.EventGrid/partnerNamespaces/eventChannels/destination   properties.provisioningState Microsoft.EventGrid/partnerNamespaces/eventChannels/provisioningState   properties.partnerTopicReadinessState Microsoft.EventGrid/partnerNamespaces/eventChannels/partnerTopicReadinessState   properties.expirationTimeIfNotActivatedUtc Microsoft.EventGrid/partnerNamespaces/eventChannels/expirationTimeIfNotActivatedUtc   properties.filter.advancedFilters[*].operatorType Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].operatorType   properties.filter.advancedFilters[*].key Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].key   properties.filter.advancedFilters[*] Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*]   properties.filter.advancedFilters Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters   properties.filter Microsoft.EventGrid/partnerNamespaces/eventChannels/filter   properties.partnerTopicFriendlyDescription Microsoft.EventGrid/partnerNamespaces/eventChannels/partnerTopicFriendlyDescription   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/partnerNamespaces
+   Default Path Alias     properties.provisioningState Microsoft.EventGrid/partnerNamespaces/provisioningState   properties.partnerRegistrationFullyQualifiedId Microsoft.EventGrid/partnerNamespaces/partnerRegistrationFullyQualifiedId   properties.endpoint Microsoft.EventGrid/partnerNamespaces/endpoint   properties.privateEndpointConnections Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.groupIds Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].groupIds   properties.privateEndpointConnections[*].properties.groupIds[*] Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].groupIds[*]   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/partnerRegistrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/partnerRegistrations/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/partnerRegistrations
+   Default Path Alias     properties.provisioningState Microsoft.EventGrid/partnerRegistrations/provisioningState   properties.partnerName Microsoft.EventGrid/partnerRegistrations/partnerName   properties.partnerResourceTypeName Microsoft.EventGrid/partnerRegistrations/partnerResourceTypeName   properties.partnerResourceTypeDisplayName Microsoft.EventGrid/partnerRegistrations/partnerResourceTypeDisplayName   properties.partnerResourceTypeDescription Microsoft.EventGrid/partnerRegistrations/partnerResourceTypeDescription   properties.longDescription Microsoft.EventGrid/partnerRegistrations/longDescription   properties.partnerCustomerServiceNumber Microsoft.EventGrid/partnerRegistrations/partnerCustomerServiceNumber   properties.partnerCustomerServiceExtension Microsoft.EventGrid/partnerRegistrations/partnerCustomerServiceExtension   properties.customerServiceUri Microsoft.EventGrid/partnerRegistrations/customerServiceUri   properties.setupUri Microsoft.EventGrid/partnerRegistrations/setupUri   properties.logoUri Microsoft.EventGrid/partnerRegistrations/logoUri   properties.visibilityState Microsoft.EventGrid/partnerRegistrations/visibilityState   properties.authorizedAzureSubscriptionIds[*] Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds[*]   properties.authorizedAzureSubscriptionIds Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics-eventSubscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics-eventSubscriptions/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/partnerTopics/eventSubscriptions
+   Default Path Alias     properties.topic Microsoft.EventGrid/partnerTopics/eventSubscriptions/topic   properties.provisioningState Microsoft.EventGrid/partnerTopics/eventSubscriptions/provisioningState   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.AzureFunction   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.ServiceBusTopic   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.ServiceBusQueue   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.HybridConnection   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.StorageQueue   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.EventHub   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.WebHook   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination   properties.destination.properties.resourceId Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.AzureFunction.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.ServiceBusTopic.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.ServiceBusQueue.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/partnerTopics/eventSubscriptions/destination.HybridConnection.resourceId   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/partnerTopics
+   Default Path Alias     properties.topic Microsoft.EventGrid/partnerTopics/eventSubscriptions.topic   properties.provisioningState Microsoft.EventGrid/partnerTopics/eventSubscriptions.provisioningState   properties.destination.endpointType Microsoft.EventGrid/partnerTopics/eventSubscriptions.destination.endpointType   properties.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions.destination   properties.deliveryWithResourceIdentity.identity.type Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity.identity.type   properties.deliveryWithResourceIdentity.identity.userAssignedIdentity Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity.identity.userAssignedIdentity   properties.deliveryWithResourceIdentity.identity Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity.identity   properties.deliveryWithResourceIdentity.destination.endpointType Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity.destination.endpointType   properties.deliveryWithResourceIdentity.destination Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity.destination   properties.deliveryWithResourceIdentity Microsoft.EventGrid/partnerTopics/eventSubscriptions.deliveryWithResourceIdentity   properties.filter.subjectBeginsWith Microsoft.EventGrid/partnerTopics/eventSubscriptions.filter.subjectBeginsWith   properties.filter.subjectEndsWith Microsoft.EventGrid/partnerTopics/eventSubscriptions.filter.subjectEndsWith   properties.filter.includedEventTypes[*] Microsoft.EventGrid/partnerTopics/eventSubscriptions.filter.includedEventTypes[*]   properties.filter.includedEventTypes Microsoft.EventGrid/partnerTopics/eventSubscriptions.filter.includedEventTypes   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics-eventSubscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics-eventSubscriptions/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/systemTopics/eventSubscriptions
+   Default Path Alias     properties.topic Microsoft.EventGrid/systemTopics/eventSubscriptions/topic   properties.provisioningState Microsoft.EventGrid/systemTopics/eventSubscriptions/provisioningState   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.AzureFunction   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.ServiceBusTopic   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.ServiceBusQueue   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.HybridConnection   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.StorageQueue   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.EventHub   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.WebHook   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions/destination   properties.destination.properties.resourceId Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.AzureFunction.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.ServiceBusTopic.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.ServiceBusQueue.resourceId   properties.destination.properties.resourceId Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.HybridConnection.resourceId   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/systemTopics
+   Default Path Alias     properties.topic Microsoft.EventGrid/systemTopics/eventSubscriptions.topic   properties.provisioningState Microsoft.EventGrid/systemTopics/eventSubscriptions.provisioningState   properties.destination.endpointType Microsoft.EventGrid/systemTopics/eventSubscriptions.destination.endpointType   properties.destination Microsoft.EventGrid/systemTopics/eventSubscriptions.destination   properties.deliveryWithResourceIdentity.identity.type Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity.identity.type   properties.deliveryWithResourceIdentity.identity.userAssignedIdentity Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity.identity.userAssignedIdentity   properties.deliveryWithResourceIdentity.identity Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity.identity   properties.deliveryWithResourceIdentity.destination.endpointType Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity.destination.endpointType   properties.deliveryWithResourceIdentity.destination Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity.destination   properties.deliveryWithResourceIdentity Microsoft.EventGrid/systemTopics/eventSubscriptions.deliveryWithResourceIdentity   properties.filter.subjectBeginsWith Microsoft.EventGrid/systemTopics/eventSubscriptions.filter.subjectBeginsWith   properties.filter.subjectEndsWith Microsoft.EventGrid/systemTopics/eventSubscriptions.filter.subjectEndsWith   properties.filter.includedEventTypes[*] Microsoft.EventGrid/systemTopics/eventSubscriptions.filter.includedEventTypes[*]   properties.filter.includedEventTypes Microsoft.EventGrid/systemTopics/eventSubscriptions.filter.includedEventTypes   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/topics-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/topics-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/topics/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.EventGrid/topics/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.EventGrid/topics/privateEndpointConnections/privateEndpoint   properties.groupIds[*] Microsoft.EventGrid/topics/privateEndpointConnections/groupIds[*]   properties.groupIds Microsoft.EventGrid/topics/privateEndpointConnections/groupIds   properties.privateLinkServiceConnectionState.status Microsoft.EventGrid/topics/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.EventGrid/topics/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.EventGrid/topics/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.EventGrid/topics/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.EventGrid/topics/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventGrid/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventGrid/topics/</guid>
+      <description>Link to resource definition: Microsoft.EventGrid/topics
+   Default Path Alias     properties.provisioningState Microsoft.EventGrid/topics/provisioningState   properties.endpoint Microsoft.EventGrid/topics/endpoint   properties.inputSchema Microsoft.EventGrid/topics/inputSchema   properties.inputSchemaMapping.inputSchemaMappingType Microsoft.EventGrid/topics/inputSchemaMapping.inputSchemaMappingType   properties.inputSchemaMapping Microsoft.EventGrid/topics/inputSchemaMapping   properties.metricResourceId Microsoft.EventGrid/topics/metricResourceId   properties.privateEndpointConnections[*].id Microsoft.EventGrid/topics/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.EventGrid/topics/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.EventGrid/topics/privateEndpointConnections[*].type   properties.privateEndpointConnections[*] Microsoft.EventGrid/topics/privateEndpointConnections[*]   properties.privateEndpointConnections Microsoft.EventGrid/topics/privateEndpointConnections   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.EventGrid/topics/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.EventGrid/topics/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.groupIds[*] Microsoft.EventGrid/topics/privateEndpointConnections[*].groupIds[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

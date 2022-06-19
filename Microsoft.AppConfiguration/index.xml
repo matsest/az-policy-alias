@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.AppConfiguration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-keyValues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-keyValues/</guid>
+      <description>Link to resource definition: Microsoft.AppConfiguration/configurationStores/keyValues
+   Default Path Alias     properties.key Microsoft.AppConfiguration/configurationStores/keyValues/key   properties.label Microsoft.AppConfiguration/configurationStores/keyValues/label   properties.value Microsoft.AppConfiguration/configurationStores/keyValues/value   properties.contentType Microsoft.AppConfiguration/configurationStores/keyValues/contentType   properties.eTag Microsoft.AppConfiguration/configurationStores/keyValues/eTag   properties.lastModified Microsoft.AppConfiguration/configurationStores/keyValues/lastModified   properties.locked Microsoft.AppConfiguration/configurationStores/keyValues/locked   properties.tags Microsoft.AppConfiguration/configurationStores/keyValues/tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.AppConfiguration/configurationStores/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/provisioningState   properties.privateEndpoint.id Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</guid>
+      <description>Link to resource definition: Microsoft.AppConfiguration/configurationStores
+   Default Path Alias     properties.provisioningState Microsoft.AppConfiguration/configurationStores/provisioningState   properties.creationDate Microsoft.AppConfiguration/configurationStores/creationDate   properties.endpoint Microsoft.AppConfiguration/configurationStores/endpoint   sku.name Microsoft.AppConfiguration/configurationStores/sku.name   sku Microsoft.AppConfiguration/configurationStores/sku   properties.encryption.keyVaultProperties.keyIdentifier Microsoft.AppConfiguration/configurationStores/encryption.keyVaultProperties.keyIdentifier   properties.encryption.keyVaultProperties.identityClientId Microsoft.AppConfiguration/configurationStores/encryption.keyVaultProperties.identityClientId   properties.encryption.keyVaultProperties Microsoft.AppConfiguration/configurationStores/encryption.keyVaultProperties   properties.encryption Microsoft.AppConfiguration/configurationStores/encryption   properties.privateEndpointConnections[*] Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.provisioningState Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*].provisioningState   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

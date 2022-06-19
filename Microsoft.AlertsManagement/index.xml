@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.AlertsManagement/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.AlertsManagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</guid>
+      <description>Link to resource definition: Microsoft.AlertsManagement/actionRules
+   Default Path Alias     properties.scope.type Microsoft.AlertsManagement/actionRules/scope.type   properties.scope.values[*] Microsoft.AlertsManagement/actionRules/scope.values[*]   properties.scope.values Microsoft.AlertsManagement/actionRules/scope.values   properties.scope Microsoft.AlertsManagement/actionRules/scope   properties.conditions.severity.operator Microsoft.AlertsManagement/actionRules/conditions.severity.operator   properties.conditions.severity.values[*] Microsoft.AlertsManagement/actionRules/conditions.severity.values[*]   properties.conditions.severity.values Microsoft.AlertsManagement/actionRules/conditions.severity.values   properties.conditions.severity Microsoft.AlertsManagement/actionRules/conditions.severity   properties.conditions.monitorService.operator Microsoft.AlertsManagement/actionRules/conditions.monitorService.operator   properties.conditions.monitorService.values[*] Microsoft.AlertsManagement/actionRules/conditions.monitorService.values[*]   properties.conditions.monitorService.values Microsoft.AlertsManagement/actionRules/conditions.monitorService.values   properties.conditions.monitorService Microsoft.AlertsManagement/actionRules/conditions.monitorService   properties.conditions.monitorCondition.operator Microsoft.AlertsManagement/actionRules/conditions.monitorCondition.operator   properties.conditions.monitorCondition.values[*] Microsoft.AlertsManagement/actionRules/conditions.monitorCondition.values[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AlertsManagement/smartDetectorAlertRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AlertsManagement/smartDetectorAlertRules/</guid>
+      <description>Link to resource definition: Microsoft.AlertsManagement/smartDetectorAlertRules
+   Default Path Alias     properties.description Microsoft.AlertsManagement/smartDetectorAlertRules/description   properties.state Microsoft.AlertsManagement/smartDetectorAlertRules/state   properties.severity Microsoft.AlertsManagement/smartDetectorAlertRules/severity   properties.frequency Microsoft.AlertsManagement/smartDetectorAlertRules/frequency   properties.detector.id Microsoft.AlertsManagement/smartDetectorAlertRules/detector.id   properties.detector.parameters Microsoft.AlertsManagement/smartDetectorAlertRules/detector.parameters   properties.detector.name Microsoft.AlertsManagement/smartDetectorAlertRules/detector.name   properties.detector.description Microsoft.AlertsManagement/smartDetectorAlertRules/detector.description   properties.detector.supportedResourceTypes[*] Microsoft.AlertsManagement/smartDetectorAlertRules/detector.supportedResourceTypes[*]   properties.detector.supportedResourceTypes Microsoft.AlertsManagement/smartDetectorAlertRules/detector.supportedResourceTypes   properties.detector.imagePaths[*] Microsoft.AlertsManagement/smartDetectorAlertRules/detector.imagePaths[*]   properties.detector.imagePaths Microsoft.AlertsManagement/smartDetectorAlertRules/detector.imagePaths   properties.detector Microsoft.AlertsManagement/smartDetectorAlertRules/detector   properties.scope[*] Microsoft.AlertsManagement/smartDetectorAlertRules/scope[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

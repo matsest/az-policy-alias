@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DBforMariaDB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-configurations/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/configurations
+   Default Path Alias     properties.description Microsoft.DBforMariaDB/servers/configurations/description   properties.defaultValue Microsoft.DBforMariaDB/servers/configurations/defaultValue   properties.dataType Microsoft.DBforMariaDB/servers/configurations/dataType   properties.allowedValues Microsoft.DBforMariaDB/servers/configurations/allowedValues   properties.source Microsoft.DBforMariaDB/servers/configurations/source   properties.value Microsoft.DBforMariaDB/servers/configurations/value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-databases/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/databases
+   Default Path Alias     properties.charset Microsoft.DBforMariaDB/servers/databases/charset   properties.collation Microsoft.DBforMariaDB/servers/databases/collation    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-firewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-firewallRules/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/firewallRules
+   Default Path Alias     properties.startIpAddress Microsoft.DBforMariaDB/servers/firewallRules/startIpAddress   properties.endIpAddress Microsoft.DBforMariaDB/servers/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-keys/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/keys
+   Default Path Alias     properties.serverKeyType Microsoft.DBforMariaDB/servers/keys/serverKeyType   properties.uri Microsoft.DBforMariaDB/servers/keys/uri   properties.creationDate Microsoft.DBforMariaDB/servers/keys/creationDate    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.DBforMariaDB/servers/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-securityAlertPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-securityAlertPolicies/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/securityAlertPolicies
+   Default Path Alias     properties.state Microsoft.DBforMariaDB/servers/securityAlertPolicies/state   properties.disabledAlerts[*] Microsoft.DBforMariaDB/servers/securityAlertPolicies/disabledAlerts[*]   properties.disabledAlerts Microsoft.DBforMariaDB/servers/securityAlertPolicies/disabledAlerts   properties.emailAddresses[*] Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAddresses[*]   properties.emailAddresses Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAddresses   properties.emailAccountAdmins Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAccountAdmins   properties.storageEndpoint Microsoft.DBforMariaDB/servers/securityAlertPolicies/storageEndpoint   properties.storageAccountAccessKey Microsoft.DBforMariaDB/servers/securityAlertPolicies/storageAccountAccessKey   properties.retentionDays Microsoft.DBforMariaDB/servers/securityAlertPolicies/retentionDays   properties.state Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.state   properties.disabledAlerts[*] Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.disabledAlerts[*]   properties.disabledAlerts Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.disabledAlerts   properties.emailAddresses[*] Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.emailAddresses[*]   properties.emailAddresses Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.emailAddresses   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-virtualNetworkRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-virtualNetworkRules/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers/virtualNetworkRules
+   Default Path Alias     properties.virtualNetworkSubnetId Microsoft.DBforMariaDB/servers/virtualNetworkRules/virtualNetworkSubnetId   properties.ignoreMissingVnetServiceEndpoint Microsoft.DBforMariaDB/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint   properties.state Microsoft.DBforMariaDB/servers/virtualNetworkRules/state    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers/</guid>
+      <description>Link to resource definition: Microsoft.DBforMariaDB/servers
+   Default Path Alias     sku.name Microsoft.DBforMariaDB/servers/sku.name   sku.tier Microsoft.DBforMariaDB/servers/sku.tier   sku.capacity Microsoft.DBforMariaDB/servers/sku.capacity   sku.size Microsoft.DBforMariaDB/servers/sku.size   sku.family Microsoft.DBforMariaDB/servers/sku.family   sku Microsoft.DBforMariaDB/servers/sku   properties.version Microsoft.DBforMariaDB/servers/version   properties.sslEnforcement Microsoft.DBforMariaDB/servers/sslEnforcement   properties.storageProfile.backupRetentionDays Microsoft.DBforMariaDB/servers/storageProfile.backupRetentionDays   properties.storageProfile.geoRedundantBackup Microsoft.DBforMariaDB/servers/storageProfile.geoRedundantBackup   properties.storageProfile.storageMB Microsoft.DBforMariaDB/servers/storageProfile.storageMB   properties.storageProfile Microsoft.DBforMariaDB/servers/storageProfile   properties.storageProfile.storageAutogrow Microsoft.DBforMariaDB/servers/storageProfile.storageAutogrow   properties.publicNetworkAccess Microsoft.DBforMariaDB/servers/publicNetworkAccess   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

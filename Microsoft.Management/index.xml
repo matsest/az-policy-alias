@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Management/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Management/managementGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Management/managementGroups/</guid>
+      <description>Link to resource definition: Microsoft.Management/managementGroups
+   Default Path Alias     properties.tenantId Microsoft.Management/managementGroups/tenantId   properties.displayName Microsoft.Management/managementGroups/displayName   properties.details.version Microsoft.Management/managementGroups/details.version   properties.details.updatedTime Microsoft.Management/managementGroups/details.updatedTime   properties.details.updatedBy Microsoft.Management/managementGroups/details.updatedBy   properties.details.parent.parentId Microsoft.Management/managementGroups/details.parent.parentId   properties.details.parent.displayName Microsoft.Management/managementGroups/details.parent.displayName   properties.details.parent Microsoft.Management/managementGroups/details.parent   properties.details Microsoft.Management/managementGroups/details   properties.children[*].childType Microsoft.Management/managementGroups/children[*].childType   properties.children[*].childId Microsoft.Management/managementGroups/children[*].childId   properties.children[*].displayName Microsoft.Management/managementGroups/children[*].displayName   properties.children[*] Microsoft.Management/managementGroups/children[*]   properties.children Microsoft.Management/managementGroups/children   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

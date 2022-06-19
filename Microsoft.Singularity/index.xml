@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Singularity/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Singularity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Singularity/accounts-accountQuotaPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Singularity/accounts-accountQuotaPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Singularity/accounts/accountQuotaPolicies
+   Default Path Alias     properties.provisioningState Microsoft.Singularity/accounts/accountQuotaPolicies/provisioningState   properties.status Microsoft.Singularity/accounts/accountQuotaPolicies/status   properties.description Microsoft.Singularity/accounts/accountQuotaPolicies/description   properties.quotas Microsoft.Singularity/accounts/accountQuotaPolicies/quotas   properties.quotas[*] Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*]   properties.quotas[*].id Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].id   properties.quotas[*].name Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].name   properties.quotas[*].limit Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].limit   properties.quotas[*].used Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].used   properties.quotas[*].slaTier Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].slaTier    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Singularity/accounts-groupPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Singularity/accounts-groupPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Singularity/accounts/groupPolicies
+   Default Path Alias     properties.provisioningState Microsoft.Singularity/accounts/groupPolicies/provisioningState   properties.status Microsoft.Singularity/accounts/groupPolicies/status   properties.description Microsoft.Singularity/accounts/groupPolicies/description   properties.quotas Microsoft.Singularity/accounts/groupPolicies/quotas   properties.quotas[*] Microsoft.Singularity/accounts/groupPolicies/quotas[*]   properties.quotas[*].id Microsoft.Singularity/accounts/groupPolicies/quotas[*].id   properties.quotas[*].name Microsoft.Singularity/accounts/groupPolicies/quotas[*].name   properties.quotas[*].limit Microsoft.Singularity/accounts/groupPolicies/quotas[*].limit   properties.quotas[*].used Microsoft.Singularity/accounts/groupPolicies/quotas[*].used   properties.maxSharedStorageIOPs Microsoft.Singularity/accounts/groupPolicies/maxSharedStorageIOPs   properties.maxSharedStorageBandwidth Microsoft.Singularity/accounts/groupPolicies/maxSharedStorageBandwidth   properties.quotas[*].slaTier Microsoft.Singularity/accounts/groupPolicies/quotas[*].slaTier    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Singularity/accounts-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Singularity/accounts-jobs/</guid>
+      <description>Link to resource definition: Microsoft.Singularity/accounts/jobs
+   Default Path Alias     properties.provisioningState Microsoft.Singularity/accounts/jobs/provisioningState   properties.jobId Microsoft.Singularity/accounts/jobs/jobId   properties.placementPolicies Microsoft.Singularity/accounts/jobs/placementPolicies   properties.placementPolicies[*] Microsoft.Singularity/accounts/jobs/placementPolicies[*]   properties.placementPolicies[*].instanceTypes Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes   properties.placementPolicies[*].instanceTypes[*] Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*]   properties.placementPolicies[*].instanceTypes[*].instanceType Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].instanceType   properties.placementPolicies[*].instanceTypes[*].scalePolicy Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy   properties.placementPolicies[*].instanceTypes[*].scalePolicy.minInstanceTypeCount Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.minInstanceTypeCount   properties.placementPolicies[*].instanceTypes[*].scalePolicy.maxInstanceTypeCount Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.maxInstanceTypeCount   properties.placementPolicies[*].instanceTypes[*].scalePolicy.currentInstanceTypeCount Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.currentInstanceTypeCount   properties.placementPolicies[*].instanceTypes[*].scalePolicy.instanceTypeCountSet Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.instanceTypeCountSet   properties.placementPolicies[*].instanceTypes[*].scalePolicy.instanceTypeCountSet[*] Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.instanceTypeCountSet[*]   properties.placementPolicies[*].instanceTypes[*].scalePolicy.autoScaleIntervalInSecondsHint Microsoft.Singularity/accounts/jobs/placementPolicies[*].instanceTypes[*].scalePolicy.autoScaleIntervalInSecondsHint   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Singularity/accounts-storageContainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Singularity/accounts-storageContainers/</guid>
+      <description>Link to resource definition: Microsoft.Singularity/accounts/storageContainers
+   Default Path Alias     properties.provisioningState Microsoft.Singularity/accounts/storagecontainers/provisioningState   properties.description Microsoft.Singularity/accounts/storagecontainers/description   properties.tier Microsoft.Singularity/accounts/storagecontainers/tier   properties.consumedStorageInGB Microsoft.Singularity/accounts/storagecontainers/consumedStorageInGB   properties.status Microsoft.Singularity/accounts/storagecontainers/status   properties.statusDetails Microsoft.Singularity/accounts/storagecontainers/statusDetails   properties.sizeInGB Microsoft.Singularity/accounts/storagecontainers/sizeInGB   properties.location Microsoft.Singularity/accounts/storagecontainers/location   properties.path Microsoft.Singularity/accounts/storagecontainers/ADLS.path   properties.tenantId Microsoft.Singularity/accounts/storagecontainers/ADLS.tenantId   properties.clientId Microsoft.Singularity/accounts/storagecontainers/ADLS.clientId   properties.clientSecret Microsoft.Singularity/accounts/storagecontainers/ADLS.clientSecret   properties.mountOptions Microsoft.Singularity/accounts/storagecontainers/ADLS.mountOptions   properties.mountOptions Microsoft.Singularity/accounts/storagecontainers/Blob.mountOptions.Fuse   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Singularity/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Singularity/accounts/</guid>
+      <description>Link to resource definition: Microsoft.Singularity/accounts
+   Default Path Alias     properties.provisioningState Microsoft.Singularity/accounts/provisioningState   properties.description Microsoft.Singularity/accounts/description   properties.status Microsoft.Singularity/accounts/status   properties.idleResourcesHandlingPolicy Microsoft.Singularity/accounts/idleResourcesHandlingPolicy   properties.idleResourcesHandlingPolicy.idleResourcesHandlingMode Microsoft.Singularity/accounts/idleResourcesHandlingPolicy.idleResourcesHandlingMode   properties.statusDetails Microsoft.Singularity/accounts/statusDetails   properties.locations Microsoft.Singularity/accounts/locations   properties.locations[*] Microsoft.Singularity/accounts/locations[*]   properties.locations[*].name Microsoft.Singularity/accounts/locations[*].name   properties.locations[*].failoverPriority Microsoft.Singularity/accounts/locations[*].failoverPriority   properties.locations[*].isZoneRedundant Microsoft.Singularity/accounts/locations[*].isZoneRedundant   properties.networkSettings Microsoft.Singularity/accounts/networkSettings   properties.networkSettings.subnetId Microsoft.Singularity/accounts/networkSettings.subnetId    </description>
+    </item>
+    
+  </channel>
+</rss>

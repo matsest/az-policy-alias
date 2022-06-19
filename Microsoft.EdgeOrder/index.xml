@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.EdgeOrder/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.EdgeOrder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EdgeOrder/addresses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EdgeOrder/addresses/</guid>
+      <description>Link to resource definition: Microsoft.EdgeOrder/addresses
+   Default Path Alias     properties.shippingAddress Microsoft.EdgeOrder/addresses/shippingAddress   properties.shippingAddress.streetAddress1 Microsoft.EdgeOrder/addresses/shippingAddress.streetAddress1   properties.shippingAddress.streetAddress2 Microsoft.EdgeOrder/addresses/shippingAddress.streetAddress2   properties.shippingAddress.streetAddress3 Microsoft.EdgeOrder/addresses/shippingAddress.streetAddress3   properties.shippingAddress.city Microsoft.EdgeOrder/addresses/shippingAddress.city   properties.shippingAddress.stateOrProvince Microsoft.EdgeOrder/addresses/shippingAddress.stateOrProvince   properties.shippingAddress.country Microsoft.EdgeOrder/addresses/shippingAddress.country   properties.shippingAddress.postalCode Microsoft.EdgeOrder/addresses/shippingAddress.postalCode   properties.shippingAddress.zipExtendedCode Microsoft.EdgeOrder/addresses/shippingAddress.zipExtendedCode   properties.shippingAddress.companyName Microsoft.EdgeOrder/addresses/shippingAddress.companyName   properties.shippingAddress.addressType Microsoft.EdgeOrder/addresses/shippingAddress.addressType   properties.contactDetails Microsoft.EdgeOrder/addresses/contactDetails   properties.contactDetails.contactName Microsoft.EdgeOrder/addresses/contactDetails.contactName   properties.contactDetails.phone Microsoft.EdgeOrder/addresses/contactDetails.phone   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EdgeOrder/orderItems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EdgeOrder/orderItems/</guid>
+      <description>Link to resource definition: Microsoft.EdgeOrder/orderItems
+   Default Path Alias     properties.orderItemDetails Microsoft.EdgeOrder/orderItems/orderItemDetails   properties.orderItemDetails.productDetails Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails   properties.orderItemDetails.productDetails.hierarchyInformation Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.hierarchyInformation   properties.orderItemDetails.productDetails.hierarchyInformation.productFamilyName Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.hierarchyInformation.productFamilyName   properties.orderItemDetails.productDetails.hierarchyInformation.productLineName Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.hierarchyInformation.productLineName   properties.orderItemDetails.productDetails.hierarchyInformation.productName Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.hierarchyInformation.productName   properties.orderItemDetails.productDetails.hierarchyInformation.configurationName Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.hierarchyInformation.configurationName   properties.orderItemDetails.productDetails.count Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.count   properties.orderItemDetails.productDetails.deviceDetails Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails   properties.orderItemDetails.productDetails.deviceDetails[*] Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*]   properties.orderItemDetails.productDetails.deviceDetails[*].serialNumber Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].serialNumber   properties.orderItemDetails.productDetails.deviceDetails[*].deviceHistory Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].deviceHistory   properties.orderItemDetails.productDetails.deviceDetails[*].deviceHistory[*] Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].deviceHistory[*]   properties.orderItemDetails.orderItemType Microsoft.EdgeOrder/orderItems/orderItemDetails.orderItemType   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

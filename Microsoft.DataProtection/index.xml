@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataProtection/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataProtection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupInstances/</guid>
+      <description>Link to resource definition: Microsoft.DataProtection/backupVaults/backupInstances
+   Default Path Alias     properties.friendlyName Microsoft.DataProtection/backupVaults/backupInstances/friendlyName   properties.dataSourceInfo Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo   properties.dataSourceInfo.datasourceType Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.datasourceType   properties.dataSourceInfo.objectType Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.objectType   properties.dataSourceInfo.resourceID Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceID   properties.dataSourceInfo.resourceLocation Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceLocation   properties.dataSourceInfo.resourceName Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceName   properties.dataSourceInfo.resourceType Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceType   properties.dataSourceInfo.resourceUri Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceUri   properties.dataSourceSetInfo Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo   properties.dataSourceSetInfo.datasourceType Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.datasourceType   properties.dataSourceSetInfo.objectType Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.objectType   properties.dataSourceSetInfo.resourceID Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceID   properties.dataSourceSetInfo.resourceLocation Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceLocation   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupPolicies/</guid>
+      <description>Link to resource definition: Microsoft.DataProtection/backupVaults/backupPolicies
+   Default Path Alias     properties.policyRules Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules   properties.policyRules[*] Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*]   properties.policyRules[*].isDefault Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.isDefault   properties.policyRules[*].lifecycles Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles   properties.policyRules[*].lifecycles[*] Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*]   properties.policyRules[*].lifecycles[*].deleteAfter Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].deleteAfter   properties.policyRules[*].lifecycles[*].deleteAfter.duration Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].deleteAfter.duration   properties.policyRules[*].lifecycles[*].deleteAfter.objectType Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].deleteAfter.objectType   properties.policyRules[*].lifecycles[*].sourceDataStore Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].sourceDataStore   properties.policyRules[*].lifecycles[*].sourceDataStore.dataStoreType Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].sourceDataStore.dataStoreType   properties.policyRules[*].lifecycles[*].sourceDataStore.objectType Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].sourceDataStore.objectType   properties.policyRules[*].lifecycles[*].targetDataStoreCopySettings Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].targetDataStoreCopySettings   properties.policyRules[*].lifecycles[*].targetDataStoreCopySettings[*] Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].targetDataStoreCopySettings[*]   properties.policyRules[*].lifecycles[*].targetDataStoreCopySettings[*].copyAfter Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].targetDataStoreCopySettings[*].copyAfter.CustomCopyOption   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataProtection/BackupVaults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataProtection/BackupVaults/</guid>
+      <description>Link to resource definition: Microsoft.DataProtection/BackupVaults
+   Default Path Alias     properties.provisioningState Microsoft.DataProtection/backupVaults/provisioningState   properties.storageSettings Microsoft.DataProtection/backupVaults/storageSettings   properties.storageSettings[*] Microsoft.DataProtection/backupVaults/storageSettings[*]   properties.storageSettings[*].datastoreType Microsoft.DataProtection/backupVaults/storageSettings[*].datastoreType   properties.storageSettings[*].type Microsoft.DataProtection/backupVaults/storageSettings[*].type   properties.resourceMoveState Microsoft.DataProtection/backupVaults/resourceMoveState   properties.resourceMoveDetails Microsoft.DataProtection/backupVaults/resourceMoveDetails   properties.resourceMoveDetails.operationId Microsoft.DataProtection/backupVaults/resourceMoveDetails.operationId   properties.resourceMoveDetails.startTimeUtc Microsoft.DataProtection/backupVaults/resourceMoveDetails.startTimeUtc   properties.resourceMoveDetails.completionTimeUtc Microsoft.DataProtection/backupVaults/resourceMoveDetails.completionTimeUtc   properties.resourceMoveDetails.sourceResourcePath Microsoft.DataProtection/backupVaults/resourceMoveDetails.sourceResourcePath   properties.resourceMoveDetails.targetResourcePath Microsoft.DataProtection/backupVaults/resourceMoveDetails.targetResourcePath   properties.monitoringSettings Microsoft.DataProtection/backupVaults/monitoringSettings   properties.monitoringSettings.azureMonitorAlertSettings Microsoft.DataProtection/backupVaults/monitoringSettings.azureMonitorAlertSettings   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

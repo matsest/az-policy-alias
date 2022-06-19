@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.StorageSync/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.StorageSync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.privateLinkServiceConnectionState Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/provisioningState   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-registeredServers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-registeredServers/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices/registeredServers
+   Default Path Alias     properties.serverCertificate Microsoft.StorageSync/storageSyncServices/registeredServers/serverCertificate   properties.agentVersion Microsoft.StorageSync/storageSyncServices/registeredServers/agentVersion   properties.serverOSVersion Microsoft.StorageSync/storageSyncServices/registeredServers/serverOSVersion   properties.serverManagementtErrorCode Microsoft.StorageSync/storageSyncServices/registeredServers/serverManagementtErrorCode   properties.lastHeartBeat Microsoft.StorageSync/storageSyncServices/registeredServers/lastHeartBeat   properties.provisioningState Microsoft.StorageSync/storageSyncServices/registeredServers/provisioningState   properties.serverRole Microsoft.StorageSync/storageSyncServices/registeredServers/serverRole   properties.clusterId Microsoft.StorageSync/storageSyncServices/registeredServers/clusterId   properties.clusterName Microsoft.StorageSync/storageSyncServices/registeredServers/clusterName   properties.serverId Microsoft.StorageSync/storageSyncServices/registeredServers/serverId   properties.storageSyncServiceUid Microsoft.StorageSync/storageSyncServices/registeredServers/storageSyncServiceUid   properties.lastWorkflowId Microsoft.StorageSync/storageSyncServices/registeredServers/lastWorkflowId   properties.friendlyName Microsoft.StorageSync/storageSyncServices/registeredServers/friendlyName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-cloudEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-cloudEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints
+   Default Path Alias     properties.storageAccountKey Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/storageAccountKey   properties.storageAccount Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/storageAccount   properties.storageAccountResourceId Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/storageAccountResourceId   properties.storageAccountShareName Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/storageAccountShareName   properties.storageAccountTenantId Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/storageAccountTenantId   properties.partnershipId Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/partnershipId   properties.friendlyName Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/friendlyName   properties.backupEnabled Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/backupEnabled   properties.provisioningState Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/provisioningState   properties.lastWorkflowId Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/lastWorkflowId   properties.azureFileShareName Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/azureFileShareName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-serverEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-serverEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints
+   Default Path Alias     properties.serverLocalPath Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/serverLocalPath   properties.cloudTiering Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/cloudTiering   properties.volumeFreeSpacePercent Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/volumeFreeSpacePercent   properties.friendlyName Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/friendlyName   properties.lastSyncSuccess Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/lastSyncSuccess   properties.syncErrorState Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/syncErrorState   properties.syncErrorStateTimestamp Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/syncErrorStateTimestamp   properties.syncErrorDirection Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/syncErrorDirection   properties.itemUploadErrorCount Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/itemUploadErrorCount   properties.itemDownloadErrorCount Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/itemDownloadErrorCount   properties.syncErrorContext Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/syncErrorContext   properties.currentProgressType Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/currentProgressType   properties.itemProgressCount Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/itemProgressCount   properties.itemTotalCount Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/itemTotalCount   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices/syncGroups
+   Default Path Alias     properties.uniqueId Microsoft.StorageSync/storageSyncServices/syncGroups/uniqueId   properties.syncGroupStatus Microsoft.StorageSync/storageSyncServices/syncGroups/syncGroupStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices/</guid>
+      <description>Link to resource definition: Microsoft.StorageSync/storageSyncServices
+   Default Path Alias     properties.storageSyncServiceStatus Microsoft.StorageSync/storageSyncServices/storageSyncServiceStatus   properties.storageSyncServiceUid Microsoft.StorageSync/storageSyncServices/storageSyncServiceUid   properties.incomingTrafficPolicy Microsoft.StorageSync/storageSyncServices/incomingTrafficPolicy    </description>
+    </item>
+    
+  </channel>
+</rss>

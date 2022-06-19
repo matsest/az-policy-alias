@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.NotificationHubs/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.NotificationHubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NotificationHubs/Namespaces-AuthorizationRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NotificationHubs/Namespaces-AuthorizationRules/</guid>
+      <description>Link to resource definition: Microsoft.NotificationHubs/Namespaces/AuthorizationRules
+   Default Path Alias     properties.rights Microsoft.NotificationHubs/Namespaces/AuthorizationRules/rights   properties.rights[*] Microsoft.NotificationHubs/Namespaces/AuthorizationRules/rights[*]   sku.name Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku.name   sku.tier Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku.tier   sku.size Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku.size   sku.family Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku.family   sku.capacity Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku.capacity   sku Microsoft.NotificationHubs/Namespaces/AuthorizationRules/sku   properties.primaryKey Microsoft.NotificationHubs/Namespaces/AuthorizationRules/primaryKey   properties.secondaryKey Microsoft.NotificationHubs/Namespaces/AuthorizationRules/secondaryKey   properties.keyName Microsoft.NotificationHubs/Namespaces/AuthorizationRules/keyName   properties.claimType Microsoft.NotificationHubs/Namespaces/AuthorizationRules/claimType   properties.claimValue Microsoft.NotificationHubs/Namespaces/AuthorizationRules/claimValue   properties.modifiedTime Microsoft.NotificationHubs/Namespaces/AuthorizationRules/modifiedTime   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules/</guid>
+      <description>Link to resource definition: Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules
+   Default Path Alias     properties.rights Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/rights   properties.rights[*] Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/rights[*]   sku.name Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku.name   sku.tier Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku.tier   sku.size Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku.size   sku.family Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku.family   sku.capacity Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku.capacity   sku Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/sku   properties.primaryKey Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/primaryKey   properties.secondaryKey Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/secondaryKey   properties.keyName Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/keyName   properties.claimType Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/claimType   properties.claimValue Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/claimValue   properties.modifiedTime Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/modifiedTime   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs/</guid>
+      <description>Link to resource definition: Microsoft.NotificationHubs/namespaces/notificationHubs
+   Default Path Alias     properties.name Microsoft.NotificationHubs/namespaces/notificationHubs/name   properties.registrationTtl Microsoft.NotificationHubs/namespaces/notificationHubs/registrationTtl   properties.authorizationRules[*].primaryKey Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].primaryKey   properties.authorizationRules[*].secondaryKey Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].secondaryKey   properties.authorizationRules[*].keyName Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].keyName   properties.authorizationRules[*].claimType Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].claimType   properties.authorizationRules[*].claimValue Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].claimValue   properties.authorizationRules[*].rights[*] Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].rights[*]   properties.authorizationRules[*].rights Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].rights   properties.authorizationRules[*].createdTime Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].createdTime   properties.authorizationRules[*].modifiedTime Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].modifiedTime   properties.authorizationRules[*].revision Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*].revision   properties.authorizationRules[*] Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules[*]   properties.authorizationRules Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces/</guid>
+      <description>Link to resource definition: Microsoft.NotificationHubs/namespaces
+   Default Path Alias     properties.name Microsoft.NotificationHubs/namespaces/name   properties.provisioningState Microsoft.NotificationHubs/namespaces/provisioningState   properties.region.externalDocs Microsoft.NotificationHubs/namespaces/region.externalDocs   properties.region Microsoft.NotificationHubs/namespaces/region   properties.status.externalDocs Microsoft.NotificationHubs/namespaces/status.externalDocs   properties.status Microsoft.NotificationHubs/namespaces/status   properties.createdAt Microsoft.NotificationHubs/namespaces/createdAt   properties.serviceBusEndpoint.externalDocs Microsoft.NotificationHubs/namespaces/serviceBusEndpoint.externalDocs   properties.serviceBusEndpoint Microsoft.NotificationHubs/namespaces/serviceBusEndpoint   properties.subscriptionId Microsoft.NotificationHubs/namespaces/subscriptionId   properties.scaleUnit Microsoft.NotificationHubs/namespaces/scaleUnit   properties.enabled Microsoft.NotificationHubs/namespaces/enabled   properties.critical Microsoft.NotificationHubs/namespaces/critical   properties.namespaceType Microsoft.NotificationHubs/namespaces/namespaceType   sku.</description>
+    </item>
+    
+  </channel>
+</rss>

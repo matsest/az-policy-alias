@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/configurations
+   Default Path Alias     properties.value Microsoft.DBForPostgreSql/flexibleServers/configurations/value   properties.description Microsoft.DBForPostgreSql/flexibleServers/configurations/description   properties.defaultValue Microsoft.DBForPostgreSql/flexibleServers/configurations/defaultValue   properties.dataType Microsoft.DBForPostgreSql/flexibleServers/configurations/dataType   properties.allowedValues Microsoft.DBForPostgreSql/flexibleServers/configurations/allowedValues   properties.source Microsoft.DBForPostgreSql/flexibleServers/configurations/source   properties.isDynamicConfig Microsoft.DBForPostgreSql/flexibleServers/configurations/isDynamicConfig   properties.isReadOnly Microsoft.DBForPostgreSql/flexibleServers/configurations/isReadOnly   properties.isConfigPendingRestart Microsoft.DBForPostgreSql/flexibleServers/configurations/isConfigPendingRestart   properties.unit Microsoft.DBForPostgreSql/flexibleServers/configurations/unit   properties.documentationLink Microsoft.DBForPostgreSql/flexibleServers/configurations/documentationLink    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-databases/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/databases
+   Default Path Alias     properties.charset Microsoft.DBForPostgreSql/flexibleServers/databases/charset   properties.collation Microsoft.DBForPostgreSql/flexibleServers/databases/collation    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/firewallRules
+   Default Path Alias     properties.startIpAddress Microsoft.DBForPostgreSql/flexibleServers/firewallRules/startIpAddress   properties.endIpAddress Microsoft.DBForPostgreSql/flexibleServers/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-migrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-migrations/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/migrations
+   Default Path Alias     properties.migrationId Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationId   properties.migrationName Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationName   properties.migrationDetailsLevel Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationDetailsLevel   properties.currentStatus Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus   properties.currentStatus.state Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.state   properties.currentStatus.error Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.error   properties.currentStatus.currentSubStateDetails Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.currentSubStateDetails   properties.currentStatus.currentSubStateDetails.currentSubState Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.currentSubStateDetails.currentSubState   properties.sourceDBServerMetadata Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata   properties.sourceDBServerMetadata.location Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.location   properties.sourceDBServerMetadata.version Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.version   properties.sourceDBServerMetadata.storageMB Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.storageMB   properties.sourceDBServerMetadata.sku Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.sku   properties.sourceDBServerMetadata.sku.name Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.sku.name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers
+   Default Path Alias     sku Microsoft.DBForPostgreSql/flexibleServers/sku   sku.name Microsoft.DBForPostgreSql/flexibleServers/sku.name   sku.tier Microsoft.DBForPostgreSql/flexibleServers/sku.tier   properties.administratorLogin Microsoft.DBForPostgreSql/flexibleServers/administratorLogin   properties.administratorLoginPassword Microsoft.DBForPostgreSql/flexibleServers/administratorLoginPassword   properties.version Microsoft.DBForPostgreSql/flexibleServers/version   properties.state Microsoft.DBForPostgreSql/flexibleServers/state   properties.haState Microsoft.DBForPostgreSql/flexibleServers/haState   properties.fullyQualifiedDomainName Microsoft.DBForPostgreSql/flexibleServers/fullyQualifiedDomainName   properties.displayName Microsoft.DBForPostgreSql/flexibleServers/displayName   properties.storageProfile Microsoft.DBForPostgreSql/flexibleServers/storageProfile   properties.storageProfile.backupRetentionDays Microsoft.DBForPostgreSql/flexibleServers/storageProfile.backupRetentionDays   properties.storageProfile.storageMB Microsoft.DBForPostgreSql/flexibleServers/storageProfile.storageMB   properties.network.publicNetworkAccess Microsoft.DBForPostgreSql/flexibleServers/publicNetworkAccess   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-administrators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-administrators/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/administrators
+   Default Path Alias     properties.administratorType Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.administratorType   properties.login Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.login   properties.sid Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.sid   properties.tenantId Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.tenantId   properties.administratorType Microsoft.DBForPostgreSQL/servers/Administrators/administratorType   properties.login Microsoft.DBForPostgreSQL/servers/Administrators/login   properties.sid Microsoft.DBForPostgreSQL/servers/Administrators/sid   properties.tenantId Microsoft.DBForPostgreSQL/servers/Administrators/tenantId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-configurations/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/configurations
+   Default Path Alias     properties.description Microsoft.DBforPostgreSQL/servers/configurations/description   properties.defaultValue Microsoft.DBforPostgreSQL/servers/configurations/defaultValue   properties.dataType Microsoft.DBforPostgreSQL/servers/configurations/dataType   properties.allowedValues Microsoft.DBforPostgreSQL/servers/configurations/allowedValues   properties.source Microsoft.DBforPostgreSQL/servers/configurations/source   properties.value Microsoft.DBforPostgreSQL/servers/configurations/value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-databases/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/databases
+   Default Path Alias     properties.charset Microsoft.DBforPostgreSQL/servers/databases/charset   properties.collation Microsoft.DBforPostgreSQL/servers/databases/collation    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-firewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-firewallRules/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/firewallRules
+   Default Path Alias     properties.startIpAddress Microsoft.DBforPostgreSQL/servers/firewallRules/startIpAddress   properties.endIpAddress Microsoft.DBforPostgreSQL/servers/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-keys/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/keys
+   Default Path Alias     properties.serverKeyType Microsoft.DBforPostgreSQL/servers/keys/serverKeyType   properties.uri Microsoft.DBforPostgreSQL/servers/keys/uri   properties.creationDate Microsoft.DBforPostgreSQL/servers/keys/creationDate    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-securityAlertPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-securityAlertPolicies/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/securityAlertPolicies
+   Default Path Alias     properties.state Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/state   properties.disabledAlerts Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/disabledAlerts   properties.disabledAlerts[*] Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/disabledAlerts[*]   properties.emailAddresses Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAddresses   properties.emailAddresses[*] Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAddresses[*]   properties.emailAccountAdmins Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAccountAdmins   properties.storageEndpoint Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/storageEndpoint   properties.storageAccountAccessKey Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/storageAccountAccessKey   properties.retentionDays Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/retentionDays   properties.state Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.state   properties.disabledAlerts[*] Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.disabledAlerts[*]   properties.disabledAlerts Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.disabledAlerts   properties.emailAddresses[*] Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.emailAddresses[*]   properties.emailAddresses Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.emailAddresses   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-virtualNetworkRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-virtualNetworkRules/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers/virtualNetworkRules
+   Default Path Alias     properties.virtualNetworkSubnetId Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/virtualNetworkSubnetId   properties.ignoreMissingVnetServiceEndpoint Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint   properties.state Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/state    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/servers
+   Default Path Alias     sku.name Microsoft.DBforPostgreSQL/servers/sku.name   sku.tier Microsoft.DBforPostgreSQL/servers/sku.tier   sku.family Microsoft.DBforPostgreSQL/servers/sku.family   sku.capacity Microsoft.DBforPostgreSQL/servers/sku.capacity   properties.administratorLogin Microsoft.DBforPostgreSQL/servers/administratorLogin   properties.storageProfile Microsoft.DBforPostgreSQL/servers/storageProfile   properties.storageProfile.storageMB Microsoft.DBforPostgreSQL/servers/storageProfile.storageMB   properties.storageProfile.backupRetentionDays Microsoft.DBforPostgreSQL/servers/storageProfile.backupRetentionDays   properties.storageProfile.geoRedundantBackup Microsoft.DBforPostgreSQL/servers/storageProfile.geoRedundantBackup   properties.version Microsoft.DBforPostgreSQL/servers/version   properties.sslEnforcement Microsoft.DBforPostgreSQL/servers/sslEnforcement   properties.userVisibleState Microsoft.DBforPostgreSQL/servers/userVisibleState   properties.fullyQualifiedDomainName Microsoft.DBforPostgreSQL/servers/fullyQualifiedDomainName   properties.earliestRestoreDate Microsoft.DBforPostgreSQL/servers/earliestRestoreDate   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

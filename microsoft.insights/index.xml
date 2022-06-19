@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/microsoft.insights/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/microsoft.insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/actiongroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/actiongroups/</guid>
+      <description>Link to resource definition: microsoft.insights/actiongroups
+   Default Path Alias     properties.groupShortName Microsoft.Insights/actiongroups/groupShortName   properties.enabled Microsoft.Insights/actiongroups/enabled   properties.emailReceivers[*].name Microsoft.Insights/actiongroups/emailReceivers[*].name   properties.emailReceivers[*].emailAddress Microsoft.Insights/actiongroups/emailReceivers[*].emailAddress   properties.emailReceivers[*].status Microsoft.Insights/actiongroups/emailReceivers[*].status   properties.emailReceivers[*] Microsoft.Insights/actiongroups/emailReceivers[*]   properties.emailReceivers Microsoft.Insights/actiongroups/emailReceivers   properties.smsReceivers[*].name Microsoft.Insights/actiongroups/smsReceivers[*].name   properties.smsReceivers[*].countryCode Microsoft.Insights/actiongroups/smsReceivers[*].countryCode   properties.smsReceivers[*].phoneNumber Microsoft.Insights/actiongroups/smsReceivers[*].phoneNumber   properties.smsReceivers[*].status Microsoft.Insights/actiongroups/smsReceivers[*].status   properties.smsReceivers[*] Microsoft.Insights/actiongroups/smsReceivers[*]   properties.smsReceivers Microsoft.Insights/actiongroups/smsReceivers   properties.webhookReceivers[*].name Microsoft.Insights/actiongroups/webhookReceivers[*].name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/activityLogAlerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/activityLogAlerts/</guid>
+      <description>Link to resource definition: microsoft.insights/activityLogAlerts
+   Default Path Alias     properties.scopes Microsoft.Insights/ActivityLogAlerts/scopes   properties.scopes[*] Microsoft.Insights/ActivityLogAlerts/scopes[*]   properties.condition Microsoft.Insights/ActivityLogAlerts/condition   properties.condition.allOf Microsoft.Insights/ActivityLogAlerts/condition.allOf   properties.condition.allOf[*] Microsoft.Insights/ActivityLogAlerts/condition.allOf[*]   properties.condition.allOf[*].field Microsoft.Insights/ActivityLogAlerts/condition.allOf[*].field   properties.condition.allOf[*].equals Microsoft.Insights/ActivityLogAlerts/condition.allOf[*].equals   properties.condition.allOf[*].containsAny Microsoft.Insights/ActivityLogAlerts/condition.allOf[*].containsAny   properties.enabled Microsoft.Insights/ActivityLogAlerts/enabled   properties.actions.actionGroups[*].actionGroupId Microsoft.Insights/activityLogAlerts/actions.actionGroups[*].actionGroupId   properties.actions.actionGroups[*].webhookProperties.additionalProperties Microsoft.Insights/activityLogAlerts/actions.actionGroups[*].webhookProperties.additionalProperties   properties.actions.actionGroups[*].webhookProperties Microsoft.Insights/activityLogAlerts/actions.actionGroups[*].webhookProperties   properties.actions.actionGroups[*] Microsoft.Insights/activityLogAlerts/actions.actionGroups[*]   properties.actions.actionGroups Microsoft.Insights/activityLogAlerts/actions.actionGroups   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/alertrules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/alertrules/</guid>
+      <description>Link to resource definition: microsoft.insights/alertrules
+   Default Path Alias     properties.isEnabled Microsoft.Insights/alertRules/isEnabled   properties.condition.dataSource.resourceUri Microsoft.Insights/alertRules/condition.dataSource.resourceUri   properties.condition.dataSource.metricName Microsoft.Insights/alertRules/condition.dataSource.metricName   properties.condition.operator Microsoft.Insights/alertRules/condition.operator   properties.condition.threshold Microsoft.Insights/alertRules/condition.threshold   properties.condition.windowSize Microsoft.Insights/alertRules/condition.windowSize   properties.condition.timeAggregation Microsoft.Insights/alertRules/condition.timeAggregation   properties.condition.dataSource.odata.type Microsoft.Insights/alertRules/condition.dataSource.odata.type   properties.actions[*].odata.type Microsoft.Insights/alertRules/actions[*].odata.type   properties.actions[*].sendToServiceOwners Microsoft.Insights/alertRules/actions[*].sendToServiceOwners   properties.actions[*].customEmails Microsoft.Insights/alertRules/actions[*].customEmails   properties.actions[*].customEmails[*] Microsoft.Insights/alertRules/actions[*].customEmails[*]   properties.actions[*].serviceUri Microsoft.Insights/alertRules/actions[*].serviceUri   properties.name Microsoft.Insights/alertrules/name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/autoscalesettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/autoscalesettings/</guid>
+      <description>Link to resource definition: microsoft.insights/autoscalesettings
+   Default Path Alias     properties.profiles[*].name Microsoft.Insights/autoscalesettings/profiles[*].name   properties.profiles[*].capacity.minimum Microsoft.Insights/autoscalesettings/profiles[*].capacity.minimum   properties.profiles[*].capacity.maximum Microsoft.Insights/autoscalesettings/profiles[*].capacity.maximum   properties.profiles[*].capacity.default Microsoft.Insights/autoscalesettings/profiles[*].capacity.default   properties.profiles[*].capacity Microsoft.Insights/autoscalesettings/profiles[*].capacity   properties.profiles[*].rules[*].metricTrigger.metricName Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.metricName   properties.profiles[*].rules[*].metricTrigger.metricResourceUri Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.metricResourceUri   properties.profiles[*].rules[*].metricTrigger.timeGrain Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.timeGrain   properties.profiles[*].rules[*].metricTrigger.statistic Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.statistic   properties.profiles[*].rules[*].metricTrigger.timeWindow Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.timeWindow   properties.profiles[*].rules[*].metricTrigger.timeAggregation Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.timeAggregation   properties.profiles[*].rules[*].metricTrigger.operator Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.operator   properties.profiles[*].rules[*].metricTrigger.threshold Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.threshold   properties.profiles[*].rules[*].metricTrigger Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/components-analyticsItems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/components-analyticsItems/</guid>
+      <description>Link to resource definition: microsoft.insights/components/analyticsItems
+   Default Path Alias     Properties.functionAlias microsoft.insights/components/analyticsItems/functionAlias    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/components-myAnalyticsItems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/components-myAnalyticsItems/</guid>
+      <description>Link to resource definition: microsoft.insights/components/myAnalyticsItems
+   Default Path Alias     Properties.functionAlias microsoft.insights/components/myanalyticsItems/functionAlias    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/components-pricingPlans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/components-pricingPlans/</guid>
+      <description>Link to resource definition: microsoft.insights/components/pricingPlans
+   Default Path Alias     properties.planType Microsoft.Insights/components/pricingPlans/current.planType   properties.cap Microsoft.Insights/components/pricingPlans/current.cap   properties.resetHour Microsoft.Insights/components/pricingPlans/current.resetHour   properties.warningThreshold Microsoft.Insights/components/pricingPlans/current.warningThreshold   properties.stopSendNotificationWhenHitThreshold Microsoft.Insights/components/pricingPlans/current.stopSendNotificationWhenHitThreshold   properties.stopSendNotificationWhenHitCap Microsoft.Insights/components/pricingPlans/current.stopSendNotificationWhenHitCap   properties.maxHistoryCap Microsoft.Insights/components/pricingPlans/current.maxHistoryCap   properties.planType microsoft.insights/components/pricingPlans/planType   properties.cap microsoft.insights/components/pricingPlans/cap   properties.resetHour microsoft.insights/components/pricingPlans/resetHour   properties.warningThreshold microsoft.insights/components/pricingPlans/warningThreshold   properties.stopSendNotificationWhenHitThreshold microsoft.insights/components/pricingPlans/stopSendNotificationWhenHitThreshold   properties.stopSendNotificationWhenHitCap microsoft.insights/components/pricingPlans/stopSendNotificationWhenHitCap   properties.maxHistoryCap microsoft.insights/components/pricingPlans/maxHistoryCap    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/components-proactiveDetectionConfigs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/components-proactiveDetectionConfigs/</guid>
+      <description>Link to resource definition: microsoft.insights/components/proactiveDetectionConfigs
+   Default Path Alias     properties.Name Microsoft.Insights/Components/ProactiveDetectionConfigs/Name   properties.Enabled Microsoft.Insights/Components/ProactiveDetectionConfigs/Enabled   properties.SendEmailsToSubscriptionOwners Microsoft.Insights/Components/ProactiveDetectionConfigs/SendEmailsToSubscriptionOwners   properties.CustomEmails[*] Microsoft.Insights/Components/ProactiveDetectionConfigs/CustomEmails[*]   properties.CustomEmails Microsoft.Insights/Components/ProactiveDetectionConfigs/CustomEmails   properties.LastUpdatedTime Microsoft.Insights/Components/ProactiveDetectionConfigs/LastUpdatedTime   properties.RuleDefinitions.Name Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.Name   properties.RuleDefinitions.DisplayName Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.DisplayName   properties.RuleDefinitions.Description Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.Description   properties.RuleDefinitions.HelpUrl Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.HelpUrl   properties.RuleDefinitions.IsHidden Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.IsHidden   properties.RuleDefinitions.IsEnabledByDefault Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.IsEnabledByDefault   properties.RuleDefinitions.IsInPreview Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.IsInPreview   properties.RuleDefinitions.SupportsEmailNotifications Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.SupportsEmailNotifications   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/components/</guid>
+      <description>Link to resource definition: microsoft.insights/components
+   Default Path Alias     properties.ApplicationId Microsoft.Insights/components/ApplicationId   properties.AppId Microsoft.Insights/components/AppId   properties.InstrumentationKey Microsoft.Insights/components/InstrumentationKey   properties.CreationDate Microsoft.Insights/components/CreationDate   properties.TenantId Microsoft.Insights/components/TenantId   properties.HockeyAppId.externalDocs Microsoft.Insights/components/HockeyAppId.externalDocs   properties.HockeyAppId Microsoft.Insights/components/HockeyAppId   properties.HockeyAppToken.externalDocs Microsoft.Insights/components/HockeyAppToken.externalDocs   properties.HockeyAppToken Microsoft.Insights/components/HockeyAppToken   properties.provisioningState Microsoft.Insights/components/provisioningState   properties.SamplingPercentage.externalDocs Microsoft.Insights/components/SamplingPercentage.externalDocs   properties.SamplingPercentage Microsoft.Insights/components/SamplingPercentage   properties.ConnectionString Microsoft.Insights/components/ConnectionString   properties.RetentionInDays Microsoft.Insights/components/RetentionInDays   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/dataCollectionEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/dataCollectionEndpoints/</guid>
+      <description>Link to resource definition: microsoft.insights/dataCollectionEndpoints
+   Default Path Alias     properties.description Microsoft.Insights/dataCollectionEndpoints/description   properties.immutableId Microsoft.Insights/dataCollectionEndpoints/immutableId   properties.configurationAccess Microsoft.Insights/dataCollectionEndpoints/configurationAccess   properties.configurationAccess.endpoint Microsoft.Insights/dataCollectionEndpoints/configurationAccess.endpoint   properties.logsIngestion Microsoft.Insights/dataCollectionEndpoints/logsIngestion   properties.logsIngestion.endpoint Microsoft.Insights/dataCollectionEndpoints/logsIngestion.endpoint   properties.networkAcls Microsoft.Insights/dataCollectionEndpoints/networkAcls   properties.networkAcls.publicNetworkAccess Microsoft.Insights/dataCollectionEndpoints/networkAcls.publicNetworkAccess   properties.provisioningState Microsoft.Insights/dataCollectionEndpoints/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/dataCollectionRuleAssociations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/dataCollectionRuleAssociations/</guid>
+      <description>Link to resource definition: microsoft.insights/dataCollectionRuleAssociations
+   Default Path Alias     properties.description Microsoft.Insights/dataCollectionRuleAssociations/description   properties.dataCollectionRuleId Microsoft.Insights/dataCollectionRuleAssociations/dataCollectionRuleId   properties.provisioningState Microsoft.Insights/dataCollectionRuleAssociations/provisioningState   properties.dataCollectionEndpointId Microsoft.Insights/dataCollectionRuleAssociations/dataCollectionEndpointId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/dataCollectionRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/dataCollectionRules/</guid>
+      <description>Link to resource definition: microsoft.insights/dataCollectionRules
+   Default Path Alias     properties.description Microsoft.Insights/dataCollectionRules/description   properties.dataSources.performanceCounters[*].streams[*] Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].streams[*]   properties.dataSources.performanceCounters[*].streams Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].streams   properties.dataSources.performanceCounters[*].scheduledTransferPeriod Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].scheduledTransferPeriod   properties.dataSources.performanceCounters[*].samplingFrequencyInSeconds Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].samplingFrequencyInSeconds   properties.dataSources.performanceCounters[*].counterSpecifiers[*] Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].counterSpecifiers[*]   properties.dataSources.performanceCounters[*].counterSpecifiers Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].counterSpecifiers   properties.dataSources.performanceCounters[*].name Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*].name   properties.dataSources.performanceCounters[*] Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters[*]   properties.dataSources.performanceCounters Microsoft.Insights/dataCollectionRules/dataSources.performanceCounters   properties.dataSources.windowsEventLogs[*].streams[*] Microsoft.Insights/dataCollectionRules/dataSources.windowsEventLogs[*].streams[*]   properties.dataSources.windowsEventLogs[*].streams Microsoft.Insights/dataCollectionRules/dataSources.windowsEventLogs[*].streams   properties.dataSources.windowsEventLogs[*].scheduledTransferPeriod Microsoft.Insights/dataCollectionRules/dataSources.windowsEventLogs[*].scheduledTransferPeriod   properties.dataSources.windowsEventLogs[*].xPathQueries[*] Microsoft.Insights/dataCollectionRules/dataSources.windowsEventLogs[*].xPathQueries[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/diagnosticSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/diagnosticSettings/</guid>
+      <description>Link to resource definition: microsoft.insights/diagnosticSettings
+   Default Path Alias     properties.logs[*].enabled Microsoft.Insights/diagnosticSettings/logs.enabled   properties.metrics[*].enabled Microsoft.Insights/diagnosticSettings/metrics.enabled   properties.storageAccountId Microsoft.Insights/diagnosticSettings/storageAccountId   properties.workspaceId Microsoft.Insights/diagnosticSettings/workspaceId   properties.eventHubAuthorizationRuleId Microsoft.Insights/diagnosticSettings/eventHubAuthorizationRuleId   properties.eventHubName Microsoft.Insights/diagnosticSettings/eventHubName   properties.metrics[*].retentionPolicy.enabled Microsoft.Insights/diagnosticSettings/metrics[*].retentionPolicy.enabled   properties.metrics[*].retentionPolicy.days Microsoft.Insights/diagnosticSettings/metrics[*].retentionPolicy.days   properties.metrics[*].category Microsoft.Insights/diagnosticSettings/metrics[*].category   properties.logs[*].retentionPolicy.enabled Microsoft.Insights/diagnosticSettings/logs[*].retentionPolicy.enabled   properties.logs[*].retentionPolicy.days Microsoft.Insights/diagnosticSettings/logs[*].retentionPolicy.days   properties.logs[*].category Microsoft.Insights/diagnosticSettings/logs[*].category   properties.serviceBusRuleId Microsoft.Insights/diagnosticSettings/serviceBusRuleId   properties.metrics[*].timeGrain Microsoft.Insights/diagnosticSettings/metrics[*].timeGrain   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettings/</guid>
+      <description>Link to resource definition: microsoft.insights/guestDiagnosticSettings
+   Default Path Alias     properties.osType Microsoft.Insights/guestDiagnosticSettings/osType   properties.dataSources[*].kind Microsoft.Insights/guestDiagnosticSettings/dataSources[*].kind   properties.dataSources[*].configuration.providers[*].id Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].id   properties.dataSources[*].configuration.providers[*].events[*].name Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].events[*].name   properties.dataSources[*].configuration.providers[*].events[*].id Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].events[*].id   properties.dataSources[*].configuration.providers[*].events[*].filter Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].events[*].filter   properties.dataSources[*].configuration.providers[*].events[*] Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].events[*]   properties.dataSources[*].configuration.providers[*].events Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*].events   properties.dataSources[*].configuration.providers[*] Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers[*]   properties.dataSources[*].configuration.providers Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.providers   properties.dataSources[*].configuration.perfCounters[*].name Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.perfCounters[*].name   properties.dataSources[*].configuration.perfCounters[*].samplingPeriod Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.perfCounters[*].samplingPeriod   properties.dataSources[*].configuration.perfCounters[*].instance Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.perfCounters[*].instance   properties.dataSources[*].configuration.perfCounters[*] Microsoft.Insights/guestDiagnosticSettings/dataSources[*].configuration.perfCounters[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettingsAssociation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettingsAssociation/</guid>
+      <description>Link to resource definition: microsoft.insights/guestDiagnosticSettingsAssociation
+   Default Path Alias     properties.guestDiagnosticSettingsName Microsoft.Insights/guestDiagnosticSettingsAssociation/guestDiagnosticSettingsName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/logprofiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/logprofiles/</guid>
+      <description>Link to resource definition: microsoft.insights/logprofiles
+   Default Path Alias     properties.storageAccountId Microsoft.Insights/logProfiles/storageAccountId   properties.serviceBusRuleId Microsoft.Insights/logProfiles/serviceBusRuleId   properties.locations Microsoft.Insights/logProfiles/locations   properties.locations[*] Microsoft.Insights/logProfiles/locations[*]   properties.categories Microsoft.Insights/logProfiles/categories   properties.categories[*] Microsoft.Insights/logProfiles/categories[*]   properties.retentionPolicy Microsoft.Insights/logProfiles/retentionPolicy   properties.retentionPolicy.enabled Microsoft.Insights/logProfiles/retentionPolicy.enabled   properties.retentionPolicy.days Microsoft.Insights/logProfiles/retentionPolicy.days    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/metricalerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/metricalerts/</guid>
+      <description>Link to resource definition: microsoft.insights/metricalerts
+   Default Path Alias     properties.description Microsoft.Insights/metricalerts/description   properties.severity Microsoft.Insights/metricalerts/severity   properties.enabled Microsoft.Insights/metricalerts/enabled   properties.scopes[*] Microsoft.Insights/metricalerts/scopes[*]   properties.scopes Microsoft.Insights/metricalerts/scopes   properties.evaluationFrequency Microsoft.Insights/metricalerts/evaluationFrequency   properties.windowSize Microsoft.Insights/metricalerts/windowSize   properties.targetResourceType Microsoft.Insights/metricalerts/targetResourceType   properties.targetResourceRegion Microsoft.Insights/metricalerts/targetResourceRegion   properties.criteria.additionalProperties Microsoft.Insights/metricalerts/criteria.additionalProperties   properties.criteria.odata.type Microsoft.Insights/metricalerts/criteria.odata.type   properties.criteria Microsoft.Insights/metricalerts/criteria   properties.autoMitigate Microsoft.Insights/metricalerts/autoMitigate   properties.actions[*].actionGroupId Microsoft.Insights/metricalerts/actions[*].actionGroupId   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</guid>
+      <description>Link to resource definition: microsoft.insights/myWorkbooks
+   Default Path Alias     properties.displayName Microsoft.Insights/myWorkbooks/displayName   properties.serializedData Microsoft.Insights/myWorkbooks/serializedData   properties.version Microsoft.Insights/myWorkbooks/version   properties.timeModified Microsoft.Insights/myWorkbooks/timeModified   properties.category Microsoft.Insights/myWorkbooks/category   properties.tags Microsoft.Insights/myWorkbooks/tags   properties.tags[*] Microsoft.Insights/myWorkbooks/tags[*]   properties.userId Microsoft.Insights/myWorkbooks/userId   properties.sourceId Microsoft.Insights/myWorkbooks/sourceId   properties.storageUri Microsoft.Insights/myWorkbooks/storageUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-privateEndpointConnections/</guid>
+      <description>Link to resource definition: microsoft.insights/privateLinkScopes/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.Insights/privateLinkScopes/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-scopedResources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-scopedResources/</guid>
+      <description>Link to resource definition: microsoft.insights/privateLinkScopes/scopedResources
+   Default Path Alias     properties.linkedResourceId Microsoft.Insights/privateLinkScopes/scopedResources/linkedResourceId   properties.provisioningState Microsoft.Insights/privateLinkScopes/scopedResources/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes/</guid>
+      <description>Link to resource definition: microsoft.insights/privateLinkScopes
+   Default Path Alias     properties.provisioningState Microsoft.Insights/privateLinkScopes/provisioningState   properties.privateEndpointConnections[*].id Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].type   properties.privateEndpointConnections[*] Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*]   properties.privateEndpointConnections Microsoft.Insights/privateLinkScopes/privateEndpointConnections   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.provisioningState Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].provisioningState   properties.accessModeSettings microsoft.insights/privateLinkScopes/accessModeSettings   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules/</guid>
+      <description>Link to resource definition: microsoft.insights/scheduledqueryrules
+   Default Path Alias     properties.description Microsoft.Insights/scheduledqueryrules/description   properties.enabled Microsoft.Insights/scheduledqueryrules/enabled   properties.lastUpdatedTime Microsoft.Insights/scheduledqueryrules/lastUpdatedTime   properties.provisioningState Microsoft.Insights/scheduledqueryrules/provisioningState   properties.source.query Microsoft.Insights/scheduledqueryrules/source.query   properties.source.authorizedResources[*] Microsoft.Insights/scheduledqueryrules/source.authorizedResources[*]   properties.source.authorizedResources Microsoft.Insights/scheduledqueryrules/source.authorizedResources   properties.source.dataSourceId Microsoft.Insights/scheduledqueryrules/source.dataSourceId   properties.source.queryType Microsoft.Insights/scheduledqueryrules/source.queryType   properties.source Microsoft.Insights/scheduledqueryrules/source   properties.schedule.frequencyInMinutes Microsoft.Insights/scheduledqueryrules/schedule.frequencyInMinutes   properties.schedule.timeWindowInMinutes Microsoft.Insights/scheduledqueryrules/schedule.timeWindowInMinutes   properties.schedule Microsoft.Insights/scheduledqueryrules/schedule   properties.action.odata.type Microsoft.Insights/scheduledqueryrules/action.odata.type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/webtests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/webtests/</guid>
+      <description>Link to resource definition: microsoft.insights/webtests
+   Default Path Alias     properties.SyntheticMonitorId Microsoft.Insights/webtests/SyntheticMonitorId   properties.Name Microsoft.Insights/webtests/Name   properties.Description Microsoft.Insights/webtests/Description   properties.Enabled Microsoft.Insights/webtests/Enabled   properties.Frequency Microsoft.Insights/webtests/Frequency   properties.Timeout Microsoft.Insights/webtests/Timeout   properties.Kind Microsoft.Insights/webtests/Kind   properties.RetryEnabled Microsoft.Insights/webtests/RetryEnabled   properties.Locations[*].Id Microsoft.Insights/webtests/Locations[*].Id   properties.Locations[*] Microsoft.Insights/webtests/Locations[*]   properties.Locations Microsoft.Insights/webtests/Locations   properties.Configuration.WebTest Microsoft.Insights/webtests/Configuration.WebTest   properties.Configuration Microsoft.Insights/webtests/Configuration   properties.provisioningState Microsoft.Insights/webtests/provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/workbooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/workbooks/</guid>
+      <description>Link to resource definition: microsoft.insights/workbooks
+   Default Path Alias     properties.displayName Microsoft.Insights/workbooks/displayName   properties.serializedData Microsoft.Insights/workbooks/serializedData   properties.timeModified Microsoft.Insights/workbooks/timeModified   properties.category Microsoft.Insights/workbooks/category   properties.version Microsoft.Insights/workbooks/version   properties.tags[*] Microsoft.Insights/workbooks/tags[*]   properties.tags Microsoft.Insights/workbooks/tags   properties.userId Microsoft.Insights/workbooks/userId   properties.name Microsoft.Insights/workbooks/name   properties.workbookId Microsoft.Insights/workbooks/workbookId   properties.kind Microsoft.Insights/workbooks/kind   properties.sourceResourceId Microsoft.Insights/workbooks/sourceResourceId   properties.sourceId microsoft.insights/workbooks/sourceId   properties.storageUri microsoft.insights/workbooks/storageUri   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/workbooktemplates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/workbooktemplates/</guid>
+      <description>Link to resource definition: microsoft.insights/workbooktemplates
+   Default Path Alias     properties.priority microsoft.insights/workbooktemplates/priority   properties.author microsoft.insights/workbooktemplates/author   properties.galleries microsoft.insights/workbooktemplates/galleries   properties.galleries[*] microsoft.insights/workbooktemplates/galleries[*]   properties.galleries[*].name microsoft.insights/workbooktemplates/galleries[*].name   properties.galleries[*].category microsoft.insights/workbooktemplates/galleries[*].category   properties.galleries[*].type microsoft.insights/workbooktemplates/galleries[*].type   properties.galleries[*].order microsoft.insights/workbooktemplates/galleries[*].order   properties.galleries[*].resourceType microsoft.insights/workbooktemplates/galleries[*].resourceType   properties.localized microsoft.insights/workbooktemplates/localized    </description>
+    </item>
+    
+  </channel>
+</rss>

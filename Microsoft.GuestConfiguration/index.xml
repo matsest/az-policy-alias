@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.GuestConfiguration/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.GuestConfiguration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.GuestConfiguration/guestConfigurationAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.GuestConfiguration/guestConfigurationAssignments/</guid>
+      <description>Link to resource definition: Microsoft.GuestConfiguration/guestConfigurationAssignments
+   Default Path Alias     properties.complianceStatus Microsoft.GuestConfiguration/guestConfigurationAssignments/complianceStatus   properties.parameterHash Microsoft.GuestConfiguration/guestConfigurationAssignments/parameterHash   properties.guestConfiguration.contentHash Microsoft.GuestConfiguration/guestConfigurationAssignments/contentHash   properties.guestConfiguration Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration   properties.guestConfiguration.kind Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.kind   properties.guestConfiguration.name Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.name   properties.guestConfiguration.type Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.type   properties.guestConfiguration.configurationParameter Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationParameter   properties.guestConfiguration.configurationParameter.value[*] Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationParameter.value[*]   properties.guestConfiguration.configurationParameter.value[*].name Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationParameter.value[*].name   properties.guestConfiguration.configurationParameter.value[*].value Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationParameter.value[*].value   properties.guestConfiguration.configurationParameter.value Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationParameter.value   properties.provisioningState Microsoft.GuestConfiguration/guestConfigurationAssignments/provisioningState   properties.complianceReason Microsoft.GuestConfiguration/guestConfigurationAssignments/complianceReason   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ContainerService/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ContainerService/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/containerServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/containerServices/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/containerServices
+   Default Path Alias     properties.provisioningState Microsoft.ContainerService/containerServices/provisioningState   properties.orchestratorProfile.orchestratorType Microsoft.ContainerService/containerServices/orchestratorProfile.orchestratorType   properties.orchestratorProfile Microsoft.ContainerService/containerServices/orchestratorProfile   properties.masterProfile.count Microsoft.ContainerService/containerServices/masterProfile.count   properties.masterProfile.dnsPrefix Microsoft.ContainerService/containerServices/masterProfile.dnsPrefix   properties.masterProfile.fqdn Microsoft.ContainerService/containerServices/masterProfile.fqdn   properties.masterProfile Microsoft.ContainerService/containerServices/masterProfile   properties.agentPoolProfiles[*].name Microsoft.ContainerService/containerServices/agentPoolProfiles[*].name   properties.agentPoolProfiles[*].count Microsoft.ContainerService/containerServices/agentPoolProfiles[*].count   properties.agentPoolProfiles[*].vmSize Microsoft.ContainerService/containerServices/agentPoolProfiles[*].vmSize   properties.agentPoolProfiles[*].dnsPrefix Microsoft.ContainerService/containerServices/agentPoolProfiles[*].dnsPrefix   properties.agentPoolProfiles[*].fqdn Microsoft.ContainerService/containerServices/agentPoolProfiles[*].fqdn   properties.agentPoolProfiles[*] Microsoft.ContainerService/containerServices/agentPoolProfiles[*]   properties.agentPoolProfiles Microsoft.ContainerService/containerServices/agentPoolProfiles   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/managedClusters/agentPools
+   Default Path Alias     properties.count Microsoft.ContainerService/managedClusters/agentPools/count   properties.vmSize Microsoft.ContainerService/managedClusters/agentPools/vmSize   properties.osDiskSizeGB Microsoft.ContainerService/managedClusters/agentPools/osDiskSizeGB   properties.vnetSubnetID Microsoft.ContainerService/managedClusters/agentPools/vnetSubnetID   properties.maxPods Microsoft.ContainerService/managedClusters/agentPools/maxPods   properties.osType Microsoft.ContainerService/managedClusters/agentPools/osType   properties.maxCount Microsoft.ContainerService/managedClusters/agentPools/maxCount   properties.minCount Microsoft.ContainerService/managedClusters/agentPools/minCount   properties.enableAutoScaling Microsoft.ContainerService/managedClusters/agentPools/enableAutoScaling   properties.type Microsoft.ContainerService/managedClusters/agentPools/type   properties.orchestratorVersion Microsoft.ContainerService/managedClusters/agentPools/orchestratorVersion   properties.provisioningState Microsoft.ContainerService/managedClusters/agentPools/provisioningState   properties.availabilityZones[*] Microsoft.ContainerService/managedClusters/agentPools/availabilityZones[*]   properties.availabilityZones Microsoft.ContainerService/managedClusters/agentPools/availabilityZones   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-maintenanceConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-maintenanceConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/managedClusters/maintenanceConfigurations
+   Default Path Alias     properties.timeInWeek Microsoft.ContainerService/managedClusters/maintenanceConfigurations/timeInWeek   properties.timeInWeek[*] Microsoft.ContainerService/managedClusters/maintenanceConfigurations/timeInWeek[*]   properties.timeInWeek[*].day Microsoft.ContainerService/managedClusters/maintenanceConfigurations/timeInWeek[*].day   properties.timeInWeek[*].hourSlots Microsoft.ContainerService/managedClusters/maintenanceConfigurations/timeInWeek[*].hourSlots   properties.timeInWeek[*].hourSlots[*] Microsoft.ContainerService/managedClusters/maintenanceConfigurations/timeInWeek[*].hourSlots[*]   properties.notAllowedTime Microsoft.ContainerService/managedClusters/maintenanceConfigurations/notAllowedTime   properties.notAllowedTime[*] Microsoft.ContainerService/managedClusters/maintenanceConfigurations/notAllowedTime[*]   properties.notAllowedTime[*].start Microsoft.ContainerService/managedClusters/maintenanceConfigurations/notAllowedTime[*].start   properties.notAllowedTime[*].end Microsoft.ContainerService/managedClusters/maintenanceConfigurations/notAllowedTime[*].end    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/managedClusters/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.ContainerService/managedClusters/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState.description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/managedClusters
+   Default Path Alias     properties.provisioningState Microsoft.ContainerService/managedClusters/provisioningState   properties.kubernetesVersion Microsoft.ContainerService/managedClusters/kubernetesVersion   properties.dnsPrefix Microsoft.ContainerService/managedClusters/dnsPrefix   properties.fqdn Microsoft.ContainerService/managedClusters/fqdn   properties.agentPoolProfiles Microsoft.ContainerService/managedClusters/agentPoolProfiles   properties.agentPoolProfiles[*] Microsoft.ContainerService/managedClusters/agentPoolProfiles[*]   properties.agentPoolProfiles[*].name Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].name   properties.agentPoolProfiles[*].count Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].count   properties.agentPoolProfiles[*].vmSize Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].vmSize   properties.agentPoolProfiles[*].osDiskSizeGB Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].osDiskSizeGB   properties.agentPoolProfiles[*].storageProfile Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].storageProfile   properties.agentPoolProfiles[*].osType Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].osType   properties.linuxProfile Microsoft.ContainerService/managedClusters/linuxProfile   properties.linuxProfile.adminUsername Microsoft.ContainerService/managedClusters/linuxProfile.adminUsername   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/openShiftManagedClusters
+   Default Path Alias     properties.provisioningState Microsoft.ContainerService/openShiftManagedClusters/provisioningState   properties.openShiftVersion Microsoft.ContainerService/openShiftManagedClusters/openShiftVersion   properties.publicHostname Microsoft.ContainerService/openShiftManagedClusters/publicHostname   properties.fqdn Microsoft.ContainerService/openShiftManagedClusters/fqdn   properties.networkProfile.vnetCidr Microsoft.ContainerService/openShiftManagedClusters/networkProfile.vnetCidr   properties.networkProfile.peerVnetId Microsoft.ContainerService/openShiftManagedClusters/networkProfile.peerVnetId   properties.networkProfile Microsoft.ContainerService/openShiftManagedClusters/networkProfile   properties.routerProfiles[*].name Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].name   properties.routerProfiles[*].publicSubdomain Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].publicSubdomain   properties.routerProfiles[*].fqdn Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].fqdn   properties.routerProfiles[*] Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*]   properties.routerProfiles Microsoft.ContainerService/openShiftManagedClusters/routerProfiles   properties.masterPoolProfile.name Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.name   properties.masterPoolProfile.count Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.count   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/snapshots
+   Default Path Alias     properties.creationData Microsoft.ContainerService/snapshots/creationData   properties.creationData.sourceResourceId Microsoft.ContainerService/snapshots/creationData.sourceResourceId   properties.snapshotType Microsoft.ContainerService/snapshots/snapshotType   properties.kubernetesVersion Microsoft.ContainerService/snapshots/kubernetesVersion   properties.nodeImageVersion Microsoft.ContainerService/snapshots/nodeImageVersion   properties.osType Microsoft.ContainerService/snapshots/osType   properties.osSku Microsoft.ContainerService/snapshots/osSku   properties.vmSize Microsoft.ContainerService/snapshots/vmSize   properties.enableFIPS Microsoft.ContainerService/snapshots/enableFIPS    </description>
+    </item>
+    
+  </channel>
+</rss>

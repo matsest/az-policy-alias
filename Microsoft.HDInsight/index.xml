@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.HDInsight/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.HDInsight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-applications/</guid>
+      <description>Link to resource definition: Microsoft.HDInsight/clusters/applications
+   Default Path Alias     properties.computeProfile.roles[*].name Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].name   properties.computeProfile.roles[*].minInstanceCount Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].minInstanceCount   properties.computeProfile.roles[*].targetInstanceCount Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].targetInstanceCount   properties.computeProfile.roles[*].hardwareProfile.vmSize Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].hardwareProfile.vmSize   properties.computeProfile.roles[*].hardwareProfile Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].hardwareProfile   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.username Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.username   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.password Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.password   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys[*].certificateData Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys[*].certificateData   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys[*] Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys[*]   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile.publicKeys   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile.sshProfile   properties.computeProfile.roles[*].osProfile.linuxOperatingSystemProfile Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile.linuxOperatingSystemProfile   properties.computeProfile.roles[*].osProfile Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].osProfile   properties.computeProfile.roles[*].virtualNetworkProfile.id Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].virtualNetworkProfile.id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.HDInsight/clusters/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.HDInsight/clusters/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.HDInsight/clusters/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.HDInsight/clusters/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.HDInsight/clusters/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.HDInsight/clusters/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.HDInsight/clusters/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.linkIdentifier Microsoft.HDInsight/clusters/privateEndpointConnections/linkIdentifier   properties.provisioningState Microsoft.HDInsight/clusters/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HDInsight/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HDInsight/clusters/</guid>
+      <description>Link to resource definition: Microsoft.HDInsight/clusters
+   Default Path Alias     properties.clusterVersion Microsoft.HDInsight/clusters/clusterVersion   properties.osType Microsoft.HDInsight/clusters/osType   properties.tier Microsoft.HDInsight/clusters/tier   properties.clusterDefinition.kind Microsoft.HDInsight/clusters/clusterDefinition.kind   properties.securityProfile.directoryType Microsoft.HDInsight/clusters/securityProfile.directoryType   properties.securityProfile.domain Microsoft.HDInsight/clusters/securityProfile.domain   properties.securityProfile.ldapsUrls[*] Microsoft.HDInsight/clusters/securityProfile.ldapsUrls[*]   properties.computeProfile.roles[*].virtualNetworkProfile.id Microsoft.HDInsight/clusters/computeProfile.roles[*].virtualNetworkProfile.id   properties.computeProfile.roles[*].virtualNetworkProfile.subnet Microsoft.HDInsight/clusters/computeProfile.roles[*].virtualNetworkProfile.subnet   properties.clusterDefinition.blueprint Microsoft.HDInsight/clusters/clusterDefinition.blueprint   properties.clusterDefinition.componentVersion Microsoft.HDInsight/clusters/clusterDefinition.componentVersion   properties.clusterDefinition.configurations Microsoft.HDInsight/clusters/clusterDefinition.configurations   properties.clusterDefinition Microsoft.HDInsight/clusters/clusterDefinition   properties.securityProfile.organizationalUnitDN Microsoft.HDInsight/clusters/securityProfile.organizationalUnitDN   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Maps/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</guid>
+      <description>Link to resource definition: Microsoft.Maps/accounts/creators
+   Default Path Alias     properties.provisioningState Microsoft.Maps/accounts/creators/provisioningState   properties.storageUnits Microsoft.Maps/accounts/creators/storageUnits    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Maps/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Maps/accounts/</guid>
+      <description>Link to resource definition: Microsoft.Maps/accounts
+   Default Path Alias     sku.name Microsoft.Maps/accounts/sku.name   sku.tier Microsoft.Maps/accounts/sku.tier   sku Microsoft.Maps/accounts/sku   properties.uniqueId Microsoft.Maps/accounts/uniqueId   properties.disableLocalAuth Microsoft.Maps/accounts/disableLocalAuth   properties.provisioningState Microsoft.Maps/accounts/provisioningState   properties.linkedResources Microsoft.Maps/accounts/linkedResources   properties.linkedResources[*] Microsoft.Maps/accounts/linkedResources[*]   properties.linkedResources[*].uniqueName Microsoft.Maps/accounts/linkedResources[*].uniqueName   properties.linkedResources[*].id Microsoft.Maps/accounts/linkedResources[*].id   properties.cors Microsoft.Maps/accounts/cors   properties.cors.corsRules Microsoft.Maps/accounts/cors.corsRules   properties.cors.corsRules[*] Microsoft.Maps/accounts/cors.corsRules[*]   properties.cors.corsRules[*].allowedOrigins Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

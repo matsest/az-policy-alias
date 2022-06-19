@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.IoTCentral/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.IoTCentral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.IoTCentral/IoTApps/privateEndpointConnections
+   Default Path Alias     properties.groupIds Microsoft.IoTCentral/iotApps/privateEndpointConnections/groupIds   properties.groupIds[*] Microsoft.IoTCentral/iotApps/privateEndpointConnections/groupIds[*]   properties.privateEndpoint Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.IoTCentral/iotApps/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps/</guid>
+      <description>Link to resource definition: Microsoft.IoTCentral/IoTApps
+   Default Path Alias     properties.applicationId Microsoft.IoTCentral/IoTApps/applicationId   properties.displayName Microsoft.IoTCentral/IoTApps/displayName   properties.subdomain Microsoft.IoTCentral/IoTApps/subdomain   properties.template Microsoft.IoTCentral/IoTApps/template   sku.name Microsoft.IoTCentral/IoTApps/sku.name   sku Microsoft.IoTCentral/IoTApps/sku   properties.state Microsoft.IoTCentral/iotApps/state   properties.provisioningState Microsoft.IoTCentral/iotApps/provisioningState   properties.publicNetworkAccess Microsoft.IoTCentral/iotApps/publicNetworkAccess   properties.networkRuleSets Microsoft.IoTCentral/iotApps/networkRuleSets   properties.networkRuleSets.applyToDevices Microsoft.IoTCentral/iotApps/networkRuleSets.applyToDevices   properties.networkRuleSets.applyToIoTCentral Microsoft.IoTCentral/iotApps/networkRuleSets.applyToIoTCentral   properties.networkRuleSets.defaultAction Microsoft.IoTCentral/iotApps/networkRuleSets.defaultAction   properties.networkRuleSets.ipRules Microsoft.IoTCentral/iotApps/networkRuleSets.ipRules   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

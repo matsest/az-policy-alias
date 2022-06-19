@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Storage/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Storage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies
+   Default Path Alias     properties.immutabilityPeriodSinceCreationInDays Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/default.immutabilityPeriodSinceCreationInDays   properties.state Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/default.state   properties.allowProtectedAppendWrites Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/default.allowProtectedAppendWrites   properties.immutabilityPeriodSinceCreationInDays Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/immutabilityPeriodSinceCreationInDays   properties.state Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/state   properties.allowProtectedAppendWrites Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/allowProtectedAppendWrites   properties.allowProtectedAppendWritesAll Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/allowProtectedAppendWritesAll    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/blobServices
+   Default Path Alias     properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedOrigins[*]   properties.cors.corsRules[*].allowedOrigins Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedOrigins   properties.cors.corsRules[*].allowedMethods[*] Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedMethods[*]   properties.cors.corsRules[*].allowedMethods Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedMethods   properties.cors.corsRules[*].maxAgeInSeconds Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].maxAgeInSeconds   properties.cors.corsRules[*].exposedHeaders[*] Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].exposedHeaders[*]   properties.cors.corsRules[*].exposedHeaders Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].exposedHeaders   properties.cors.corsRules[*].allowedHeaders[*] Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedHeaders[*]   properties.cors.corsRules[*].allowedHeaders Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*].allowedHeaders   properties.cors.corsRules[*] Microsoft.Storage/storageAccounts/blobServices/cors.corsRules[*]   properties.cors.corsRules Microsoft.Storage/storageAccounts/blobServices/cors.corsRules   properties.cors Microsoft.Storage/storageAccounts/blobServices/cors   properties.defaultServiceVersion Microsoft.Storage/storageAccounts/blobServices/defaultServiceVersion   properties.deleteRetentionPolicy.enabled Microsoft.Storage/storageAccounts/blobServices/deleteRetentionPolicy.enabled   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-encryptionScopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-encryptionScopes/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/encryptionScopes
+   Default Path Alias     properties.source Microsoft.Storage/storageAccounts/encryptionScopes/source   properties.state Microsoft.Storage/storageAccounts/encryptionScopes/state   properties.creationTime Microsoft.Storage/storageAccounts/encryptionScopes/creationTime   properties.lastModifiedTime Microsoft.Storage/storageAccounts/encryptionScopes/lastModifiedTime   properties.keyVaultProperties.keyUri Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties.keyUri   properties.keyVaultProperties Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties   properties.keyVaultProperties.currentVersionedKeyIdentifier Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties.currentVersionedKeyIdentifier   properties.keyVaultProperties.lastKeyRotationTimestamp Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties.lastKeyRotationTimestamp   properties.requireInfrastructureEncryption Microsoft.Storage/storageAccounts/encryptionScopes/requireInfrastructureEncryption    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices-shares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices-shares/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/fileServices/shares
+   Default Path Alias     properties.lastModifiedTime Microsoft.Storage/storageAccounts/fileServices/shares/lastModifiedTime   properties.metadata Microsoft.Storage/storageAccounts/fileServices/shares/metadata   properties.shareQuota Microsoft.Storage/storageAccounts/fileServices/shares/shareQuota   properties.enabledProtocols Microsoft.Storage/storageAccounts/fileServices/shares/enabledProtocols   properties.rootSquash Microsoft.Storage/storageAccounts/fileServices/shares/rootSquash   properties.version Microsoft.Storage/storageAccounts/fileServices/shares/version   properties.deleted Microsoft.Storage/storageAccounts/fileServices/shares/deleted   properties.deletedTime Microsoft.Storage/storageAccounts/fileServices/shares/deletedTime   properties.remainingRetentionDays Microsoft.Storage/storageAccounts/fileServices/shares/remainingRetentionDays   properties.accessTier Microsoft.Storage/storageAccounts/fileServices/shares/accessTier   properties.accessTierChangeTime Microsoft.Storage/storageAccounts/fileServices/shares/accessTierChangeTime   properties.accessTierStatus Microsoft.Storage/storageAccounts/fileServices/shares/accessTierStatus   properties.shareUsageBytes Microsoft.Storage/storageAccounts/fileServices/shares/shareUsageBytes   properties.snapshotTime Microsoft.Storage/storageAccounts/fileServices/shares/snapshotTime   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/fileServices
+   Default Path Alias     properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedOrigins[*]   properties.cors.corsRules[*].allowedOrigins Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedOrigins   properties.cors.corsRules[*].allowedMethods[*] Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedMethods[*]   properties.cors.corsRules[*].allowedMethods Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedMethods   properties.cors.corsRules[*].maxAgeInSeconds Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].maxAgeInSeconds   properties.cors.corsRules[*].exposedHeaders[*] Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].exposedHeaders[*]   properties.cors.corsRules[*].exposedHeaders Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].exposedHeaders   properties.cors.corsRules[*].allowedHeaders[*] Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedHeaders[*]   properties.cors.corsRules[*].allowedHeaders Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*].allowedHeaders   properties.cors.corsRules[*] Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules[*]   properties.cors.corsRules Microsoft.Storage/storageAccounts/fileServices/default.cors.corsRules   properties.cors Microsoft.Storage/storageAccounts/fileServices/default.cors   properties.shareDeleteRetentionPolicy.enabled Microsoft.Storage/storageAccounts/fileServices/default.shareDeleteRetentionPolicy.enabled   properties.shareDeleteRetentionPolicy.days Microsoft.Storage/storageAccounts/fileServices/default.shareDeleteRetentionPolicy.days   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-inventoryPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-inventoryPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/inventoryPolicies
+   Default Path Alias     properties.lastModifiedTime Microsoft.Storage/storageAccounts/inventoryPolicies/lastModifiedTime   properties.policy Microsoft.Storage/storageAccounts/inventoryPolicies/policy   properties.policy.enabled Microsoft.Storage/storageAccounts/inventoryPolicies/policy.enabled   properties.policy.destination Microsoft.Storage/storageAccounts/inventoryPolicies/policy.destination   properties.policy.type Microsoft.Storage/storageAccounts/inventoryPolicies/policy.type   properties.policy.rules Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules   properties.policy.rules[*] Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*]   properties.policy.rules[*].enabled Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].enabled   properties.policy.rules[*].name Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].name   properties.policy.rules[*].definition Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition   properties.policy.rules[*].definition.filters Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters   properties.policy.rules[*].definition.filters.prefixMatch Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.prefixMatch   properties.policy.rules[*].definition.filters.prefixMatch[*] Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.prefixMatch[*]   properties.policy.rules[*].definition.filters.blobTypes Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.blobTypes   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/managementPolicies
+   Default Path Alias     properties.lastModifiedTime Microsoft.Storage/storageAccounts/managementPolicies/lastModifiedTime   properties.policy Microsoft.Storage/storageAccounts/managementPolicies/policy   properties.policy.rules[*].enabled Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].enabled   properties.policy.rules[*].name Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].name   properties.policy.rules[*].type Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].type   properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.tierToCool Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCool   properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.tierToArchive Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive   properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.delete Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete   properties.policy.rules[*].definition.actions.baseBlob Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob   properties.policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan   properties.policy.rules[*].definition.actions.snapshot.delete Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.delete   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-objectReplicationPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-objectReplicationPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/objectReplicationPolicies
+   Default Path Alias     properties.policyId Microsoft.Storage/storageAccounts/objectReplicationPolicies/policyId   properties.enabledTime Microsoft.Storage/storageAccounts/objectReplicationPolicies/enabledTime   properties.sourceAccount Microsoft.Storage/storageAccounts/objectReplicationPolicies/sourceAccount   properties.destinationAccount Microsoft.Storage/storageAccounts/objectReplicationPolicies/destinationAccount   properties.rules[*].ruleId Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].ruleId   properties.rules[*].sourceContainer Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].sourceContainer   properties.rules[*].destinationContainer Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].destinationContainer   properties.rules[*].filters.prefixMatch[*] Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].filters.prefixMatch[*]   properties.rules[*].filters.prefixMatch Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].filters.prefixMatch   properties.rules[*].filters.minCreationTime Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].filters.minCreationTime   properties.rules[*].filters Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].filters   properties.rules[*] Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*]   properties.rules Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.Storage/storageAccounts/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.Storage/storageAccounts/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.privateLinkServiceConnectionState Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.provisioningState Microsoft.Storage/storageAccounts/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices-queues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices-queues/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/queueServices/queues
+   Default Path Alias     properties.metadata Microsoft.Storage/storageAccounts/queueServices/queues/metadata   properties.approximateMessageCount Microsoft.Storage/storageAccounts/queueServices/queues/approximateMessageCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/queueServices
+   Default Path Alias     properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedOrigins[*]   properties.cors.corsRules[*].allowedOrigins Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedOrigins   properties.cors.corsRules[*].allowedMethods[*] Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedMethods[*]   properties.cors.corsRules[*].allowedMethods Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedMethods   properties.cors.corsRules[*].maxAgeInSeconds Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].maxAgeInSeconds   properties.cors.corsRules[*].exposedHeaders[*] Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].exposedHeaders[*]   properties.cors.corsRules[*].exposedHeaders Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].exposedHeaders   properties.cors.corsRules[*].allowedHeaders[*] Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedHeaders[*]   properties.cors.corsRules[*].allowedHeaders Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*].allowedHeaders   properties.cors.corsRules[*] Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules[*]   properties.cors.corsRules Microsoft.Storage/storageAccounts/queueServices/default.cors.corsRules   properties.cors Microsoft.Storage/storageAccounts/queueServices/default.cors   properties.cors Microsoft.Storage/storageAccounts/queueServices/cors   properties.cors.corsRules Microsoft.Storage/storageAccounts/queueServices/cors.corsRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices-tables/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/tableServices/tables
+   Default Path Alias     properties.tableName Microsoft.Storage/storageAccounts/tableServices/tables/tableName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/tableServices
+   Default Path Alias     properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedOrigins[*]   properties.cors.corsRules[*].allowedOrigins Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedOrigins   properties.cors.corsRules[*].allowedMethods[*] Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedMethods[*]   properties.cors.corsRules[*].allowedMethods Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedMethods   properties.cors.corsRules[*].maxAgeInSeconds Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].maxAgeInSeconds   properties.cors.corsRules[*].exposedHeaders[*] Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].exposedHeaders[*]   properties.cors.corsRules[*].exposedHeaders Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].exposedHeaders   properties.cors.corsRules[*].allowedHeaders[*] Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedHeaders[*]   properties.cors.corsRules[*].allowedHeaders Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*].allowedHeaders   properties.cors.corsRules[*] Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules[*]   properties.cors.corsRules Microsoft.Storage/storageAccounts/tableServices/default.cors.corsRules   properties.cors Microsoft.Storage/storageAccounts/tableServices/default.cors   properties.cors Microsoft.Storage/storageAccounts/tableServices/cors   properties.cors.corsRules Microsoft.Storage/storageAccounts/tableServices/cors.corsRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts
+   Default Path Alias     properties.accountType Microsoft.Storage/storageAccounts/accountType   sku.name Microsoft.Storage/storageAccounts/sku.name   properties.accessTier Microsoft.Storage/storageAccounts/accessTier   properties.encryption.services.blob.enabled Microsoft.Storage/storageAccounts/enableBlobEncryption   properties.encryption.services.file.enabled Microsoft.Storage/storageAccounts/enableFileEncryption   properties.supportsHttpsTrafficOnly Microsoft.Storage/storageAccounts/supportsHttpsTrafficOnly   properties.networkAcls.defaultAction Microsoft.Storage/storageAccounts/networkAcls.defaultAction   properties.networkAcls.virtualNetworkRules[*].id Microsoft.Storage/storageAccounts/networkAcls.virtualNetworkRules[*].id   properties.networkAcls.ipRules[*].value Microsoft.Storage/storageAccounts/networkAcls.ipRules[*].value   properties.networkAcls.ipRules[*] Microsoft.Storage/storageAccounts/networkAcls.ipRules[*]   properties.networkAcls.virtualNetworkRules[*] Microsoft.Storage/storageAccounts/networkAcls.virtualNetworkRules[*]   properties.networkAcls.ipRules Microsoft.Storage/storageAccounts/networkAcls.ipRules   properties.networkAcls.virtualNetworkRules Microsoft.Storage/storageAccounts/networkAcls.virtualNetworkRules   sku.tier Microsoft.Storage/storageAccounts/sku.tier   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

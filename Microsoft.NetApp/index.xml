@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.NetApp/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.NetApp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-backupPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-backupPolicies/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/backupPolicies
+   Default Path Alias     properties.name Microsoft.NetApp/netAppAccounts/backupPolicies/name   properties.provisioningState Microsoft.NetApp/netAppAccounts/backupPolicies/provisioningState   properties.dailyBackupsToKeep Microsoft.NetApp/netAppAccounts/backupPolicies/dailyBackupsToKeep   properties.weeklyBackupsToKeep Microsoft.NetApp/netAppAccounts/backupPolicies/weeklyBackupsToKeep   properties.monthlyBackupsToKeep Microsoft.NetApp/netAppAccounts/backupPolicies/monthlyBackupsToKeep   properties.yearlyBackupsToKeep Microsoft.NetApp/netAppAccounts/backupPolicies/yearlyBackupsToKeep   properties.volumesAssigned Microsoft.NetApp/netAppAccounts/backupPolicies/volumesAssigned   properties.enabled Microsoft.NetApp/netAppAccounts/backupPolicies/enabled   properties.volumeBackups Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups   properties.volumeBackups[*] Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*]   properties.volumeBackups[*].volumeName Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].volumeName   properties.volumeBackups[*].backupsCount Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].backupsCount   properties.volumeBackups[*].policyEnabled Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].policyEnabled   properties.backupPolicyId Microsoft.NetApp/netAppAccounts/backupPolicies/backupPolicyId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups
+   Default Path Alias     properties.creationDate Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/creationDate   properties.provisioningState Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/provisioningState   properties.size Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/size   properties.label Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/label   properties.backupType Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/backupType   properties.backupId Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/backupId   properties.failureReason Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/failureReason   properties.volumeName Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/volumeName   properties.useExistingSnapshot Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/useExistingSnapshot    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots
+   Default Path Alias     properties.snapshotId Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/snapshotId   properties.fileSystemId Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/fileSystemId   properties.creationDate Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/creationDate   properties.provisioningState Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/provisioningState   properties.created Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/created    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes
+   Default Path Alias     properties.path Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/path   properties.size Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/size   properties.parentPath Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/parentPath   properties.provisioningState Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/capacityPools/volumes
+   Default Path Alias     properties.fileSystemId Microsoft.NetApp/netAppAccounts/capacityPools/volumes/fileSystemId   properties.creationToken Microsoft.NetApp/netAppAccounts/capacityPools/volumes/creationToken   properties.serviceLevel Microsoft.NetApp/netAppAccounts/capacityPools/volumes/serviceLevel   properties.usageThreshold Microsoft.NetApp/netAppAccounts/capacityPools/volumes/usageThreshold   properties.exportPolicy.rules[*].ruleIndex Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].ruleIndex   properties.exportPolicy.rules[*].unixReadOnly Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].unixReadOnly   properties.exportPolicy.rules[*].unixReadWrite Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].unixReadWrite   properties.exportPolicy.rules[*].cifs Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].cifs   properties.exportPolicy.rules[*].nfsv3 Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].nfsv3   properties.exportPolicy.rules[*].nfsv4 Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].nfsv4   properties.exportPolicy.rules[*].allowedClients Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*].allowedClients   properties.exportPolicy.rules[*] Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules[*]   properties.exportPolicy.rules Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy.rules   properties.exportPolicy Microsoft.NetApp/netAppAccounts/capacityPools/volumes/exportPolicy   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/capacityPools
+   Default Path Alias     properties.poolId Microsoft.NetApp/netAppAccounts/capacityPools/poolId   properties.size Microsoft.NetApp/netAppAccounts/capacityPools/size   properties.serviceLevel Microsoft.NetApp/netAppAccounts/capacityPools/serviceLevel   properties.provisioningState Microsoft.NetApp/netAppAccounts/capacityPools/provisioningState   properties.totalThroughputMibps Microsoft.NetApp/netAppAccounts/capacityPools/totalThroughputMibps   properties.utilizedThroughputMibps Microsoft.NetApp/netAppAccounts/capacityPools/utilizedThroughputMibps   properties.qosType Microsoft.NetApp/netAppAccounts/capacityPools/qosType   properties.coolAccess Microsoft.NetApp/netAppAccounts/capacityPools/coolAccess   properties.encryptionType Microsoft.NetApp/netAppAccounts/capacityPools/encryptionType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-snapshotPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-snapshotPolicies/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/snapshotPolicies
+   Default Path Alias     properties.name Microsoft.NetApp/netAppAccounts/snapshotPolicies/name   properties.hourlySchedule Microsoft.NetApp/netAppAccounts/snapshotPolicies/hourlySchedule   properties.hourlySchedule.snapshotsToKeep Microsoft.NetApp/netAppAccounts/snapshotPolicies/hourlySchedule.snapshotsToKeep   properties.hourlySchedule.minute Microsoft.NetApp/netAppAccounts/snapshotPolicies/hourlySchedule.minute   properties.hourlySchedule.usedBytes Microsoft.NetApp/netAppAccounts/snapshotPolicies/hourlySchedule.usedBytes   properties.dailySchedule Microsoft.NetApp/netAppAccounts/snapshotPolicies/dailySchedule   properties.dailySchedule.snapshotsToKeep Microsoft.NetApp/netAppAccounts/snapshotPolicies/dailySchedule.snapshotsToKeep   properties.dailySchedule.hour Microsoft.NetApp/netAppAccounts/snapshotPolicies/dailySchedule.hour   properties.dailySchedule.minute Microsoft.NetApp/netAppAccounts/snapshotPolicies/dailySchedule.minute   properties.dailySchedule.usedBytes Microsoft.NetApp/netAppAccounts/snapshotPolicies/dailySchedule.usedBytes   properties.weeklySchedule Microsoft.NetApp/netAppAccounts/snapshotPolicies/weeklySchedule   properties.weeklySchedule.snapshotsToKeep Microsoft.NetApp/netAppAccounts/snapshotPolicies/weeklySchedule.snapshotsToKeep   properties.weeklySchedule.day Microsoft.NetApp/netAppAccounts/snapshotPolicies/weeklySchedule.day   properties.weeklySchedule.hour Microsoft.NetApp/netAppAccounts/snapshotPolicies/weeklySchedule.hour   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-volumeGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-volumeGroups/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts/volumeGroups
+   Default Path Alias     properties.provisioningState Microsoft.NetApp/netAppAccounts/volumeGroups/provisioningState   properties.groupMetaData Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData   properties.groupMetaData.groupDescription Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.groupDescription   properties.groupMetaData.applicationType Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.applicationType   properties.groupMetaData.applicationIdentifier Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.applicationIdentifier   properties.groupMetaData.globalPlacementRules Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.globalPlacementRules   properties.groupMetaData.globalPlacementRules[*] Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.globalPlacementRules[*]   properties.groupMetaData.globalPlacementRules[*].key Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.globalPlacementRules[*].key   properties.groupMetaData.globalPlacementRules[*].value Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.globalPlacementRules[*].value   properties.groupMetaData.deploymentSpecId Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.deploymentSpecId   properties.groupMetaData.volumesCount Microsoft.NetApp/netAppAccounts/volumeGroups/groupMetaData.volumesCount   properties.volumes Microsoft.NetApp/netAppAccounts/volumeGroups/volumes   properties.volumes[*] Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*]   properties.volumes[*].id Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts/</guid>
+      <description>Link to resource definition: Microsoft.NetApp/netAppAccounts
+   Default Path Alias     properties.provisioningState Microsoft.NetApp/netAppAccounts/provisioningState   properties.activeDirectories[*].activeDirectoryId Microsoft.NetApp/netAppAccounts/activeDirectories[*].activeDirectoryId   properties.activeDirectories[*].username Microsoft.NetApp/netAppAccounts/activeDirectories[*].username   properties.activeDirectories[*].password Microsoft.NetApp/netAppAccounts/activeDirectories[*].password   properties.activeDirectories[*].domain Microsoft.NetApp/netAppAccounts/activeDirectories[*].domain   properties.activeDirectories[*].dNS Microsoft.NetApp/netAppAccounts/activeDirectories[*].dNS   properties.activeDirectories[*].status Microsoft.NetApp/netAppAccounts/activeDirectories[*].status   properties.activeDirectories[*].sMBServerName Microsoft.NetApp/netAppAccounts/activeDirectories[*].sMBServerName   properties.activeDirectories[*].organizationalUnit Microsoft.NetApp/netAppAccounts/activeDirectories[*].organizationalUnit   properties.activeDirectories[*] Microsoft.NetApp/netAppAccounts/activeDirectories[*]   properties.activeDirectories Microsoft.NetApp/netAppAccounts/activeDirectories   properties.activeDirectories[*].site Microsoft.NetApp/netAppAccounts/activeDirectories[*].site   properties.activeDirectories[*].backupOperators Microsoft.NetApp/netAppAccounts/activeDirectories[*].backupOperators   properties.activeDirectories[*].backupOperators[*] Microsoft.NetApp/netAppAccounts/activeDirectories[*].backupOperators[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

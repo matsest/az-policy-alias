@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.AnalysisServices/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.AnalysisServices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AnalysisServices/servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AnalysisServices/servers/</guid>
+      <description>Link to resource definition: Microsoft.AnalysisServices/servers
+   Default Path Alias     properties.state Microsoft.AnalysisServices/servers/state   properties.serverFullName Microsoft.AnalysisServices/servers/serverFullName   properties.managedMode Microsoft.AnalysisServices/servers/managedMode   properties.asAdministrators Microsoft.AnalysisServices/servers/asAdministrators   properties.asAdministrators.members Microsoft.AnalysisServices/servers/asAdministrators.members   properties.asAdministrators.members[*] Microsoft.AnalysisServices/servers/asAdministrators.members[*]   properties.backupBlobContainerUri Microsoft.AnalysisServices/servers/backupBlobContainerUri   properties.serverMonitorMode Microsoft.AnalysisServices/servers/serverMonitorMode   properties.querypoolConnectionMode Microsoft.AnalysisServices/servers/querypoolConnectionMode   properties.ipV4FirewallSettings Microsoft.AnalysisServices/servers/ipV4FirewallSettings   properties.ipV4FirewallSettings.firewallRules Microsoft.AnalysisServices/servers/ipV4FirewallSettings.firewallRules   properties.ipV4FirewallSettings.firewallRules[*] Microsoft.AnalysisServices/servers/ipV4FirewallSettings.firewallRules[*]   properties.ipV4FirewallSettings.firewallRules[*].firewallRuleName Microsoft.AnalysisServices/servers/ipV4FirewallSettings.firewallRules[*].firewallRuleName   properties.ipV4FirewallSettings.firewallRules[*].rangeStart Microsoft.AnalysisServices/servers/ipV4FirewallSettings.firewallRules[*].rangeStart   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

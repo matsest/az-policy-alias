@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Automation/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-certificates/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/certificates
+   Default Path Alias     properties.thumbprint Microsoft.Automation/automationAccounts/certificates/thumbprint   properties.isExportable Microsoft.Automation/automationAccounts/certificates/isExportable   properties.description Microsoft.Automation/automationAccounts/certificates/description   properties.expiryTime Microsoft.Automation/automationAccounts/certificates/expiryTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-compilationjobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-compilationjobs/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/compilationjobs
+   Default Path Alias     properties.configuration.name Microsoft.Automation/automationAccounts/compilationjobs/configuration.name   properties.configuration Microsoft.Automation/automationAccounts/compilationjobs/configuration   properties.parameters Microsoft.Automation/automationAccounts/compilationjobs/parameters    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-configurations/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/configurations
+   Default Path Alias     properties.parameters Microsoft.Automation/automationAccounts/configurations/parameters   properties.source.hash.algorithm Microsoft.Automation/automationAccounts/configurations/source.hash.algorithm   properties.source.hash Microsoft.Automation/automationAccounts/configurations/source.hash   properties.source.type Microsoft.Automation/automationAccounts/configurations/source.type   properties.source Microsoft.Automation/automationAccounts/configurations/source   properties.source.version Microsoft.Automation/automationAccounts/configurations/source.version   properties.logVerbose Microsoft.Automation/automationAccounts/configurations/logVerbose   properties.description Microsoft.Automation/automationAccounts/configurations/description   properties.source.hash.value Microsoft.Automation/automationAccounts/configurations/source.hash.value   properties.source.value Microsoft.Automation/automationAccounts/configurations/source.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connections/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/connections
+   Default Path Alias     properties.connectionType.name Microsoft.Automation/automationAccounts/connections/connectionType.name   properties.connectionType Microsoft.Automation/automationAccounts/connections/connectionType   properties.fieldDefinitionValues Microsoft.Automation/automationAccounts/connections/fieldDefinitionValues   properties.description Microsoft.Automation/automationAccounts/connections/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connectionTypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connectionTypes/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/connectionTypes
+   Default Path Alias     properties.isGlobal Microsoft.Automation/automationAccounts/connectionTypes/isGlobal   properties.fieldDefinitions Microsoft.Automation/automationAccounts/connectionTypes/fieldDefinitions    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-credentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-credentials/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/credentials
+   Default Path Alias     properties.userName Microsoft.Automation/automationAccounts/credentials/userName   properties.description Microsoft.Automation/automationAccounts/credentials/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobs/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/jobs
+   Default Path Alias     properties.runbook.name Microsoft.Automation/automationAccounts/jobs/runbook.name   properties.runbook Microsoft.Automation/automationAccounts/jobs/runbook   properties.runOn Microsoft.Automation/automationAccounts/jobs/runOn   properties.parameters Microsoft.Automation/automationAccounts/jobs/parameters    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobSchedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobSchedules/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/jobSchedules
+   Default Path Alias     properties.schedule.name Microsoft.Automation/automationAccounts/jobSchedules/schedule.name   properties.schedule Microsoft.Automation/automationAccounts/jobSchedules/schedule   properties.runbook.name Microsoft.Automation/automationAccounts/jobSchedules/runbook.name   properties.runbook Microsoft.Automation/automationAccounts/jobSchedules/runbook   properties.runOn Microsoft.Automation/automationAccounts/jobSchedules/runOn   properties.parameters Microsoft.Automation/automationAccounts/jobSchedules/parameters    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-modules/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/modules
+   Default Path Alias     properties.contentLink.uri Microsoft.Automation/automationAccounts/modules/contentLink.uri   properties.contentLink.contentHash.algorithm Microsoft.Automation/automationAccounts/modules/contentLink.contentHash.algorithm   properties.contentLink.contentHash Microsoft.Automation/automationAccounts/modules/contentLink.contentHash   properties.contentLink.version Microsoft.Automation/automationAccounts/modules/contentLink.version   properties.contentLink Microsoft.Automation/automationAccounts/modules/contentLink   properties.contentLink.contentHash.value Microsoft.Automation/automationAccounts/modules/contentLink.contentHash.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodeConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodeConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/nodeConfigurations
+   Default Path Alias     properties.configuration.name Microsoft.Automation/automationAccounts/nodeConfigurations/configuration.name   properties.configuration Microsoft.Automation/automationAccounts/nodeConfigurations/configuration   properties.source Microsoft.Automation/automationAccounts/nodeConfigurations/source   properties.incrementNodeConfigurationBuild Microsoft.Automation/automationAccounts/nodeConfigurations/incrementNodeConfigurationBuild    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodes/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/nodes
+   Default Path Alias     properties.nodeConfiguration Microsoft.Automation/automationAccounts/nodes/nodeConfiguration   properties.nodeConfiguration.name Microsoft.Automation/automationAccounts/nodes/nodeConfiguration.name    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Automation/automationAccounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Automation/automationAccounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-python2Packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-python2Packages/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/python2Packages
+   Default Path Alias     properties.contentLink.uri Microsoft.Automation/automationAccounts/python2Packages/contentLink.uri   properties.contentLink.contentHash.algorithm Microsoft.Automation/automationAccounts/python2Packages/contentLink.contentHash.algorithm   properties.contentLink.contentHash Microsoft.Automation/automationAccounts/python2Packages/contentLink.contentHash   properties.contentLink.version Microsoft.Automation/automationAccounts/python2Packages/contentLink.version   properties.contentLink Microsoft.Automation/automationAccounts/python2Packages/contentLink   properties.contentLink.contentHash.value Microsoft.Automation/automationAccounts/python2Packages/contentLink.contentHash.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-runbooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-runbooks/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/runbooks
+   Default Path Alias     properties.runbookType Microsoft.Automation/automationAccounts/runbooks/runbookType   properties.publishContentLink.uri Microsoft.Automation/automationAccounts/runbooks/publishContentLink.uri   properties.publishContentLink.contentHash.algorithm Microsoft.Automation/automationAccounts/runbooks/publishContentLink.contentHash.algorithm   properties.publishContentLink.contentHash Microsoft.Automation/automationAccounts/runbooks/publishContentLink.contentHash   properties.publishContentLink.version Microsoft.Automation/automationAccounts/runbooks/publishContentLink.version   properties.publishContentLink Microsoft.Automation/automationAccounts/runbooks/publishContentLink   properties.logVerbose Microsoft.Automation/automationAccounts/runbooks/logVerbose   properties.logProgress Microsoft.Automation/automationAccounts/runbooks/logProgress   properties.logActivityTrace Microsoft.Automation/automationAccounts/runbooks/logActivityTrace   properties.draft.inEdit Microsoft.Automation/automationAccounts/runbooks/draft.inEdit   properties.draft.draftContentLink.uri Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.uri   properties.draft.draftContentLink.contentHash.algorithm Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.contentHash.algorithm   properties.draft.draftContentLink.contentHash Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.contentHash   properties.draft.draftContentLink.version Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.version   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-schedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-schedules/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/schedules
+   Default Path Alias     properties.startTime Microsoft.Automation/automationAccounts/schedules/startTime   properties.expiryTime Microsoft.Automation/automationAccounts/schedules/expiryTime   properties.interval Microsoft.Automation/automationAccounts/schedules/interval   properties.frequency Microsoft.Automation/automationAccounts/schedules/frequency   properties.timeZone Microsoft.Automation/automationAccounts/schedules/timeZone   properties.advancedSchedule.weekDays[*] Microsoft.Automation/automationAccounts/schedules/advancedSchedule.weekDays[*]   properties.advancedSchedule.weekDays Microsoft.Automation/automationAccounts/schedules/advancedSchedule.weekDays   properties.advancedSchedule.monthDays[*] Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthDays[*]   properties.advancedSchedule.monthDays Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthDays   properties.advancedSchedule.monthlyOccurrences[*].occurrence Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthlyOccurrences[*].occurrence   properties.advancedSchedule.monthlyOccurrences[*].day Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthlyOccurrences[*].day   properties.advancedSchedule.monthlyOccurrences[*] Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthlyOccurrences[*]   properties.advancedSchedule.monthlyOccurrences Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthlyOccurrences   properties.advancedSchedule Microsoft.Automation/automationAccounts/schedules/advancedSchedule   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/softwareUpdateConfigurations
+   Default Path Alias     properties.updateConfiguration.operatingSystem Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.operatingSystem   properties.updateConfiguration.windows.includedUpdateClassifications Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.includedUpdateClassifications   properties.updateConfiguration.windows.excludedKbNumbers[*] Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.excludedKbNumbers[*]   properties.updateConfiguration.windows.excludedKbNumbers Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.excludedKbNumbers   properties.updateConfiguration.windows.includedKbNumbers[*] Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.includedKbNumbers[*]   properties.updateConfiguration.windows.includedKbNumbers Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.includedKbNumbers   properties.updateConfiguration.windows.rebootSetting Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows.rebootSetting   properties.updateConfiguration.windows Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.windows   properties.updateConfiguration.linux.includedPackageClassifications Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.includedPackageClassifications   properties.updateConfiguration.linux.excludedPackageNameMasks[*] Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.excludedPackageNameMasks[*]   properties.updateConfiguration.linux.excludedPackageNameMasks Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.excludedPackageNameMasks   properties.updateConfiguration.linux.includedPackageNameMasks[*] Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.includedPackageNameMasks[*]   properties.updateConfiguration.linux.includedPackageNameMasks Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.includedPackageNameMasks   properties.updateConfiguration.linux.rebootSetting Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/updateConfiguration.linux.rebootSetting   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-variables/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/variables
+   Default Path Alias     properties.isEncrypted Microsoft.Automation/automationAccounts/variables/isEncrypted   properties.description Microsoft.Automation/automationAccounts/variables/description   properties.value Microsoft.Automation/automationAccounts/variables/value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-watchers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-watchers/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/watchers
+   Default Path Alias     properties.executionFrequencyInSeconds Microsoft.Automation/automationAccounts/watchers/executionFrequencyInSeconds   properties.scriptName Microsoft.Automation/automationAccounts/watchers/scriptName   properties.scriptParameters Microsoft.Automation/automationAccounts/watchers/scriptParameters   properties.scriptRunOn Microsoft.Automation/automationAccounts/watchers/scriptRunOn   properties.status Microsoft.Automation/automationAccounts/watchers/status   properties.creationTime Microsoft.Automation/automationAccounts/watchers/creationTime   properties.lastModifiedTime Microsoft.Automation/automationAccounts/watchers/lastModifiedTime   properties.lastModifiedBy Microsoft.Automation/automationAccounts/watchers/lastModifiedBy   properties.description Microsoft.Automation/automationAccounts/watchers/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-webhooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-webhooks/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts/webhooks
+   Default Path Alias     properties.expiryTime Microsoft.Automation/automationAccounts/webhooks/expiryTime   properties.creationTime Microsoft.Automation/automationAccounts/webhooks/creationTime   properties.isEnabled Microsoft.Automation/automationAccounts/webhooks/isEnabled   properties.uri Microsoft.Automation/automationAccounts/webhooks/uri   properties.parameters Microsoft.Automation/automationAccounts/webhooks/parameters   properties.runbook.name Microsoft.Automation/automationAccounts/webhooks/runbook.name   properties.runbook Microsoft.Automation/automationAccounts/webhooks/runbook   properties.runOn Microsoft.Automation/automationAccounts/webhooks/runOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts/</guid>
+      <description>Link to resource definition: Microsoft.Automation/automationAccounts
+   Default Path Alias     properties.repoUrl Microsoft.Automation/automationAccounts/sourceControls.repoUrl   properties.branch Microsoft.Automation/automationAccounts/sourceControls.branch   properties.folderPath Microsoft.Automation/automationAccounts/sourceControls.folderPath   properties.autoSync Microsoft.Automation/automationAccounts/sourceControls.autoSync   properties.publishRunbook Microsoft.Automation/automationAccounts/sourceControls.publishRunbook   properties.sourceType Microsoft.Automation/automationAccounts/sourceControls.sourceType   properties.description Microsoft.Automation/automationAccounts/sourceControls.description   properties.sku.name Microsoft.Automation/automationAccounts/sku.name   properties.sku.family Microsoft.Automation/automationAccounts/sku.family   properties.sku.capacity Microsoft.Automation/automationAccounts/sku.capacity   properties.sku Microsoft.Automation/automationAccounts/sku   properties.encryption.keySource Microsoft.Automation/automationAccounts/encryption.keySource   properties.encryption Microsoft.Automation/automationAccounts/encryption   properties.encryption.keyVaultProperties Microsoft.Automation/automationAccounts/encryption.keyVaultProperties   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

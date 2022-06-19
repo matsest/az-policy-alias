@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Attestation/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Attestation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Attestation/attestationProviders/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.Attestation/attestationProviders/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</guid>
+      <description>Link to resource definition: Microsoft.Attestation/attestationProviders
+   Default Path Alias     properties.publicNetworkAccess Microsoft.Attestation/attestationProviders/publicNetworkAccess    </description>
+    </item>
+    
+  </channel>
+</rss>

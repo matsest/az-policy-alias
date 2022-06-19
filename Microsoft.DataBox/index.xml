@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataBox/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataBox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBox/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBox/jobs/</guid>
+      <description>Link to resource definition: Microsoft.DataBox/jobs
+   Default Path Alias     sku.name Microsoft.Databox/jobs/sku.name   sku.displayName Microsoft.Databox/jobs/sku.displayName   sku.family Microsoft.Databox/jobs/sku.family   sku Microsoft.Databox/jobs/sku   properties.isCancellable Microsoft.Databox/jobs/isCancellable   properties.isDeletable Microsoft.Databox/jobs/isDeletable   properties.isShippingAddressEditable Microsoft.Databox/jobs/isShippingAddressEditable   properties.status Microsoft.Databox/jobs/status   properties.startTime Microsoft.Databox/jobs/startTime   properties.error.code Microsoft.Databox/jobs/error.code   properties.error.message Microsoft.Databox/jobs/error.message   properties.error Microsoft.Databox/jobs/error   properties.details.expectedDataSizeInTeraBytes Microsoft.Databox/jobs/details.expectedDataSizeInTeraBytes   properties.details.jobStages[*].stageName Microsoft.Databox/jobs/details.jobStages[*].stageName   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

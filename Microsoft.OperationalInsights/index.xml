@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.OperationalInsights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/clusters/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/clusters
+   Default Path Alias     sku.capacity Microsoft.OperationalInsights/clusters/sku.capacity   sku.name Microsoft.OperationalInsights/clusters/sku.name   sku Microsoft.OperationalInsights/clusters/sku   properties.nextLink Microsoft.OperationalInsights/clusters/nextLink   properties.clusterId Microsoft.OperationalInsights/clusters/clusterId   properties.provisioningState Microsoft.OperationalInsights/clusters/provisioningState   properties.keyVaultProperties.keyVaultUri Microsoft.OperationalInsights/clusters/keyVaultProperties.keyVaultUri   properties.keyVaultProperties.keyName Microsoft.OperationalInsights/clusters/keyVaultProperties.keyName   properties.keyVaultProperties.keyVersion Microsoft.OperationalInsights/clusters/keyVaultProperties.keyVersion   properties.keyVaultProperties Microsoft.OperationalInsights/clusters/keyVaultProperties   properties.isDoubleEncryptionEnabled Microsoft.OperationalInsights/clusters/isDoubleEncryptionEnabled   properties.isAvailabilityZonesEnabled Microsoft.OperationalInsights/clusters/isAvailabilityZonesEnabled   properties.billingType Microsoft.OperationalInsights/clusters/billingType   properties.keyVaultProperties.rsaKeySize Microsoft.OperationalInsights/clusters/keyVaultProperties.rsaKeySize   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataExports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataExports/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/dataExports
+   Default Path Alias     properties.dataExportId Microsoft.OperationalInsights/workspaces/dataExports/dataExportId   properties.allTables Microsoft.OperationalInsights/workspaces/dataExports/allTables   properties.tableNames[*] Microsoft.OperationalInsights/workspaces/dataExports/tableNames[*]   properties.tableNames Microsoft.OperationalInsights/workspaces/dataExports/tableNames   properties.destination.resourceId Microsoft.OperationalInsights/workspaces/dataExports/destination.resourceId   properties.destination.type Microsoft.OperationalInsights/workspaces/dataExports/destination.type   properties.destination.metaData.eventHubName Microsoft.OperationalInsights/workspaces/dataExports/destination.metaData.eventHubName   properties.destination.metaData Microsoft.OperationalInsights/workspaces/dataExports/destination.metaData   properties.destination Microsoft.OperationalInsights/workspaces/dataExports/destination   properties.enable Microsoft.OperationalInsights/workspaces/dataExports/enable   properties.createdDate Microsoft.OperationalInsights/workspaces/dataExports/createdDate   properties.lastModifiedDate Microsoft.OperationalInsights/workspaces/dataExports/lastModifiedDate    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataSources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataSources/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/dataSources
+   Default Path Alias     properties.eventLogName Microsoft.OperationalInsights/workspaces/dataSources/eventLogName   properties.eventTypes[*].eventType Microsoft.OperationalInsights/workspaces/dataSources/eventTypes[*].eventType   properties.objectName Microsoft.OperationalInsights/workspaces/dataSources/objectName   properties.instanceName Microsoft.OperationalInsights/workspaces/dataSources/instanceName   properties.intervalSeconds Microsoft.OperationalInsights/workspaces/dataSources/intervalSeconds   properties.counterName Microsoft.OperationalInsights/workspaces/dataSources/counterName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-linkedServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-linkedServices/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/linkedServices
+   Default Path Alias     properties.resourceId Microsoft.OperationalInsights/workspaces/linkedServices/resourceId   properties.writeAccessResourceId Microsoft.OperationalInsights/workspaces/linkedServices/writeAccessResourceId   properties.provisioningState Microsoft.OperationalInsights/workspaces/linkedServices/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-savedSearches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-savedSearches/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/savedSearches
+   Default Path Alias     properties.category Microsoft.OperationalInsights/workspaces/savedSearches/category   properties.displayName Microsoft.OperationalInsights/workspaces/savedSearches/displayName   properties.query Microsoft.OperationalInsights/workspaces/savedSearches/query   properties.version Microsoft.OperationalInsights/workspaces/savedSearches/version   properties.tags[*].name Microsoft.OperationalInsights/workspaces/savedSearches/tags[*].name   properties.tags[*] Microsoft.OperationalInsights/workspaces/savedSearches/tags[*]   properties.tags Microsoft.OperationalInsights/workspaces/savedSearches/tags   properties.tags[*].value Microsoft.OperationalInsights/workspaces/savedSearches/tags[*].value   properties.functionAlias Microsoft.OperationalInsights/workspaces/savedSearches/functionAlias   properties.functionParameters Microsoft.OperationalInsights/workspaces/savedSearches/functionParameters    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/storageInsightConfigs
+   Default Path Alias     properties.containers[*] Microsoft.OperationalInsights/workspaces/storageinsightconfigs/containers[*]   properties.containers Microsoft.OperationalInsights/workspaces/storageinsightconfigs/containers   properties.tables[*] Microsoft.OperationalInsights/workspaces/storageinsightconfigs/tables[*]   properties.tables Microsoft.OperationalInsights/workspaces/storageinsightconfigs/tables   properties.storageAccount.id Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount.id   properties.storageAccount.key Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount.key   properties.storageAccount Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount   properties.status.state Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.state   properties.status.description Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.description   properties.status Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces
+   Default Path Alias     properties.retentionInDays Microsoft.OperationalInsights/workspaces/retentionInDays   properties.sku.name Microsoft.OperationalInsights/workspaces/sku.name   properties.provisioningState Microsoft.OperationalInsights/workspaces/provisioningState   properties.source Microsoft.OperationalInsights/workspaces/source   properties.customerId Microsoft.OperationalInsights/workspaces/customerId   properties.portalUrl Microsoft.OperationalInsights/workspaces/portalUrl   properties.sku Microsoft.OperationalInsights/workspaces/sku   properties.groupType Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.groupType   properties.count Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.count   properties.machines[*].id Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.machines[*].id   properties.machines[*].type Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.machines[*].type   properties.machines[*].name Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.machines[*].name   properties.machines[*].kind Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.machines[*].kind   properties.machines[*] Microsoft.OperationalInsights/workspaces/features.serviceMap.machineGroups.machines[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

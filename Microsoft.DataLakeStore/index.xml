@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataLakeStore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-firewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-firewallRules/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/firewallRules
+   Default Path Alias     properties.startIpAddress Microsoft.DataLakeStore/accounts/firewallRules/startIpAddress   properties.endIpAddress Microsoft.DataLakeStore/accounts/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-trustedIdProviders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-trustedIdProviders/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/trustedIdProviders
+   Default Path Alias     properties.idProvider Microsoft.DataLakeStore/accounts/trustedIdProviders/idProvider    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-virtualNetworkRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-virtualNetworkRules/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/virtualNetworkRules
+   Default Path Alias     properties.subnetId Microsoft.DataLakeStore/accounts/virtualNetworkRules/subnetId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts
+   Default Path Alias     properties.firewallState Microsoft.DataLakeStore/accounts/firewallState   properties.encryptionState Microsoft.DataLakeStore/accounts/encryptionState   properties.newTier Microsoft.DataLakeStore/accounts/newTier   properties.provisioningState Microsoft.DataLakeStore/accounts/provisioningState   properties.state Microsoft.DataLakeStore/accounts/state   properties.creationTime Microsoft.DataLakeStore/accounts/creationTime   properties.encryptionProvisioningState Microsoft.DataLakeStore/accounts/encryptionProvisioningState   properties.encryptionConfig.type Microsoft.DataLakeStore/accounts/encryptionConfig.type   properties.encryptionConfig.keyVaultMetaInfo.keyVaultResourceId Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.keyVaultResourceId   properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyName Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyName   properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion   properties.encryptionConfig.keyVaultMetaInfo Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo   properties.encryptionConfig Microsoft.DataLakeStore/accounts/encryptionConfig   properties.lastModifiedTime Microsoft.DataLakeStore/accounts/lastModifiedTime   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

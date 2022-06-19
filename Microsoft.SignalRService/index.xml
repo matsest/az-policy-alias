@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.SignalRService/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.SignalRService/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/signalR-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/signalR-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/signalR/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.SignalRService/signalR/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.SignalRService/signalR/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.SignalRService/signalR/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.SignalRService/signalR/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.SignalRService/signalR/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.SignalRService/signalR/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.SignalRService/signalR/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/SignalR/sharedPrivateLinkResources
+   Default Path Alias     properties.groupId Microsoft.SignalRService/signalR/sharedPrivateLinkResources/groupId   properties.privateLinkResourceId Microsoft.SignalRService/signalR/sharedPrivateLinkResources/privateLinkResourceId   properties.provisioningState Microsoft.SignalRService/signalR/sharedPrivateLinkResources/provisioningState   properties.requestMessage Microsoft.SignalRService/signalR/sharedPrivateLinkResources/requestMessage   properties.status Microsoft.SignalRService/signalR/sharedPrivateLinkResources/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/SignalR
+   Default Path Alias     sku.name Microsoft.SignalRservice/SignalR/sku.name   sku.tier Microsoft.SignalRservice/SignalR/sku.tier   sku.size Microsoft.SignalRservice/SignalR/sku.size   sku.family Microsoft.SignalRservice/SignalR/sku.family   sku.capacity Microsoft.SignalRservice/SignalR/sku.capacity   sku Microsoft.SignalRservice/SignalR/sku   properties.hostNamePrefix Microsoft.SignalRservice/SignalR/hostNamePrefix   properties.features[*].flag Microsoft.SignalRservice/SignalR/features[*].flag   properties.features[*].value Microsoft.SignalRservice/SignalR/features[*].value   properties.features[*] Microsoft.SignalRservice/SignalR/features[*]   properties.features Microsoft.SignalRservice/SignalR/features   properties.cors.allowedOrigins[*] Microsoft.SignalRservice/SignalR/cors.allowedOrigins[*]   properties.cors.allowedOrigins Microsoft.SignalRservice/SignalR/cors.allowedOrigins   properties.cors Microsoft.SignalRservice/SignalR/cors   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/WebPubSub/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.SignalRService/webPubSub/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources
+   Default Path Alias     properties.groupId Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/groupId   properties.privateLinkResourceId Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/privateLinkResourceId   properties.provisioningState Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/provisioningState   properties.requestMessage Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/requestMessage   properties.status Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub/</guid>
+      <description>Link to resource definition: Microsoft.SignalRService/WebPubSub
+   Default Path Alias     sku Microsoft.SignalRService/webPubSub/sku   sku.name Microsoft.SignalRService/webPubSub/sku.name   sku.tier Microsoft.SignalRService/webPubSub/sku.tier   sku.size Microsoft.SignalRService/webPubSub/sku.size   sku.family Microsoft.SignalRService/webPubSub/sku.family   sku.capacity Microsoft.SignalRService/webPubSub/sku.capacity   properties.provisioningState Microsoft.SignalRService/webPubSub/provisioningState   properties.externalIP Microsoft.SignalRService/webPubSub/externalIP   properties.hostName Microsoft.SignalRService/webPubSub/hostName   properties.publicPort Microsoft.SignalRService/webPubSub/publicPort   properties.serverPort Microsoft.SignalRService/webPubSub/serverPort   properties.version Microsoft.SignalRService/webPubSub/version   properties.privateEndpointConnections Microsoft.SignalRService/webPubSub/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.SignalRService/webPubSub/privateEndpointConnections[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Media/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-accountFilters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-accountFilters/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/accountFilters
+   Default Path Alias     properties.presentationTimeRange Microsoft.Media/mediaServices/accountFilters/presentationTimeRange   properties.presentationTimeRange.startTimestamp Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.startTimestamp   properties.presentationTimeRange.endTimestamp Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.endTimestamp   properties.presentationTimeRange.presentationWindowDuration Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.presentationWindowDuration   properties.presentationTimeRange.liveBackoffDuration Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.liveBackoffDuration   properties.presentationTimeRange.timescale Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.timescale   properties.presentationTimeRange.forceEndTimestamp Microsoft.Media/mediaServices/accountFilters/presentationTimeRange.forceEndTimestamp   properties.firstQuality Microsoft.Media/mediaServices/accountFilters/firstQuality   properties.firstQuality.bitrate Microsoft.Media/mediaServices/accountFilters/firstQuality.bitrate   properties.tracks Microsoft.Media/mediaServices/accountFilters/tracks   properties.tracks[*] Microsoft.Media/mediaServices/accountFilters/tracks[*]   properties.tracks[*].trackSelections Microsoft.Media/mediaServices/accountFilters/tracks[*].trackSelections   properties.tracks[*].trackSelections[*] Microsoft.Media/mediaServices/accountFilters/tracks[*].trackSelections[*]   properties.tracks[*].trackSelections[*].property Microsoft.Media/mediaServices/accountFilters/tracks[*].trackSelections[*].property   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets-assetFilters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets-assetFilters/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/assets/assetFilters
+   Default Path Alias     properties.presentationTimeRange Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange   properties.presentationTimeRange.startTimestamp Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.startTimestamp   properties.presentationTimeRange.endTimestamp Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.endTimestamp   properties.presentationTimeRange.presentationWindowDuration Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.presentationWindowDuration   properties.presentationTimeRange.liveBackoffDuration Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.liveBackoffDuration   properties.presentationTimeRange.timescale Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.timescale   properties.presentationTimeRange.forceEndTimestamp Microsoft.Media/mediaServices/assets/assetFilters/presentationTimeRange.forceEndTimestamp   properties.firstQuality Microsoft.Media/mediaServices/assets/assetFilters/firstQuality   properties.firstQuality.bitrate Microsoft.Media/mediaServices/assets/assetFilters/firstQuality.bitrate   properties.tracks Microsoft.Media/mediaServices/assets/assetFilters/tracks   properties.tracks[*] Microsoft.Media/mediaServices/assets/assetFilters/tracks[*]   properties.tracks[*].trackSelections Microsoft.Media/mediaServices/assets/assetFilters/tracks[*].trackSelections   properties.tracks[*].trackSelections[*] Microsoft.Media/mediaServices/assets/assetFilters/tracks[*].trackSelections[*]   properties.tracks[*].trackSelections[*].property Microsoft.Media/mediaServices/assets/assetFilters/tracks[*].trackSelections[*].property   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/assets
+   Default Path Alias     properties.assetId Microsoft.Media/mediaServices/assets/assetId   properties.created Microsoft.Media/mediaServices/assets/created   properties.lastModified Microsoft.Media/mediaServices/assets/lastModified   properties.alternateId Microsoft.Media/mediaServices/assets/alternateId   properties.description Microsoft.Media/mediaServices/assets/description   properties.container Microsoft.Media/mediaServices/assets/container   properties.storageAccountName Microsoft.Media/mediaServices/assets/storageAccountName   properties.storageEncryptionFormat Microsoft.Media/mediaServices/assets/storageEncryptionFormat    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-contentKeyPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-contentKeyPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/contentKeyPolicies
+   Default Path Alias     properties.policyId Microsoft.Media/mediaServices/contentKeyPolicies/policyId   properties.created Microsoft.Media/mediaServices/contentKeyPolicies/created   properties.lastModified Microsoft.Media/mediaServices/contentKeyPolicies/lastModified   properties.description Microsoft.Media/mediaServices/contentKeyPolicies/description   properties.options Microsoft.Media/mediaServices/contentKeyPolicies/options   properties.options[*] Microsoft.Media/mediaServices/contentKeyPolicies/options[*]   properties.options[*].policyOptionId Microsoft.Media/mediaServices/contentKeyPolicies/options[*].policyOptionId   properties.options[*].name Microsoft.Media/mediaServices/contentKeyPolicies/options[*].name   properties.options[*].configuration Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyWidevineConfiguration   properties.options[*].configuration.widevineTemplate Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyWidevineConfiguration.widevineTemplate   properties.options[*].configuration.licenses Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses   properties.options[*].configuration.licenses[*] Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses[*]   properties.options[*].configuration.licenses[*].allowTestDevices Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses[*].allowTestDevices   properties.options[*].configuration.licenses[*].beginDate Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses[*].beginDate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents-liveOutputs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents-liveOutputs/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/liveEvents/liveOutputs
+   Default Path Alias     properties.description Microsoft.Media/mediaservices/liveEvents/liveOutputs/description   properties.assetName Microsoft.Media/mediaservices/liveEvents/liveOutputs/assetName   properties.archiveWindowLength Microsoft.Media/mediaservices/liveEvents/liveOutputs/archiveWindowLength   properties.manifestName Microsoft.Media/mediaservices/liveEvents/liveOutputs/manifestName   properties.hls Microsoft.Media/mediaservices/liveEvents/liveOutputs/hls   properties.hls.fragmentsPerTsSegment Microsoft.Media/mediaservices/liveEvents/liveOutputs/hls.fragmentsPerTsSegment   properties.outputSnapTime Microsoft.Media/mediaservices/liveEvents/liveOutputs/outputSnapTime   properties.created Microsoft.Media/mediaservices/liveEvents/liveOutputs/created   properties.lastModified Microsoft.Media/mediaservices/liveEvents/liveOutputs/lastModified   properties.provisioningState Microsoft.Media/mediaservices/liveEvents/liveOutputs/provisioningState   properties.resourceState Microsoft.Media/mediaservices/liveEvents/liveOutputs/resourceState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/liveEvents
+   Default Path Alias     properties.description Microsoft.Media/mediaservices/liveEvents/description   properties.input Microsoft.Media/mediaservices/liveEvents/input   properties.input.streamingProtocol Microsoft.Media/mediaservices/liveEvents/input.streamingProtocol   properties.input.keyFrameIntervalDuration Microsoft.Media/mediaservices/liveEvents/input.keyFrameIntervalDuration   properties.input.accessToken Microsoft.Media/mediaservices/liveEvents/input.accessToken   properties.input.endpoints Microsoft.Media/mediaservices/liveEvents/input.endpoints   properties.input.endpoints[*] Microsoft.Media/mediaservices/liveEvents/input.endpoints[*]   properties.input.endpoints[*].protocol Microsoft.Media/mediaservices/liveEvents/input.endpoints[*].protocol   properties.input.endpoints[*].url Microsoft.Media/mediaservices/liveEvents/input.endpoints[*].url   properties.preview Microsoft.Media/mediaservices/liveEvents/preview   properties.preview.endpoints Microsoft.Media/mediaservices/liveEvents/preview.endpoints   properties.preview.endpoints[*] Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*]   properties.preview.endpoints[*].protocol Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*].protocol   properties.preview.endpoints[*].url Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*].url   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-mediaGraphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-mediaGraphs/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/mediaGraphs
+   Default Path Alias     properties.description Microsoft.Media/mediaServices/mediaGraphs/description   properties.state Microsoft.Media/mediaServices/mediaGraphs/state   properties.created Microsoft.Media/mediaServices/mediaGraphs/created   properties.lastModified Microsoft.Media/mediaServices/mediaGraphs/lastModified   properties.sources Microsoft.Media/mediaServices/mediaGraphs/sources   properties.sources[*] Microsoft.Media/mediaServices/mediaGraphs/sources[*]   properties.sources[*].rtspUrl Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.rtspUrl   properties.sources[*].credentials Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.credentials   properties.sources[*].credentials.username Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.credentials.username   properties.sources[*].credentials.password Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.credentials.password   properties.sources[*].name Microsoft.Media/mediaServices/mediaGraphs/sources[*].name   properties.sinks Microsoft.Media/mediaServices/mediaGraphs/sinks   properties.sinks[*] Microsoft.Media/mediaServices/mediaGraphs/sinks[*]   properties.sinks[*].assetName Microsoft.Media/mediaServices/mediaGraphs/sinks[*].#Microsoft-Media-MediaGraphAssetSink.assetName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Media/mediaservices/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Media/mediaservices/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Media/mediaservices/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Media/mediaservices/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Media/mediaservices/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Media/mediaservices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.Media/mediaservices/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/streamingEndpoints
+   Default Path Alias     properties.description Microsoft.Media/mediaservices/streamingEndpoints/description   properties.scaleUnits Microsoft.Media/mediaservices/streamingEndpoints/scaleUnits   properties.availabilitySetName Microsoft.Media/mediaservices/streamingEndpoints/availabilitySetName   properties.accessControl Microsoft.Media/mediaservices/streamingEndpoints/accessControl   properties.accessControl.akamai Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai   properties.accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList   properties.accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*] Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*]   properties.accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].identifier Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].identifier   properties.accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].base64Key Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].base64Key   properties.accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].expiration Microsoft.Media/mediaservices/streamingEndpoints/accessControl.akamai.akamaiSignatureHeaderAuthenticationKeyList[*].expiration   properties.accessControl.ip Microsoft.Media/mediaservices/streamingEndpoints/accessControl.ip   properties.accessControl.ip.allow Microsoft.Media/mediaservices/streamingEndpoints/accessControl.ip.allow   properties.accessControl.ip.allow[*] Microsoft.Media/mediaservices/streamingEndpoints/accessControl.ip.allow[*]   properties.accessControl.ip.allow[*].name Microsoft.Media/mediaservices/streamingEndpoints/accessControl.ip.allow[*].name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingLocators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingLocators/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/streamingLocators
+   Default Path Alias     properties.assetName Microsoft.Media/mediaServices/streamingLocators/assetName   properties.created Microsoft.Media/mediaServices/streamingLocators/created   properties.startTime Microsoft.Media/mediaServices/streamingLocators/startTime   properties.endTime Microsoft.Media/mediaServices/streamingLocators/endTime   properties.streamingLocatorId Microsoft.Media/mediaServices/streamingLocators/streamingLocatorId   properties.streamingPolicyName Microsoft.Media/mediaServices/streamingLocators/streamingPolicyName   properties.defaultContentKeyPolicyName Microsoft.Media/mediaServices/streamingLocators/defaultContentKeyPolicyName   properties.contentKeys Microsoft.Media/mediaServices/streamingLocators/contentKeys   properties.contentKeys[*] Microsoft.Media/mediaServices/streamingLocators/contentKeys[*]   properties.contentKeys[*].id Microsoft.Media/mediaServices/streamingLocators/contentKeys[*].id   properties.contentKeys[*].label Microsoft.Media/mediaServices/streamingLocators/contentKeys[*].label   properties.contentKeys[*].value Microsoft.Media/mediaServices/streamingLocators/contentKeys[*].value   properties.contentKeys[*].type Microsoft.Media/mediaServices/streamingLocators/contentKeys[*].type   properties.contentKeys[*].policyName Microsoft.Media/mediaServices/streamingLocators/contentKeys[*].policyName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/streamingPolicies
+   Default Path Alias     properties.created Microsoft.Media/mediaServices/streamingPolicies/created   properties.defaultContentKeyPolicyName Microsoft.Media/mediaServices/streamingPolicies/defaultContentKeyPolicyName   properties.envelopeEncryption Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption   properties.envelopeEncryption.enabledProtocols Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.enabledProtocols   properties.envelopeEncryption.enabledProtocols.download Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.enabledProtocols.download   properties.envelopeEncryption.enabledProtocols.dash Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.enabledProtocols.dash   properties.envelopeEncryption.enabledProtocols.hls Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.enabledProtocols.hls   properties.envelopeEncryption.enabledProtocols.smoothStreaming Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.enabledProtocols.smoothStreaming   properties.envelopeEncryption.clearTracks Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks   properties.envelopeEncryption.clearTracks[*] Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks[*]   properties.envelopeEncryption.clearTracks[*].trackSelections Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks[*].trackSelections   properties.envelopeEncryption.clearTracks[*].trackSelections[*] Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks[*].trackSelections[*]   properties.envelopeEncryption.clearTracks[*].trackSelections[*].property Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks[*].trackSelections[*].property   properties.envelopeEncryption.clearTracks[*].trackSelections[*].operation Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.clearTracks[*].trackSelections[*].operation   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms-jobs/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/transforms/jobs
+   Default Path Alias     properties.created Microsoft.Media/mediaServices/transforms/jobs/created   properties.state Microsoft.Media/mediaServices/transforms/jobs/state   properties.description Microsoft.Media/mediaServices/transforms/jobs/description   properties.input Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip   properties.input.files Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.files   properties.input.files[*] Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.files[*]   properties.input.inputs Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs   properties.input.inputs[*] Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*]   properties.input.inputs[*].files Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files   properties.input.inputs[*].files[*] Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files[*]   properties.input.inputs[*].label Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].label   properties.input.inputs[*].label Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.label   properties.input.label Microsoft.Media/mediaServices/transforms/jobs/input.label   properties.input.label Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.label   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices/transforms
+   Default Path Alias     properties.created Microsoft.Media/mediaServices/transforms/created   properties.description Microsoft.Media/mediaServices/transforms/description   properties.lastModified Microsoft.Media/mediaServices/transforms/lastModified   properties.outputs Microsoft.Media/mediaServices/transforms/outputs   properties.outputs[*] Microsoft.Media/mediaServices/transforms/outputs[*]   properties.outputs[*].onError Microsoft.Media/mediaServices/transforms/outputs[*].onError   properties.outputs[*].relativePriority Microsoft.Media/mediaServices/transforms/outputs[*].relativePriority   properties.outputs[*].preset Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-AudioAnalyzerPreset   properties.outputs[*].preset Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-FaceDetectorPreset   properties.outputs[*].preset.audioLanguage Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-AudioAnalyzerPreset.audioLanguage   properties.outputs[*].preset.presetName Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-BuiltInStandardEncoderPreset.presetName   properties.outputs[*].preset.filters Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.filters   properties.outputs[*].preset.filters.deinterlace Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.filters.deinterlace   properties.outputs[*].preset.filters.deinterlace.parity Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.filters.deinterlace.parity   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/mediaservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/mediaservices/</guid>
+      <description>Link to resource definition: Microsoft.Media/mediaservices
+   Default Path Alias     properties.apiEndpoints Microsoft.Media/mediaservices/apiEndpoints   properties.apiEndpoints[*] Microsoft.Media/mediaservices/apiEndpoints[*]   properties.apiEndpoints[*].endpoint Microsoft.Media/mediaservices/apiEndpoints[*].endpoint   properties.apiEndpoints[*].majorVersion Microsoft.Media/mediaservices/apiEndpoints[*].majorVersion   properties.storageAccounts Microsoft.Media/mediaservices/storageAccounts   properties.storageAccounts[*] Microsoft.Media/mediaservices/storageAccounts[*]   properties.storageAccounts[*].id Microsoft.Media/mediaservices/storageAccounts[*].id   properties.storageAccounts[*].isPrimary Microsoft.Media/mediaservices/storageAccounts[*].isPrimary   properties.mediaServiceId Microsoft.Media/mediaservices/mediaServiceId   properties.storageAccounts[*].type Microsoft.Media/mediaservices/storageAccounts[*].type   properties.storageAuthentication Microsoft.Media/mediaservices/storageAuthentication   properties.encryption Microsoft.Media/mediaservices/encryption   properties.encryption.type Microsoft.Media/mediaservices/encryption.type   properties.encryption.keyVaultProperties Microsoft.Media/mediaservices/encryption.keyVaultProperties   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-accessPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-accessPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/accessPolicies
+   Default Path Alias     properties.role Microsoft.Media/videoAnalyzers/accessPolicies/role   properties.authentication Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication   properties.authentication.issuers Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.issuers   properties.authentication.issuers[*] Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.issuers[*]   properties.authentication.audiences Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.audiences   properties.authentication.audiences[*] Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.audiences[*]   properties.authentication.claims Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.claims   properties.authentication.claims[*] Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.claims[*]   properties.authentication.claims[*].name Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.claims[*].name   properties.authentication.claims[*].value Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.claims[*].value   properties.authentication.keys Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys   properties.authentication.keys[*] Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*]   properties.authentication.keys[*].alg Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-EccTokenKey.alg   properties.authentication.keys[*].x Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-EccTokenKey.x   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-edgeModules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-edgeModules/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/edgeModules
+   Default Path Alias     properties.edgeModuleId Microsoft.Media/videoAnalyzers/edgeModules/edgeModuleId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-livePipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-livePipelines/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/livePipelines
+   Default Path Alias     properties.topologyName Microsoft.Media/videoAnalyzers/livePipelines/topologyName   properties.description Microsoft.Media/videoAnalyzers/livePipelines/description   properties.bitrateKbps Microsoft.Media/videoAnalyzers/livePipelines/bitrateKbps   properties.state Microsoft.Media/videoAnalyzers/livePipelines/state   properties.parameters Microsoft.Media/videoAnalyzers/livePipelines/parameters   properties.parameters[*] Microsoft.Media/videoAnalyzers/livePipelines/parameters[*]   properties.parameters[*].name Microsoft.Media/videoAnalyzers/livePipelines/parameters[*].name   properties.parameters[*].value Microsoft.Media/videoAnalyzers/livePipelines/parameters[*].value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineJobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineJobs/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/pipelineJobs
+   Default Path Alias     properties.topologyName Microsoft.Media/videoAnalyzers/pipelineJobs/topologyName   properties.description Microsoft.Media/videoAnalyzers/pipelineJobs/description   properties.state Microsoft.Media/videoAnalyzers/pipelineJobs/state   properties.expiration Microsoft.Media/videoAnalyzers/pipelineJobs/expiration   properties.error Microsoft.Media/videoAnalyzers/pipelineJobs/error   properties.error.code Microsoft.Media/videoAnalyzers/pipelineJobs/error.code   properties.error.message Microsoft.Media/videoAnalyzers/pipelineJobs/error.message   properties.parameters Microsoft.Media/videoAnalyzers/pipelineJobs/parameters   properties.parameters[*] Microsoft.Media/videoAnalyzers/pipelineJobs/parameters[*]   properties.parameters[*].name Microsoft.Media/videoAnalyzers/pipelineJobs/parameters[*].name   properties.parameters[*].value Microsoft.Media/videoAnalyzers/pipelineJobs/parameters[*].value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineTopologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineTopologies/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/pipelineTopologies
+   Default Path Alias     properties.description Microsoft.Media/videoAnalyzers/pipelineTopologies/description   properties.parameters Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters   properties.parameters[*] Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters[*]   properties.parameters[*].name Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters[*].name   properties.parameters[*].type Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters[*].type   properties.parameters[*].description Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters[*].description   properties.parameters[*].default Microsoft.Media/videoAnalyzers/pipelineTopologies/parameters[*].default   properties.sources Microsoft.Media/videoAnalyzers/pipelineTopologies/sources   properties.sources[*] Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*]   properties.sources[*] Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*].#Microsoft-VideoAnalyzer-VideoSource   properties.sources[*] Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*].#Microsoft-VideoAnalyzer-RtspSource   properties.sources[*].name Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*].name   properties.sources[*].videoName Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*].#Microsoft-VideoAnalyzer-VideoSource.videoName   properties.sources[*].timeSequences Microsoft.Media/videoAnalyzers/pipelineTopologies/sources[*].#Microsoft-VideoAnalyzer-VideoSource.timeSequences.#Microsoft-VideoAnalyzer-VideoSequenceAbsoluteTimeMarkers   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Media/videoAnalyzers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.Media/videoAnalyzers/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-videos/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers/videos
+   Default Path Alias     properties.title Microsoft.Media/videoAnalyzers/videos/title   properties.description Microsoft.Media/videoAnalyzers/videos/description   properties.type Microsoft.Media/videoAnalyzers/videos/type   properties.flags Microsoft.Media/videoAnalyzers/videos/flags   properties.flags.canStream Microsoft.Media/videoAnalyzers/videos/flags.canStream   properties.flags.hasData Microsoft.Media/videoAnalyzers/videos/flags.hasData   properties.flags.isRecording Microsoft.Media/videoAnalyzers/videos/flags.isRecording   properties.streaming Microsoft.Media/videoAnalyzers/videos/streaming   properties.streaming.archiveBaseUrl Microsoft.Media/videoAnalyzers/videos/streaming.archiveBaseUrl   properties.mediaInfo Microsoft.Media/videoAnalyzers/videos/mediaInfo   properties.mediaInfo.segmentLength Microsoft.Media/videoAnalyzers/videos/mediaInfo.segmentLength   properties.flags.isInUse Microsoft.Media/videoAnalyzers/videos/flags.isInUse   properties.contentUrls Microsoft.Media/videoAnalyzers/videos/contentUrls   properties.contentUrls.downloadUrl Microsoft.Media/videoAnalyzers/videos/contentUrls.downloadUrl   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers/</guid>
+      <description>Link to resource definition: Microsoft.Media/videoAnalyzers
+   Default Path Alias     properties.storageAccounts Microsoft.Media/videoAnalyzers/storageAccounts   properties.storageAccounts[*] Microsoft.Media/videoAnalyzers/storageAccounts[*]   properties.storageAccounts[*].id Microsoft.Media/videoAnalyzers/storageAccounts[*].id   properties.storageAccounts[*].identity Microsoft.Media/videoAnalyzers/storageAccounts[*].identity   properties.storageAccounts[*].identity.userAssignedIdentity Microsoft.Media/videoAnalyzers/storageAccounts[*].identity.userAssignedIdentity   properties.storageAccounts[*].status Microsoft.Media/videoAnalyzers/storageAccounts[*].status   properties.endpoints Microsoft.Media/videoAnalyzers/endpoints   properties.endpoints[*] Microsoft.Media/videoAnalyzers/endpoints[*]   properties.endpoints[*].endpointUrl Microsoft.Media/videoAnalyzers/endpoints[*].endpointUrl   properties.endpoints[*].type Microsoft.Media/videoAnalyzers/endpoints[*].type   properties.encryption Microsoft.Media/videoAnalyzers/encryption   properties.encryption.type Microsoft.Media/videoAnalyzers/encryption.type   properties.encryption.keyVaultProperties Microsoft.Media/videoAnalyzers/encryption.keyVaultProperties   properties.encryption.keyVaultProperties.keyIdentifier Microsoft.Media/videoAnalyzers/encryption.keyVaultProperties.keyIdentifier   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

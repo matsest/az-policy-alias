@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ManagedServices/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ManagedServices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationAssignments/</guid>
+      <description>Link to resource definition: Microsoft.ManagedServices/registrationAssignments
+   Default Path Alias     properties.registrationDefinitionId Microsoft.ManagedServices/registrationAssignments/registrationDefinitionId   properties.provisioningState Microsoft.ManagedServices/registrationAssignments/provisioningState   properties.registrationDefinition.properties.description Microsoft.ManagedServices/registrationAssignments/registrationDefinition.description   properties.registrationDefinition.properties.authorizations[*].principalId Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*].principalId   properties.registrationDefinition.properties.authorizations[*].roleDefinitionId Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*].roleDefinitionId   properties.registrationDefinition.properties.authorizations[*] Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*]   properties.registrationDefinition.properties.authorizations Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations   properties.registrationDefinition.properties.registrationDefinitionName Microsoft.ManagedServices/registrationAssignments/registrationDefinition.registrationDefinitionName   properties.registrationDefinition.properties.provisioningState Microsoft.ManagedServices/registrationAssignments/registrationDefinition.provisioningState   properties.registrationDefinition.properties.manageeTenantId Microsoft.ManagedServices/registrationAssignments/registrationDefinition.manageeTenantId   properties.registrationDefinition.properties.manageeTenantName Microsoft.ManagedServices/registrationAssignments/registrationDefinition.manageeTenantName   properties.registrationDefinition.properties.managedByTenantId Microsoft.ManagedServices/registrationAssignments/registrationDefinition.managedByTenantId   properties.registrationDefinition.properties.managedByTenantName Microsoft.ManagedServices/registrationAssignments/registrationDefinition.managedByTenantName   properties.registrationDefinition.plan.name Microsoft.ManagedServices/registrationAssignments/registrationDefinition.plan.name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationDefinitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationDefinitions/</guid>
+      <description>Link to resource definition: Microsoft.ManagedServices/registrationDefinitions
+   Default Path Alias     properties.description Microsoft.ManagedServices/registrationDefinitions/description   properties.authorizations[*].principalId Microsoft.ManagedServices/registrationDefinitions/authorizations[*].principalId   properties.authorizations[*].roleDefinitionId Microsoft.ManagedServices/registrationDefinitions/authorizations[*].roleDefinitionId   properties.authorizations[*] Microsoft.ManagedServices/registrationDefinitions/authorizations[*]   properties.authorizations Microsoft.ManagedServices/registrationDefinitions/authorizations   properties.registrationDefinitionName Microsoft.ManagedServices/registrationDefinitions/registrationDefinitionName   properties.managedByTenantId Microsoft.ManagedServices/registrationDefinitions/managedByTenantId   properties.provisioningState Microsoft.ManagedServices/registrationDefinitions/provisioningState   properties.managedByTenantName Microsoft.ManagedServices/registrationDefinitions/managedByTenantName    </description>
+    </item>
+    
+  </channel>
+</rss>

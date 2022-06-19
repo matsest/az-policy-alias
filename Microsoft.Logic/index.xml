@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Logic/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Logic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-agreements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-agreements/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/agreements
+   Default Path Alias     properties.createdTime Microsoft.Logic/integrationAccounts/agreements/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/agreements/changedTime   properties.metadata Microsoft.Logic/integrationAccounts/agreements/metadata   properties.agreementType Microsoft.Logic/integrationAccounts/agreements/agreementType   properties.hostPartner Microsoft.Logic/integrationAccounts/agreements/hostPartner   properties.guestPartner Microsoft.Logic/integrationAccounts/agreements/guestPartner   properties.hostIdentity.Qualifier Microsoft.Logic/integrationAccounts/agreements/hostIdentity.Qualifier   properties.hostIdentity Microsoft.Logic/integrationAccounts/agreements/hostIdentity   properties.guestIdentity.Qualifier Microsoft.Logic/integrationAccounts/agreements/guestIdentity.Qualifier   properties.guestIdentity Microsoft.Logic/integrationAccounts/agreements/guestIdentity   properties.content.AS2.receiveAgreement.senderBusinessIdentity.Qualifier Microsoft.Logic/integrationAccounts/agreements/content.AS2.receiveAgreement.senderBusinessIdentity.Qualifier   properties.content.AS2.receiveAgreement.senderBusinessIdentity Microsoft.Logic/integrationAccounts/agreements/content.AS2.receiveAgreement.senderBusinessIdentity   properties.content.AS2.receiveAgreement.receiverBusinessIdentity.Qualifier Microsoft.Logic/integrationAccounts/agreements/content.AS2.receiveAgreement.receiverBusinessIdentity.Qualifier   properties.content.AS2.receiveAgreement.receiverBusinessIdentity Microsoft.Logic/integrationAccounts/agreements/content.AS2.receiveAgreement.receiverBusinessIdentity   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-assemblies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-assemblies/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/assemblies
+   Default Path Alias     properties.assemblyName Microsoft.Logic/integrationAccounts/assemblies/assemblyName   properties.assemblyVersion Microsoft.Logic/integrationAccounts/assemblies/assemblyVersion   properties.assemblyCulture Microsoft.Logic/integrationAccounts/assemblies/assemblyCulture   properties.assemblyPublicKeyToken Microsoft.Logic/integrationAccounts/assemblies/assemblyPublicKeyToken   properties.content Microsoft.Logic/integrationAccounts/assemblies/content   properties.contentType Microsoft.Logic/integrationAccounts/assemblies/contentType   properties.contentLink.uri Microsoft.Logic/integrationAccounts/assemblies/contentLink.uri   properties.contentLink.contentVersion Microsoft.Logic/integrationAccounts/assemblies/contentLink.contentVersion   properties.contentLink.contentSize Microsoft.Logic/integrationAccounts/assemblies/contentLink.contentSize   properties.contentLink.contentHash.algorithm Microsoft.Logic/integrationAccounts/assemblies/contentLink.contentHash.algorithm   properties.contentLink.contentHash Microsoft.Logic/integrationAccounts/assemblies/contentLink.contentHash   properties.contentLink.metadata Microsoft.Logic/integrationAccounts/assemblies/contentLink.metadata   properties.contentLink Microsoft.Logic/integrationAccounts/assemblies/contentLink   properties.createdTime Microsoft.Logic/integrationAccounts/assemblies/createdTime   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-batchConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-batchConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/batchConfigurations
+   Default Path Alias     properties.batchGroupName Microsoft.Logic/integrationAccounts/batchConfigurations/batchGroupName   properties.releaseCriteria.messageCount Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.messageCount   properties.releaseCriteria.batchSize Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.batchSize   properties.releaseCriteria.recurrence.frequency Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.frequency   properties.releaseCriteria.recurrence.interval Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.interval   properties.releaseCriteria.recurrence.startTime Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.startTime   properties.releaseCriteria.recurrence.endTime Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.endTime   properties.releaseCriteria.recurrence.timeZone Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.timeZone   properties.releaseCriteria.recurrence.schedule.minutes[*] Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.minutes[*]   properties.releaseCriteria.recurrence.schedule.minutes Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.minutes   properties.releaseCriteria.recurrence.schedule.hours[*] Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.hours[*]   properties.releaseCriteria.recurrence.schedule.hours Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.hours   properties.releaseCriteria.recurrence.schedule.weekDays[*] Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.weekDays[*]   properties.releaseCriteria.recurrence.schedule.weekDays Microsoft.Logic/integrationAccounts/batchConfigurations/releaseCriteria.recurrence.schedule.weekDays   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-certificates/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/certificates
+   Default Path Alias     properties.createdTime Microsoft.Logic/integrationAccounts/certificates/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/certificates/changedTime   properties.metadata Microsoft.Logic/integrationAccounts/certificates/metadata   properties.key.keyVault.id Microsoft.Logic/integrationAccounts/certificates/key.keyVault.id   properties.key.keyVault.name Microsoft.Logic/integrationAccounts/certificates/key.keyVault.name   properties.key.keyVault.type Microsoft.Logic/integrationAccounts/certificates/key.keyVault.type   properties.key.keyVault Microsoft.Logic/integrationAccounts/certificates/key.keyVault   properties.key.keyName Microsoft.Logic/integrationAccounts/certificates/key.keyName   properties.key.keyVersion Microsoft.Logic/integrationAccounts/certificates/key.keyVersion   properties.key Microsoft.Logic/integrationAccounts/certificates/key   properties.publicCertificate Microsoft.Logic/integrationAccounts/certificates/publicCertificate    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-maps/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/maps
+   Default Path Alias     properties.mapType Microsoft.Logic/integrationAccounts/maps/mapType   properties.createdTime Microsoft.Logic/integrationAccounts/maps/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/maps/changedTime   properties.content Microsoft.Logic/integrationAccounts/maps/content   properties.contentType Microsoft.Logic/integrationAccounts/maps/contentType   properties.contentLink.uri Microsoft.Logic/integrationAccounts/maps/contentLink.uri   properties.contentLink.contentVersion Microsoft.Logic/integrationAccounts/maps/contentLink.contentVersion   properties.contentLink.contentSize Microsoft.Logic/integrationAccounts/maps/contentLink.contentSize   properties.contentLink.contentHash.algorithm Microsoft.Logic/integrationAccounts/maps/contentLink.contentHash.algorithm   properties.contentLink.contentHash Microsoft.Logic/integrationAccounts/maps/contentLink.contentHash   properties.contentLink.metadata Microsoft.Logic/integrationAccounts/maps/contentLink.metadata   properties.contentLink Microsoft.Logic/integrationAccounts/maps/contentLink   properties.metadata Microsoft.Logic/integrationAccounts/maps/metadata   properties.parametersSchema.ref Microsoft.Logic/integrationAccounts/maps/parametersSchema.ref   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-partners/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/partners
+   Default Path Alias     properties.partnerType Microsoft.Logic/integrationAccounts/partners/partnerType   properties.createdTime Microsoft.Logic/integrationAccounts/partners/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/partners/changedTime   properties.metadata Microsoft.Logic/integrationAccounts/partners/metadata   properties.content.b2b.businessIdentities[*].Qualifier Microsoft.Logic/integrationAccounts/partners/content.b2b.businessIdentities[*].Qualifier   properties.content.b2b.businessIdentities[*] Microsoft.Logic/integrationAccounts/partners/content.b2b.businessIdentities[*]   properties.content.b2b.businessIdentities Microsoft.Logic/integrationAccounts/partners/content.b2b.businessIdentities   properties.content.b2b Microsoft.Logic/integrationAccounts/partners/content.b2b   properties.content Microsoft.Logic/integrationAccounts/partners/content   properties.content.b2b.businessIdentities[*].Value Microsoft.Logic/integrationAccounts/partners/content.b2b.businessIdentities[*].Value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations
+   Default Path Alias     properties.createdTime Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/changedTime   properties.metadata Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/metadata   properties.activitySettings.activityType Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityType   properties.activitySettings.activityBehavior.isAuthorizationRequired Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.isAuthorizationRequired   properties.activitySettings.activityBehavior.persistentConfidentialityScope Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.persistentConfidentialityScope   properties.activitySettings.activityBehavior.isSecuredTransportRequired Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.isSecuredTransportRequired   properties.activitySettings.activityBehavior.actionType Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.actionType   properties.activitySettings.activityBehavior.responseType Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.responseType   properties.activitySettings.activityBehavior.nonRepudiationOfOriginAndContent Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.nonRepudiationOfOriginAndContent   properties.activitySettings.activityBehavior.retryCount Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.retryCount   properties.activitySettings.activityBehavior.timeToPerformInSeconds Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior.timeToPerformInSeconds   properties.activitySettings.activityBehavior Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.activityBehavior   properties.activitySettings.acknowledgmentOfReceiptSettings.isNonRepudiationRequired Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/activitySettings.acknowledgmentOfReceiptSettings.isNonRepudiationRequired   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-schemas/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/schemas
+   Default Path Alias     properties.schemaType Microsoft.Logic/integrationAccounts/schemas/schemaType   properties.targetNamespace Microsoft.Logic/integrationAccounts/schemas/targetNamespace   properties.createdTime Microsoft.Logic/integrationAccounts/schemas/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/schemas/changedTime   properties.content Microsoft.Logic/integrationAccounts/schemas/content   properties.contentType Microsoft.Logic/integrationAccounts/schemas/contentType   properties.contentLink.uri Microsoft.Logic/integrationAccounts/schemas/contentLink.uri   properties.contentLink.contentVersion Microsoft.Logic/integrationAccounts/schemas/contentLink.contentVersion   properties.contentLink.contentSize Microsoft.Logic/integrationAccounts/schemas/contentLink.contentSize   properties.contentLink.contentHash.algorithm Microsoft.Logic/integrationAccounts/schemas/contentLink.contentHash.algorithm   properties.contentLink.contentHash Microsoft.Logic/integrationAccounts/schemas/contentLink.contentHash   properties.contentLink.metadata Microsoft.Logic/integrationAccounts/schemas/contentLink.metadata   properties.contentLink Microsoft.Logic/integrationAccounts/schemas/contentLink   properties.metadata Microsoft.Logic/integrationAccounts/schemas/metadata   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-sessions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-sessions/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts/sessions
+   Default Path Alias     properties.createdTime Microsoft.Logic/integrationAccounts/sessions/createdTime   properties.changedTime Microsoft.Logic/integrationAccounts/sessions/changedTime   properties.content Microsoft.Logic/integrationAccounts/sessions/content    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationAccounts
+   Default Path Alias     sku.name Microsoft.Logic/integrationAccounts/sku.name   sku Microsoft.Logic/integrationAccounts/sku   properties.integrationServiceEnvironment.properties.provisioningState Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.provisioningState   properties.integrationServiceEnvironment.properties.state Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.state   properties.integrationServiceEnvironment.properties.integrationServiceEnvironmentId Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.integrationServiceEnvironmentId   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.outgoingIpAddresses[*].address Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.outgoingIpAddresses[*].address   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.outgoingIpAddresses[*] Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.outgoingIpAddresses[*]   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.outgoingIpAddresses Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.outgoingIpAddresses   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.accessEndpointIpAddresses[*].address Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.accessEndpointIpAddresses[*].address   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.accessEndpointIpAddresses[*] Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.accessEndpointIpAddresses[*]   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow.accessEndpointIpAddresses Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow.accessEndpointIpAddresses   properties.integrationServiceEnvironment.properties.endpointsConfiguration.workflow Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.workflow   properties.integrationServiceEnvironment.properties.endpointsConfiguration.connector.outgoingIpAddresses[*].address Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.connector.outgoingIpAddresses[*].address   properties.integrationServiceEnvironment.properties.endpointsConfiguration.connector.outgoingIpAddresses[*] Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.endpointsConfiguration.connector.outgoingIpAddresses[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments-managedApis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments-managedApis/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationServiceEnvironments/managedApis
+   Default Path Alias     properties.name Microsoft.Logic/integrationServiceEnvironments/managedApis/name   properties.connectionParameters Microsoft.Logic/integrationServiceEnvironments/managedApis/connectionParameters   properties.metadata.source Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.source   properties.metadata.brandColor Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.brandColor   properties.metadata.hideKey Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.hideKey   properties.metadata.tags Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.tags   properties.metadata.ApiType Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.ApiType   properties.metadata.wsdlService.qualifiedName Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.wsdlService.qualifiedName   properties.metadata.wsdlService.EndpointQualifiedNames[*] Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.wsdlService.EndpointQualifiedNames[*]   properties.metadata.wsdlService.EndpointQualifiedNames Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.wsdlService.EndpointQualifiedNames   properties.metadata.wsdlService Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.wsdlService   properties.metadata.wsdlImportMethod Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.wsdlImportMethod   properties.metadata.connectionType Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.connectionType   properties.metadata.provisioningState Microsoft.Logic/integrationServiceEnvironments/managedApis/metadata.provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments/</guid>
+      <description>Link to resource definition: Microsoft.Logic/integrationServiceEnvironments
+   Default Path Alias     properties.provisioningState Microsoft.Logic/integrationServiceEnvironments/provisioningState   properties.state Microsoft.Logic/integrationServiceEnvironments/state   properties.integrationServiceEnvironmentId Microsoft.Logic/integrationServiceEnvironments/integrationServiceEnvironmentId   properties.endpointsConfiguration.workflow.outgoingIpAddresses[*].address Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.outgoingIpAddresses[*].address   properties.endpointsConfiguration.workflow.outgoingIpAddresses[*] Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.outgoingIpAddresses[*]   properties.endpointsConfiguration.workflow.outgoingIpAddresses Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.outgoingIpAddresses   properties.endpointsConfiguration.workflow.accessEndpointIpAddresses[*].address Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.accessEndpointIpAddresses[*].address   properties.endpointsConfiguration.workflow.accessEndpointIpAddresses[*] Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.accessEndpointIpAddresses[*]   properties.endpointsConfiguration.workflow.accessEndpointIpAddresses Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow.accessEndpointIpAddresses   properties.endpointsConfiguration.workflow Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.workflow   properties.endpointsConfiguration.connector.outgoingIpAddresses[*].address Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.connector.outgoingIpAddresses[*].address   properties.endpointsConfiguration.connector.outgoingIpAddresses[*] Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.connector.outgoingIpAddresses[*]   properties.endpointsConfiguration.connector.outgoingIpAddresses Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.connector.outgoingIpAddresses   properties.endpointsConfiguration.connector.accessEndpointIpAddresses[*].address Microsoft.Logic/integrationServiceEnvironments/endpointsConfiguration.connector.accessEndpointIpAddresses[*].address   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/workflows-accessKeys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/workflows-accessKeys/</guid>
+      <description>Link to resource definition: Microsoft.Logic/workflows/accessKeys
+   Default Path Alias     properties.notBefore Microsoft.Logic/workflows/accessKeys/notBefore   properties.notAfter Microsoft.Logic/workflows/accessKeys/notAfter    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Logic/workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Logic/workflows/</guid>
+      <description>Link to resource definition: Microsoft.Logic/workflows
+   Default Path Alias     properties.state Microsoft.Logic/workflows/state   properties.accessControl Microsoft.Logic/workflows/accessControl   properties.accessControl.triggers Microsoft.Logic/workflows/accessControl.triggers   properties.accessControl.triggers.allowedCallerIpAddresses Microsoft.Logic/workflows/accessControl.triggers.allowedCallerIpAddresses   properties.accessControl.triggers.allowedCallerIpAddresses[*] Microsoft.Logic/workflows/accessControl.triggers.allowedCallerIpAddresses[*]   properties.accessControl.triggers.allowedCallerIpAddresses[*].addressRange Microsoft.Logic/workflows/accessControl.triggers.allowedCallerIpAddresses[*].addressRange   properties.accessControl.contents Microsoft.Logic/workflows/accessControl.contents   properties.accessControl.contents.allowedCallerIpAddresses Microsoft.Logic/workflows/accessControl.contents.allowedCallerIpAddresses   properties.accessControl.contents.allowedCallerIpAddresses[*] Microsoft.Logic/workflows/accessControl.contents.allowedCallerIpAddresses[*]   properties.accessControl.contents.allowedCallerIpAddresses[*].addressRange Microsoft.Logic/workflows/accessControl.contents.allowedCallerIpAddresses[*].addressRange   properties.accessControl.actions Microsoft.Logic/workflows/accessControl.actions   properties.accessControl.actions.allowedCallerIpAddresses Microsoft.Logic/workflows/accessControl.actions.allowedCallerIpAddresses   properties.accessControl.actions.allowedCallerIpAddresses[*] Microsoft.Logic/workflows/accessControl.actions.allowedCallerIpAddresses[*]   properties.accessControl.actions.allowedCallerIpAddresses[*].addressRange Microsoft.Logic/workflows/accessControl.actions.allowedCallerIpAddresses[*].addressRange   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

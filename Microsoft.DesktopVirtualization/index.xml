@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DesktopVirtualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-applications/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/applicationgroups/applications
+   Default Path Alias     properties.description Microsoft.DesktopVirtualization/applicationGroups/applications/description   properties.friendlyName Microsoft.DesktopVirtualization/applicationGroups/applications/friendlyName   properties.filePath Microsoft.DesktopVirtualization/applicationGroups/applications/filePath   properties.commandLineSetting Microsoft.DesktopVirtualization/applicationGroups/applications/commandLineSetting   properties.commandLineArguments Microsoft.DesktopVirtualization/applicationGroups/applications/commandLineArguments   properties.showInPortal Microsoft.DesktopVirtualization/applicationGroups/applications/showInPortal   properties.iconPath Microsoft.DesktopVirtualization/applicationGroups/applications/iconPath   properties.iconIndex Microsoft.DesktopVirtualization/applicationGroups/applications/iconIndex   properties.iconHash Microsoft.DesktopVirtualization/applicationGroups/applications/iconHash   properties.iconContent Microsoft.DesktopVirtualization/applicationGroups/applications/iconContent   properties.msixPackageFamilyName Microsoft.DesktopVirtualization/applicationGroups/applications/msixPackageFamilyName   properties.msixPackageApplicationId Microsoft.DesktopVirtualization/applicationGroups/applications/msixPackageApplicationId   properties.applicationType Microsoft.DesktopVirtualization/applicationGroups/applications/applicationType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-desktops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-desktops/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/applicationgroups/desktops
+   Default Path Alias     properties.description Microsoft.DesktopVirtualization/applicationGroups/desktops/description   properties.friendlyName Microsoft.DesktopVirtualization/applicationGroups/desktops/friendlyName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/applicationgroups
+   Default Path Alias     properties.description Microsoft.DesktopVirtualization/applicationGroups/description   properties.friendlyName Microsoft.DesktopVirtualization/applicationGroups/friendlyName   properties.hostPoolArmPath Microsoft.DesktopVirtualization/applicationGroups/hostPoolArmPath   properties.workspaceArmPath Microsoft.DesktopVirtualization/applicationGroups/workspaceArmPath   properties.applicationGroupType Microsoft.DesktopVirtualization/applicationGroups/applicationGroupType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/hostpools/sessionhosts
+   Default Path Alias     properties.allowNewSession Microsoft.DesktopVirtualization/hostPools/sessionHosts/allowNewSession   properties.assignedUser Microsoft.DesktopVirtualization/hostPools/sessionHosts/assignedUser    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/hostpools
+   Default Path Alias     properties.friendlyName Microsoft.DesktopVirtualization/hostPools/friendlyName   properties.description Microsoft.DesktopVirtualization/hostPools/description   properties.hostPoolType Microsoft.DesktopVirtualization/hostPools/hostPoolType   properties.personalDesktopAssignmentType Microsoft.DesktopVirtualization/hostPools/personalDesktopAssignmentType   properties.customRdpProperty Microsoft.DesktopVirtualization/hostPools/customRdpProperty   properties.maxSessionLimit Microsoft.DesktopVirtualization/hostPools/maxSessionLimit   properties.loadBalancerType Microsoft.DesktopVirtualization/hostPools/loadBalancerType   properties.ring Microsoft.DesktopVirtualization/hostPools/ring   properties.validationEnvironment Microsoft.DesktopVirtualization/hostPools/validationEnvironment   properties.registrationInfo Microsoft.DesktopVirtualization/hostPools/registrationInfo   properties.registrationInfo.expirationTime Microsoft.DesktopVirtualization/hostPools/registrationInfo.expirationTime   properties.registrationInfo.token Microsoft.DesktopVirtualization/hostPools/registrationInfo.token   properties.registrationInfo.resetToken Microsoft.DesktopVirtualization/hostPools/registrationInfo.resetToken   properties.vmTemplate Microsoft.DesktopVirtualization/hostPools/vmTemplate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces/</guid>
+      <description>Link to resource definition: Microsoft.DesktopVirtualization/workspaces
+   Default Path Alias     properties.description Microsoft.DesktopVirtualization/workspaces/description   properties.friendlyName Microsoft.DesktopVirtualization/workspaces/friendlyName   properties.applicationGroupReferences Microsoft.DesktopVirtualization/workspaces/applicationGroupReferences   properties.applicationGroupReferences[*] Microsoft.DesktopVirtualization/workspaces/applicationGroupReferences[*]    </description>
+    </item>
+    
+  </channel>
+</rss>

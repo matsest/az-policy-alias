@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Automanage/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Automanage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfileAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfileAssignments/</guid>
+      <description>Link to resource definition: Microsoft.Automanage/configurationProfileAssignments
+   Default Path Alias     properties.configurationProfile Microsoft.Automanage/configurationProfileAssignments/configurationProfile   properties.targetId Microsoft.Automanage/configurationProfileAssignments/targetId   properties.accountId Microsoft.Automanage/configurationProfileAssignments/accountId   properties.configurationProfilePreferenceId Microsoft.Automanage/configurationProfileAssignments/configurationProfilePreferenceId   properties.provisioningStatus Microsoft.Automanage/configurationProfileAssignments/provisioningStatus   properties.compliance Microsoft.Automanage/configurationProfileAssignments/compliance   properties.compliance.updateStatus Microsoft.Automanage/configurationProfileAssignments/compliance.updateStatus    </description>
+    </item>
+    
+  </channel>
+</rss>

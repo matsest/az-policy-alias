@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-computePolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-computePolicies/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeAnalytics/accounts/computePolicies
+   Default Path Alias     properties.objectId Microsoft.DataLakeAnalytics/accounts/computePolicies/objectId   properties.objectType Microsoft.DataLakeAnalytics/accounts/computePolicies/objectType   properties.maxDegreeOfParallelismPerJob Microsoft.DataLakeAnalytics/accounts/computePolicies/maxDegreeOfParallelismPerJob   properties.minPriorityPerJob Microsoft.DataLakeAnalytics/accounts/computePolicies/minPriorityPerJob    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-dataLakeStoreAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-dataLakeStoreAccounts/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts
+   Default Path Alias     properties.suffix Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts/suffix    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-firewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-firewallRules/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeAnalytics/accounts/firewallRules
+   Default Path Alias     properties.startIpAddress Microsoft.DataLakeAnalytics/accounts/firewallRules/startIpAddress   properties.endIpAddress Microsoft.DataLakeAnalytics/accounts/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-storageAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-storageAccounts/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeAnalytics/accounts/storageAccounts
+   Default Path Alias     properties.accessKey Microsoft.DataLakeAnalytics/accounts/storageAccounts/accessKey   properties.suffix Microsoft.DataLakeAnalytics/accounts/storageAccounts/suffix    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts/</guid>
+      <description>Link to resource definition: Microsoft.DataLakeAnalytics/accounts
+   Default Path Alias     properties.lastModifiedTime Microsoft.DataLakeAnalytics/accounts/lastModifiedTime   properties.provisioningState Microsoft.DataLakeAnalytics/accounts/provisioningState   properties.state Microsoft.DataLakeAnalytics/accounts/state   properties.defaultDataLakeStoreAccount Microsoft.DataLakeAnalytics/accounts/defaultDataLakeStoreAccount   properties.maxDegreeOfParallelism Microsoft.DataLakeAnalytics/accounts/maxDegreeOfParallelism   properties.maxJobCount Microsoft.DataLakeAnalytics/accounts/maxJobCount   properties.dataLakeStoreAccounts Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts   properties.dataLakeStoreAccounts[*].name Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts[*].name   properties.dataLakeStoreAccounts[*].properties.suffix Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts[*].suffix   properties.dataLakeStoreAccounts[*] Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts[*]   properties.storageAccounts Microsoft.DataLakeAnalytics/accounts/storageAccounts   properties.storageAccounts[*].name Microsoft.DataLakeAnalytics/accounts/storageAccounts[*].name   properties.storageAccounts[*].properties.accessKey Microsoft.DataLakeAnalytics/accounts/storageAccounts[*].accessKey   properties.storageAccounts[*].properties.suffix Microsoft.DataLakeAnalytics/accounts/storageAccounts[*].suffix   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

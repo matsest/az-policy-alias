@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ServiceFabric/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications-services/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/clusters/applications/services
+   Default Path Alias     properties.placementConstraints Microsoft.ServiceFabric/clusters/applications/services/placementConstraints   properties.correlationScheme.Scheme Microsoft.ServiceFabric/clusters/applications/services/correlationScheme.Scheme   properties.correlationScheme.ServiceName Microsoft.ServiceFabric/clusters/applications/services/correlationScheme.ServiceName   properties.correlationScheme Microsoft.ServiceFabric/clusters/applications/services/correlationScheme   properties.serviceLoadMetrics.Name Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics.Name   properties.serviceLoadMetrics.Weight Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics.Weight   properties.serviceLoadMetrics.PrimaryDefaultLoad Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics.PrimaryDefaultLoad   properties.serviceLoadMetrics.SecondaryDefaultLoad Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics.SecondaryDefaultLoad   properties.serviceLoadMetrics.DefaultLoad Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics.DefaultLoad   properties.serviceLoadMetrics Microsoft.ServiceFabric/clusters/applications/services/serviceLoadMetrics   properties.servicePlacementPolicies.Type Microsoft.ServiceFabric/clusters/applications/services/servicePlacementPolicies.Type   properties.servicePlacementPolicies Microsoft.ServiceFabric/clusters/applications/services/servicePlacementPolicies   properties.defaultMoveCost Microsoft.ServiceFabric/clusters/applications/services/defaultMoveCost   properties.provisioningState Microsoft.ServiceFabric/clusters/applications/services/provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/clusters/applications
+   Default Path Alias     properties.typeVersion Microsoft.ServiceFabric/clusters/applications/typeVersion   properties.parameters Microsoft.ServiceFabric/clusters/applications/parameters   properties.upgradePolicy.upgradeReplicaSetCheckTimeout Microsoft.ServiceFabric/clusters/applications/upgradePolicy.upgradeReplicaSetCheckTimeout   properties.upgradePolicy.forceRestart Microsoft.ServiceFabric/clusters/applications/upgradePolicy.forceRestart   properties.upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckWaitDuration Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckWaitDuration   properties.upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckStableDuration Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckStableDuration   properties.upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckRetryTimeout Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy.healthCheckRetryTimeout   properties.upgradePolicy.rollingUpgradeMonitoringPolicy.upgradeTimeout Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy.upgradeTimeout   properties.upgradePolicy.rollingUpgradeMonitoringPolicy.upgradeDomainTimeout Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy.upgradeDomainTimeout   properties.upgradePolicy.rollingUpgradeMonitoringPolicy Microsoft.ServiceFabric/clusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy   properties.upgradePolicy.applicationHealthPolicy.ConsiderWarningAsError Microsoft.ServiceFabric/clusters/applications/upgradePolicy.applicationHealthPolicy.ConsiderWarningAsError   properties.upgradePolicy.applicationHealthPolicy.MaxPercentUnhealthyDeployedApplications Microsoft.ServiceFabric/clusters/applications/upgradePolicy.applicationHealthPolicy.MaxPercentUnhealthyDeployedApplications   properties.upgradePolicy.applicationHealthPolicy.DefaultServiceTypeHealthPolicy.maxPercentUnhealthyServices Microsoft.ServiceFabric/clusters/applications/upgradePolicy.applicationHealthPolicy.DefaultServiceTypeHealthPolicy.maxPercentUnhealthyServices   properties.upgradePolicy.applicationHealthPolicy.DefaultServiceTypeHealthPolicy Microsoft.ServiceFabric/clusters/applications/upgradePolicy.applicationHealthPolicy.DefaultServiceTypeHealthPolicy   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes-versions/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/clusters/applicationTypes/versions
+   Default Path Alias     properties.provisioningState Microsoft.ServiceFabric/clusters/applicationTypes/versions/provisioningState   properties.appPackageUrl Microsoft.ServiceFabric/clusters/applicationTypes/versions/appPackageUrl   properties.defaultParameterList Microsoft.ServiceFabric/clusters/applicationTypes/versions/defaultParameterList   properties.defaultParameterList.Key Microsoft.ServiceFabric/clusters/applicationTypes/versions/defaultParameterList.Key    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/clusters/applicationTypes
+   Default Path Alias     properties.provisioningState Microsoft.ServiceFabric/clusters/applicationTypes/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/clusters
+   Default Path Alias     properties.certificate.thumbprint Microsoft.ServiceFabric/clusters/certificate.thumbprint   properties.certificate.x509StoreName Microsoft.ServiceFabric/clusters/certificate.x509StoreName   properties.azureActiveDirectory.tenantId Microsoft.ServiceFabric/clusters/azureActiveDirectory.tenantId   properties.fabricSettings[*].name Microsoft.ServiceFabric/clusters/fabricSettings[*].name   properties.fabricSettings[*].parameters[*].name Microsoft.ServiceFabric/clusters/fabricSettings[*].parameters[*].name   properties.fabricSettings[*].parameters[*].value Microsoft.ServiceFabric/clusters/fabricSettings[*].parameters[*].value   properties.availableClusterVersions[*].codeVersion Microsoft.ServiceFabric/clusters/availableClusterVersions[*].codeVersion   properties.availableClusterVersions[*].supportExpiryUtc Microsoft.ServiceFabric/clusters/availableClusterVersions[*].supportExpiryUtc   properties.availableClusterVersions[*].environment Microsoft.ServiceFabric/clusters/availableClusterVersions[*].environment   properties.availableClusterVersions[*] Microsoft.ServiceFabric/clusters/availableClusterVersions[*]   properties.availableClusterVersions Microsoft.ServiceFabric/clusters/availableClusterVersions   properties.clusterId Microsoft.ServiceFabric/clusters/clusterId   properties.clusterState Microsoft.ServiceFabric/clusters/clusterState   properties.clusterEndpoint Microsoft.ServiceFabric/clusters/clusterEndpoint   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.EventHub/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.EventHub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/clusters/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/clusters
+   Default Path Alias     sku.name Microsoft.EventHub/clusters/sku.name   sku.capacity Microsoft.EventHub/clusters/sku.capacity   sku Microsoft.EventHub/clusters/sku   properties.created Microsoft.EventHub/clusters/created   properties.updated Microsoft.EventHub/clusters/updated   properties.metricId Microsoft.EventHub/clusters/metricId   properties.status Microsoft.EventHub/clusters/status   properties.createdAt Microsoft.EventHub/clusters/createdAt   properties.updatedAt Microsoft.EventHub/clusters/updatedAt    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-authorizationrules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-authorizationrules/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/authorizationrules
+   Default Path Alias     properties.rights[*] Microsoft.EventHub/namespaces/authorizationrules/rights[*]   properties.rights Microsoft.EventHub/namespaces/authorizationrules/rights    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-disasterrecoveryconfigs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-disasterrecoveryconfigs/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/disasterrecoveryconfigs
+   Default Path Alias     properties.provisioningState Microsoft.EventHub/namespaces/disasterrecoveryconfigs/provisioningState   properties.partnerNamespace Microsoft.EventHub/namespaces/disasterrecoveryconfigs/partnerNamespace   properties.alternateName Microsoft.EventHub/namespaces/disasterrecoveryconfigs/alternateName   properties.role Microsoft.EventHub/namespaces/disasterrecoveryconfigs/role   properties.pendingReplicationOperationsCount Microsoft.EventHub/namespaces/disasterrecoveryconfigs/pendingReplicationOperationsCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-authorizationrules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-authorizationrules/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/eventhubs/authorizationrules
+   Default Path Alias     properties.rights[*] Microsoft.EventHub/namespaces/eventhubs/authorizationrules/rights[*]   properties.rights Microsoft.EventHub/namespaces/eventhubs/authorizationrules/rights    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-consumergroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-consumergroups/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/eventhubs/consumergroups
+   Default Path Alias     properties.createdAt Microsoft.EventHub/namespaces/eventhubs/consumergroups/createdAt   properties.eventHubPath Microsoft.EventHub/namespaces/eventhubs/consumergroups/eventHubPath   properties.updatedAt Microsoft.EventHub/namespaces/eventhubs/consumergroups/updatedAt   properties.userMetadata Microsoft.EventHub/namespaces/eventhubs/consumergroups/userMetadata    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/eventhubs
+   Default Path Alias     properties.createdAt Microsoft.EventHub/namespaces/eventhubs/createdAt   properties.messageRetentionInDays Microsoft.EventHub/namespaces/eventhubs/messageRetentionInDays   properties.partitionCount Microsoft.EventHub/namespaces/eventhubs/partitionCount   properties.partitionIds[*] Microsoft.EventHub/namespaces/eventhubs/partitionIds[*]   properties.partitionIds Microsoft.EventHub/namespaces/eventhubs/partitionIds   properties.status Microsoft.EventHub/namespaces/eventhubs/status   properties.updatedAt Microsoft.EventHub/namespaces/eventhubs/updatedAt   properties.captureDescription.enabled Microsoft.EventHub/namespaces/eventhubs/captureDescription.enabled   properties.captureDescription.encoding Microsoft.EventHub/namespaces/eventhubs/captureDescription.encoding   properties.captureDescription.intervalInSeconds Microsoft.EventHub/namespaces/eventhubs/captureDescription.intervalInSeconds   properties.captureDescription.sizeLimitInBytes Microsoft.EventHub/namespaces/eventhubs/captureDescription.sizeLimitInBytes   properties.captureDescription.destination.name Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.name   properties.captureDescription.destination.properties.storageAccountResourceId Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.storageAccountResourceId   properties.captureDescription.destination.properties.blobContainer Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.blobContainer   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-ipFilterRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-ipFilterRules/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/ipFilterRules
+   Default Path Alias     properties.ipMask Microsoft.EventHub/namespaces/ipFilterRules/ipMask   properties.action Microsoft.EventHub/namespaces/ipFilterRules/action   properties.filterName Microsoft.EventHub/namespaces/ipFilterRules/filterName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-networkrulesets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-networkrulesets/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/networkrulesets
+   Default Path Alias     properties.defaultAction Microsoft.EventHub/namespaces/networkRuleSets/default.defaultAction   properties.virtualNetworkRules[*].subnet.id Microsoft.EventHub/namespaces/networkRuleSets/default.virtualNetworkRules[*].subnet.id   properties.virtualNetworkRules[*].subnet Microsoft.EventHub/namespaces/networkRuleSets/default.virtualNetworkRules[*].subnet   properties.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint Microsoft.EventHub/namespaces/networkRuleSets/default.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint   properties.virtualNetworkRules[*] Microsoft.EventHub/namespaces/networkRuleSets/default.virtualNetworkRules[*]   properties.virtualNetworkRules Microsoft.EventHub/namespaces/networkRuleSets/default.virtualNetworkRules   properties.ipRules[*].ipMask Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules[*].ipMask   properties.ipRules[*].action Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules[*].action   properties.ipRules[*] Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules[*]   properties.ipRules Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules   properties.trustedServiceAccessEnabled Microsoft.EventHub/namespaces/networkrulesets/default.trustedServiceAccessEnabled   properties.defaultAction Microsoft.EventHub/namespaces/networkRuleSets/defaultAction   properties.virtualNetworkRules Microsoft.EventHub/namespaces/networkRuleSets/virtualNetworkRules   properties.virtualNetworkRules[*] Microsoft.EventHub/namespaces/networkRuleSets/virtualNetworkRules[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.EventHub/namespaces/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.EventHub/namespaces/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.EventHub/namespaces/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.EventHub/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.EventHub/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.provisioningState Microsoft.EventHub/namespaces/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-schemagroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-schemagroups/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/schemagroups
+   Default Path Alias     properties.updatedAtUtc Microsoft.EventHub/namespaces/schemagroups/updatedAtUtc   properties.createdAtUtc Microsoft.EventHub/namespaces/schemagroups/createdAtUtc   properties.eTag Microsoft.EventHub/namespaces/schemagroups/eTag   properties.groupProperties Microsoft.EventHub/namespaces/schemagroups/groupProperties   properties.schemaCompatibility Microsoft.EventHub/namespaces/schemagroups/schemaCompatibility   properties.schemaType Microsoft.EventHub/namespaces/schemagroups/schemaType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-virtualNetworkRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-virtualNetworkRules/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces/virtualNetworkRules
+   Default Path Alias     properties.virtualNetworkSubnetId Microsoft.EventHub/namespaces/virtualNetworkRules/virtualNetworkSubnetId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.EventHub/namespaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.EventHub/namespaces/</guid>
+      <description>Link to resource definition: Microsoft.EventHub/namespaces
+   Default Path Alias     sku.name Microsoft.EventHub/namespaces/sku.name   sku.tier Microsoft.EventHub/namespaces/sku.tier   sku.capacity Microsoft.EventHub/namespaces/sku.capacity   properties.zoneRedundant Microsoft.EventHub/namespaces/zoneRedundant   properties.kafkaEnabled Microsoft.EventHub/namespaces/kafkaEnabled   properties.isAutoInflateEnabled Microsoft.EventHub/namespaces/isAutoInflateEnabled   properties.maximumThroughputUnits Microsoft.EventHub/namespaces/maximumThroughputUnits   properties.provisioningState Microsoft.EventHub/namespaces/provisioningState   properties.metricId Microsoft.EventHub/namespaces/metricId   properties.createdAt Microsoft.EventHub/namespaces/createdAt   properties.updatedAt Microsoft.EventHub/namespaces/updatedAt   properties.serviceBusEndpoint Microsoft.EventHub/namespaces/serviceBusEndpoint   properties.status Microsoft.EventHub/namespaces/status   properties.enabled Microsoft.EventHub/namespaces/enabled   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataBoxEdge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules
+   Default Path Alias     properties.start Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/start   properties.stop Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/stop   properties.rateInMbps Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/rateInMbps   properties.days[*] Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/days[*]   properties.days Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/days    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders
+   Default Path Alias     properties.contactInformation.contactPerson Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation.contactPerson   properties.contactInformation.companyName Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation.companyName   properties.contactInformation.phone Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation.phone   properties.contactInformation.emailList[*] Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation.emailList[*]   properties.contactInformation.emailList Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation.emailList   properties.contactInformation Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.contactInformation   properties.shippingAddress.addressLine1 Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.addressLine1   properties.shippingAddress.addressLine2 Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.addressLine2   properties.shippingAddress.addressLine3 Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.addressLine3   properties.shippingAddress.postalCode Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.postalCode   properties.shippingAddress.city Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.city   properties.shippingAddress.state Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.state   properties.shippingAddress.country Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress.country   properties.shippingAddress Microsoft.DataboxEdge/dataBoxEdgeDevices/orders/default.shippingAddress   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-roles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-roles/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles
+   Default Path Alias     properties.hostPlatform Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.hostPlatform   properties.ioTDeviceDetails Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails   properties.ioTDeviceDetails.deviceId Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.deviceId   properties.ioTDeviceDetails.ioTHostHub Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.ioTHostHub   properties.ioTDeviceDetails.authentication Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication   properties.ioTDeviceDetails.authentication.symmetricKey Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication.symmetricKey   properties.ioTDeviceDetails.authentication.symmetricKey.connectionString Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication.symmetricKey.connectionString   properties.ioTDeviceDetails.authentication.symmetricKey.connectionString.value Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication.symmetricKey.connectionString.value   properties.ioTDeviceDetails.authentication.symmetricKey.connectionString.encryptionCertThumbprint Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication.symmetricKey.connectionString.encryptionCertThumbprint   properties.ioTDeviceDetails.authentication.symmetricKey.connectionString.encryptionAlgorithm Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTDeviceDetails.authentication.symmetricKey.connectionString.encryptionAlgorithm   properties.ioTEdgeDeviceDetails Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeDeviceDetails   properties.ioTEdgeDeviceDetails.deviceId Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeDeviceDetails.deviceId   properties.ioTEdgeDeviceDetails.ioTHostHub Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeDeviceDetails.ioTHostHub   properties.ioTEdgeDeviceDetails.authentication Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeDeviceDetails.authentication   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares
+   Default Path Alias     properties.description Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/description   properties.shareStatus Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/shareStatus   properties.monitoringStatus Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/monitoringStatus   properties.azureContainerInfo.storageAccountCredentialId Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/azureContainerInfo.storageAccountCredentialId   properties.azureContainerInfo.containerName Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/azureContainerInfo.containerName   properties.azureContainerInfo.dataFormat Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/azureContainerInfo.dataFormat   properties.azureContainerInfo Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/azureContainerInfo   properties.accessProtocol Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/accessProtocol   properties.userAccessRights[*].userId Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/userAccessRights[*].userId   properties.userAccessRights[*].accessType Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/userAccessRights[*].accessType   properties.userAccessRights[*] Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/userAccessRights[*]   properties.userAccessRights Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/userAccessRights   properties.clientAccessRights[*].client Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/clientAccessRights[*].client   properties.clientAccessRights[*].accessPermission Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/clientAccessRights[*].accessPermission   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials
+   Default Path Alias     properties.alias Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/alias   properties.userName Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/userName   properties.accountKey.value Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/accountKey.value   properties.accountKey.encryptionCertThumbprint Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/accountKey.encryptionCertThumbprint   properties.accountKey.encryptionAlgorithm Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/accountKey.encryptionAlgorithm   properties.accountKey Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/accountKey   properties.connectionString Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/connectionString   properties.sslStatus Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/sslStatus   properties.blobDomainName Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/blobDomainName   properties.accountType Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/accountType   properties.storageAccountId Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccountCredentials/storageAccountId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers
+   Default Path Alias     properties.containerStatus Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/containerStatus   properties.dataFormat Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/dataFormat   properties.refreshDetails.inProgressRefreshJobId Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/refreshDetails.inProgressRefreshJobId   properties.refreshDetails.lastCompletedRefreshJobTimeInUTC Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/refreshDetails.lastCompletedRefreshJobTimeInUTC   properties.refreshDetails.errorManifestFile Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/refreshDetails.errorManifestFile   properties.refreshDetails.lastJob Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/refreshDetails.lastJob   properties.refreshDetails Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/refreshDetails   properties.createdDateTime Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containers/createdDateTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts
+   Default Path Alias     properties.description Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/description   properties.storageAccountStatus Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/storageAccountStatus   properties.dataPolicy Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/dataPolicy   properties.storageAccountCredentialId Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/storageAccountCredentialId   properties.blobEndpoint Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/blobEndpoint   properties.containerCount Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containerCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-triggers/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers
+   Default Path Alias     properties.sourceInfo Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/FileEvent.sourceInfo   properties.sourceInfo.shareId Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/FileEvent.sourceInfo.shareId   properties.sinkInfo Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/FileEvent.sinkInfo   properties.sinkInfo.roleId Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/FileEvent.sinkInfo.roleId   properties.customContextTag Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/FileEvent.customContextTag   properties.sourceInfo.startTime Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.startTime   properties.sourceInfo.schedule Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.schedule   properties.sourceInfo.topic Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.topic    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/dataBoxEdgeDevices/users
+   Default Path Alias     properties.encryptedPassword.value Microsoft.DataboxEdge/dataBoxEdgeDevices/users/encryptedPassword.value   properties.encryptedPassword.encryptionCertThumbprint Microsoft.DataboxEdge/dataBoxEdgeDevices/users/encryptedPassword.encryptionCertThumbprint   properties.encryptedPassword.encryptionAlgorithm Microsoft.DataboxEdge/dataBoxEdgeDevices/users/encryptedPassword.encryptionAlgorithm   properties.encryptedPassword Microsoft.DataboxEdge/dataBoxEdgeDevices/users/encryptedPassword   properties.shareAccessRights[*].shareId Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights[*].shareId   properties.shareAccessRights[*].accessType Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights[*].accessType   properties.shareAccessRights[*] Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights[*]   properties.shareAccessRights Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights   properties.userType Microsoft.DataboxEdge/dataBoxEdgeDevices/users/userType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataBoxEdge/DataBoxEdgeDevices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataBoxEdge/DataBoxEdgeDevices/</guid>
+      <description>Link to resource definition: Microsoft.DataBoxEdge/DataBoxEdgeDevices
+   Default Path Alias     sku.name Microsoft.DataboxEdge/DataBoxEdgeDevices/sku.name   sku.tier Microsoft.DataboxEdge/DataBoxEdgeDevices/sku.tier   sku Microsoft.DataboxEdge/DataBoxEdgeDevices/sku   properties.dataBoxEdgeDeviceStatus Microsoft.DataboxEdge/DataBoxEdgeDevices/dataBoxEdgeDeviceStatus   properties.serialNumber Microsoft.DataboxEdge/DataBoxEdgeDevices/serialNumber   properties.description Microsoft.DataboxEdge/DataBoxEdgeDevices/description   properties.modelDescription Microsoft.DataboxEdge/DataBoxEdgeDevices/modelDescription   properties.deviceType Microsoft.DataboxEdge/DataBoxEdgeDevices/deviceType   properties.friendlyName Microsoft.DataboxEdge/DataBoxEdgeDevices/friendlyName   properties.culture Microsoft.DataboxEdge/DataBoxEdgeDevices/culture   properties.deviceModel Microsoft.DataboxEdge/DataBoxEdgeDevices/deviceModel   properties.deviceSoftwareVersion Microsoft.DataboxEdge/DataBoxEdgeDevices/deviceSoftwareVersion   properties.deviceLocalCapacity Microsoft.DataboxEdge/DataBoxEdgeDevices/deviceLocalCapacity   properties.timeZone Microsoft.DataboxEdge/DataBoxEdgeDevices/timeZone   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

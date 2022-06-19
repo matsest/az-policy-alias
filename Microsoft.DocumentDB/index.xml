@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DocumentDB/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DocumentDB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters-dataCenters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters-dataCenters/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/cassandraClusters/dataCenters
+   Default Path Alias     properties.provisioningState Microsoft.DocumentDB/cassandraClusters/dataCenters/provisioningState   properties.dataCenterLocation Microsoft.DocumentDB/cassandraClusters/dataCenters/dataCenterLocation   properties.delegatedSubnetId Microsoft.DocumentDB/cassandraClusters/dataCenters/delegatedSubnetId   properties.nodeCount Microsoft.DocumentDB/cassandraClusters/dataCenters/nodeCount   properties.seedNodes Microsoft.DocumentDB/cassandraClusters/dataCenters/seedNodes   properties.seedNodes[*] Microsoft.DocumentDB/cassandraClusters/dataCenters/seedNodes[*]   properties.seedNodes[*].ipAddress Microsoft.DocumentDB/cassandraClusters/dataCenters/seedNodes[*].ipAddress   properties.base64EncodedCassandraYamlFragment Microsoft.DocumentDB/cassandraClusters/dataCenters/base64EncodedCassandraYamlFragment   properties.managedDiskCustomerKeyUri Microsoft.DocumentDB/cassandraClusters/dataCenters/managedDiskCustomerKeyUri   properties.backupStorageCustomerKeyUri Microsoft.DocumentDB/cassandraClusters/dataCenters/backupStorageCustomerKeyUri   properties.sku Microsoft.DocumentDB/cassandraClusters/dataCenters/sku   properties.diskSku Microsoft.DocumentDB/cassandraClusters/dataCenters/diskSku   properties.diskCapacity Microsoft.DocumentDB/cassandraClusters/dataCenters/diskCapacity   properties.availabilityZone Microsoft.DocumentDB/cassandraClusters/dataCenters/availabilityZone   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/cassandraClusters
+   Default Path Alias     properties.provisioningState Microsoft.DocumentDB/cassandraClusters/provisioningState   properties.restoreFromBackupId Microsoft.DocumentDB/cassandraClusters/restoreFromBackupId   properties.delegatedManagementSubnetId Microsoft.DocumentDB/cassandraClusters/delegatedManagementSubnetId   properties.cassandraVersion Microsoft.DocumentDB/cassandraClusters/cassandraVersion   properties.clusterNameOverride Microsoft.DocumentDB/cassandraClusters/clusterNameOverride   properties.authenticationMethod Microsoft.DocumentDB/cassandraClusters/authenticationMethod   properties.initialCassandraAdminPassword Microsoft.DocumentDB/cassandraClusters/initialCassandraAdminPassword   properties.hoursBetweenBackups Microsoft.DocumentDB/cassandraClusters/hoursBetweenBackups   properties.prometheusEndpoint Microsoft.DocumentDB/cassandraClusters/prometheusEndpoint   properties.prometheusEndpoint.ipAddress Microsoft.DocumentDB/cassandraClusters/prometheusEndpoint.ipAddress   properties.repairEnabled Microsoft.DocumentDB/cassandraClusters/repairEnabled   properties.clientCertificates Microsoft.DocumentDB/cassandraClusters/clientCertificates   properties.clientCertificates[*] Microsoft.DocumentDB/cassandraClusters/clientCertificates[*]   properties.clientCertificates[*].pem Microsoft.DocumentDB/cassandraClusters/clientCertificates[*].pem   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/collections
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/id   properties.shardKey Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/shardKey   properties.indexes Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes   properties.indexes[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*]   properties.indexes[*].key Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].key   properties.indexes[*].key.keys Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].key.keys   properties.indexes[*].key.keys[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].key.keys[*]   properties.indexes[*].options Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options   properties.indexes[*].options.expireAfterSeconds Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options.expireAfterSeconds   properties.indexes[*].options.unique Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options.unique    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/containers
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/id   properties.indexingPolicy Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy   properties.indexingPolicy.automatic Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.automatic   properties.indexingPolicy.indexingMode Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.indexingMode   properties.indexingPolicy.includedPaths Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths   properties.indexingPolicy.includedPaths[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*]   properties.indexingPolicy.includedPaths[*].path Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].path   properties.indexingPolicy.includedPaths[*].indexes Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].indexes   properties.indexingPolicy.includedPaths[*].indexes[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].indexes[*]   properties.indexingPolicy.includedPaths[*].indexes[*].dataType Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].indexes[*].dataType   properties.indexingPolicy.includedPaths[*].indexes[*].precision Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].indexes[*].precision   properties.indexingPolicy.includedPaths[*].indexes[*].kind Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.includedPaths[*].indexes[*].kind   properties.indexingPolicy.excludedPaths Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.excludedPaths   properties.indexingPolicy.excludedPaths[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/indexingPolicy.excludedPaths[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/id   properties.indexingPolicy Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy   properties.indexingPolicy.automatic Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.automatic   properties.indexingPolicy.indexingMode Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.indexingMode   properties.indexingPolicy.includedPaths Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths   properties.indexingPolicy.includedPaths[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*]   properties.indexingPolicy.includedPaths[*].path Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].path   properties.indexingPolicy.includedPaths[*].indexes Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].indexes   properties.indexingPolicy.includedPaths[*].indexes[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].indexes[*]   properties.indexingPolicy.includedPaths[*].indexes[*].dataType Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].indexes[*].dataType   properties.indexingPolicy.includedPaths[*].indexes[*].precision Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].indexes[*].precision   properties.indexingPolicy.includedPaths[*].indexes[*].kind Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.includedPaths[*].indexes[*].kind   properties.indexingPolicy.excludedPaths Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.excludedPaths   properties.indexingPolicy.excludedPaths[*] Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/indexingPolicy.excludedPaths[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/databases/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/databases
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/databases/id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/id   properties.defaultTtl Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/defaultTtl   properties.schema Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema   properties.schema.columns Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.columns   properties.schema.columns[*] Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.columns[*]   properties.schema.columns[*].name Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.columns[*].name   properties.schema.columns[*].type Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.columns[*].type   properties.schema.partitionKeys Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.partitionKeys   properties.schema.partitionKeys[*] Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.partitionKeys[*]   properties.schema.partitionKeys[*].name Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.partitionKeys[*].name   properties.schema.clusterKeys Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys   properties.schema.clusterKeys[*] Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*]   properties.schema.clusterKeys[*].name Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*].name   properties.schema.clusterKeys[*].orderBy Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*].orderBy    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/keyspaces
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables-settings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/tables/settings
+   Default Path Alias     properties.throughput Microsoft.DocumentDB/databaseAccounts/apis/tables/settings/throughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/apis/tables
+   Default Path Alias     properties.id Microsoft.DocumentDB/databaseAccounts/apis/tables/id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.id   properties.resource.defaultTtl Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.defaultTtl   properties.resource.schema.columns[*].name Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.columns[*].name   properties.resource.schema.columns[*].type Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.columns[*].type   properties.resource.schema.columns[*] Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.columns[*]   properties.resource.schema.columns Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.columns   properties.resource.schema.partitionKeys[*].name Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.partitionKeys[*].name   properties.resource.schema.partitionKeys[*] Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.partitionKeys[*]   properties.resource.schema.partitionKeys Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.partitionKeys   properties.resource.schema.clusterKeys[*].name Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.clusterKeys[*].name   properties.resource.schema.clusterKeys[*].orderBy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.clusterKeys[*].orderBy   properties.resource.schema.clusterKeys[*] Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.clusterKeys[*]   properties.resource.schema.clusterKeys Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema.clusterKeys   properties.resource.schema Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.schema   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings
+   Default Path Alias     properties.resource Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource   properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.throughput   properties.resource.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings   properties.resource.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.maxThroughput   properties.resource.autoscaleSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy   properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autoscaleSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.targetMaxThroughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.offerReplacePending    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views
+   Default Path Alias     properties.resource Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/resource   properties.resource.id Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/resource.id   properties.resource.viewDefinition Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/resource.viewDefinition   properties.options Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.throughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.autoscaleSettings   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.autoscaleSettings.maxThroughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/resource.id   properties.resource Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/resource   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/options   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/options.autoscaleSettings.maxThroughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/options.autoscaleSettings    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-graphs/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/graphs
+   Default Path Alias     properties.resource Microsoft.DocumentDB/databaseAccounts/graphs/resource   properties.resource.id Microsoft.DocumentDB/databaseAccounts/graphs/resource.id   properties.options Microsoft.DocumentDB/databaseAccounts/graphs/options   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/graphs/options.throughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/graphs/options.autoscaleSettings   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/graphs/options.autoscaleSettings.maxThroughput    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.id   properties.resource.indexingPolicy.automatic Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.automatic   properties.resource.indexingPolicy.indexingMode Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.indexingMode   properties.resource.indexingPolicy.includedPaths[*].path Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].path   properties.resource.indexingPolicy.includedPaths[*].indexes[*].dataType Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].indexes[*].dataType   properties.resource.indexingPolicy.includedPaths[*].indexes[*].precision Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].indexes[*].precision   properties.resource.indexingPolicy.includedPaths[*].indexes[*].kind Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].indexes[*].kind   properties.resource.indexingPolicy.includedPaths[*].indexes[*] Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].indexes[*]   properties.resource.indexingPolicy.includedPaths[*].indexes Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*].indexes   properties.resource.indexingPolicy.includedPaths[*] Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths[*]   properties.resource.indexingPolicy.includedPaths Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.includedPaths   properties.resource.indexingPolicy.excludedPaths[*].path Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.excludedPaths[*].path   properties.resource.indexingPolicy.excludedPaths[*] Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.excludedPaths[*]   properties.resource.indexingPolicy.excludedPaths Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.excludedPaths   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/gremlinDatabases
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.id   properties.resource Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options.autoscaleSettings.maxThroughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options.autoscaleSettings    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.id   properties.resource.shardKey Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.shardKey   properties.resource.indexes[*].key.keys[*] Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].key.keys[*]   properties.resource.indexes[*].key.keys Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].key.keys   properties.resource.indexes[*].key Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].key   properties.resource.indexes[*].options.expireAfterSeconds Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].options.expireAfterSeconds   properties.resource.indexes[*].options.unique Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].options.unique   properties.resource.indexes[*].options Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*].options   properties.resource.indexes[*] Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes[*]   properties.resource.indexes Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.indexes   properties.resource Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/options   properties.resource.analyticalStorageTtl Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.analyticalStorageTtl   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/mongodbDatabases
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/resource.id   properties.resource Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/resource   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/options   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/options.autoscaleSettings.maxThroughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/options.autoscaleSettings    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces
+   Default Path Alias     properties.notebookServerEndpoint Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/notebookServerEndpoint   properties.status Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint.id Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateEndpoint.id   properties.privateEndpoint Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateEndpoint   properties.privateLinkServiceConnectionState.status Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.groupId Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/groupId   properties.provisioningState Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-services/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/services
+   Default Path Alias     properties.sqlDedicatedGatewayEndpoint Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.sqlDedicatedGatewayEndpoint   properties.locations Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations   properties.locations[*] Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations[*]   properties.locations[*].name Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations[*].name   properties.locations[*].location Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations[*].location   properties.locations[*].status Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations[*].status   properties.locations[*].sqlDedicatedGatewayEndpoint Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGatewayServiceResourceProperties.locations[*].sqlDedicatedGatewayEndpoint   properties.creationTime Microsoft.DocumentDB/databaseAccounts/services/creationTime   properties.instanceSize Microsoft.DocumentDB/databaseAccounts/services/instanceSize   properties.instanceCount Microsoft.DocumentDB/databaseAccounts/services/instanceCount   properties.serviceType Microsoft.DocumentDB/databaseAccounts/services/serviceType   properties.status Microsoft.DocumentDB/databaseAccounts/services/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys
+   Default Path Alias     properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource   properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.id   properties.resource.encryptionAlgorithm Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.encryptionAlgorithm   properties.resource.wrappedDataEncryptionKey Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.wrappedDataEncryptionKey   properties.resource.keyWrapMetadata Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata   properties.resource.keyWrapMetadata.name Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.name   properties.resource.keyWrapMetadata.type Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.type   properties.resource.keyWrapMetadata.value Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.value   properties.resource.keyWrapMetadata.algorithm Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.algorithm    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-storedProcedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-storedProcedures/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures/resource.id   properties.resource.body Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures/resource.body   properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures/resource    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-triggers/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/resource.id   properties.resource.body Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/resource.body   properties.resource.triggerType Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/resource.triggerType   properties.resource.triggerOperation Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/resource.triggerOperation   properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/resource    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-userDefinedFunctions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-userDefinedFunctions/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/resource.id   properties.resource.body Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/resource.body   properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/resource    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.id   properties.resource.indexingPolicy.automatic Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.automatic   properties.resource.indexingPolicy.indexingMode Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.indexingMode   properties.resource.indexingPolicy.includedPaths[*].path Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].path   properties.resource.indexingPolicy.includedPaths[*].indexes[*].dataType Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].indexes[*].dataType   properties.resource.indexingPolicy.includedPaths[*].indexes[*].precision Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].indexes[*].precision   properties.resource.indexingPolicy.includedPaths[*].indexes[*].kind Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].indexes[*].kind   properties.resource.indexingPolicy.includedPaths[*].indexes[*] Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].indexes[*]   properties.resource.indexingPolicy.includedPaths[*].indexes Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*].indexes   properties.resource.indexingPolicy.includedPaths[*] Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths[*]   properties.resource.indexingPolicy.includedPaths Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.includedPaths   properties.resource.indexingPolicy.excludedPaths[*].path Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.excludedPaths[*].path   properties.resource.indexingPolicy.excludedPaths[*] Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.excludedPaths[*]   properties.resource.indexingPolicy.excludedPaths Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.excludedPaths   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlDatabases
+   Default Path Alias     properties.resource Microsoft.DocumentDB/databaseAccounts/sqlDatabases/resource   properties.resource.id Microsoft.DocumentDB/databaseAccounts/sqlDatabases/resource.id   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/sqlDatabases/options   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/sqlDatabases/options.autoscaleSettings.maxThroughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/sqlDatabases/options.autoscaleSettings    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleAssignments/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments
+   Default Path Alias     properties.roleDefinitionId Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/roleDefinitionId   properties.scope Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/scope   properties.principalId Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/principalId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions
+   Default Path Alias     properties.roleName Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/roleName   properties.type Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/type   properties.assignableScopes Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/assignableScopes   properties.assignableScopes[*] Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/assignableScopes[*]   properties.permissions Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions   properties.permissions[*] Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*]   properties.permissions[*].dataActions Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].dataActions   properties.permissions[*].dataActions[*] Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].dataActions[*]   properties.permissions[*].notDataActions Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions   properties.permissions[*].notDataActions[*] Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables-throughputSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables-throughputSettings/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings
+   Default Path Alias     properties.resource.throughput Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.throughput   properties.resource.minimumThroughput Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.minimumThroughput   properties.resource.offerReplacePending Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.offerReplacePending   properties.resource Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource   properties.resource.autopilotSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.maxThroughput   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy.throughputPolicy   properties.resource.autopilotSettings.autoUpgradePolicy Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.autoUpgradePolicy   properties.resource.autopilotSettings.targetMaxThroughput Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings.targetMaxThroughput   properties.resource.autopilotSettings Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.autopilotSettings   properties.resource.provisionedThroughputSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.provisionedThroughputSettings.maxThroughput   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled   properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/default.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts/tables
+   Default Path Alias     properties.resource.id Microsoft.DocumentDB/databaseAccounts/tables/resource.id   properties.resource Microsoft.DocumentDB/databaseAccounts/tables/resource   properties.options.throughput Microsoft.DocumentDB/databaseAccounts/tables/options.throughput   properties.options Microsoft.DocumentDB/databaseAccounts/tables/options   properties.options.autoscaleSettings.maxThroughput Microsoft.DocumentDB/databaseAccounts/tables/options.autoscaleSettings.maxThroughput   properties.options.autoscaleSettings Microsoft.DocumentDB/databaseAccounts/tables/options.autoscaleSettings    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts/</guid>
+      <description>Link to resource definition: Microsoft.DocumentDB/databaseAccounts
+   Default Path Alias     properties.databaseAccountOfferType Microsoft.DocumentDB/databaseAccounts/sku.name   properties.virtualNetworkRules[*] Microsoft.DocumentDB/databaseAccounts/virtualNetworkRules[*]   properties.virtualNetworkRules[*].id Microsoft.DocumentDB/databaseAccounts/virtualNetworkRules[*].id   properties.isVirtualNetworkFilterEnabled Microsoft.DocumentDB/databaseAccounts/isVirtualNetworkFilterEnabled   properties.consistencyPolicy.defaultConsistencyLevel Microsoft.DocumentDB/databaseAccounts/consistencyPolicy.defaultConsistencyLevel   properties.enableAutomaticFailover Microsoft.DocumentDB/databaseAccounts/enableAutomaticFailover   properties.locations Microsoft.DocumentDB/databaseAccounts/Locations   properties.locations[*] Microsoft.DocumentDB/databaseAccounts/Locations[*]   properties.locations[*].locationName Microsoft.DocumentDB/databaseAccounts/Locations[*].locationName   properties.readLocations Microsoft.DocumentDB/databaseAccounts/readLocations   properties.readLocations[*] Microsoft.DocumentDB/databaseAccounts/readLocations[*]   properties.readLocations[*].locationName Microsoft.DocumentDB/databaseAccounts/readLocations[*].locationName   properties.writeLocations Microsoft.DocumentDB/databaseAccounts/writeLocations   properties.writeLocations[*] Microsoft.DocumentDB/databaseAccounts/writeLocations[*]   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

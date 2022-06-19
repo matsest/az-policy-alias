@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.SaaS/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.SaaS/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SaaS/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SaaS/resources/</guid>
+      <description>Link to resource definition: Microsoft.SaaS/resources
+   Default Path Alias     properties.offerId Microsoft.SaaS/resources/offerId   properties.publisherId Microsoft.SaaS/resources/publisherId   properties.quantity Microsoft.SaaS/resources/quantity   properties.skuId Microsoft.SaaS/resources/skuId   properties.paymentChannelType Microsoft.SaaS/resources/paymentChannelType   properties.paymentChannelMetadata Microsoft.SaaS/resources/paymentChannelMetadata   properties.saasResourceName Microsoft.SaaS/resources/saasResourceName   properties.termId Microsoft.SaaS/resources/termId   properties.autoRenew Microsoft.SaaS/resources/autoRenew   properties.publisherTestEnvironment Microsoft.SaaS/resources/publisherTestEnvironment   properties.saasSubscriptionId Microsoft.SaaS/resources/saasSubscriptionId   properties.saasSessionId Microsoft.SaaS/resources/saasSessionId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.SaaS/saasresources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.SaaS/saasresources/</guid>
+      <description>Link to resource definition: Microsoft.SaaS/saasresources
+   Default Path Alias     properties.offerId Microsoft.SaaS/saasresources/offerId   properties.publisherId Microsoft.SaaS/saasresources/publisherId   properties.quantity Microsoft.SaaS/saasresources/quantity   properties.skuId Microsoft.SaaS/saasresources/skuId   properties.paymentChannelType Microsoft.SaaS/saasresources/paymentChannelType   properties.paymentChannelMetadata Microsoft.SaaS/saasresources/paymentChannelMetadata   properties.saasResourceName Microsoft.SaaS/saasresources/saasResourceName   properties.termId Microsoft.SaaS/saasresources/termId   properties.autoRenew Microsoft.SaaS/saasresources/autoRenew   properties.publisherTestEnvironment Microsoft.SaaS/saasresources/publisherTestEnvironment   properties.saasSubscriptionId Microsoft.SaaS/saasresources/saasSubscriptionId   properties.saasSessionId Microsoft.SaaS/saasresources/saasSessionId    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Compute/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Compute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/availabilitySets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/availabilitySets/</guid>
+      <description>Link to resource definition: Microsoft.Compute/availabilitySets
+   Default Path Alias     properties.platformUpdateDomainCount Microsoft.Compute/availabilitySets/platformUpdateDomainCount   properties.platformFaultDomainCount Microsoft.Compute/availabilitySets/platformFaultDomainCount   properties.virtualMachines[*].id Microsoft.Compute/availabilitySets/virtualMachines[*].id   properties.virtualMachines[*] Microsoft.Compute/availabilitySets/virtualMachines[*]   properties.virtualMachines Microsoft.Compute/availabilitySets/virtualMachines   properties.statuses[*].code Microsoft.Compute/availabilitySets/statuses[*].code   properties.statuses[*].level Microsoft.Compute/availabilitySets/statuses[*].level   properties.statuses[*].displayStatus Microsoft.Compute/availabilitySets/statuses[*].displayStatus   properties.statuses[*].message Microsoft.Compute/availabilitySets/statuses[*].message   properties.statuses[*].time Microsoft.Compute/availabilitySets/statuses[*].time   properties.statuses[*] Microsoft.Compute/availabilitySets/statuses[*]   properties.statuses Microsoft.Compute/availabilitySets/statuses   properties.managed Microsoft.Compute/availabilitySets/managed   sku.name Microsoft.Compute/availabilitySets/sku.name   sku.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups-capacityReservations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups-capacityReservations/</guid>
+      <description>Link to resource definition: Microsoft.Compute/capacityReservationGroups/capacityReservations
+   Default Path Alias     properties.reservationId Microsoft.Compute/capacityReservationGroups/capacityReservations/reservationId   properties.virtualMachinesAssociated Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated   properties.virtualMachinesAssociated[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*]   properties.virtualMachinesAssociated[*].id Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*].id   properties.provisioningTime Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningTime   properties.provisioningState Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningState   sku Microsoft.Compute/capacityReservationGroups/capacityReservations/sku   sku.name Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.name   sku.tier Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.tier   sku.capacity Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.capacity   zones Microsoft.Compute/capacityReservationGroups/capacityReservations/zones   zones[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/zones[*]   properties.timeCreated Microsoft.Compute/capacityReservationGroups/capacityReservations/timeCreated    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups/</guid>
+      <description>Link to resource definition: Microsoft.Compute/capacityReservationGroups
+   Default Path Alias     properties.capacityReservations Microsoft.Compute/capacityReservationGroups/capacityReservations   properties.capacityReservations[*] Microsoft.Compute/capacityReservationGroups/capacityReservations[*]   properties.capacityReservations[*].id Microsoft.Compute/capacityReservationGroups/capacityReservations[*].id   properties.virtualMachinesAssociated Microsoft.Compute/capacityReservationGroups/virtualMachinesAssociated   properties.virtualMachinesAssociated[*] Microsoft.Compute/capacityReservationGroups/virtualMachinesAssociated[*]   properties.virtualMachinesAssociated[*].id Microsoft.Compute/capacityReservationGroups/virtualMachinesAssociated[*].id   zones Microsoft.Compute/capacityReservationGroups/zones   zones[*] Microsoft.Compute/capacityReservationGroups/zones[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/cloudServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/cloudServices/</guid>
+      <description>Link to resource definition: Microsoft.Compute/cloudServices
+   Default Path Alias     properties.packageUrl Microsoft.Compute/cloudServices/packageUrl   properties.configuration Microsoft.Compute/cloudServices/configuration   properties.configurationUrl Microsoft.Compute/cloudServices/configurationUrl   properties.startCloudService Microsoft.Compute/cloudServices/startCloudService   properties.upgradeMode Microsoft.Compute/cloudServices/upgradeMode   properties.roleProfile Microsoft.Compute/cloudServices/roleProfile   properties.roleProfile.roles Microsoft.Compute/cloudServices/roleProfile.roles   properties.roleProfile.roles[*] Microsoft.Compute/cloudServices/roleProfile.roles[*]   properties.roleProfile.roles[*].name Microsoft.Compute/cloudServices/roleProfile.roles[*].name   properties.roleProfile.roles[*].sku Microsoft.Compute/cloudServices/roleProfile.roles[*].sku   properties.roleProfile.roles[*].sku.name Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.name   properties.roleProfile.roles[*].sku.tier Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.tier   properties.roleProfile.roles[*].sku.capacity Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.capacity   properties.osProfile Microsoft.Compute/cloudServices/osProfile   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Compute/diskAccesses/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Compute/diskAccesses/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Compute/diskAccesses/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.Compute/diskAccesses/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses/</guid>
+      <description>Link to resource definition: Microsoft.Compute/diskAccesses
+   Default Path Alias     properties.privateEndpointConnections[*] Microsoft.Compute/diskAccesses/privateEndpointConnections[*]   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Compute/diskAccesses/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired   properties.privateEndpointConnections[*].properties.provisioningState Microsoft.Compute/diskAccesses/privateEndpointConnections[*].provisioningState   properties.privateEndpointConnections[*].id Microsoft.Compute/diskAccesses/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.Compute/diskAccesses/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.Compute/diskAccesses/privateEndpointConnections[*].type   properties.privateEndpointConnections Microsoft.Compute/diskAccesses/privateEndpointConnections   properties.provisioningState Microsoft.Compute/diskAccesses/provisioningState   properties.timeCreated Microsoft.Compute/diskAccesses/timeCreated    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/diskEncryptionSets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/diskEncryptionSets/</guid>
+      <description>Link to resource definition: Microsoft.Compute/diskEncryptionSets
+   Default Path Alias     properties.activeKey.sourceVault.id Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id   properties.activeKey.sourceVault Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault   properties.activeKey.keyUrl Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl   properties.activeKey Microsoft.Compute/diskEncryptionSets/activeKey   properties.previousKeys[*].sourceVault.id Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id   properties.previousKeys[*].sourceVault Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault   properties.previousKeys[*].keyUrl Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl   properties.previousKeys[*] Microsoft.Compute/diskEncryptionSets/previousKeys[*]   properties.previousKeys Microsoft.Compute/diskEncryptionSets/previousKeys   properties.provisioningState Microsoft.Compute/diskEncryptionSets/provisioningState   properties.encryptionType Microsoft.Compute/diskEncryptionSets/encryptionType   properties.rotationToLatestKeyVersionEnabled Microsoft.Compute/diskEncryptionSets/rotationToLatestKeyVersionEnabled   properties.lastKeyRotationTimestamp Microsoft.Compute/diskEncryptionSets/lastKeyRotationTimestamp   properties.autoKeyRotationError Microsoft.Compute/diskEncryptionSets/autoKeyRotationError   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/disks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/disks/</guid>
+      <description>Link to resource definition: Microsoft.Compute/disks
+   Default Path Alias     properties.creationData.imageReference.id Microsoft.Compute/imagePublisher   properties.creationData.imageReference.id Microsoft.Compute/imageOffer   properties.creationData.imageReference.id Microsoft.Compute/imageSku   properties.creationData.imageReference.id Microsoft.Compute/imageVersion   properties.creationData.imageReference.id Microsoft.Compute/imageId   sku.name Microsoft.Compute/disks/sku.name   properties.accountType Microsoft.Compute/disks/accountType   properties.osType Microsoft.Compute/disks/osType   properties.creationData Microsoft.Compute/disks/creationData   properties.creationData.createOption Microsoft.Compute/disks/creationData.createOption   properties.creationData.imageReference Microsoft.Compute/disks/creationData.imageReference   properties.creationData.imageReference.id Microsoft.Compute/disks/creationData.imageReference.id   properties.diskSizeGB Microsoft.Compute/disks/diskSizeGB   properties.encryptionSettingsCollection Microsoft.Compute/disks/encryptionSettings   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications-versions/</guid>
+      <description>Link to resource definition: Microsoft.Compute/galleries/applications/versions
+   Default Path Alias     properties.publishingProfile.source.fileName Microsoft.Compute/galleries/applications/versions/publishingProfile.source.fileName   properties.publishingProfile.source.mediaLink Microsoft.Compute/galleries/applications/versions/publishingProfile.source.mediaLink   properties.publishingProfile.source Microsoft.Compute/galleries/applications/versions/publishingProfile.source   properties.publishingProfile.contentType Microsoft.Compute/galleries/applications/versions/publishingProfile.contentType   properties.publishingProfile.enableHealthCheck Microsoft.Compute/galleries/applications/versions/publishingProfile.enableHealthCheck   properties.publishingProfile Microsoft.Compute/galleries/applications/versions/publishingProfile   properties.publishingProfile.targetRegions[*].name Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].name   properties.publishingProfile.targetRegions[*].regionalReplicaCount Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].regionalReplicaCount   properties.publishingProfile.targetRegions[*].storageAccountType Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].storageAccountType   properties.publishingProfile.targetRegions[*] Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*]   properties.publishingProfile.targetRegions Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions   properties.publishingProfile.replicaCount Microsoft.Compute/galleries/applications/versions/publishingProfile.replicaCount   properties.publishingProfile.excludeFromLatest Microsoft.Compute/galleries/applications/versions/publishingProfile.excludeFromLatest   properties.publishingProfile.publishedDate Microsoft.Compute/galleries/applications/versions/publishingProfile.publishedDate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications/</guid>
+      <description>Link to resource definition: Microsoft.Compute/galleries/applications
+   Default Path Alias     properties.description Microsoft.Compute/galleries/applications/description   properties.eula Microsoft.Compute/galleries/applications/eula   properties.privacyStatementUri Microsoft.Compute/galleries/applications/privacyStatementUri   properties.releaseNoteUri Microsoft.Compute/galleries/applications/releaseNoteUri   properties.endOfLifeDate Microsoft.Compute/galleries/applications/endOfLifeDate   properties.supportedOSType Microsoft.Compute/galleries/applications/supportedOSType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/galleries-images-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries-images-versions/</guid>
+      <description>Link to resource definition: Microsoft.Compute/galleries/images/versions
+   Default Path Alias     properties.publishingProfile.replicaCount Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount   properties.publishingProfile.excludeFromLatest Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest   properties.publishingProfile.publishedDate Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate   properties.publishingProfile.endOfLifeDate Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate   properties.publishingProfile Microsoft.Compute/galleries/images/versions/publishingProfile   properties.provisioningState Microsoft.Compute/galleries/images/versions/provisioningState   properties.storageProfile.osDiskImage Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage   properties.storageProfile.dataDiskImages[*].lun Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun   properties.storageProfile.dataDiskImages[*] Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]   properties.storageProfile.dataDiskImages Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages   properties.storageProfile Microsoft.Compute/galleries/images/versions/storageProfile   properties.replicationStatus.aggregatedState Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState   properties.replicationStatus.summary[*].region Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region   properties.replicationStatus.summary[*].state Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/galleries-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries-images/</guid>
+      <description>Link to resource definition: Microsoft.Compute/galleries/images
+   Default Path Alias     properties.description Microsoft.Compute/galleries/images/description   properties.eula Microsoft.Compute/galleries/images/eula   properties.privacyStatementUri Microsoft.Compute/galleries/images/privacyStatementUri   properties.releaseNoteUri Microsoft.Compute/galleries/images/releaseNoteUri   properties.osType Microsoft.Compute/galleries/images/osType   properties.osState Microsoft.Compute/galleries/images/osState   properties.endOfLifeDate Microsoft.Compute/galleries/images/endOfLifeDate   properties.identifier.publisher Microsoft.Compute/galleries/images/identifier.publisher   properties.identifier.offer Microsoft.Compute/galleries/images/identifier.offer   properties.identifier.sku Microsoft.Compute/galleries/images/identifier.sku   properties.identifier Microsoft.Compute/galleries/images/identifier   properties.recommended.vCPUs.min Microsoft.Compute/galleries/images/recommended.vCPUs.min   properties.recommended.vCPUs.max Microsoft.Compute/galleries/images/recommended.vCPUs.max   properties.recommended.vCPUs Microsoft.Compute/galleries/images/recommended.vCPUs   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/galleries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries/</guid>
+      <description>Link to resource definition: Microsoft.Compute/galleries
+   Default Path Alias     properties.description Microsoft.Compute/galleries/description   properties.identifier.uniqueName Microsoft.Compute/galleries/identifier.uniqueName   properties.identifier Microsoft.Compute/galleries/identifier   properties.provisioningState Microsoft.Compute/galleries/provisioningState   properties.eula Microsoft.Compute/galleries/applications.eula   properties.privacyStatementUri Microsoft.Compute/galleries/applications.privacyStatementUri   properties.releaseNoteUri Microsoft.Compute/galleries/applications.releaseNoteUri   properties.endOfLifeDate Microsoft.Compute/galleries/applications.endOfLifeDate   properties.supportedOSType Microsoft.Compute/galleries/applications.supportedOSType   properties.publishingProfile.source.fileName Microsoft.Compute/galleries/applications.versions.publishingProfile.source.fileName   properties.publishingProfile.source.mediaLink Microsoft.Compute/galleries/applications.versions.publishingProfile.source.mediaLink   properties.publishingProfile.source Microsoft.Compute/galleries/applications.versions.publishingProfile.source   properties.publishingProfile.contentType Microsoft.Compute/galleries/applications.versions.publishingProfile.contentType   properties.publishingProfile.enableHealthCheck Microsoft.Compute/galleries/applications.versions.publishingProfile.enableHealthCheck   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/hostGroups-hosts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/hostGroups-hosts/</guid>
+      <description>Link to resource definition: Microsoft.Compute/hostGroups/hosts
+   Default Path Alias     properties.platformFaultDomain Microsoft.Compute/hostGroups/hosts/platformFaultDomain   properties.autoReplaceOnFailure Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure   properties.hostId Microsoft.Compute/hostGroups/hosts/hostId   properties.virtualMachines[*].id Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id   properties.virtualMachines[*] Microsoft.Compute/hostGroups/hosts/virtualMachines[*]   properties.virtualMachines Microsoft.Compute/hostGroups/hosts/virtualMachines   properties.licenseType Microsoft.Compute/hostGroups/hosts/licenseType   properties.provisioningTime Microsoft.Compute/hostGroups/hosts/provisioningTime   properties.provisioningState Microsoft.Compute/hostGroups/hosts/provisioningState   sku.name Microsoft.Compute/hostGroups/hosts/sku.name   sku.tier Microsoft.Compute/hostGroups/hosts/sku.tier   sku.capacity Microsoft.Compute/hostGroups/hosts/sku.capacity   sku Microsoft.Compute/hostGroups/hosts/sku   properties.timeCreated Microsoft.Compute/hostGroups/hosts/timeCreated    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/hostGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/hostGroups/</guid>
+      <description>Link to resource definition: Microsoft.Compute/hostGroups
+   Default Path Alias     properties.platformFaultDomainCount Microsoft.Compute/hostGroups/platformFaultDomainCount   properties.hosts[*].id Microsoft.Compute/hostGroups/hosts[*].id   properties.hosts[*] Microsoft.Compute/hostGroups/hosts[*]   properties.hosts Microsoft.Compute/hostGroups/hosts   zones[*] Microsoft.Compute/hostGroups/zones[*]   zones Microsoft.Compute/hostGroups/zones   properties.supportAutomaticPlacement Microsoft.Compute/hostGroups/supportAutomaticPlacement    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/images/</guid>
+      <description>Link to resource definition: Microsoft.Compute/images
+   Default Path Alias     properties.sourceVirtualMachine.id Microsoft.Compute/images/sourceVirtualMachine.id   properties.sourceVirtualMachine Microsoft.Compute/images/sourceVirtualMachine   properties.storageProfile.osDisk.osType Microsoft.Compute/images/storageProfile.osDisk.osType   properties.storageProfile.osDisk.osState Microsoft.Compute/images/storageProfile.osDisk.osState   properties.storageProfile.osDisk.snapshot.id Microsoft.Compute/images/storageProfile.osDisk.snapshot.id   properties.storageProfile.osDisk.snapshot Microsoft.Compute/images/storageProfile.osDisk.snapshot   properties.storageProfile.osDisk.managedDisk.id Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id   properties.storageProfile.osDisk.managedDisk Microsoft.Compute/images/storageProfile.osDisk.managedDisk   properties.storageProfile.osDisk.blobUri Microsoft.Compute/images/storageProfile.osDisk.blobUri   properties.storageProfile.osDisk.caching Microsoft.Compute/images/storageProfile.osDisk.caching   properties.storageProfile.osDisk.diskSizeGB Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB   properties.storageProfile.osDisk Microsoft.Compute/images/storageProfile.osDisk   properties.storageProfile.dataDisks[*].lun Microsoft.Compute/images/storageProfile.dataDisks[*].lun   properties.storageProfile.dataDisks[*].snapshot.id Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</guid>
+      <description>Link to resource definition: Microsoft.Compute/proximityPlacementGroups
+   Default Path Alias     properties.proximityPlacementGroupType Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType   properties.virtualMachines[*].id Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id   properties.virtualMachines[*] Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]   properties.virtualMachines Microsoft.Compute/proximityPlacementGroups/virtualMachines   properties.virtualMachineScaleSets[*].id Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id   properties.virtualMachineScaleSets[*] Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]   properties.virtualMachineScaleSets Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets   properties.availabilitySets[*].id Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id   properties.availabilitySets[*] Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]   properties.availabilitySets Microsoft.Compute/proximityPlacementGroups/availabilitySets   properties.virtualMachines[*].colocationStatus.code Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code   properties.virtualMachines[*].colocationStatus.level Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level   properties.virtualMachines[*].colocationStatus.displayStatus Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus   properties.virtualMachines[*].colocationStatus.message Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections-restorePoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections-restorePoints/</guid>
+      <description>Link to resource definition: Microsoft.Compute/restorePointCollections/restorePoints
+   Default Path Alias     properties.excludeDisks Microsoft.Compute/restorePointCollections/restorePoints/excludeDisks   properties.excludeDisks[*] Microsoft.Compute/restorePointCollections/restorePoints/excludeDisks[*]   properties.excludeDisks[*].id Microsoft.Compute/restorePointCollections/restorePoints/excludeDisks[*].id   properties.sourceMetadata Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata   properties.sourceMetadata.hardwareProfile Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile   properties.sourceMetadata.hardwareProfile.vmSize Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSize   properties.sourceMetadata.storageProfile Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile   properties.sourceMetadata.storageProfile.osDisk Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk   properties.sourceMetadata.storageProfile.osDisk.osType Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.osType   properties.sourceMetadata.storageProfile.osDisk.encryptionSettings Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.encryptionSettings   properties.sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey   properties.sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.secretUrl Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.secretUrl   properties.sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.sourceVault Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.sourceVault   properties.sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.sourceVault.id Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.encryptionSettings.diskEncryptionKey.sourceVault.id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections/</guid>
+      <description>Link to resource definition: Microsoft.Compute/restorePointCollections
+   Default Path Alias     properties.source Microsoft.Compute/restorePointCollections/source   properties.source.location Microsoft.Compute/restorePointCollections/source.location   properties.source.id Microsoft.Compute/restorePointCollections/source.id   properties.provisioningState Microsoft.Compute/restorePointCollections/provisioningState   properties.restorePointCollectionId Microsoft.Compute/restorePointCollections/restorePointCollectionId   properties.restorePoints Microsoft.Compute/restorePointCollections/restorePoints   properties.restorePoints[*] Microsoft.Compute/restorePointCollections/restorePoints[*]   properties.restorePoints[*].id Microsoft.Compute/restorePointCollections/restorePoints[*].id   properties.restorePoints[*].name Microsoft.Compute/restorePointCollections/restorePoints[*].name   properties.restorePoints[*].type Microsoft.Compute/restorePointCollections/restorePoints[*].type   properties.restorePoints[*].properties.excludeDisks Microsoft.Compute/restorePointCollections/restorePoints[*].excludeDisks   properties.restorePoints[*].properties.excludeDisks[*] Microsoft.Compute/restorePointCollections/restorePoints[*].excludeDisks[*]   properties.restorePoints[*].properties.excludeDisks[*].id Microsoft.Compute/restorePointCollections/restorePoints[*].excludeDisks[*].id   properties.restorePoints[*].properties.sourceMetadata Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/snapshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/snapshots/</guid>
+      <description>Link to resource definition: Microsoft.Compute/snapshots
+   Default Path Alias     properties.accountType Microsoft.Compute/snapshots/accountType   properties.timeCreated Microsoft.Compute/snapshots/timeCreated   properties.osType Microsoft.Compute/snapshots/osType   properties.creationData.createOption Microsoft.Compute/snapshots/creationData.createOption   properties.creationData.storageAccountId Microsoft.Compute/snapshots/creationData.storageAccountId   properties.creationData.imageReference.id Microsoft.Compute/snapshots/creationData.imageReference.id   properties.creationData.imageReference.lun Microsoft.Compute/snapshots/creationData.imageReference.lun   properties.creationData.imageReference Microsoft.Compute/snapshots/creationData.imageReference   properties.creationData.sourceUri Microsoft.Compute/snapshots/creationData.sourceUri   properties.creationData.sourceResourceId Microsoft.Compute/snapshots/creationData.sourceResourceId   properties.creationData Microsoft.Compute/snapshots/creationData   properties.diskSizeGB Microsoft.Compute/snapshots/diskSizeGB   properties.encryptionSettingsCollection.enabled Microsoft.Compute/snapshots/encryptionSettings.enabled   properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/sshPublicKeys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/sshPublicKeys/</guid>
+      <description>Link to resource definition: Microsoft.Compute/sshPublicKeys
+   Default Path Alias     properties.publicKey Microsoft.Compute/sshPublicKeys/publicKey    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-extensions/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachines/extensions
+   Default Path Alias     properties.provisioningState Microsoft.Compute/virtualMachines/extensions/provisioningState   properties.publisher Microsoft.Compute/virtualMachines/extensions/publisher   properties.type Microsoft.Compute/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade   properties.settings Microsoft.Compute/virtualMachines/extensions/settings   properties.settings.workspaceId Microsoft.Compute/virtualMachines/extensions/settings.workspaceId   properties.resources[*].properties.provisioningState Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState   properties.resources[*].properties.protectedSettings Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings   properties.resources[*].properties.settings Microsoft.Compute/virtualMachines/extensions/resources[*].settings   properties.resources[*].properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion   properties.resources[*].properties.typeHandlerVersion Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion   properties.resources[*].properties.type Microsoft.Compute/virtualMachines/extensions/resources[*].type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-runCommands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-runCommands/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachines/runCommands
+   Default Path Alias     properties.source Microsoft.Compute/virtualMachines/runCommands/source   properties.source.script Microsoft.Compute/virtualMachines/runCommands/source.script   properties.source.scriptUri Microsoft.Compute/virtualMachines/runCommands/source.scriptUri   properties.source.commandId Microsoft.Compute/virtualMachines/runCommands/source.commandId   properties.parameters Microsoft.Compute/virtualMachines/runCommands/parameters   properties.parameters[*] Microsoft.Compute/virtualMachines/runCommands/parameters[*]   properties.parameters[*].name Microsoft.Compute/virtualMachines/runCommands/parameters[*].name   properties.parameters[*].value Microsoft.Compute/virtualMachines/runCommands/parameters[*].value   properties.protectedParameters Microsoft.Compute/virtualMachines/runCommands/protectedParameters   properties.protectedParameters[*] Microsoft.Compute/virtualMachines/runCommands/protectedParameters[*]   properties.protectedParameters[*].name Microsoft.Compute/virtualMachines/runCommands/protectedParameters[*].name   properties.protectedParameters[*].value Microsoft.Compute/virtualMachines/runCommands/protectedParameters[*].value   properties.asyncExecution Microsoft.Compute/virtualMachines/runCommands/asyncExecution   properties.runAsUser Microsoft.Compute/virtualMachines/runCommands/runAsUser   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachines
+   Default Path Alias     properties.licenseType Microsoft.Compute/licenseType   properties.availabilitySet.id Microsoft.Compute/virtualMachines/availabilitySet.id   properties.hardwareProfile.vmSize Microsoft.Compute/virtualMachines/sku.name   properties.storageProfile.osDisk.vhd.uri Microsoft.Compute/virtualMachines/osDisk.Uri   properties.storageProfile.imageReference.publisher Microsoft.Compute/imagePublisher   properties.storageProfile.imageReference.offer Microsoft.Compute/imageOffer   properties.storageProfile.imageReference.sku Microsoft.Compute/imageSku   properties.storageProfile.imageReference.version Microsoft.Compute/imageVersion   properties.storageProfile.imageReference.id Microsoft.Compute/imageId   properties.storageProfile.imageReference.publisher Microsoft.Compute/virtualMachines/imagePublisher   properties.storageProfile.imageReference.offer Microsoft.Compute/virtualMachines/imageOffer   properties.storageProfile.imageReference.sku Microsoft.Compute/virtualMachines/imageSku   properties.storageProfile.imageReference.version Microsoft.Compute/virtualMachines/imageVersion   properties.networkProfile.networkInterfaces[*].id Microsoft.Compute/virtualMachines/networkInterfaces[*].id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-extensions/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/extensions
+   Default Path Alias     properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/extensions/provisioningState   properties.publisher Microsoft.Compute/virtualMachineScaleSets/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/extensions/autoUpgradeMinorVersion   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/extensions/enableAutomaticUpgrade   properties.settings Microsoft.Compute/virtualMachineScaleSets/extensions/settings   properties.settings.workspaceId Microsoft.Compute/virtualMachineScaleSets/extensions/settings.workspaceId   properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/extensions/forceUpdateTag   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettings   properties.provisionAfterExtensions[*] Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]   properties.provisionAfterExtensions Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/extensions/suppressFailures    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions
+   Default Path Alias     properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/forceUpdateTag   properties.publisher Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/autoUpgradeMinorVersion   properties.settings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/settings   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettings   properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisioningState   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/enableAutomaticUpgrade   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/suppressFailures    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands
+   Default Path Alias     properties.source Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source   properties.source.script Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.script   properties.source.scriptUri Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.scriptUri   properties.source.commandId Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.commandId   properties.parameters Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/parameters   properties.parameters[*] Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/parameters[*]   properties.parameters[*].name Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/parameters[*].name   properties.parameters[*].value Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/parameters[*].value   properties.protectedParameters Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/protectedParameters   properties.protectedParameters[*] Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/protectedParameters[*]   properties.protectedParameters[*].name Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/protectedParameters[*].name   properties.protectedParameters[*].value Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/protectedParameters[*].value   properties.asyncExecution Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/asyncExecution   properties.runAsUser Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/runAsUser   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/virtualMachines
+   Default Path Alias     properties.osProfile.customData Microsoft.Compute/virtualMachineScaleSets/virtualMachines/osProfile.customData   sku.name Microsoft.Compute/virtualMachineScaleSets/virtualMachines/sku.name   sku.tier Microsoft.Compute/virtualMachineScaleSets/virtualMachines/sku.tier   sku.capacity Microsoft.Compute/virtualMachineScaleSets/virtualMachines/sku.capacity   sku Microsoft.Compute/virtualMachineScaleSets/virtualMachines/sku   properties.latestModelApplied Microsoft.Compute/virtualMachineScaleSets/virtualMachines/latestModelApplied   properties.vmId Microsoft.Compute/virtualMachineScaleSets/virtualMachines/vmId   properties.hardwareProfile.vmSize Microsoft.Compute/virtualMachineScaleSets/virtualMachines/hardwareProfile.vmSize   properties.hardwareProfile Microsoft.Compute/virtualMachineScaleSets/virtualMachines/hardwareProfile   properties.storageProfile.imageReference.publisher Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile.imageReference.publisher   properties.storageProfile.imageReference.offer Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile.imageReference.offer   properties.storageProfile.imageReference.sku Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile.imageReference.sku   properties.storageProfile.imageReference.version Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile.imageReference.version   properties.storageProfile.imageReference Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile.imageReference   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets/</guid>
+      <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets
+   Default Path Alias     sku.name Microsoft.Compute/VirtualMachineScaleSets/sku.name   sku.tier Microsoft.Compute/VirtualMachineScaleSets/sku.tier   properties.virtualMachineProfile Microsoft.Compute/VirtualMachineScaleSets/virtualMachineProfile   properties.virtualMachineProfile.extensionProfile Microsoft.Compute/VirtualMachineScaleSets/extensionProfile   properties.virtualMachineProfile.extensionProfile.extensions[*] Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*]   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.provisioningState Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].provisioningState   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.publisher Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].publisher   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.type Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].type   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.typeHandlerVersion Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].typeHandlerVersion   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.autoUpgradeMinorVersion Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].autoUpgradeMinorVersion   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.enableAutomaticUpgrade Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].enableAutomaticUpgrade   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.settings Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings   properties.virtualMachineProfile.extensionProfile.extensions[*].properties.settings.workspaceId Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings.workspaceId   properties.virtualMachineProfile.extensionProfile.extensions[*].name Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].name   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

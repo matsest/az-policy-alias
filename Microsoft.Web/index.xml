@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Web/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/certificates/</guid>
+      <description>Link to resource definition: Microsoft.Web/certificates
+   Default Path Alias     properties.friendlyName Microsoft.Web/certificates/friendlyName   properties.subjectName Microsoft.Web/certificates/subjectName   properties.hostNames[*] Microsoft.Web/certificates/hostNames[*]   properties.hostNames Microsoft.Web/certificates/hostNames   properties.pfxBlob Microsoft.Web/certificates/pfxBlob   properties.siteName Microsoft.Web/certificates/siteName   properties.selfLink Microsoft.Web/certificates/selfLink   properties.issuer Microsoft.Web/certificates/issuer   properties.issueDate Microsoft.Web/certificates/issueDate   properties.expirationDate Microsoft.Web/certificates/expirationDate   properties.password Microsoft.Web/certificates/password   properties.thumbprint Microsoft.Web/certificates/thumbprint   properties.valid Microsoft.Web/certificates/valid   properties.cerBlob Microsoft.Web/certificates/cerBlob   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/connectionGateways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/connectionGateways/</guid>
+      <description>Link to resource definition: Microsoft.Web/connectionGateways
+   Default Path Alias     properties.connectionGatewayInstallation.location Microsoft.Web/connectionGateways/connectionGatewayInstallation.location   properties.connectionGatewayInstallation.name Microsoft.Web/connectionGateways/connectionGatewayInstallation.name   properties.connectionGatewayInstallation Microsoft.Web/connectionGateways/connectionGatewayInstallation   properties.connectionGatewayInstallation.id Microsoft.Web/connectionGateways/connectionGatewayInstallation.id   properties.connectionGatewayInstallation.type Microsoft.Web/connectionGateways/connectionGatewayInstallation.type   properties.contactInformation[*] Microsoft.Web/connectionGateways/contactInformation[*]   properties.contactInformation Microsoft.Web/connectionGateways/contactInformation   properties.displayName Microsoft.Web/connectionGateways/displayName   properties.description Microsoft.Web/connectionGateways/description   properties.machineName Microsoft.Web/connectionGateways/machineName   properties.status Microsoft.Web/connectionGateways/status   properties.backendUri Microsoft.Web/connectionGateways/backendUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/connections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/connections/</guid>
+      <description>Link to resource definition: Microsoft.Web/connections
+   Default Path Alias     properties.name Microsoft.Web/connections/name   properties.displayName Microsoft.Web/connections/displayName   properties.statuses[*].id Microsoft.Web/connections/statuses[*].id   properties.statuses[*].name Microsoft.Web/connections/statuses[*].name   properties.statuses[*].kind Microsoft.Web/connections/statuses[*].kind   properties.statuses[*].location Microsoft.Web/connections/statuses[*].location   properties.statuses[*].type Microsoft.Web/connections/statuses[*].type   properties.statuses[*].tags.additionalProperties Microsoft.Web/connections/statuses[*].tags.additionalProperties   properties.statuses[*].tags Microsoft.Web/connections/statuses[*].tags   properties.statuses[*] Microsoft.Web/connections/statuses[*]   properties.statuses Microsoft.Web/connections/statuses   properties.statuses[*].status Microsoft.Web/connections/statuses[*].status   properties.statuses[*].target Microsoft.Web/connections/statuses[*].target   properties.statuses[*].error.id Microsoft.Web/connections/statuses[*].error.id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/customApis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/customApis/</guid>
+      <description>Link to resource definition: Microsoft.Web/customApis
+   Default Path Alias     properties.connectionParameters.additionalProperties.type Microsoft.Web/customApis/connectionParameters.additionalProperties.type   properties.connectionParameters.additionalProperties.oAuthSettings.identityProvider Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.identityProvider   properties.connectionParameters.additionalProperties.oAuthSettings.clientId Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.clientId   properties.connectionParameters.additionalProperties.oAuthSettings.clientSecret Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.clientSecret   properties.connectionParameters.additionalProperties.oAuthSettings.scopes[*] Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.scopes[*]   properties.connectionParameters.additionalProperties.oAuthSettings.scopes Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.scopes   properties.connectionParameters.additionalProperties.oAuthSettings.redirectUrl Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.redirectUrl   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.options Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.options   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.uiDefinition Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.uiDefinition   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters   properties.connectionParameters.additionalProperties.oAuthSettings Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings   properties.connectionParameters.additionalProperties Microsoft.Web/customApis/connectionParameters.additionalProperties   properties.connectionParameters Microsoft.Web/customApis/connectionParameters   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-multiRolePools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-multiRolePools/</guid>
+      <description>Link to resource definition: Microsoft.Web/hostingEnvironments/multiRolePools
+   Default Path Alias     properties.workerSizeId Microsoft.Web/hostingEnvironments/multiRolePools/default.workerSizeId   properties.computeMode Microsoft.Web/hostingEnvironments/multiRolePools/default.computeMode   properties.workerSize Microsoft.Web/hostingEnvironments/multiRolePools/default.workerSize   properties.workerCount Microsoft.Web/hostingEnvironments/multiRolePools/default.workerCount   properties.instanceNames[*] Microsoft.Web/hostingEnvironments/multiRolePools/default.instanceNames[*]   properties.instanceNames Microsoft.Web/hostingEnvironments/multiRolePools/default.instanceNames   sku.name Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.name   sku.tier Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.tier   sku.size Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.size   sku.family Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.family   sku.capacity Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.capacity   sku Microsoft.Web/hostingEnvironments/multiRolePools/default.sku   sku.skuCapacity.minimum Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.skuCapacity.minimum   sku.skuCapacity.maximum Microsoft.Web/hostingEnvironments/multiRolePools/default.sku.skuCapacity.maximum   sku.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/hostingEnvironments/privateEndpointConnections
+   Default Path Alias     properties.privateLinkServiceConnectionState Microsoft.Web/hostingEnvironments/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Web/hostingEnvironments/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Web/hostingEnvironments/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Web/hostingEnvironments/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-workerPools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-workerPools/</guid>
+      <description>Link to resource definition: Microsoft.Web/hostingEnvironments/workerPools
+   Default Path Alias     properties.workerSizeId Microsoft.Web/hostingEnvironments/workerPools/workerSizeId   properties.computeMode Microsoft.Web/hostingEnvironments/workerPools/computeMode   properties.workerSize Microsoft.Web/hostingEnvironments/workerPools/workerSize   properties.workerCount Microsoft.Web/hostingEnvironments/workerPools/workerCount   properties.instanceNames[*] Microsoft.Web/hostingEnvironments/workerPools/instanceNames[*]   properties.instanceNames Microsoft.Web/hostingEnvironments/workerPools/instanceNames   sku.name Microsoft.Web/hostingEnvironments/workerPools/sku.name   sku.tier Microsoft.Web/hostingEnvironments/workerPools/sku.tier   sku.size Microsoft.Web/hostingEnvironments/workerPools/sku.size   sku.family Microsoft.Web/hostingEnvironments/workerPools/sku.family   sku.capacity Microsoft.Web/hostingEnvironments/workerPools/sku.capacity   sku Microsoft.Web/hostingEnvironments/workerPools/sku   sku.skuCapacity.minimum Microsoft.Web/hostingEnvironments/workerPools/sku.skuCapacity.minimum   sku.skuCapacity.maximum Microsoft.Web/hostingEnvironments/workerPools/sku.skuCapacity.maximum   sku.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments/</guid>
+      <description>Link to resource definition: Microsoft.Web/hostingEnvironments
+   Default Path Alias     properties.clusterSettings[*].name Microsoft.Web/hostingEnvironments/clusterSettings[*].name   properties.clusterSettings[*].value Microsoft.Web/hostingEnvironments/clusterSettings[*].value   properties.virtualNetwork Microsoft.Web/hostingEnvironments/virtualNetwork   properties.virtualNetwork.subnet Microsoft.Web/hostingEnvironments/virtualNetwork.subnet   properties.virtualNetwork.name Microsoft.Web/hostingEnvironments/virtualNetwork.name   properties.virtualNetwork.id Microsoft.Web/hostingEnvironments/virtualNetwork.id   properties.vnetSubnetName Microsoft.Web/hostingEnvironments/vnetSubnetName   properties.vnetResourceGroupName Microsoft.Web/hostingEnvironments/vnetResourceGroupName   properties.vnetName Microsoft.Web/hostingEnvironments/vnetName   properties.name Microsoft.Web/hostingEnvironments/name   properties.location Microsoft.Web/hostingEnvironments/location   properties.provisioningState Microsoft.Web/hostingEnvironments/provisioningState   properties.status Microsoft.Web/hostingEnvironments/status   properties.virtualNetwork.type Microsoft.Web/hostingEnvironments/virtualNetwork.type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/kubeEnvironments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/kubeEnvironments/</guid>
+      <description>Link to resource definition: Microsoft.Web/kubeEnvironments
+   Default Path Alias     properties.provisioningState Microsoft.Web/kubeEnvironments/provisioningState   properties.deploymentErrors Microsoft.Web/kubeEnvironments/deploymentErrors   properties.internalLoadBalancerEnabled Microsoft.Web/kubeEnvironments/internalLoadBalancerEnabled   properties.defaultDomain Microsoft.Web/kubeEnvironments/defaultDomain   properties.staticIp Microsoft.Web/kubeEnvironments/staticIp   properties.arcConfiguration Microsoft.Web/kubeEnvironments/arcConfiguration   properties.arcConfiguration.artifactsStorageType Microsoft.Web/kubeEnvironments/arcConfiguration.artifactsStorageType   properties.arcConfiguration.artifactStorageClassName Microsoft.Web/kubeEnvironments/arcConfiguration.artifactStorageClassName   properties.arcConfiguration.artifactStorageMountPath Microsoft.Web/kubeEnvironments/arcConfiguration.artifactStorageMountPath   properties.arcConfiguration.artifactStorageNodeName Microsoft.Web/kubeEnvironments/arcConfiguration.artifactStorageNodeName   properties.arcConfiguration.artifactStorageAccessMode Microsoft.Web/kubeEnvironments/arcConfiguration.artifactStorageAccessMode   properties.arcConfiguration.frontEndServiceConfiguration Microsoft.Web/kubeEnvironments/arcConfiguration.frontEndServiceConfiguration   properties.arcConfiguration.frontEndServiceConfiguration.kind Microsoft.Web/kubeEnvironments/arcConfiguration.frontEndServiceConfiguration.kind   properties.arcConfiguration.kubeConfig Microsoft.Web/kubeEnvironments/arcConfiguration.kubeConfig   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/publishingUsers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/publishingUsers/</guid>
+      <description>Link to resource definition: Microsoft.Web/publishingUsers
+   Default Path Alias     properties.name Microsoft.Web/publishingUsers/web.name   properties.publishingUserName Microsoft.Web/publishingUsers/web.publishingUserName   properties.publishingPassword Microsoft.Web/publishingUsers/web.publishingPassword   properties.scmUri Microsoft.Web/publishingUsers/web.scmUri   properties.publishingPasswordHash Microsoft.Web/publishingUsers/web.publishingPasswordHash   properties.publishingPasswordHashSalt Microsoft.Web/publishingUsers/web.publishingPasswordHashSalt   properties.name Microsoft.Web/publishingUsers/name   properties.publishingUserName Microsoft.Web/publishingUsers/publishingUserName   properties.publishingPassword Microsoft.Web/publishingUsers/publishingPassword   properties.scmUri Microsoft.Web/publishingUsers/scmUri   properties.publishingPasswordHash Microsoft.Web/publishingUsers/publishingPasswordHash   properties.publishingPasswordHashSalt Microsoft.Web/publishingUsers/publishingPasswordHashSalt    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-gateways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-gateways/</guid>
+      <description>Link to resource definition: Microsoft.Web/serverfarms/virtualnetworkconnections/gateways
+   Default Path Alias     properties.vnetName Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vnetName   properties.vpnPackageUri Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vpnPackageUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-routes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-routes/</guid>
+      <description>Link to resource definition: Microsoft.Web/serverfarms/virtualnetworkconnections/routes
+   Default Path Alias     properties.name Microsoft.Web/serverfarms/virtualnetworkconnections/routes/name   properties.startAddress Microsoft.Web/serverfarms/virtualnetworkconnections/routes/startAddress   properties.endAddress Microsoft.Web/serverfarms/virtualnetworkconnections/routes/endAddress   properties.routeType Microsoft.Web/serverfarms/virtualnetworkconnections/routes/routeType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/serverFarms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/serverFarms/</guid>
+      <description>Link to resource definition: Microsoft.Web/serverFarms
+   Default Path Alias     sku.name Microsoft.Web/serverfarms/sku.name   sku.capacity Microsoft.Web/serverfarms/sku.capacity   properties.hostingEnvironmentProfile.id Microsoft.Web/serverfarms/hostingEnvironmentProfile.id   properties.name Microsoft.Web/serverFarms/name   properties.workerTierName Microsoft.Web/serverFarms/workerTierName   properties.status Microsoft.Web/serverFarms/status   properties.subscription Microsoft.Web/serverFarms/subscription   properties.adminSiteName Microsoft.Web/serverFarms/adminSiteName   properties.hostingEnvironmentProfile.name Microsoft.Web/serverFarms/hostingEnvironmentProfile.name   properties.hostingEnvironmentProfile.type Microsoft.Web/serverFarms/hostingEnvironmentProfile.type   properties.hostingEnvironmentProfile Microsoft.Web/serverFarms/hostingEnvironmentProfile   properties.maximumNumberOfWorkers Microsoft.Web/serverFarms/maximumNumberOfWorkers   properties.geoRegion Microsoft.Web/serverFarms/geoRegion   properties.perSiteScaling Microsoft.Web/serverFarms/perSiteScaling   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-ftp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-ftp/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/basicPublishingCredentialsPolicies/ftp
+   Default Path Alias     properties.allow Microsoft.Web/sites/basicPublishingCredentialsPolicies/ftp/allow    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-scm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-scm/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/basicPublishingCredentialsPolicies/scm
+   Default Path Alias     properties.allow Microsoft.Web/sites/basicPublishingCredentialsPolicies/scm/allow    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/basicPublishingCredentialsPolicies
+   Default Path Alias     properties.allow Microsoft.Web/sites/basicPublishingCredentialsPolicies/allow    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-config/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/config
+   Default Path Alias     properties.httpLoggingEnabled Microsoft.Web/sites/config/httpLoggingEnabled   properties.siteAuthEnabled Microsoft.Web/sites/config/siteAuthEnabled   properties.ipSecurityRestrictions[*].ipAddress Microsoft.Web/sites/config/ipSecurityRestrictions[*].ipAddress   properties.ipSecurityRestrictions[*].subnetMask Microsoft.Web/sites/config/ipSecurityRestrictions[*].subnetMask   properties.http20Enabled Microsoft.Web/sites/config/http20Enabled   properties.minTlsVersion Microsoft.Web/sites/config/minTlsVersion   properties.detailedErrorLoggingEnabled Microsoft.Web/sites/config/detailedErrorLoggingEnabled   properties.requestTracingEnabled Microsoft.Web/sites/config/requestTracingEnabled   properties.alwaysOn Microsoft.Web/sites/config/alwaysOn   properties.remoteDebuggingEnabled Microsoft.Web/sites/config/remoteDebuggingEnabled   properties.webSocketsEnabled Microsoft.Web/sites/config/webSocketsEnabled   properties.netFrameworkVersion Microsoft.Web/sites/config/netFrameworkVersion   properties.phpVersion Microsoft.Web/sites/config/phpVersion   properties.pythonVersion Microsoft.Web/sites/config/pythonVersion   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-domainownershipidentifiers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-domainownershipidentifiers/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/domainownershipidentifiers
+   Default Path Alias     properties.id Microsoft.Web/sites/domainownershipidentifiers/id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-hostNameBindings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-hostNameBindings/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/hostNameBindings
+   Default Path Alias     properties.name Microsoft.Web/sites/hostNameBindings/name   properties.siteName Microsoft.Web/sites/hostNameBindings/siteName   properties.domainId Microsoft.Web/sites/hostNameBindings/domainId   properties.azureResourceName Microsoft.Web/sites/hostNameBindings/azureResourceName   properties.azureResourceType Microsoft.Web/sites/hostNameBindings/azureResourceType   properties.customHostNameDnsRecordType Microsoft.Web/sites/hostNameBindings/customHostNameDnsRecordType   properties.hostNameType Microsoft.Web/sites/hostNameBindings/hostNameType   properties.sslState Microsoft.Web/sites/hostNameBindings/sslState   properties.thumbprint Microsoft.Web/sites/hostNameBindings/thumbprint   properties.virtualIP Microsoft.Web/sites/hostNameBindings/virtualIP    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnection/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/hybridconnection
+   Default Path Alias     properties.entityName Microsoft.Web/sites/hybridconnection/entityName   properties.entityConnectionString Microsoft.Web/sites/hybridconnection/entityConnectionString   properties.resourceType Microsoft.Web/sites/hybridconnection/resourceType   properties.resourceConnectionString Microsoft.Web/sites/hybridconnection/resourceConnectionString   properties.hostname Microsoft.Web/sites/hybridconnection/hostname   properties.port Microsoft.Web/sites/hybridconnection/port   properties.biztalkUri Microsoft.Web/sites/hybridconnection/biztalkUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnectionnamespaces-relays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnectionnamespaces-relays/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/hybridconnectionnamespaces/relays
+   Default Path Alias     properties.serviceBusNamespace Microsoft.Web/sites/hybridconnectionnamespaces/relays/serviceBusNamespace   properties.relayName Microsoft.Web/sites/hybridconnectionnamespaces/relays/relayName   properties.relayArmUri Microsoft.Web/sites/hybridconnectionnamespaces/relays/relayArmUri   properties.hostname Microsoft.Web/sites/hybridconnectionnamespaces/relays/hostname   properties.port Microsoft.Web/sites/hybridconnectionnamespaces/relays/port   properties.sendKeyName Microsoft.Web/sites/hybridconnectionnamespaces/relays/sendKeyName   properties.sendKeyValue Microsoft.Web/sites/hybridconnectionnamespaces/relays/sendKeyValue   properties.serviceBusSuffix Microsoft.Web/sites/hybridconnectionnamespaces/relays/serviceBusSuffix    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-networkConfig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-networkConfig/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/networkConfig
+   Default Path Alias     properties.subnetResourceId Microsoft.Web/sites/networkConfig/virtualNetwork.subnetResourceId   properties.swiftSupported Microsoft.Web/sites/networkConfig/virtualNetwork.swiftSupported   properties.subnetResourceId Microsoft.Web/sites/networkConfig/subnetResourceId   properties.swiftSupported Microsoft.Web/sites/networkConfig/swiftSupported    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-premieraddons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-premieraddons/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/premieraddons
+   Default Path Alias     properties.sku Microsoft.Web/sites/premieraddons/sku   properties.product Microsoft.Web/sites/premieraddons/product   properties.vendor Microsoft.Web/sites/premieraddons/vendor   properties.name Microsoft.Web/sites/premieraddons/name   properties.location Microsoft.Web/sites/premieraddons/location   properties.tags.additionalProperties Microsoft.Web/sites/premieraddons/tags.additionalProperties   properties.tags Microsoft.Web/sites/premieraddons/tags   properties.marketplacePublisher Microsoft.Web/sites/premieraddons/marketplacePublisher   properties.marketplaceOffer Microsoft.Web/sites/premieraddons/marketplaceOffer    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-privateaccess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-privateaccess/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/privateaccess
+   Default Path Alias     properties.enabled Microsoft.Web/sites/privateaccess/virtualNetworks.enabled   properties.virtualNetworks[*].name Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].name   properties.virtualNetworks[*].key Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].key   properties.virtualNetworks[*].resourceId Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].resourceId   properties.virtualNetworks[*].subnets[*].name Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].subnets[*].name   properties.virtualNetworks[*].subnets[*].key Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].subnets[*].key   properties.virtualNetworks[*].subnets[*] Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].subnets[*]   properties.virtualNetworks[*].subnets Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*].subnets   properties.virtualNetworks[*] Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks[*]   properties.virtualNetworks Microsoft.Web/sites/privateaccess/virtualNetworks.virtualNetworks   properties.enabled Microsoft.Web/sites/privateAccess/enabled   properties.virtualNetworks Microsoft.Web/sites/privateAccess/virtualNetworks   properties.virtualNetworks[*] Microsoft.Web/sites/privateAccess/virtualNetworks[*]   properties.virtualNetworks[*].name Microsoft.Web/sites/privateAccess/virtualNetworks[*].name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/privateEndpointConnections
+   Default Path Alias     properties.privateLinkServiceConnectionState.status Microsoft.Web/sites/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Web/sites/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Web/sites/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.privateLinkServiceConnectionState Microsoft.Web/sites/privateEndpointConnections/privateLinkServiceConnectionState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-publiccertificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-publiccertificates/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/publiccertificates
+   Default Path Alias     properties.blob Microsoft.Web/sites/publiccertificates/blob   properties.publicCertificateLocation Microsoft.Web/sites/publiccertificates/publicCertificateLocation   properties.thumbprint Microsoft.Web/sites/publiccertificates/thumbprint    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies
+   Default Path Alias     properties.allow Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies/allow    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-config/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/config
+   Default Path Alias     properties.minTlsVersion Microsoft.Web/sites/slots/config/minTlsVersion   properties.ftpsState Microsoft.Web/sites/slots/config/ftpsState   properties.numberOfWorkers Microsoft.Web/sites/slots/config/web.numberOfWorkers   properties.defaultDocuments[*] Microsoft.Web/sites/slots/config/web.defaultDocuments[*]   properties.defaultDocuments Microsoft.Web/sites/slots/config/web.defaultDocuments   properties.netFrameworkVersion Microsoft.Web/sites/slots/config/web.netFrameworkVersion   properties.phpVersion Microsoft.Web/sites/slots/config/web.phpVersion   properties.pythonVersion Microsoft.Web/sites/slots/config/web.pythonVersion   properties.nodeVersion Microsoft.Web/sites/slots/config/web.nodeVersion   properties.requestTracingEnabled Microsoft.Web/sites/slots/config/web.requestTracingEnabled   properties.requestTracingExpirationTime Microsoft.Web/sites/slots/config/web.requestTracingExpirationTime   properties.remoteDebuggingEnabled Microsoft.Web/sites/slots/config/web.remoteDebuggingEnabled   properties.remoteDebuggingVersion Microsoft.Web/sites/slots/config/web.remoteDebuggingVersion   properties.httpLoggingEnabled Microsoft.Web/sites/slots/config/web.httpLoggingEnabled   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-domainownershipidentifiers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-domainownershipidentifiers/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/domainownershipidentifiers
+   Default Path Alias     properties.id Microsoft.Web/sites/slots/domainownershipidentifiers/id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hostNameBindings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hostNameBindings/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/hostNameBindings
+   Default Path Alias     properties.name Microsoft.Web/sites/slots/hostNameBindings/name   properties.siteName Microsoft.Web/sites/slots/hostNameBindings/siteName   properties.domainId Microsoft.Web/sites/slots/hostNameBindings/domainId   properties.azureResourceName Microsoft.Web/sites/slots/hostNameBindings/azureResourceName   properties.azureResourceType Microsoft.Web/sites/slots/hostNameBindings/azureResourceType   properties.customHostNameDnsRecordType Microsoft.Web/sites/slots/hostNameBindings/customHostNameDnsRecordType   properties.hostNameType Microsoft.Web/sites/slots/hostNameBindings/hostNameType   properties.sslState Microsoft.Web/sites/slots/hostNameBindings/sslState   properties.thumbprint Microsoft.Web/sites/slots/hostNameBindings/thumbprint   properties.virtualIP Microsoft.Web/sites/slots/hostNameBindings/virtualIP    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnection/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/hybridconnection
+   Default Path Alias     properties.entityName Microsoft.Web/sites/slots/hybridconnection/entityName   properties.entityConnectionString Microsoft.Web/sites/slots/hybridconnection/entityConnectionString   properties.resourceType Microsoft.Web/sites/slots/hybridconnection/resourceType   properties.resourceConnectionString Microsoft.Web/sites/slots/hybridconnection/resourceConnectionString   properties.hostname Microsoft.Web/sites/slots/hybridconnection/hostname   properties.port Microsoft.Web/sites/slots/hybridconnection/port   properties.biztalkUri Microsoft.Web/sites/slots/hybridconnection/biztalkUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnectionnamespaces-relays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnectionnamespaces-relays/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays
+   Default Path Alias     properties.serviceBusNamespace Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/serviceBusNamespace   properties.relayName Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/relayName   properties.relayArmUri Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/relayArmUri   properties.hostname Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/hostname   properties.port Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/port   properties.sendKeyName Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/sendKeyName   properties.sendKeyValue Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/sendKeyValue   properties.serviceBusSuffix Microsoft.Web/sites/slots/hybridconnectionnamespaces/relays/serviceBusSuffix    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-networkConfig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-networkConfig/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/networkConfig
+   Default Path Alias     properties.subnetResourceId Microsoft.Web/sites/slots/networkConfig/virtualNetwork.subnetResourceId   properties.swiftSupported Microsoft.Web/sites/slots/networkConfig/virtualNetwork.swiftSupported   properties.subnetResourceId Microsoft.Web/sites/slots/networkConfig/subnetResourceId   properties.swiftSupported Microsoft.Web/sites/slots/networkConfig/swiftSupported    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-premieraddons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-premieraddons/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/premieraddons
+   Default Path Alias     properties.sku Microsoft.Web/sites/slots/premieraddons/sku   properties.product Microsoft.Web/sites/slots/premieraddons/product   properties.vendor Microsoft.Web/sites/slots/premieraddons/vendor   properties.name Microsoft.Web/sites/slots/premieraddons/name   properties.location Microsoft.Web/sites/slots/premieraddons/location   properties.tags.additionalProperties Microsoft.Web/sites/slots/premieraddons/tags.additionalProperties   properties.tags Microsoft.Web/sites/slots/premieraddons/tags   properties.marketplacePublisher Microsoft.Web/sites/slots/premieraddons/marketplacePublisher   properties.marketplaceOffer Microsoft.Web/sites/slots/premieraddons/marketplaceOffer    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-publiccertificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-publiccertificates/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/publiccertificates
+   Default Path Alias     properties.blob Microsoft.Web/sites/slots/publiccertificates/blob   properties.publicCertificateLocation Microsoft.Web/sites/slots/publiccertificates/publicCertificateLocation   properties.thumbprint Microsoft.Web/sites/slots/publiccertificates/thumbprint    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-sourcecontrols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-sourcecontrols/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/sourcecontrols
+   Default Path Alias     properties.repoUrl Microsoft.Web/sites/slots/sourcecontrols/web.repoUrl   properties.branch Microsoft.Web/sites/slots/sourcecontrols/web.branch   properties.isManualIntegration Microsoft.Web/sites/slots/sourcecontrols/web.isManualIntegration   properties.deploymentRollbackEnabled Microsoft.Web/sites/slots/sourcecontrols/web.deploymentRollbackEnabled   properties.isMercurial Microsoft.Web/sites/slots/sourcecontrols/web.isMercurial   properties.isGitHubAction Microsoft.Web/sites/slots/sourcecontrols/web.isGitHubAction   properties.repoUrl Microsoft.Web/sites/slots/sourcecontrols/repoUrl   properties.branch Microsoft.Web/sites/slots/sourcecontrols/branch   properties.isManualIntegration Microsoft.Web/sites/slots/sourcecontrols/isManualIntegration   properties.deploymentRollbackEnabled Microsoft.Web/sites/slots/sourcecontrols/deploymentRollbackEnabled   properties.isMercurial Microsoft.Web/sites/slots/sourcecontrols/isMercurial   properties.isGitHubAction Microsoft.Web/sites/slots/sourcecontrols/isGitHubAction   properties.gitHubActionConfiguration Microsoft.Web/sites/slots/sourcecontrols/gitHubActionConfiguration   properties.gitHubActionConfiguration.codeConfiguration Microsoft.Web/sites/slots/sourcecontrols/gitHubActionConfiguration.codeConfiguration   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections-gateways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections-gateways/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/virtualnetworkconnections/gateways
+   Default Path Alias     properties.vnetName Microsoft.Web/sites/slots/virtualnetworkconnections/gateways/vnetName   properties.vpnPackageUri Microsoft.Web/sites/slots/virtualnetworkconnections/gateways/vpnPackageUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots/virtualnetworkconnections
+   Default Path Alias     properties.vnetResourceId Microsoft.Web/sites/slots/virtualnetworkconnections/vnetResourceId   properties.certThumbprint Microsoft.Web/sites/slots/virtualnetworkconnections/certThumbprint   properties.certBlob Microsoft.Web/sites/slots/virtualnetworkconnections/certBlob   properties.routes[*].id Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].id   properties.routes[*].name Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].name   properties.routes[*].kind Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].kind   properties.routes[*].location Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].location   properties.routes[*].type Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].type   properties.routes[*].tags.additionalProperties Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].tags.additionalProperties   properties.routes[*].tags Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].tags   properties.routes[*] Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*]   properties.routes Microsoft.Web/sites/slots/virtualnetworkconnections/routes   properties.routes[*].properties.startAddress Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].startAddress   properties.routes[*].properties.endAddress Microsoft.Web/sites/slots/virtualnetworkconnections/routes[*].endAddress   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-slots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-slots/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/slots
+   Default Path Alias     properties.serverFarmId Microsoft.Web/sites/slots/serverFarmId   properties.clientCertEnabled Microsoft.Web/sites/slots/clientCertEnabled   properties.hostNameSslStates[*].name Microsoft.Web/sites/slots/hostNameSslStates[*].name   properties.hostNames[*] Microsoft.Web/sites/slots/hostNames[*]   properties.httpsOnly Microsoft.Web/sites/slots/httpsOnly   properties.usageState Microsoft.Web/sites/slots/usageState   properties.availabilityState Microsoft.Web/sites/slots/availabilityState   properties.name Microsoft.Web/sites/slots/name   properties.state Microsoft.Web/sites/slots/state   properties.hostNames Microsoft.Web/sites/slots/hostNames   properties.repositorySiteName Microsoft.Web/sites/slots/repositorySiteName   properties.enabled Microsoft.Web/sites/slots/enabled   properties.enabledHostNames[*] Microsoft.Web/sites/slots/enabledHostNames[*]   properties.enabledHostNames Microsoft.Web/sites/slots/enabledHostNames   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-sourcecontrols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-sourcecontrols/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/sourcecontrols
+   Default Path Alias     properties.repoUrl Microsoft.Web/sites/sourcecontrols/web.repoUrl   properties.branch Microsoft.Web/sites/sourcecontrols/web.branch   properties.isManualIntegration Microsoft.Web/sites/sourcecontrols/web.isManualIntegration   properties.deploymentRollbackEnabled Microsoft.Web/sites/sourcecontrols/web.deploymentRollbackEnabled   properties.isMercurial Microsoft.Web/sites/sourcecontrols/web.isMercurial   properties.isGitHubAction Microsoft.Web/sites/sourcecontrols/web.isGitHubAction   properties.repoUrl Microsoft.Web/sites/sourcecontrols/repoUrl   properties.branch Microsoft.Web/sites/sourcecontrols/branch   properties.isManualIntegration Microsoft.Web/sites/sourcecontrols/isManualIntegration   properties.deploymentRollbackEnabled Microsoft.Web/sites/sourcecontrols/deploymentRollbackEnabled   properties.isMercurial Microsoft.Web/sites/sourcecontrols/isMercurial   properties.isGitHubAction Microsoft.Web/sites/sourcecontrols/isGitHubAction   properties.gitHubActionConfiguration Microsoft.Web/sites/sourcecontrols/gitHubActionConfiguration   properties.gitHubActionConfiguration.codeConfiguration Microsoft.Web/sites/sourcecontrols/gitHubActionConfiguration.codeConfiguration   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections-gateways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections-gateways/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/virtualnetworkconnections/gateways
+   Default Path Alias     properties.vnetName Microsoft.Web/sites/virtualnetworkconnections/gateways/vnetName   properties.vpnPackageUri Microsoft.Web/sites/virtualnetworkconnections/gateways/vpnPackageUri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites/virtualnetworkconnections
+   Default Path Alias     properties.vnetResourceId Microsoft.Web/sites/virtualnetworkconnections/vnetResourceId   properties.certThumbprint Microsoft.Web/sites/virtualnetworkconnections/certThumbprint   properties.certBlob Microsoft.Web/sites/virtualnetworkconnections/certBlob   properties.routes[*].id Microsoft.Web/sites/virtualnetworkconnections/routes[*].id   properties.routes[*].name Microsoft.Web/sites/virtualnetworkconnections/routes[*].name   properties.routes[*].kind Microsoft.Web/sites/virtualnetworkconnections/routes[*].kind   properties.routes[*].location Microsoft.Web/sites/virtualnetworkconnections/routes[*].location   properties.routes[*].type Microsoft.Web/sites/virtualnetworkconnections/routes[*].type   properties.routes[*].tags.additionalProperties Microsoft.Web/sites/virtualnetworkconnections/routes[*].tags.additionalProperties   properties.routes[*].tags Microsoft.Web/sites/virtualnetworkconnections/routes[*].tags   properties.routes[*] Microsoft.Web/sites/virtualnetworkconnections/routes[*]   properties.routes Microsoft.Web/sites/virtualnetworkconnections/routes   properties.routes[*].properties.startAddress Microsoft.Web/sites/virtualnetworkconnections/routes[*].startAddress   properties.routes[*].properties.endAddress Microsoft.Web/sites/virtualnetworkconnections/routes[*].endAddress   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sites/</guid>
+      <description>Link to resource definition: Microsoft.Web/sites
+   Default Path Alias     properties.serverFarmId Microsoft.Web/sites/serverFarmId   properties.clientCertEnabled Microsoft.Web/sites/clientCertEnabled   properties.hostNameSslStates[*].sslState Microsoft.Web/sites/hostNameSslStates[*].sslState   properties.httpsOnly Microsoft.Web/sites/httpsOnly   properties.hostNames[*] Microsoft.Web/sites/hostNames[*]   properties.usageState Microsoft.Web/sites/usageState   properties.availabilityState Microsoft.Web/sites/availabilityState   properties.name Microsoft.Web/sites/name   properties.state Microsoft.Web/sites/state   properties.hostNames Microsoft.Web/sites/hostNames   properties.repositorySiteName Microsoft.Web/sites/repositorySiteName   properties.enabled Microsoft.Web/sites/enabled   properties.enabledHostNames[*] Microsoft.Web/sites/enabledHostNames[*]   properties.enabledHostNames Microsoft.Web/sites/enabledHostNames   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/sourceControls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/sourceControls/</guid>
+      <description>Link to resource definition: Microsoft.Web/sourceControls
+   Default Path Alias     properties.name Microsoft.Web/sourceControls/name   properties.token Microsoft.Web/sourceControls/token   properties.tokenSecret Microsoft.Web/sourceControls/tokenSecret   properties.refreshToken Microsoft.Web/sourceControls/refreshToken   properties.expirationTime Microsoft.Web/sourceControls/expirationTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/builds/userProvidedFunctionApps
+   Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/builds/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/privateEndpointConnections
+   Default Path Alias     properties.privateLinkServiceConnectionState Microsoft.Web/staticSites/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Web/staticSites/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Web/staticSites/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Web/staticSites/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-userProvidedFunctionApps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-userProvidedFunctionApps/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/userProvidedFunctionApps
+   Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites
+   Default Path Alias     properties.defaultHostname Microsoft.Web/staticSites/defaultHostname   properties.repositoryUrl Microsoft.Web/staticSites/repositoryUrl   properties.branch Microsoft.Web/staticSites/branch   properties.customDomains[*] Microsoft.Web/staticSites/customDomains[*]   properties.customDomains Microsoft.Web/staticSites/customDomains   properties.repositoryToken Microsoft.Web/staticSites/repositoryToken   properties.buildProperties.appLocation Microsoft.Web/staticSites/buildProperties.appLocation   properties.buildProperties.apiLocation Microsoft.Web/staticSites/buildProperties.apiLocation   properties.buildProperties.appArtifactLocation Microsoft.Web/staticSites/buildProperties.appArtifactLocation   properties.buildProperties Microsoft.Web/staticSites/buildProperties   sku.name Microsoft.Web/staticSites/sku.name   sku.tier Microsoft.Web/staticSites/sku.tier   sku.size Microsoft.Web/staticSites/sku.size   sku.family Microsoft.Web/staticSites/sku.family   sku.</description>
+    </item>
+    
+  </channel>
+</rss>

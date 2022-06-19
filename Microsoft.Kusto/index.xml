@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Kusto/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Kusto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-attacheddatabaseconfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-attacheddatabaseconfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/attacheddatabaseconfigurations
+   Default Path Alias     properties.provisioningState Microsoft.Kusto/clusters/attacheddatabaseconfigurations/provisioningState   properties.databaseName Microsoft.Kusto/clusters/attacheddatabaseconfigurations/databaseName   properties.clusterResourceId Microsoft.Kusto/clusters/attacheddatabaseconfigurations/clusterResourceId   properties.attachedDatabaseNames[*] Microsoft.Kusto/clusters/attacheddatabaseconfigurations/attachedDatabaseNames[*]   properties.attachedDatabaseNames Microsoft.Kusto/clusters/attacheddatabaseconfigurations/attachedDatabaseNames   properties.defaultPrincipalsModificationKind Microsoft.Kusto/clusters/attacheddatabaseconfigurations/defaultPrincipalsModificationKind   properties.tableLevelSharingProperties Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties   properties.tableLevelSharingProperties.tablesToInclude Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.tablesToInclude   properties.tableLevelSharingProperties.tablesToInclude[*] Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.tablesToInclude[*]   properties.tableLevelSharingProperties.tablesToExclude Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.tablesToExclude   properties.tableLevelSharingProperties.tablesToExclude[*] Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.tablesToExclude[*]   properties.tableLevelSharingProperties.externalTablesToInclude Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.externalTablesToInclude   properties.tableLevelSharingProperties.externalTablesToInclude[*] Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.externalTablesToInclude[*]   properties.tableLevelSharingProperties.externalTablesToExclude Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.externalTablesToExclude   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-dataconnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-dataconnections/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/databases/dataconnections
+   Default Path Alias     properties.eventHubResourceId Microsoft.Kusto/clusters/databases/dataConnections/EventHub.eventHubResourceId   properties.consumerGroup Microsoft.Kusto/clusters/databases/dataConnections/EventHub.consumerGroup   properties.tableName Microsoft.Kusto/clusters/databases/dataConnections/EventHub.tableName   properties.mappingRuleName Microsoft.Kusto/clusters/databases/dataConnections/EventHub.mappingRuleName   properties.dataFormat Microsoft.Kusto/clusters/databases/dataConnections/EventHub.dataFormat   properties.storageAccountResourceId Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.storageAccountResourceId   properties.eventSystemProperties Microsoft.Kusto/clusters/databases/dataConnections/EventHub.eventSystemProperties   properties.eventSystemProperties[*] Microsoft.Kusto/clusters/databases/dataConnections/EventHub.eventSystemProperties[*]   properties.iotHubResourceId Microsoft.Kusto/clusters/databases/dataConnections/IotHub.iotHubResourceId   properties.sharedAccessPolicyName Microsoft.Kusto/clusters/databases/dataConnections/IotHub.sharedAccessPolicyName   properties.compression Microsoft.Kusto/clusters/databases/dataConnections/EventHub.compression   properties.ignoreFirstRecord Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.ignoreFirstRecord   properties.blobStorageEventType Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.blobStorageEventType   properties.provisioningState Microsoft.Kusto/clusters/databases/dataConnections/EventHub.provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-eventhubconnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-eventhubconnections/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/databases/eventhubconnections
+   Default Path Alias     properties.eventHubResourceId Microsoft.Kusto/clusters/databases/eventhubconnections/eventHubResourceId   properties.consumerGroup Microsoft.Kusto/clusters/databases/eventhubconnections/consumerGroup   properties.tableName Microsoft.Kusto/clusters/databases/eventhubconnections/tableName   properties.mappingRuleName Microsoft.Kusto/clusters/databases/eventhubconnections/mappingRuleName   properties.dataFormat Microsoft.Kusto/clusters/databases/eventhubconnections/dataFormat    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-principalassignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-principalassignments/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/databases/principalassignments
+   Default Path Alias     properties.principalId Microsoft.Kusto/clusters/databases/principalAssignments/principalId   properties.role Microsoft.Kusto/clusters/databases/principalAssignments/role   properties.tenantId Microsoft.Kusto/clusters/databases/principalAssignments/tenantId   properties.principalType Microsoft.Kusto/clusters/databases/principalAssignments/principalType   properties.tenantName Microsoft.Kusto/clusters/databases/principalAssignments/tenantName   properties.principalName Microsoft.Kusto/clusters/databases/principalAssignments/principalName   properties.provisioningState Microsoft.Kusto/clusters/databases/principalAssignments/provisioningState   properties.aadObjectId Microsoft.Kusto/clusters/databases/principalAssignments/aadObjectId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/databases
+   Default Path Alias     properties.provisioningState Microsoft.Kusto/clusters/databases/provisioningState   properties.softDeletePeriodInDays Microsoft.Kusto/clusters/databases/softDeletePeriodInDays   properties.hotCachePeriodInDays Microsoft.Kusto/clusters/databases/hotCachePeriodInDays   properties.statistics.size Microsoft.Kusto/clusters/databases/statistics.size   properties.statistics Microsoft.Kusto/clusters/databases/statistics   properties.softDeletePeriod Microsoft.Kusto/clusters/databases/softDeletePeriod   properties.hotCachePeriod Microsoft.Kusto/clusters/databases/hotCachePeriod   properties.provisioningState Microsoft.Kusto/clusters/databases/ReadWrite.provisioningState   properties.statistics Microsoft.Kusto/clusters/databases/ReadWrite.statistics   properties.statistics.size Microsoft.Kusto/clusters/databases/ReadWrite.statistics.size   properties.softDeletePeriod Microsoft.Kusto/clusters/databases/ReadWrite.softDeletePeriod   properties.hotCachePeriod Microsoft.Kusto/clusters/databases/ReadWrite.hotCachePeriod   properties.leaderClusterResourceId Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.leaderClusterResourceId   properties.attachedDatabaseConfigurationName Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.attachedDatabaseConfigurationName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/Clusters/ManagedPrivateEndpoints
+   Default Path Alias     properties.privateLinkResourceId Microsoft.Kusto/clusters/managedPrivateEndpoints/privateLinkResourceId   properties.privateLinkResourceRegion Microsoft.Kusto/clusters/managedPrivateEndpoints/privateLinkResourceRegion   properties.groupId Microsoft.Kusto/clusters/managedPrivateEndpoints/groupId   properties.requestMessage Microsoft.Kusto/clusters/managedPrivateEndpoints/requestMessage   properties.provisioningState Microsoft.Kusto/clusters/managedPrivateEndpoints/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters-principalassignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters-principalassignments/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters/principalassignments
+   Default Path Alias     properties.principalId Microsoft.Kusto/clusters/principalAssignments/principalId   properties.role Microsoft.Kusto/clusters/principalAssignments/role   properties.tenantId Microsoft.Kusto/clusters/principalAssignments/tenantId   properties.principalType Microsoft.Kusto/clusters/principalAssignments/principalType   properties.tenantName Microsoft.Kusto/clusters/principalAssignments/tenantName   properties.principalName Microsoft.Kusto/clusters/principalAssignments/principalName   properties.provisioningState Microsoft.Kusto/clusters/principalAssignments/provisioningState   properties.aadObjectId Microsoft.Kusto/clusters/principalAssignments/aadObjectId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-PrivateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-PrivateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/Clusters/PrivateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Kusto/clusters/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Kusto/clusters/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Kusto/clusters/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Kusto/clusters/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Kusto/clusters/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Kusto/clusters/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.groupId Microsoft.Kusto/clusters/privateEndpointConnections/groupId   properties.provisioningState Microsoft.Kusto/clusters/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Kusto/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Kusto/clusters/</guid>
+      <description>Link to resource definition: Microsoft.Kusto/clusters
+   Default Path Alias     sku.name Microsoft.Kusto/clusters/sku.name   sku.capacity Microsoft.Kusto/clusters/sku.capacity   sku.tier Microsoft.Kusto/clusters/sku.tier   sku Microsoft.Kusto/clusters/sku   properties.state Microsoft.Kusto/clusters/state   properties.provisioningState Microsoft.Kusto/clusters/provisioningState   properties.uri Microsoft.Kusto/clusters/uri   properties.dataIngestionUri Microsoft.Kusto/clusters/dataIngestionUri   properties.trustedExternalTenants[*] Microsoft.Kusto/clusters/trustedExternalTenants[*]   properties.trustedExternalTenants Microsoft.Kusto/clusters/trustedExternalTenants   properties.trustedExternalTenants[*].value Microsoft.Kusto/clusters/trustedExternalTenants[*].value   zones[*] Microsoft.Kusto/clusters/zones[*]   zones Microsoft.Kusto/clusters/zones   properties.optimizedAutoscale.version Microsoft.Kusto/clusters/optimizedAutoscale.version   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

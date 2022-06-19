@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.HealthcareApis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/services-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/services-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/services/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.HealthcareApis/services/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.HealthcareApis/services/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.HealthcareApis/services/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/services/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/services
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/services/provisioningState   properties.accessPolicies[*] Microsoft.HealthcareApis/services/accessPolicies[*]   properties.accessPolicies[*].objectId Microsoft.HealthcareApis/services/accessPolicies[*].objectId   properties.accessPolicies Microsoft.HealthcareApis/services/accessPolicies   properties.cosmosDbConfiguration Microsoft.HealthcareApis/services/cosmosDbConfiguration   properties.cosmosDbConfiguration.offerThroughput Microsoft.HealthcareApis/services/cosmosDbConfiguration.offerThroughput   properties.authenticationConfiguration Microsoft.HealthcareApis/services/authenticationConfiguration   properties.authenticationConfiguration.authority Microsoft.HealthcareApis/services/authenticationConfiguration.authority   properties.authenticationConfiguration.audience Microsoft.HealthcareApis/services/authenticationConfiguration.audience   properties.authenticationConfiguration.smartProxyEnabled Microsoft.HealthcareApis/services/authenticationConfiguration.smartProxyEnabled   properties.corsConfiguration Microsoft.HealthcareApis/services/corsConfiguration   properties.corsConfiguration.origins[*] Microsoft.HealthcareApis/services/corsConfiguration.origins[*]   properties.corsConfiguration.origins Microsoft.HealthcareApis/services/corsConfiguration.origins   properties.corsConfiguration.headers[*] Microsoft.HealthcareApis/services/corsConfiguration.headers[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-dicomservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-dicomservices/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/workspaces/dicomservices
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/workspaces/dicomservices/provisioningState   properties.authenticationConfiguration Microsoft.HealthcareApis/workspaces/dicomservices/authenticationConfiguration   properties.authenticationConfiguration.authority Microsoft.HealthcareApis/workspaces/dicomservices/authenticationConfiguration.authority   properties.authenticationConfiguration.audiences Microsoft.HealthcareApis/workspaces/dicomservices/authenticationConfiguration.audiences   properties.authenticationConfiguration.audiences[*] Microsoft.HealthcareApis/workspaces/dicomservices/authenticationConfiguration.audiences[*]   properties.serviceUrl Microsoft.HealthcareApis/workspaces/dicomservices/serviceUrl    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-fhirservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-fhirservices/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/workspaces/fhirservices
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/workspaces/fhirservices/provisioningState   properties.accessPolicies Microsoft.HealthcareApis/workspaces/fhirservices/accessPolicies   properties.accessPolicies[*] Microsoft.HealthcareApis/workspaces/fhirservices/accessPolicies[*]   properties.accessPolicies[*].objectId Microsoft.HealthcareApis/workspaces/fhirservices/accessPolicies[*].objectId   properties.acrConfiguration Microsoft.HealthcareApis/workspaces/fhirservices/acrConfiguration   properties.acrConfiguration.loginServers Microsoft.HealthcareApis/workspaces/fhirservices/acrConfiguration.loginServers   properties.acrConfiguration.loginServers[*] Microsoft.HealthcareApis/workspaces/fhirservices/acrConfiguration.loginServers[*]   properties.authenticationConfiguration Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration   properties.authenticationConfiguration.authority Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.authority   properties.authenticationConfiguration.audience Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.audience   properties.authenticationConfiguration.smartProxyEnabled Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartProxyEnabled   properties.corsConfiguration Microsoft.HealthcareApis/workspaces/fhirservices/corsConfiguration   properties.corsConfiguration.origins Microsoft.HealthcareApis/workspaces/fhirservices/corsConfiguration.origins   properties.corsConfiguration.origins[*] Microsoft.HealthcareApis/workspaces/fhirservices/corsConfiguration.origins[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/provisioningState   properties.resourceIdentityResolutionType Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/resourceIdentityResolutionType   properties.fhirServiceResourceId Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/fhirServiceResourceId   properties.fhirMapping Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/fhirMapping    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/workspaces/iotconnectors
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/workspaces/iotconnectors/provisioningState   properties.ingestionEndpointConfiguration Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration   properties.ingestionEndpointConfiguration.eventHubName Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration.eventHubName   properties.ingestionEndpointConfiguration.consumerGroup Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration.consumerGroup   properties.ingestionEndpointConfiguration.fullyQualifiedEventHubNamespace Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration.fullyQualifiedEventHubNamespace   properties.deviceMapping Microsoft.HealthcareApis/workspaces/iotconnectors/deviceMapping    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces/</guid>
+      <description>Link to resource definition: Microsoft.HealthcareApis/workspaces
+   Default Path Alias     properties.provisioningState Microsoft.HealthcareApis/workspaces/provisioningState    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Portal/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Portal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Portal/consoles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Portal/consoles/</guid>
+      <description>Link to resource definition: Microsoft.Portal/consoles
+   Default Path Alias     properties.osType Microsoft.Portal/consoles/osType   properties.provisioningState Microsoft.Portal/consoles/provisioningState   properties.uri Microsoft.Portal/consoles/uri    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Portal/dashboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Portal/dashboards/</guid>
+      <description>Link to resource definition: Microsoft.Portal/dashboards
+   Default Path Alias     properties.lenses Microsoft.Portal/dashboards/lenses   properties.metadata Microsoft.Portal/dashboards/metadata   properties.lenses[*] Microsoft.Portal/dashboards/lenses[*]   properties.lenses[*].order Microsoft.Portal/dashboards/lenses[*].order   properties.lenses[*].parts Microsoft.Portal/dashboards/lenses[*].parts   properties.lenses[*].parts[*] Microsoft.Portal/dashboards/lenses[*].parts[*]   properties.lenses[*].parts[*].position Microsoft.Portal/dashboards/lenses[*].parts[*].position   properties.lenses[*].parts[*].position.x Microsoft.Portal/dashboards/lenses[*].parts[*].position.x   properties.lenses[*].parts[*].position.y Microsoft.Portal/dashboards/lenses[*].parts[*].position.y   properties.lenses[*].parts[*].position.rowSpan Microsoft.Portal/dashboards/lenses[*].parts[*].position.rowSpan   properties.lenses[*].parts[*].position.colSpan Microsoft.Portal/dashboards/lenses[*].parts[*].position.colSpan   properties.lenses[*].parts[*].position.metadata Microsoft.Portal/dashboards/lenses[*].parts[*].position.metadata   properties.lenses[*].parts[*].metadata Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart   properties.lenses[*].parts[*].metadata.inputs Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.inputs   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Portal/tenantconfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Portal/tenantconfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Portal/tenantconfigurations
+   Default Path Alias     properties.enforcePrivateMarkdownStorage Microsoft.Portal/tenantConfigurations/enforcePrivateMarkdownStorage    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Portal/userSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Portal/userSettings/</guid>
+      <description>Link to resource definition: Microsoft.Portal/userSettings
+   Default Path Alias     properties.preferredOsType Microsoft.Portal/userSettings/preferredOsType   properties.preferredLocation Microsoft.Portal/userSettings/preferredLocation   properties.storageProfile Microsoft.Portal/userSettings/storageProfile   properties.storageProfile.storageAccountResourceId Microsoft.Portal/userSettings/storageProfile.storageAccountResourceId   properties.storageProfile.fileShareName Microsoft.Portal/userSettings/storageProfile.fileShareName   properties.storageProfile.diskSizeInGB Microsoft.Portal/userSettings/storageProfile.diskSizeInGB   properties.terminalSettings Microsoft.Portal/userSettings/terminalSettings   properties.terminalSettings.fontSize Microsoft.Portal/userSettings/terminalSettings.fontSize   properties.terminalSettings.fontStyle Microsoft.Portal/userSettings/terminalSettings.fontStyle   properties.preferredShellType Microsoft.Portal/userSettings/preferredShellType    </description>
+    </item>
+    
+  </channel>
+</rss>

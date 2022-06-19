@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.StorSimple/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.StorSimple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-accessControlRecords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-accessControlRecords/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/accessControlRecords
+   Default Path Alias     properties.initiatorName Microsoft.StorSimple/managers/accessControlRecords/initiatorName   properties.volumeCount Microsoft.StorSimple/managers/accessControlRecords/volumeCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-bandwidthSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-bandwidthSettings/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/bandwidthSettings
+   Default Path Alias     properties.schedules[*].start.hours Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].start.hours   properties.schedules[*].start.minutes Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].start.minutes   properties.schedules[*].start.seconds Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].start.seconds   properties.schedules[*].start Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].start   properties.schedules[*].stop.hours Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].stop.hours   properties.schedules[*].stop.minutes Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].stop.minutes   properties.schedules[*].stop.seconds Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].stop.seconds   properties.schedules[*].stop Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].stop   properties.schedules[*].rateInMbps Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].rateInMbps   properties.schedules[*].days[*] Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].days[*]   properties.schedules[*].days Microsoft.StorSimple/managers/bandwidthSettings/schedules[*].days   properties.schedules[*] Microsoft.StorSimple/managers/bandwidthSettings/schedules[*]   properties.schedules Microsoft.StorSimple/managers/bandwidthSettings/schedules   properties.volumeCount Microsoft.StorSimple/managers/bandwidthSettings/volumeCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-alertSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-alertSettings/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/alertSettings
+   Default Path Alias     properties.emailNotification Microsoft.StorSimple/managers/devices/alertSettings/emailNotification   properties.notificationToServiceOwners Microsoft.StorSimple/managers/devices/alertSettings/notificationToServiceOwners   properties.alertNotificationCulture Microsoft.StorSimple/managers/devices/alertSettings/alertNotificationCulture   properties.additionalRecipientEmailList[*] Microsoft.StorSimple/managers/devices/alertSettings/additionalRecipientEmailList[*]   properties.additionalRecipientEmailList Microsoft.StorSimple/managers/devices/alertSettings/additionalRecipientEmailList   properties.emailNotification Microsoft.StorSimple/managers/devices/alertSettings/default.emailNotification   properties.notificationToServiceOwners Microsoft.StorSimple/managers/devices/alertSettings/default.notificationToServiceOwners   properties.alertNotificationCulture Microsoft.StorSimple/managers/devices/alertSettings/default.alertNotificationCulture   properties.additionalRecipientEmailList[*] Microsoft.StorSimple/managers/devices/alertSettings/default.additionalRecipientEmailList[*]   properties.additionalRecipientEmailList Microsoft.StorSimple/managers/devices/alertSettings/default.additionalRecipientEmailList    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies-schedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies-schedules/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/backupPolicies/schedules
+   Default Path Alias     properties.scheduleRecurrence.recurrenceType Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleRecurrence.recurrenceType   properties.scheduleRecurrence.recurrenceValue Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleRecurrence.recurrenceValue   properties.scheduleRecurrence.weeklyDaysList[*] Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleRecurrence.weeklyDaysList[*]   properties.scheduleRecurrence.weeklyDaysList Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleRecurrence.weeklyDaysList   properties.scheduleRecurrence Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleRecurrence   properties.backupType Microsoft.StorSimple/managers/devices/backupPolicies/schedules/backupType   properties.retentionCount Microsoft.StorSimple/managers/devices/backupPolicies/schedules/retentionCount   properties.startTime Microsoft.StorSimple/managers/devices/backupPolicies/schedules/startTime   properties.scheduleStatus Microsoft.StorSimple/managers/devices/backupPolicies/schedules/scheduleStatus   properties.lastSuccessfulRun Microsoft.StorSimple/managers/devices/backupPolicies/schedules/lastSuccessfulRun    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/backupPolicies
+   Default Path Alias     properties.volumeIds[*] Microsoft.StorSimple/managers/devices/backupPolicies/volumeIds[*]   properties.volumeIds Microsoft.StorSimple/managers/devices/backupPolicies/volumeIds   properties.nextBackupTime Microsoft.StorSimple/managers/devices/backupPolicies/nextBackupTime   properties.lastBackupTime Microsoft.StorSimple/managers/devices/backupPolicies/lastBackupTime   properties.schedulesCount Microsoft.StorSimple/managers/devices/backupPolicies/schedulesCount   properties.scheduledBackupStatus Microsoft.StorSimple/managers/devices/backupPolicies/scheduledBackupStatus   properties.backupPolicyCreationType Microsoft.StorSimple/managers/devices/backupPolicies/backupPolicyCreationType   properties.ssmHostName Microsoft.StorSimple/managers/devices/backupPolicies/ssmHostName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupScheduleGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupScheduleGroups/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/backupScheduleGroups
+   Default Path Alias     properties.startTime.hour Microsoft.StorSimple/managers/devices/backupScheduleGroups/startTime.hour   properties.startTime.minute Microsoft.StorSimple/managers/devices/backupScheduleGroups/startTime.minute   properties.startTime Microsoft.StorSimple/managers/devices/backupScheduleGroups/startTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-chapSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-chapSettings/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/chapSettings
+   Default Path Alias     properties.password Microsoft.StorSimple/managers/devices/chapSettings/password   properties.password.encryptionCertificateThumbprint Microsoft.StorSimple/managers/devices/chapSettings/password.encryptionCertificateThumbprint   properties.password.encryptionAlgorithm Microsoft.StorSimple/managers/devices/chapSettings/password.encryptionAlgorithm   properties.password.value Microsoft.StorSimple/managers/devices/chapSettings/password.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers-shares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers-shares/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/fileservers/shares
+   Default Path Alias     properties.description Microsoft.StorSimple/managers/devices/fileservers/shares/description   properties.shareStatus Microsoft.StorSimple/managers/devices/fileservers/shares/shareStatus   properties.dataPolicy Microsoft.StorSimple/managers/devices/fileservers/shares/dataPolicy   properties.adminUser Microsoft.StorSimple/managers/devices/fileservers/shares/adminUser   properties.provisionedCapacityInBytes Microsoft.StorSimple/managers/devices/fileservers/shares/provisionedCapacityInBytes   properties.usedCapacityInBytes Microsoft.StorSimple/managers/devices/fileservers/shares/usedCapacityInBytes   properties.localUsedCapacityInBytes Microsoft.StorSimple/managers/devices/fileservers/shares/localUsedCapacityInBytes   properties.monitoringStatus Microsoft.StorSimple/managers/devices/fileservers/shares/monitoringStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/fileservers
+   Default Path Alias     properties.domainName Microsoft.StorSimple/managers/devices/fileservers/domainName   properties.storageDomainId Microsoft.StorSimple/managers/devices/fileservers/storageDomainId   properties.backupScheduleGroupId Microsoft.StorSimple/managers/devices/fileservers/backupScheduleGroupId   properties.description Microsoft.StorSimple/managers/devices/fileservers/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers-disks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers-disks/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/iscsiservers/disks
+   Default Path Alias     properties.description Microsoft.StorSimple/managers/devices/iscsiservers/disks/description   properties.diskStatus Microsoft.StorSimple/managers/devices/iscsiservers/disks/diskStatus   properties.accessControlRecords[*] Microsoft.StorSimple/managers/devices/iscsiservers/disks/accessControlRecords[*]   properties.accessControlRecords Microsoft.StorSimple/managers/devices/iscsiservers/disks/accessControlRecords   properties.dataPolicy Microsoft.StorSimple/managers/devices/iscsiservers/disks/dataPolicy   properties.provisionedCapacityInBytes Microsoft.StorSimple/managers/devices/iscsiservers/disks/provisionedCapacityInBytes   properties.usedCapacityInBytes Microsoft.StorSimple/managers/devices/iscsiservers/disks/usedCapacityInBytes   properties.localUsedCapacityInBytes Microsoft.StorSimple/managers/devices/iscsiservers/disks/localUsedCapacityInBytes   properties.monitoringStatus Microsoft.StorSimple/managers/devices/iscsiservers/disks/monitoringStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/iscsiservers
+   Default Path Alias     properties.storageDomainId Microsoft.StorSimple/managers/devices/iscsiservers/storageDomainId   properties.backupScheduleGroupId Microsoft.StorSimple/managers/devices/iscsiservers/backupScheduleGroupId   properties.description Microsoft.StorSimple/managers/devices/iscsiservers/description   properties.chapId Microsoft.StorSimple/managers/devices/iscsiservers/chapId   properties.reverseChapId Microsoft.StorSimple/managers/devices/iscsiservers/reverseChapId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-timeSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-timeSettings/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/timeSettings
+   Default Path Alias     properties.timeZone Microsoft.StorSimple/managers/devices/timeSettings/timeZone   properties.primaryTimeServer Microsoft.StorSimple/managers/devices/timeSettings/primaryTimeServer   properties.secondaryTimeServer Microsoft.StorSimple/managers/devices/timeSettings/secondaryTimeServer   properties.secondaryTimeServer[*] Microsoft.StorSimple/managers/devices/timeSettings/secondaryTimeServer[*]   properties.timeZone Microsoft.StorSimple/managers/devices/timeSettings/default.timeZone   properties.primaryTimeServer Microsoft.StorSimple/managers/devices/timeSettings/default.primaryTimeServer   properties.secondaryTimeServer Microsoft.StorSimple/managers/devices/timeSettings/default.secondaryTimeServer   properties.secondaryTimeServer[*] Microsoft.StorSimple/managers/devices/timeSettings/default.secondaryTimeServer[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers-volumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers-volumes/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/volumeContainers/volumes
+   Default Path Alias     properties.sizeInBytes Microsoft.StorSimple/managers/devices/volumeContainers/volumes/sizeInBytes   properties.volumeType Microsoft.StorSimple/managers/devices/volumeContainers/volumes/volumeType   properties.volumeContainerId Microsoft.StorSimple/managers/devices/volumeContainers/volumes/volumeContainerId   properties.accessControlRecordIds[*] Microsoft.StorSimple/managers/devices/volumeContainers/volumes/accessControlRecordIds[*]   properties.accessControlRecordIds Microsoft.StorSimple/managers/devices/volumeContainers/volumes/accessControlRecordIds   properties.volumeStatus Microsoft.StorSimple/managers/devices/volumeContainers/volumes/volumeStatus   properties.operationStatus Microsoft.StorSimple/managers/devices/volumeContainers/volumes/operationStatus   properties.backupStatus Microsoft.StorSimple/managers/devices/volumeContainers/volumes/backupStatus   properties.monitoringStatus Microsoft.StorSimple/managers/devices/volumeContainers/volumes/monitoringStatus   properties.backupPolicyIds[*] Microsoft.StorSimple/managers/devices/volumeContainers/volumes/backupPolicyIds[*]   properties.backupPolicyIds Microsoft.StorSimple/managers/devices/volumeContainers/volumes/backupPolicyIds    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/devices/volumeContainers
+   Default Path Alias     properties.encryptionKey Microsoft.StorSimple/managers/devices/volumeContainers/encryptionKey   properties.encryptionKey.encryptionCertThumbprint Microsoft.StorSimple/managers/devices/volumeContainers/encryptionKey.encryptionCertThumbprint   properties.encryptionKey.encryptionAlgorithm Microsoft.StorSimple/managers/devices/volumeContainers/encryptionKey.encryptionAlgorithm   properties.encryptionStatus Microsoft.StorSimple/managers/devices/volumeContainers/encryptionStatus   properties.volumeCount Microsoft.StorSimple/managers/devices/volumeContainers/volumeCount   properties.storageAccountCredentialId Microsoft.StorSimple/managers/devices/volumeContainers/storageAccountCredentialId   properties.ownerShipStatus Microsoft.StorSimple/managers/devices/volumeContainers/ownerShipStatus   properties.bandWidthRateInMbps Microsoft.StorSimple/managers/devices/volumeContainers/bandWidthRateInMbps   properties.bandwidthSettingId Microsoft.StorSimple/managers/devices/volumeContainers/bandwidthSettingId   properties.totalCloudStorageUsageInBytes Microsoft.StorSimple/managers/devices/volumeContainers/totalCloudStorageUsageInBytes   properties.encryptionKey.value Microsoft.StorSimple/managers/devices/volumeContainers/encryptionKey.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-extendedInformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-extendedInformation/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/extendedInformation
+   Default Path Alias     properties.version Microsoft.StorSimple/managers/extendedInformation/version   properties.integrityKey Microsoft.StorSimple/managers/extendedInformation/integrityKey   properties.encryptionKey Microsoft.StorSimple/managers/extendedInformation/encryptionKey   properties.encryptionKeyThumbprint Microsoft.StorSimple/managers/extendedInformation/encryptionKeyThumbprint   properties.portalCertificateThumbprint Microsoft.StorSimple/managers/extendedInformation/portalCertificateThumbprint   properties.algorithm Microsoft.StorSimple/managers/extendedInformation/algorithm   properties.version Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.version   properties.integrityKey Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.integrityKey   properties.encryptionKey Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.encryptionKey   properties.encryptionKeyThumbprint Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.encryptionKeyThumbprint   properties.portalCertificateThumbprint Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.portalCertificateThumbprint   properties.algorithm Microsoft.StorSimple/managers/extendedInformation/vaultExtendedInfo.algorithm    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageAccountCredentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageAccountCredentials/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/storageAccountCredentials
+   Default Path Alias     properties.cloudType Microsoft.StorSimple/managers/storageAccountCredentials/cloudType   properties.endPoint Microsoft.StorSimple/managers/storageAccountCredentials/endPoint   properties.login Microsoft.StorSimple/managers/storageAccountCredentials/login   properties.location Microsoft.StorSimple/managers/storageAccountCredentials/location   properties.enableSSL Microsoft.StorSimple/managers/storageAccountCredentials/enableSSL   properties.accessKey Microsoft.StorSimple/managers/storageAccountCredentials/accessKey   properties.accessKey.encryptionCertificateThumbprint Microsoft.StorSimple/managers/storageAccountCredentials/accessKey.encryptionCertificateThumbprint   properties.accessKey.encryptionAlgorithm Microsoft.StorSimple/managers/storageAccountCredentials/accessKey.encryptionAlgorithm   properties.sslStatus Microsoft.StorSimple/managers/storageAccountCredentials/sslStatus   properties.accessKey.encryptionCertThumbprint Microsoft.StorSimple/managers/storageAccountCredentials/accessKey.encryptionCertThumbprint   properties.volumesCount Microsoft.StorSimple/managers/storageAccountCredentials/volumesCount   properties.accessKey.value Microsoft.StorSimple/managers/storageAccountCredentials/accessKey.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageDomains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageDomains/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers/storageDomains
+   Default Path Alias     properties.storageAccountCredentialIds[*] Microsoft.StorSimple/managers/storageDomains/storageAccountCredentialIds[*]   properties.storageAccountCredentialIds Microsoft.StorSimple/managers/storageDomains/storageAccountCredentialIds   properties.encryptionKey Microsoft.StorSimple/managers/storageDomains/encryptionKey   properties.encryptionKey.encryptionCertificateThumbprint Microsoft.StorSimple/managers/storageDomains/encryptionKey.encryptionCertificateThumbprint   properties.encryptionKey.encryptionAlgorithm Microsoft.StorSimple/managers/storageDomains/encryptionKey.encryptionAlgorithm   properties.encryptionStatus Microsoft.StorSimple/managers/storageDomains/encryptionStatus   properties.encryptionKey.value Microsoft.StorSimple/managers/storageDomains/encryptionKey.value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.StorSimple/managers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.StorSimple/managers/</guid>
+      <description>Link to resource definition: Microsoft.StorSimple/managers
+   Default Path Alias     properties.cisIntrinsicSettings.type Microsoft.StorSimple/managers/cisIntrinsicSettings.type   properties.cisIntrinsicSettings Microsoft.StorSimple/managers/cisIntrinsicSettings   properties.sku.name Microsoft.StorSimple/managers/sku.name   properties.sku Microsoft.StorSimple/managers/sku   properties.provisioningState Microsoft.StorSimple/managers/provisioningState    </description>
+    </item>
+    
+  </channel>
+</rss>

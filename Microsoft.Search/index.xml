@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Search/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Search/searchServices-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Search/searchServices-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Search/searchServices/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Search/searchServices/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Search/searchServices/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Search/searchServices/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Search/searchServices/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Search/searchServices/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Search/searchServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Search/searchServices-sharedPrivateLinkResources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Search/searchServices-sharedPrivateLinkResources/</guid>
+      <description>Link to resource definition: Microsoft.Search/searchServices/sharedPrivateLinkResources
+   Default Path Alias     properties.privateLinkResourceId Microsoft.Search/searchServices/sharedPrivateLinkResources/privateLinkResourceId   properties.groupId Microsoft.Search/searchServices/sharedPrivateLinkResources/groupId   properties.requestMessage Microsoft.Search/searchServices/sharedPrivateLinkResources/requestMessage   properties.resourceRegion Microsoft.Search/searchServices/sharedPrivateLinkResources/resourceRegion   properties.status Microsoft.Search/searchServices/sharedPrivateLinkResources/status   properties.provisioningState Microsoft.Search/searchServices/sharedPrivateLinkResources/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Search/searchServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Search/searchServices/</guid>
+      <description>Link to resource definition: Microsoft.Search/searchServices
+   Default Path Alias     properties.replicaCount Microsoft.Search/searchServices/replicaCount   properties.partitionCount Microsoft.Search/searchServices/partitionCount   properties.hostingMode Microsoft.Search/searchServices/hostingMode   sku.name Microsoft.Search/searchServices/sku.name   properties.status Microsoft.Search/searchServices/status   properties.statusDetails Microsoft.Search/searchServices/statusDetails   properties.provisioningState Microsoft.Search/searchServices/provisioningState   properties.networkRuleSet.endpointAccess Microsoft.Search/searchServices/networkRuleSet.endpointAccess   properties.networkRuleSet.ipRules[*].value Microsoft.Search/searchServices/networkRuleSet.ipRules[*].value   properties.networkRuleSet.ipRules[*] Microsoft.Search/searchServices/networkRuleSet.ipRules[*]   properties.networkRuleSet.ipRules Microsoft.Search/searchServices/networkRuleSet.ipRules   properties.networkRuleSet Microsoft.Search/searchServices/networkRuleSet   properties.privateEndpointConnections[*].id.externalDocs Microsoft.Search/searchServices/privateEndpointConnections[*].id.externalDocs   properties.privateEndpointConnections[*].id Microsoft.Search/searchServices/privateEndpointConnections[*].id   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

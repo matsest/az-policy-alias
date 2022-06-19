@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.AppPlatform/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.AppPlatform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-bindings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-bindings/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps/bindings
+   Default Path Alias     properties.resourceName Microsoft.AppPlatform/Spring/apps/bindings/resourceName   properties.resourceType Microsoft.AppPlatform/Spring/apps/bindings/resourceType   properties.resourceId Microsoft.AppPlatform/Spring/apps/bindings/resourceId   properties.key Microsoft.AppPlatform/Spring/apps/bindings/key   properties.bindingParameters Microsoft.AppPlatform/Spring/apps/bindings/bindingParameters   properties.generatedProperties Microsoft.AppPlatform/Spring/apps/bindings/generatedProperties   properties.createdAt Microsoft.AppPlatform/Spring/apps/bindings/createdAt   properties.updatedAt Microsoft.AppPlatform/Spring/apps/bindings/updatedAt    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-deployments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-deployments/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps/deployments
+   Default Path Alias     properties.source Microsoft.AppPlatform/Spring/apps/deployments/source   properties.source.type Microsoft.AppPlatform/Spring/apps/deployments/source.type   properties.source.relativePath Microsoft.AppPlatform/Spring/apps/deployments/source.relativePath   properties.source.version Microsoft.AppPlatform/Spring/apps/deployments/source.version   properties.source.artifactSelector Microsoft.AppPlatform/Spring/apps/deployments/source.artifactSelector   properties.appName Microsoft.AppPlatform/Spring/apps/deployments/appName   properties.deploymentSettings Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings   properties.deploymentSettings.cpu Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.cpu   properties.deploymentSettings.memoryInGB Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.memoryInGB   properties.deploymentSettings.jvmOptions Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.jvmOptions   properties.deploymentSettings.netCoreMainEntryPath Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.netCoreMainEntryPath   properties.deploymentSettings.instanceCount Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.instanceCount   properties.deploymentSettings.environmentVariables Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.environmentVariables   properties.deploymentSettings.runtimeVersion Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.runtimeVersion   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-domains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-domains/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps/domains
+   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/apps/domains/thumbprint   properties.appName Microsoft.AppPlatform/Spring/apps/domains/appName   properties.certName Microsoft.AppPlatform/Spring/apps/domains/certName    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps
+   Default Path Alias     properties.public Microsoft.AppPlatform/Spring/apps/public   properties.url Microsoft.AppPlatform/Spring/apps/url   properties.provisioningState Microsoft.AppPlatform/Spring/apps/provisioningState   properties.activeDeploymentName Microsoft.AppPlatform/Spring/apps/activeDeploymentName   properties.fqdn Microsoft.AppPlatform/Spring/apps/fqdn   properties.httpsOnly Microsoft.AppPlatform/Spring/apps/httpsOnly   properties.createdTime Microsoft.AppPlatform/Spring/apps/createdTime   properties.temporaryDisk Microsoft.AppPlatform/Spring/apps/temporaryDisk   properties.temporaryDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/temporaryDisk.sizeInGB   properties.temporaryDisk.mountPath Microsoft.AppPlatform/Spring/apps/temporaryDisk.mountPath   properties.persistentDisk Microsoft.AppPlatform/Spring/apps/persistentDisk   properties.persistentDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.sizeInGB   properties.persistentDisk.usedInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.usedInGB   properties.persistentDisk.mountPath Microsoft.AppPlatform/Spring/apps/persistentDisk.mountPath    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-certificates/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/certificates
+   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/certificates/thumbprint   properties.vaultUri Microsoft.AppPlatform/Spring/certificates/vaultUri   properties.keyVaultCertName Microsoft.AppPlatform/Spring/certificates/keyVaultCertName   properties.certVersion Microsoft.AppPlatform/Spring/certificates/certVersion   properties.issuer Microsoft.AppPlatform/Spring/certificates/issuer   properties.issuedDate Microsoft.AppPlatform/Spring/certificates/issuedDate   properties.expirationDate Microsoft.AppPlatform/Spring/certificates/expirationDate   properties.activateDate Microsoft.AppPlatform/Spring/certificates/activateDate   properties.subjectName Microsoft.AppPlatform/Spring/certificates/subjectName   properties.dnsNames Microsoft.AppPlatform/Spring/certificates/dnsNames   properties.dnsNames[*] Microsoft.AppPlatform/Spring/certificates/dnsNames[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configServers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configServers/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/configServers
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/configServers/provisioningState   properties.error Microsoft.AppPlatform/Spring/configServers/error   properties.error.code Microsoft.AppPlatform/Spring/configServers/error.code   properties.error.message Microsoft.AppPlatform/Spring/configServers/error.message   properties.configServer Microsoft.AppPlatform/Spring/configServers/configServer   properties.configServer.gitProperty Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty   properties.configServer.gitProperty.repositories Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories   properties.configServer.gitProperty.repositories[*] Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*]   properties.configServer.gitProperty.repositories[*].name Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].name   properties.configServer.gitProperty.repositories[*].pattern Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].pattern   properties.configServer.gitProperty.repositories[*].pattern[*] Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].pattern[*]   properties.configServer.gitProperty.repositories[*].uri Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].uri   properties.configServer.gitProperty.repositories[*].label Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].label   properties.configServer.gitProperty.repositories[*].searchPaths Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.repositories[*].searchPaths   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/monitoringSettings
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/monitoringSettings/provisioningState   properties.error Microsoft.AppPlatform/Spring/monitoringSettings/error   properties.error.code Microsoft.AppPlatform/Spring/monitoringSettings/error.code   properties.error.message Microsoft.AppPlatform/Spring/monitoringSettings/error.message   properties.traceEnabled Microsoft.AppPlatform/Spring/monitoringSettings/traceEnabled   properties.appInsightsInstrumentationKey Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsInstrumentationKey   properties.appInsightsSamplingRate Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsSamplingRate   properties.appInsightsAgentVersions Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions   properties.appInsightsAgentVersions.java Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions.java    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/provisioningState   properties.configServerProperties.state Microsoft.AppPlatform/Spring/configServerProperties.state   properties.configServerProperties.error.code Microsoft.AppPlatform/Spring/configServerProperties.error.code   properties.configServerProperties.error.message Microsoft.AppPlatform/Spring/configServerProperties.error.message   properties.configServerProperties.error Microsoft.AppPlatform/Spring/configServerProperties.error   properties.configServerProperties.configServer.gitProperty.repositories[*].name Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].name   properties.configServerProperties.configServer.gitProperty.repositories[*].pattern[*] Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].pattern[*]   properties.configServerProperties.configServer.gitProperty.repositories[*].pattern Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].pattern   properties.configServerProperties.configServer.gitProperty.repositories[*].uri Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].uri   properties.configServerProperties.configServer.gitProperty.repositories[*].label Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].label   properties.configServerProperties.configServer.gitProperty.repositories[*].searchPaths[*] Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].searchPaths[*]   properties.configServerProperties.configServer.gitProperty.repositories[*].searchPaths Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].searchPaths   properties.configServerProperties.configServer.gitProperty.repositories[*].username Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].username   properties.configServerProperties.configServer.gitProperty.repositories[*].password Microsoft.AppPlatform/Spring/configServerProperties.configServer.gitProperty.repositories[*].password   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

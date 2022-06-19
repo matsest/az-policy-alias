@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.KeyVault/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.KeyVault/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/managedHSMs/privateEndpointConnections
+   Default Path Alias     sku Microsoft.KeyVault/managedHSMs/privateEndpointConnections/sku   sku.family Microsoft.KeyVault/managedHSMs/privateEndpointConnections/sku.family   sku.name Microsoft.KeyVault/managedHSMs/privateEndpointConnections/sku.name   properties.privateEndpoint Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.KeyVault/managedHSMs/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/managedHSMs
+   Default Path Alias     sku Microsoft.KeyVault/managedHSMs/sku   sku.family Microsoft.KeyVault/managedHSMs/sku.family   sku.name Microsoft.KeyVault/managedHSMs/sku.name   properties.tenantId Microsoft.KeyVault/managedHSMs/tenantId   properties.initialAdminObjectIds Microsoft.KeyVault/managedHSMs/initialAdminObjectIds   properties.initialAdminObjectIds[*] Microsoft.KeyVault/managedHSMs/initialAdminObjectIds[*]   properties.hsmUri Microsoft.KeyVault/managedHSMs/hsmUri   properties.enableSoftDelete Microsoft.KeyVault/managedHSMs/enableSoftDelete   properties.softDeleteRetentionInDays Microsoft.KeyVault/managedHSMs/softDeleteRetentionInDays   properties.enablePurgeProtection Microsoft.KeyVault/managedHSMs/enablePurgeProtection   properties.createMode Microsoft.KeyVault/managedHSMs/createMode   properties.statusMessage Microsoft.KeyVault/managedHSMs/statusMessage   properties.provisioningState Microsoft.KeyVault/managedHSMs/provisioningState   properties.networkAcls Microsoft.KeyVault/managedHSMs/networkAcls   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-keys/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/vaults/keys
+   Default Path Alias     properties.attributes Microsoft.KeyVault/vaults/keys/attributes   properties.attributes.enabled Microsoft.KeyVault/vaults/keys/attributes.enabled   properties.attributes.nbf Microsoft.KeyVault/vaults/keys/attributes.nbf   properties.attributes.exp Microsoft.KeyVault/vaults/keys/attributes.exp   properties.attributes.created Microsoft.KeyVault/vaults/keys/attributes.created   properties.attributes.updated Microsoft.KeyVault/vaults/keys/attributes.updated   properties.attributes.recoveryLevel Microsoft.KeyVault/vaults/keys/attributes.recoveryLevel   properties.kty Microsoft.KeyVault/vaults/keys/kty   properties.keyOps Microsoft.KeyVault/vaults/keys/keyOps   properties.keyOps[*] Microsoft.KeyVault/vaults/keys/keyOps[*]   properties.keySize Microsoft.KeyVault/vaults/keys/keySize   properties.curveName Microsoft.KeyVault/vaults/keys/curveName   properties.keyUri Microsoft.KeyVault/vaults/keys/keyUri   properties.keyUriWithVersion Microsoft.KeyVault/vaults/keys/keyUriWithVersion   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/vaults/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.KeyVault/vaults/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.KeyVault/vaults/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.provisioningState Microsoft.KeyVault/vaults/privateEndpointConnections/provisioningState   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-secrets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-secrets/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/vaults/secrets
+   Default Path Alias     properties.attributes Microsoft.KeyVault/vaults/secrets/attributes   properties.attributes.enabled Microsoft.KeyVault/vaults/secrets/attributes.enabled   properties.attributes.nbf Microsoft.KeyVault/vaults/secrets/attributes.nbf   properties.attributes.exp Microsoft.KeyVault/vaults/secrets/attributes.exp   properties.attributes.created Microsoft.KeyVault/vaults/secrets/attributes.created   properties.attributes.updated Microsoft.KeyVault/vaults/secrets/attributes.updated   properties.contentType Microsoft.Keyvault/vaults/secrets/contentType   properties.secretUri Microsoft.Keyvault/vaults/secrets/secretUri   properties.secretUriWithVersion Microsoft.Keyvault/vaults/secrets/secretUriWithVersion   properties.value Microsoft.KeyVault/vaults/secrets/value    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KeyVault/vaults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KeyVault/vaults/</guid>
+      <description>Link to resource definition: Microsoft.KeyVault/vaults
+   Default Path Alias     properties.sku.name Microsoft.KeyVault/vaults/sku.name   properties.sku.family Microsoft.KeyVault/vaults/sku.family   properties.enabledForDeployment Microsoft.KeyVault/vaults/enabledForDeployment   properties.enabledForDiskEncryption Microsoft.KeyVault/vaults/enabledForDiskEncryption   properties.enabledForTemplateDeployment Microsoft.KeyVault/vaults/enabledForTemplateDeployment   properties.enablePurgeProtection Microsoft.KeyVault/vaults/enablePurgeProtection   properties.enableSoftDelete Microsoft.KeyVault/vaults/enableSoftDelete   properties.networkAcls.defaultAction Microsoft.KeyVault/vaults/networkAcls.defaultAction   properties.networkAcls.ipRules Microsoft.KeyVault/vaults/networkAcls.ipRules   properties.networkAcls.ipRules[*] Microsoft.KeyVault/vaults/networkAcls.ipRules[*]   properties.networkAcls.ipRules[*].value Microsoft.KeyVault/vaults/networkAcls.ipRules[*].value   properties.networkAcls.virtualNetworkRules Microsoft.KeyVault/vaults/networkAcls.virtualNetworkRules   properties.networkAcls.virtualNetworkRules[*] Microsoft.KeyVault/vaults/networkAcls.virtualNetworkRules[*]   properties.networkAcls.virtualNetworkRules[*].id Microsoft.KeyVault/vaults/networkAcls.virtualNetworkRules[*].id   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

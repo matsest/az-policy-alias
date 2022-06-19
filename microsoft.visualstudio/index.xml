@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/microsoft.visualstudio/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/microsoft.visualstudio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.visualstudio/account-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.visualstudio/account-project/</guid>
+      <description>Link to resource definition: microsoft.visualstudio/account/project
+   Default Path Alias     properties.processTemplateId Microsoft.VisualStudio/account/project/processTemplateId   properties.versionControlOption Microsoft.VisualStudio/account/project/versionControlOption   properties.ownerUpn Microsoft.VisualStudio/account/project/ownerUpn   properties.tfsUniqueIdentifier Microsoft.VisualStudio/account/project/tfsUniqueIdentifier   properties.bootstrapPipelineTemplate.applicationSource.sourceType Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationSource.sourceType   properties.bootstrapPipelineTemplate.applicationSource.applicationType Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationSource.applicationType   properties.bootstrapPipelineTemplate.applicationSource.applicationConfiguration Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationSource.applicationConfiguration   properties.bootstrapPipelineTemplate.applicationSource Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationSource   properties.bootstrapPipelineTemplate.applicationTarget.targetType Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.targetType   properties.bootstrapPipelineTemplate.applicationTarget.resources[*].id Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.resources[*].id   properties.bootstrapPipelineTemplate.applicationTarget.resources[*].role Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.resources[*].role   properties.bootstrapPipelineTemplate.applicationTarget.resources[*].authorizationReference Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.resources[*].authorizationReference   properties.bootstrapPipelineTemplate.applicationTarget.resources[*] Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.resources[*]   properties.bootstrapPipelineTemplate.applicationTarget.resources Microsoft.VisualStudio/account/project/bootstrapPipelineTemplate.applicationTarget.resources   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

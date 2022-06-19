@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DeviceUpdate/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DeviceUpdate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-instances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-instances/</guid>
+      <description>Link to resource definition: Microsoft.DeviceUpdate/accounts/instances
+   Default Path Alias     properties.provisioningState Microsoft.DeviceUpdate/accounts/instances/provisioningState   properties.accountName Microsoft.DeviceUpdate/accounts/instances/accountName   properties.iotHubs Microsoft.DeviceUpdate/accounts/instances/iotHubs   properties.iotHubs[*] Microsoft.DeviceUpdate/accounts/instances/iotHubs[*]   properties.iotHubs[*].resourceId Microsoft.DeviceUpdate/accounts/instances/iotHubs[*].resourceId   properties.iotHubs[*].ioTHubConnectionString Microsoft.DeviceUpdate/accounts/instances/iotHubs[*].ioTHubConnectionString   properties.iotHubs[*].eventHubConnectionString Microsoft.DeviceUpdate/accounts/instances/iotHubs[*].eventHubConnectionString   properties.enableDiagnostics Microsoft.DeviceUpdate/accounts/instances/enableDiagnostics   properties.diagnosticStorageProperties Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties   properties.diagnosticStorageProperties.authenticationType Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.authenticationType   properties.diagnosticStorageProperties.connectionString Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.connectionString   properties.diagnosticStorageProperties.resourceId Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.resourceId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies/</guid>
+      <description>Link to resource definition: Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies
+   Default Path Alias     properties.provisioningState Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DeviceUpdate/accounts/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.DeviceUpdate/accounts/privateEndpointConnections/provisioningState   properties.groupIds Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds   properties.groupIds[*] Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts/</guid>
+      <description>Link to resource definition: Microsoft.DeviceUpdate/accounts
+   Default Path Alias     properties.provisioningState Microsoft.DeviceUpdate/accounts/provisioningState   properties.hostName Microsoft.DeviceUpdate/accounts/hostName   properties.publicNetworkAccess Microsoft.DeviceUpdate/accounts/publicNetworkAccess   properties.privateEndpointConnections Microsoft.DeviceUpdate/accounts/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

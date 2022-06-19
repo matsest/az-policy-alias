@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/extensions/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/extensions
+   Default Path Alias     properties.extensionType Microsoft.KubernetesConfiguration/extensions/extensionType   properties.autoUpgradeMinorVersion Microsoft.KubernetesConfiguration/extensions/autoUpgradeMinorVersion   properties.releaseTrain Microsoft.KubernetesConfiguration/extensions/releaseTrain   properties.version Microsoft.KubernetesConfiguration/extensions/version   properties.scope Microsoft.KubernetesConfiguration/extensions/scope   properties.scope.cluster Microsoft.KubernetesConfiguration/extensions/scope.cluster   properties.scope.cluster.releaseNamespace Microsoft.KubernetesConfiguration/extensions/scope.cluster.releaseNamespace   properties.scope.namespace Microsoft.KubernetesConfiguration/extensions/scope.namespace   properties.scope.namespace.targetNamespace Microsoft.KubernetesConfiguration/extensions/scope.namespace.targetNamespace   properties.configurationSettings Microsoft.KubernetesConfiguration/extensions/configurationSettings   properties.configurationProtectedSettings Microsoft.KubernetesConfiguration/extensions/configurationProtectedSettings   properties.installState Microsoft.KubernetesConfiguration/extensions/installState   properties.statuses Microsoft.KubernetesConfiguration/extensions/statuses   properties.statuses[*] Microsoft.KubernetesConfiguration/extensions/statuses[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/fluxConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/fluxConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/fluxConfigurations
+   Default Path Alias     properties.scope Microsoft.KubernetesConfiguration/fluxConfigurations/scope   properties.namespace Microsoft.KubernetesConfiguration/fluxConfigurations/namespace   properties.sourceKind Microsoft.KubernetesConfiguration/fluxConfigurations/sourceKind   properties.suspend Microsoft.KubernetesConfiguration/fluxConfigurations/suspend   properties.gitRepository Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository   properties.gitRepository.url Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.url   properties.gitRepository.timeoutInSeconds Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.timeoutInSeconds   properties.gitRepository.syncIntervalInSeconds Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.syncIntervalInSeconds   properties.gitRepository.repositoryRef Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.repositoryRef   properties.gitRepository.repositoryRef.branch Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.repositoryRef.branch   properties.gitRepository.repositoryRef.tag Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.repositoryRef.tag   properties.gitRepository.repositoryRef.semver Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.repositoryRef.semver   properties.gitRepository.repositoryRef.commit Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.repositoryRef.commit   properties.gitRepository.sshKnownHosts Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.sshKnownHosts   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/sourceControlConfigurations
+   Default Path Alias     properties.complianceStatus.complianceState Microsoft.KubernetesConfiguration/sourceControlConfigurations/complianceState   properties.complianceStatus.lastConfigApplied Microsoft.KubernetesConfiguration/sourceControlConfigurations/lastConfigApplied   properties.repositoryUrl Microsoft.KubernetesConfiguration/sourceControlConfigurations/repositoryUrl   properties.operatorNamespace Microsoft.KubernetesConfiguration/sourceControlConfigurations/operatorNamespace   properties.operatorInstanceName Microsoft.KubernetesConfiguration/sourceControlConfigurations/operatorInstanceName   properties.operatorType Microsoft.KubernetesConfiguration/sourceControlConfigurations/operatorType   properties.operatorParams Microsoft.KubernetesConfiguration/sourceControlConfigurations/operatorParams   properties.operatorScope Microsoft.KubernetesConfiguration/sourceControlConfigurations/operatorScope   properties.repositoryPublicKey Microsoft.KubernetesConfiguration/sourceControlConfigurations/repositoryPublicKey   properties.enableHelmOperator Microsoft.KubernetesConfiguration/sourceControlConfigurations/enableHelmOperator   properties.helmOperatorProperties Microsoft.KubernetesConfiguration/sourceControlConfigurations/helmOperatorProperties   properties.helmOperatorProperties.chartVersion Microsoft.KubernetesConfiguration/sourceControlConfigurations/helmOperatorProperties.chartVersion   properties.helmOperatorProperties.chartValues Microsoft.KubernetesConfiguration/sourceControlConfigurations/helmOperatorProperties.chartValues   properties.provisioningState Microsoft.KubernetesConfiguration/sourceControlConfigurations/provisioningState   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

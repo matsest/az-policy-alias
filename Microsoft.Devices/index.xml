@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Devices/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Devices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/IotHubs-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/IotHubs-certificates/</guid>
+      <description>Link to resource definition: Microsoft.Devices/IotHubs/certificates
+   Default Path Alias     properties.subject Microsoft.Devices/IotHubs/certificates/subject   properties.expiry Microsoft.Devices/IotHubs/certificates/expiry   properties.thumbprint Microsoft.Devices/IotHubs/certificates/thumbprint   properties.isVerified Microsoft.Devices/IotHubs/certificates/isVerified   properties.created Microsoft.Devices/IotHubs/certificates/created   properties.updated Microsoft.Devices/IotHubs/certificates/updated   properties.certificate Microsoft.Devices/IotHubs/certificates/certificate    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/iotHubs-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/iotHubs-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Devices/iotHubs/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Devices/iotHubs/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Devices/iotHubs/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/IotHubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/IotHubs/</guid>
+      <description>Link to resource definition: Microsoft.Devices/IotHubs
+   Default Path Alias     sku.name Microsoft.Devices/IotHubs/sku.name   sku.tier Microsoft.Devices/IotHubs/sku.tier   sku.capacity Microsoft.Devices/IotHubs/sku.capacity   properties.ipFilterRules[*].filterName Microsoft.Devices/IotHubs/ipFilterRules[*].filterName   properties.ipFilterRules[*].action Microsoft.Devices/IotHubs/ipFilterRules[*].action   properties.ipFilterRules[*].ipMask Microsoft.Devices/IotHubs/ipFilterRules[*].ipMask   properties.authorizationPolicies[*].keyName Microsoft.Devices/IotHubs/authorizationPolicies[*].keyName   properties.authorizationPolicies[*].primaryKey Microsoft.Devices/IotHubs/authorizationPolicies[*].primaryKey   properties.authorizationPolicies[*].secondaryKey Microsoft.Devices/IotHubs/authorizationPolicies[*].secondaryKey   properties.authorizationPolicies[*].rights Microsoft.Devices/IotHubs/authorizationPolicies[*].rights   properties.authorizationPolicies[*] Microsoft.Devices/IotHubs/authorizationPolicies[*]   properties.authorizationPolicies Microsoft.Devices/IotHubs/authorizationPolicies   properties.ipFilterRules[*] Microsoft.Devices/IotHubs/ipFilterRules[*]   properties.ipFilterRules Microsoft.Devices/IotHubs/ipFilterRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-certificates/</guid>
+      <description>Link to resource definition: Microsoft.Devices/provisioningServices/certificates
+   Default Path Alias     properties.subject Microsoft.Devices/provisioningServices/certificates/subject   properties.expiry Microsoft.Devices/provisioningServices/certificates/expiry   properties.thumbprint Microsoft.Devices/provisioningServices/certificates/thumbprint   properties.isVerified Microsoft.Devices/provisioningServices/certificates/isVerified   properties.created Microsoft.Devices/provisioningServices/certificates/created   properties.updated Microsoft.Devices/provisioningServices/certificates/updated    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.Devices/provisioningServices/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.Devices/provisioningServices/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Devices/provisioningServices/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Devices/ProvisioningServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Devices/ProvisioningServices/</guid>
+      <description>Link to resource definition: Microsoft.Devices/ProvisioningServices
+   Default Path Alias     properties.state Microsoft.Devices/ProvisioningServices/state   properties.provisioningState Microsoft.Devices/ProvisioningServices/provisioningState   properties.iotHubs[*].applyAllocationPolicy Microsoft.Devices/ProvisioningServices/iotHubs[*].applyAllocationPolicy   properties.iotHubs[*].allocationWeight Microsoft.Devices/ProvisioningServices/iotHubs[*].allocationWeight   properties.iotHubs[*].name Microsoft.Devices/ProvisioningServices/iotHubs[*].name   properties.iotHubs[*].connectionString Microsoft.Devices/ProvisioningServices/iotHubs[*].connectionString   properties.iotHubs[*].location Microsoft.Devices/ProvisioningServices/iotHubs[*].location   properties.iotHubs[*] Microsoft.Devices/ProvisioningServices/iotHubs[*]   properties.iotHubs Microsoft.Devices/ProvisioningServices/iotHubs   properties.allocationPolicy Microsoft.Devices/ProvisioningServices/allocationPolicy   properties.serviceOperationsHostName Microsoft.Devices/ProvisioningServices/serviceOperationsHostName   properties.deviceProvisioningHostName Microsoft.Devices/ProvisioningServices/deviceProvisioningHostName   properties.idScope Microsoft.Devices/ProvisioningServices/idScope   properties.authorizationPolicies[*].keyName Microsoft.Devices/ProvisioningServices/authorizationPolicies[*].keyName   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.DataFactory/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataFactory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-dataflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-dataflows/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/dataflows
+   Default Path Alias     properties.type Microsoft.DataFactory/factories/dataflows/type   properties.description Microsoft.DataFactory/factories/dataflows/description   properties.annotations[*] Microsoft.DataFactory/factories/dataflows/annotations[*]   properties.annotations Microsoft.DataFactory/factories/dataflows/annotations   properties.folder.name Microsoft.DataFactory/factories/dataflows/folder.name   properties.folder Microsoft.DataFactory/factories/dataflows/folder   properties.typeProperties Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties   properties.typeProperties.sources Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources   properties.typeProperties.sources[*] Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*]   properties.typeProperties.sources[*].name Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*].name   properties.typeProperties.sources[*].description Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*].description   properties.typeProperties.sources[*].dataset Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*].dataset   properties.typeProperties.sources[*].dataset.type Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*].dataset.type   properties.typeProperties.sources[*].dataset.referenceName Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.sources[*].dataset.referenceName   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-datasets/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/datasets
+   Default Path Alias     properties.type Microsoft.DataFactory/factories/datasets/type   properties.typeProperties Microsoft.DataFactory/factories/datasets/typeProperties   properties.linkedServiceName Microsoft.DataFactory/factories/datasets/linkedServiceName   properties.linkedServiceName.referenceName Microsoft.DataFactory/factories/datasets/linkedServiceName.referenceName   properties.linkedServiceName.type Microsoft.DataFactory/factories/datasets/linkedServiceName.type   properties.parameters Microsoft.DataFactory/factories/datasets/parameters   properties.description Microsoft.DataFactory/factories/datasets/description   properties.structure Microsoft.DataFactory/factories/datasets/structure   properties.linkedServiceName.parameters Microsoft.DataFactory/factories/datasets/linkedServiceName.parameters   properties.annotations[*] Microsoft.DataFactory/factories/datasets/annotations[*]   properties.annotations Microsoft.DataFactory/factories/datasets/annotations   properties.schema Microsoft.DataFactory/factories/datasets/schema   properties.folder.name Microsoft.DataFactory/factories/datasets/folder.name   properties.folder Microsoft.DataFactory/factories/datasets/folder   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-integrationRuntimes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-integrationRuntimes/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/integrationRuntimes
+   Default Path Alias     properties.type Microsoft.DataFactory/factories/integrationruntimes/type   properties.typeProperties Microsoft.DataFactory/factories/integrationruntimes/typeProperties   properties.state Microsoft.DataFactory/factories/integrationruntimes/state   properties.typeProperties.computeProperties Microsoft.DataFactory/factories/integrationruntimes/typeProperties.computeProperties   properties.typeProperties.computeProperties.location Microsoft.DataFactory/factories/integrationruntimes/typeProperties.computeProperties.location   properties.typeProperties.computeProperties.nodeSize Microsoft.DataFactory/factories/integrationruntimes/typeProperties.computeProperties.nodeSize   properties.typeProperties.computeProperties.numberOfNodes Microsoft.DataFactory/factories/integrationruntimes/typeProperties.computeProperties.numberOfNodes   properties.typeProperties.computeProperties.maxParallelExecutionsPerNode Microsoft.DataFactory/factories/integrationruntimes/typeProperties.computeProperties.maxParallelExecutionsPerNode   properties.typeProperties.ssisProperties Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties   properties.typeProperties.ssisProperties.catalogInfo Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties.catalogInfo   properties.typeProperties.ssisProperties.catalogInfo.catalogServerEndpoint Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties.catalogInfo.catalogServerEndpoint   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminUserName Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties.catalogInfo.catalogAdminUserName   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties.catalogInfo.catalogAdminPassword   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type Microsoft.DataFactory/factories/integrationruntimes/typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-linkedservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-linkedservices/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/linkedservices
+   Default Path Alias     properties.type Microsoft.DataFactory/factories/linkedservices/type   properties.typeProperties Microsoft.DataFactory/factories/linkedservices/typeProperties   properties.typeProperties.useEncryptedEndpoints Microsoft.DataFactory/factories/linkedservices/typeProperties.useEncryptedEndpoints   properties.typeProperties.connectionString Microsoft.DataFactory/factories/linkedservices/typeProperties.connectionString   properties.typeProperties.connectionString.type Microsoft.DataFactory/factories/linkedservices/typeProperties.connectionString.type   properties.typeProperties.encryptedCredential Microsoft.DataFactory/factories/linkedservices/typeProperties.encryptedCredential   properties.connectVia.type Microsoft.DataFactory/factories/linkedservices/connectVia.type   properties.connectVia.referenceName Microsoft.DataFactory/factories/linkedservices/connectVia.referenceName   properties.connectVia.parameters Microsoft.DataFactory/factories/linkedservices/connectVia.parameters   properties.connectVia Microsoft.DataFactory/factories/linkedservices/connectVia   properties.description Microsoft.DataFactory/factories/linkedservices/description   properties.parameters Microsoft.DataFactory/factories/linkedservices/parameters   properties.annotations[*] Microsoft.DataFactory/factories/linkedservices/annotations[*]   properties.annotations Microsoft.DataFactory/factories/linkedservices/annotations   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints
+   Default Path Alias     properties.connectionState Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/connectionState   properties.connectionState.actionsRequired Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/connectionState.actionsRequired   properties.connectionState.description Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/connectionState.description   properties.connectionState.status Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/connectionState.status   properties.fqdns Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/fqdns   properties.fqdns[*] Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/fqdns[*]   properties.groupId Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/groupId   properties.isReserved Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/isReserved   properties.privateLinkResourceId Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/privateLinkResourceId   properties.provisioningState Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/managedVirtualNetworks
+   Default Path Alias     properties.vNetId Microsoft.DataFactory/factories/managedVirtualNetworks/vNetId   properties.alias Microsoft.DataFactory/factories/managedVirtualNetworks/alias    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-pipelines/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/pipelines
+   Default Path Alias     properties.activities Microsoft.DataFactory/factories/pipelines/activities   properties.activities[*] Microsoft.DataFactory/factories/pipelines/activities[*]   properties.activities[*].name Microsoft.DataFactory/factories/pipelines/activities[*].name   properties.activities[*].type Microsoft.DataFactory/factories/pipelines/activities[*].type   properties.activities[*].policy Microsoft.DataFactory/factories/pipelines/activities[*].policy   properties.activities[*].policy.timeout Microsoft.DataFactory/factories/pipelines/activities[*].policy.timeout   properties.activities[*].policy.retry Microsoft.DataFactory/factories/pipelines/activities[*].policy.retry   properties.activities[*].policy.retryIntervalInSeconds Microsoft.DataFactory/factories/pipelines/activities[*].policy.retryIntervalInSeconds   properties.activities[*].policy.secureOutput Microsoft.DataFactory/factories/pipelines/activities[*].policy.secureOutput   properties.activities[*].typeProperties Microsoft.DataFactory/factories/pipelines/activities[*].typeProperties   properties.parameters Microsoft.DataFactory/factories/pipelines/parameters   properties.description Microsoft.DataFactory/factories/pipelines/description   properties.activities[*].description Microsoft.DataFactory/factories/pipelines/activities[*].description   properties.activities[*].dependsOn[*].activity Microsoft.DataFactory/factories/pipelines/activities[*].dependsOn[*].activity   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/privateEndpointConnections
+   Default Path Alias     properties.privateLinkServiceConnectionState Microsoft.DataFactory/factories/privateEndPointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.DataFactory/factories/privateEndPointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.DataFactory/factories/privateEndPointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DataFactory/factories/privateEndPointConnections/privateLinkServiceConnectionState.actionsRequired    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories-triggers/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories/triggers
+   Default Path Alias     properties.type Microsoft.DataFactory/factories/triggers/type   properties.description Microsoft.DataFactory/factories/triggers/description   properties.runtimeState Microsoft.DataFactory/factories/triggers/runtimeState   properties.annotations[*] Microsoft.DataFactory/factories/triggers/annotations[*]   properties.annotations Microsoft.DataFactory/factories/triggers/annotations   properties.pipelines Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines   properties.pipelines[*] Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*]   properties.pipelines[*].pipelineReference Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*].pipelineReference   properties.pipelines[*].pipelineReference.type Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*].pipelineReference.type   properties.pipelines[*].pipelineReference.referenceName Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*].pipelineReference.referenceName   properties.pipelines[*].pipelineReference.name Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*].pipelineReference.name   properties.pipelines[*].parameters Microsoft.DataFactory/factories/triggers/MultiplePipelineTrigger.pipelines[*].parameters   properties.pipeline Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.pipeline   properties.pipeline.pipelineReference Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.pipeline.pipelineReference   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DataFactory/factories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DataFactory/factories/</guid>
+      <description>Link to resource definition: Microsoft.DataFactory/factories
+   Default Path Alias     properties.version Microsoft.DataFactory/factories/version   properties.vstsConfiguration Microsoft.DataFactory/factories/vstsConfiguration   properties.vstsConfiguration.accountName Microsoft.DataFactory/factories/vstsConfiguration.accountName   properties.vstsConfiguration.projectName Microsoft.DataFactory/factories/vstsConfiguration.projectName   properties.vstsConfiguration.repositoryName Microsoft.DataFactory/factories/vstsConfiguration.repositoryName   properties.vstsConfiguration.collaborationBranch Microsoft.DataFactory/factories/vstsConfiguration.collaborationBranch   properties.vstsConfiguration.rootFolder Microsoft.DataFactory/factories/vstsConfiguration.rootFolder   properties.vstsConfiguration.lastCommitId Microsoft.DataFactory/factories/vstsConfiguration.lastCommitId   properties.vstsConfiguration.tenantId Microsoft.DataFactory/factories/vstsConfiguration.tenantId   properties.provisioningState Microsoft.DataFactory/factories/provisioningState   properties.createTime Microsoft.DataFactory/factories/createTime   properties.repoConfiguration.type Microsoft.DataFactory/factories/repoConfiguration.type   properties.repoConfiguration.accountName Microsoft.DataFactory/factories/repoConfiguration.accountName   properties.repoConfiguration.repositoryName Microsoft.DataFactory/factories/repoConfiguration.repositoryName   properties.</description>
+    </item>
+    
+  </channel>
+</rss>
