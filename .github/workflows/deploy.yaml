@@ -3,18 +3,24 @@ name: Update and deploy
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
+
+permissions:
+  id-token: write
+  contents: read
 
 jobs:
-  update:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Run
-      run: echo "policy aliases"
-
+      - name: "Az CLI login"
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 # TODO
 # install hugo
-# log in to azure
 # run script
 # commit and push
 # deploy
