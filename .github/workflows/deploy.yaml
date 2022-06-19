@@ -43,13 +43,14 @@ jobs:
       - name: Build Hugo site
         run: hugo
 
-      - name: "test"
+      - name: "List generatd contents"
         run: |
-          git status
           ls content
-      #- name: Deploy
-      #  uses: peaceiris/actions-gh-pages@v3
-      #  if: github.ref == 'refs/heads/main'
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    publish_dir: ./public
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: policyalias.mats.codes
