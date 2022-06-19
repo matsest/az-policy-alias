@@ -32,18 +32,20 @@ jobs:
         uses: azure/powershell@v1
         with:
           inlineScript: |
-            Get-AzPolicyAlias
+            ./src/ps1/Get-AzResourcePolicyAliases.ps1
           azPSVersion: "latest"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: "0.92.2"
           extended: true
 
       - name: Build Hugo site
         run: hugo
 
+      - name: "test"
+        run: git status
       #- name: Deploy
       #  uses: peaceiris/actions-gh-pages@v3
       #  if: github.ref == 'refs/heads/main'
