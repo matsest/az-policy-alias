@@ -7,7 +7,7 @@ on:
 
 permissions:
   id-token: write
-  contents: read
+  contents: write
 
 jobs:
   deploy:
@@ -43,7 +43,7 @@ jobs:
       - name: Build Hugo site
         run: hugo
 
-      - name: "List generatd contents"
+      - name: "List generated contents"
         run: |
           ls content
 
