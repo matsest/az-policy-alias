@@ -27,8 +27,7 @@ jobs:
           subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
           enable-AzPSSession: true
 
-        # TODO: run script
-      - name: "Get policy alias"
+      - name: "Get all Policy Aliases"
         uses: azure/powershell@v1
         with:
           inlineScript: |
@@ -45,7 +44,9 @@ jobs:
         run: hugo
 
       - name: "test"
-        run: git status
+        run: |
+          git status
+          ls content
       #- name: Deploy
       #  uses: peaceiris/actions-gh-pages@v3
       #  if: github.ref == 'refs/heads/main'
