@@ -1,6 +1,6 @@
 # Azure Policy Aliases
 
-This repo contains code for code + website that makes it easier to quickly find and search for [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases).
+This repo contains code for a website that makes it easier to quickly find and search for [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases).
 
 This repo is made by me and have no affliations with Microsoft.
 
@@ -10,14 +10,11 @@ Go to https://policyalias.mats.codes
 
 ## Background
 
-For reasons unknown finding policy aliases is normally done through either
-
-1. `Get-AzPolicyAlias` in PowerShell or equivalent in Azure CLI
-2. Azure Policy Visual Studio Code extension
+For reasons unknown finding policy aliases is normally done through either PowerShell/Azure CLI or VS Code Extension.
 
 Both of these approaches are relatively slow and requires several commands and steps to carry out.
 
-This web site instead uses the `Get-AzPolicyAlias` cmdlet to generate the full docs and is run once every day to always have a full list of searchable policy aliases.
+This web site instead uses the `Get-AzPolicyAlias` cmdlet to generate the full docs and is run once every day to always have a full list of searchable policy aliases in a small, static web site.
 
 ## Technology
 
