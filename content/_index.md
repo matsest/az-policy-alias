@@ -1,16 +1,16 @@
 # Azure Policy Aliases
 
-This website is made to make it easier to quickly find and search for [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases).
+This website is made to make it easier to quickly find and search for supported [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases) to use when authoring custom Azure Policy definitions.
 
 This site is made by [@matsest](https://github.com/matsest) and have no affliations with Microsoft.
 
 ## Usage
 
-Use the search field to search for a resource type (example: `Storage Accounts`) or a resource property (example: `properties.accountType`).
+Use the search field to search for a resource type (e.g. `Storage Accounts`) or a resource property (e.g. `properties.accountType`).
 
-Alternatively you can browse the sidebar, find the relevant namespace and filter on the relevant resource type.
+Alternatively you can browse the sidebar, find the relevant provider namespace and filter on the relevant resource type.
 
-**Example Alias**
+**Example Alias (from [Storage Accounts](Microsoft.Storage/storageAccounts))**
 
 | Default Path             | Alias                                           |
 | ------------------------ | ----------------------------------------------- |
@@ -20,14 +20,11 @@ The default path corresponds to the path given in the [resource specification](h
 
 ## Background
 
-For reasons unknown finding policy aliases is normally done through either
+For reasons unknown finding supported policy aliases is normally done through either PowerShell/Azure CLI or VS Code Extension.
 
-1. `Get-AzPolicyAlias` in PowerShell or equivalent in Azure CLI
-2. Azure Policy Visual Studio Code extension
+Both of these approaches requires additional tooling setup, and multiple commands/steps to carry out. They also requires you to be signed-in to Azure just for finding out if an alias is available. Why not just a searchable reference documentation instead?
 
-Both of these approaches are relatively slow and requires several commands and steps to carry out.
-
-This web site instead uses the `Get-AzPolicyAlias` cmdlet to generate the full docs and is run once every day to always have a full list of searchable policy aliases.
+This web site uses the `Get-AzPolicyAlias` cmdlet to generate the full overview of all supported policy aliases and is run once every day to always have a full list of up-to-date searchable policy aliases in a small, static web site.
 
 ## More information
 
