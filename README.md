@@ -1,7 +1,9 @@
 # Azure Policy Aliases
 
-[![Get Policy Aliases](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml/badge.svg?branch=main)](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml)
-[![Deploy GitHub Pages](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment)
+[![update-and-deploy](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml/badge.svg?branch=main)](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml)
+[![deploy-github-pages](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment)
+[![Hugo Version](https://img.shields.io/badge/hugo-0.92-blue.svg)](https://gohugo.io)
+[![License](https://img.shields.io/github/license/matsest/az-policy-alias)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)
 
 This repo contains code for a website that makes it easier to quickly find and search for [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases) to use when authoring custom Azure policy definitions.
 
