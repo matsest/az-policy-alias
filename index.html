@@ -4826,11 +4826,11 @@
         </a>
     </h1>
 </div>
-<p>This website is made to make it easier to quickly find and search for <a
+<p>This website is made to make it easier to quickly find and search for supported <a
   class="gdoc-markdown__link"
   href="https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases"
   
->Azure Policy Aliases</a>.</p>
+>Azure Policy Aliases</a> to use when authoring custom Azure Policy definitions.</p>
 <p>This site is made by <a
   class="gdoc-markdown__link"
   href="https://github.com/matsest"
@@ -4844,9 +4844,13 @@
         </a>
     </h2>
 </div>
-<p>Use the search field to search for a resource type (example: <code>Storage Accounts</code>) or a resource property (example: <code>properties.accountType</code>).</p>
-<p>Alternatively you can browse the sidebar, find the relevant namespace and filter on the relevant resource type.</p>
-<p><strong>Example Alias</strong></p>
+<p>Use the search field to search for a resource type (e.g. <code>Storage Accounts</code>) or a resource property (e.g. <code>properties.accountType</code>).</p>
+<p>Alternatively you can browse the sidebar, find the relevant provider namespace and filter on the relevant resource type.</p>
+<p><strong>Example Alias (from <a
+  class="gdoc-markdown__link"
+  href="Microsoft.Storage/storageAccounts"
+  
+>Storage Accounts</a>)</strong></p>
 <div class="table-wrap"> <table>
 <thead>
 <tr>
@@ -4874,13 +4878,9 @@
         </a>
     </h2>
 </div>
-<p>For reasons unknown finding policy aliases is normally done through either</p>
-<ol>
-<li><code>Get-AzPolicyAlias</code> in PowerShell or equivalent in Azure CLI</li>
-<li>Azure Policy Visual Studio Code extension</li>
-</ol>
-<p>Both of these approaches are relatively slow and requires several commands and steps to carry out.</p>
-<p>This web site instead uses the <code>Get-AzPolicyAlias</code> cmdlet to generate the full docs and is run once every day to always have a full list of searchable policy aliases.</p>
+<p>For reasons unknown finding supported policy aliases is normally done through either PowerShell/Azure CLI or VS Code Extension.</p>
+<p>Both of these approaches requires additional tooling setup, and multiple commands/steps to carry out. They also requires you to be signed-in to Azure just for finding out if an alias is available. Why not just a searchable reference documentation instead?</p>
+<p>This web site uses the <code>Get-AzPolicyAlias</code> cmdlet to generate the full overview of all supported policy aliases and is run once every day to always have a full list of up-to-date searchable policy aliases in a small, static web site.</p>
 <div class="gdoc-page__anchorwrap">
     <h2 id="more-information">
         More information
