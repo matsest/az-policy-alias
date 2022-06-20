@@ -18,13 +18,10 @@ main:
 $resourceTypes = Get-AzPolicyAlias -ListAvailable
 $providers = $resourceTypes | Group-Object -Property Namespace
 
-#$content = "# Azure Policy Aliases`n"
-
 foreach ($provider in $providers) {
     $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 }
 
     if ($resourceTypesWithAliases.Count -gt 0) {
-        #$content += "## $($provider.Name)`n`n"
 
         $namespacePath = "$($basePath)/$($provider.Name)"
         if (!(Test-Path -Path $namespacePath)) {
@@ -36,7 +33,7 @@ foreach ($provider in $providers) {
         }
 
         $menuContent += "  - name: $($provider.Name)`n    ref: '/$($provider.Name)'`n"
-        $tocContent = "## Resource Types`n`n" # must be an empty line
+        $tocContent = "## Resource Types`n`n"
         
         foreach ($resourceType in $resourceTypesWithAliases) {
             $resourceString = "$($resourceType.Namespace)/$($resourceType.ResourceType)"
@@ -49,14 +46,9 @@ foreach ($provider in $providers) {
             $filePath = "$($namespacePath)/$($fileName).md"
             $resourceMarkdown | Out-File -FilePath $filePath
 
-            #$content += "- [$($resourceType.Namespace)/$($resourceType.ResourceType)]($filePath)`n"
             $tocContent += "- [$($resourceType.Namespace)/$($resourceType.ResourceType)]($fileName)`n"
         }
         $tocContent | Out-File -FilePath $namespaceTocPath
-
-        #$content += "`n"
-
-        #$content | Out-File -FilePath "$basePath/README.md"
     }
 }
 
