@@ -26,6 +26,10 @@ Both of these approaches requires additional tooling setup, and multiple command
 
 This web site uses the `Get-AzPolicyAlias` cmdlet to generate the full overview of all supported policy aliases and is run once every day to always have a full list of up-to-date searchable policy aliases in a small, static web site.
 
+## Related
+
+- [AzAdvertiser.net](https://www.azadvertizer.net/) by [@JulianHayward](https://github.com/JulianHayward): Release and change tracking on Azure Governance capabilities, including policy aliases
+
 ## More information
 
 Find more information on [GitHub](https://github.com/matsest/az-policy-alias).
