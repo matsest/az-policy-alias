@@ -30,7 +30,7 @@ This web site uses the `Get-AzPolicyAlias` cmdlet to generate the full overview 
 
 ## Related
 
-- [AzAdvertiser.net](https://www.azadvertizer.net/) by @JulianHayward: Release and change tracking on Azure Governance capabilities, including policy aliases
+- [AzAdvertizer.net](https://www.azadvertizer.net/) by @JulianHayward: Release and change tracking on Azure Governance capabilities, including policy aliases
 
 ## License
 
