@@ -11,6 +11,18 @@
     <loc>http://policyalias.mats.codes/Microsoft.AAD/DomainServices/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.aadiam/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/</loc>
     <priority>0</priority>
   </url><url>
@@ -687,6 +699,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedclustersnapshots/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</loc>
@@ -1385,6 +1400,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.HDInsight/clusters/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HealthBot/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HealthBot/healthBots/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/</loc>
     <priority>0</priority>
   </url><url>
@@ -1875,6 +1896,18 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/projects/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MixedReality/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/</loc>

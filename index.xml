@@ -17,6 +17,36 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</guid>
+      <description>Link to resource definition: microsoft.aadiam/azureADMetrics
+   Default Path Alias     properties.provisioningState microsoft.aadiam/azureADMetrics/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</guid>
+      <description>Link to resource definition: microsoft.aadiam/diagnosticSettings
+   Default Path Alias     properties.storageAccountId microsoft.aadiam/diagnosticSettings/storageAccountId   properties.serviceBusRuleId microsoft.aadiam/diagnosticSettings/serviceBusRuleId   properties.workspaceId microsoft.aadiam/diagnosticSettings/workspaceId   properties.eventHubAuthorizationRuleId microsoft.aadiam/diagnosticSettings/eventHubAuthorizationRuleId   properties.eventHubName microsoft.aadiam/diagnosticSettings/eventHubName   properties.logs microsoft.aadiam/diagnosticSettings/logs   properties.logs[*] microsoft.aadiam/diagnosticSettings/logs[*]   properties.logs[*].category microsoft.aadiam/diagnosticSettings/logs[*].category   properties.logs[*].enabled microsoft.aadiam/diagnosticSettings/logs[*].enabled   properties.logs[*].retentionPolicy microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy   properties.logs[*].retentionPolicy.enabled microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.enabled   properties.logs[*].retentionPolicy.days microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.days    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</guid>
+      <description>Link to resource definition: microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/provisioningState   properties.privateLinkConnectionTags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags   properties.privateLinkConnectionTags.tags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags.tags    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1052,7 +1082,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-privateEndpointConnections/</guid>
       <description>Link to resource definition: Microsoft.Batch/batchAccounts/privateEndpointConnections
-   Default Path Alias     properties.provisioningState Microsoft.Batch/batchAccounts/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.Batch/batchAccounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Batch/batchAccounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired    </description>
+   Default Path Alias     properties.provisioningState Microsoft.Batch/batchAccounts/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.Batch/batchAccounts/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Batch/batchAccounts/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.groupIds Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds   properties.groupIds[*] Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds[*]    </description>
     </item>
     
     <item>
@@ -2033,6 +2063,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</guid>
       <description>Link to resource definition: Microsoft.ContainerService/managedClusters
    Default Path Alias     properties.provisioningState Microsoft.ContainerService/managedClusters/provisioningState   properties.kubernetesVersion Microsoft.ContainerService/managedClusters/kubernetesVersion   properties.dnsPrefix Microsoft.ContainerService/managedClusters/dnsPrefix   properties.fqdn Microsoft.ContainerService/managedClusters/fqdn   properties.agentPoolProfiles Microsoft.ContainerService/managedClusters/agentPoolProfiles   properties.agentPoolProfiles[*] Microsoft.ContainerService/managedClusters/agentPoolProfiles[*]   properties.agentPoolProfiles[*].name Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].name   properties.agentPoolProfiles[*].count Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].count   properties.agentPoolProfiles[*].vmSize Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].vmSize   properties.agentPoolProfiles[*].osDiskSizeGB Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].osDiskSizeGB   properties.agentPoolProfiles[*].storageProfile Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].storageProfile   properties.agentPoolProfiles[*].osType Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].osType   properties.linuxProfile Microsoft.ContainerService/managedClusters/linuxProfile   properties.linuxProfile.adminUsername Microsoft.ContainerService/managedClusters/linuxProfile.adminUsername   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedclustersnapshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/managedclustersnapshots/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/managedclustersnapshots
+   Default Path Alias     properties.creationData Microsoft.ContainerService/managedclustersnapshots/creationData   properties.creationData.sourceResourceId Microsoft.ContainerService/managedclustersnapshots/creationData.sourceResourceId   properties.snapshotType Microsoft.ContainerService/managedclustersnapshots/snapshotType   properties.managedClusterPropertiesReadOnly Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly   properties.managedClusterPropertiesReadOnly.kubernetesVersion Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.kubernetesVersion   properties.managedClusterPropertiesReadOnly.sku Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.sku   properties.managedClusterPropertiesReadOnly.sku.name Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.sku.name   properties.managedClusterPropertiesReadOnly.sku.tier Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.sku.tier   properties.managedClusterPropertiesReadOnly.enableRbac Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.enableRbac   properties.managedClusterPropertiesReadOnly.networkProfile Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile   properties.managedClusterPropertiesReadOnly.networkProfile.networkPlugin Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.networkPlugin   properties.managedClusterPropertiesReadOnly.networkProfile.networkPolicy Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.networkPolicy   properties.managedClusterPropertiesReadOnly.networkProfile.networkMode Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.networkMode   properties.managedClusterPropertiesReadOnly.networkProfile.loadBalancerSku Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.loadBalancerSku   properties.</description>
     </item>
     
     <item>
@@ -4077,6 +4117,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HealthBot/healthBots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HealthBot/healthBots/</guid>
+      <description>Link to resource definition: Microsoft.HealthBot/healthBots
+   Default Path Alias     sku Microsoft.HealthBot/healthBots/sku   sku.name Microsoft.HealthBot/healthBots/sku.name   sku.tier Microsoft.HealthBot/healthBots/sku.tier   sku.size Microsoft.HealthBot/healthBots/sku.size   sku.family Microsoft.HealthBot/healthBots/sku.family   sku.capacity Microsoft.HealthBot/healthBots/sku.capacity   properties.provisioningState Microsoft.HealthBot/healthBots/provisioningState   properties.botManagementPortalLink Microsoft.HealthBot/healthBots/botManagementPortalLink   properties.keyVaultProperties Microsoft.HealthBot/healthBots/keyVaultProperties   properties.keyVaultProperties.keyName Microsoft.HealthBot/healthBots/keyVaultProperties.keyName   properties.keyVaultProperties.keyVersion Microsoft.HealthBot/healthBots/keyVaultProperties.keyVersion   properties.keyVaultProperties.keyVaultUri Microsoft.HealthBot/healthBots/keyVaultProperties.keyVaultUri   properties.keyVaultProperties.userIdentity Microsoft.HealthBot/healthBots/keyVaultProperties.userIdentity    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.HealthcareApis/services-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -5533,6 +5583,36 @@
       <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects/</guid>
       <description>Link to resource definition: Microsoft.Migrate/projects
    Default Path Alias     properties.numberOfMachines Microsoft.Migrate/projects/numberOfMachines   properties.numberOfGroups Microsoft.Migrate/projects/numberOfGroups   properties.numberOfAssessments Microsoft.Migrate/projects/numberOfAssessments   properties.createdTimestamp Microsoft.Migrate/projects/createdTimestamp   properties.updatedTimestamp Microsoft.Migrate/projects/updatedTimestamp   properties.discoveryStatus Microsoft.Migrate/projects/discoveryStatus   properties.customerWorkspaceId Microsoft.Migrate/projects/customerWorkspaceId   properties.provisioningState Microsoft.Migrate/projects/provisioningState   properties.customerWorkspaceLocation Microsoft.Migrate/projects/customerWorkspaceLocation   properties.lastDiscoveryTimestamp Microsoft.Migrate/projects/lastDiscoveryTimestamp   properties.lastDiscoverySessionId Microsoft.Migrate/projects/lastDiscoverySessionId   properties.lastAssessmentTimestamp Microsoft.Migrate/projects/lastAssessmentTimestamp    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</guid>
+      <description>Link to resource definition: Microsoft.MixedReality/objectAnchorsAccounts
+   Default Path Alias     properties.storageAccountName Microsoft.MixedReality/objectAnchorsAccounts/storageAccountName   properties.accountId Microsoft.MixedReality/objectAnchorsAccounts/accountId   properties.accountDomain Microsoft.MixedReality/objectAnchorsAccounts/accountDomain   sku Microsoft.MixedReality/objectAnchorsAccounts/sku   sku.name Microsoft.MixedReality/objectAnchorsAccounts/sku.name   sku.tier Microsoft.MixedReality/objectAnchorsAccounts/sku.tier   sku.size Microsoft.MixedReality/objectAnchorsAccounts/sku.size   sku.family Microsoft.MixedReality/objectAnchorsAccounts/sku.family   sku.capacity Microsoft.MixedReality/objectAnchorsAccounts/sku.capacity    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</guid>
+      <description>Link to resource definition: Microsoft.MixedReality/remoteRenderingAccounts
+   Default Path Alias     properties.accountId Microsoft.MixedReality/remoteRenderingAccounts/accountId   properties.accountDomain Microsoft.MixedReality/remoteRenderingAccounts/accountDomain   properties.storageAccountName Microsoft.MixedReality/remoteRenderingAccounts/storageAccountName   sku Microsoft.MixedReality/remoteRenderingAccounts/sku   sku.name Microsoft.MixedReality/remoteRenderingAccounts/sku.name   sku.tier Microsoft.MixedReality/remoteRenderingAccounts/sku.tier   sku.size Microsoft.MixedReality/remoteRenderingAccounts/sku.size   sku.family Microsoft.MixedReality/remoteRenderingAccounts/sku.family   sku.capacity Microsoft.MixedReality/remoteRenderingAccounts/sku.capacity    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</guid>
+      <description>Link to resource definition: Microsoft.MixedReality/spatialAnchorsAccounts
+   Default Path Alias     properties.accountId Microsoft.MixedReality/spatialAnchorsAccounts/accountId   properties.accountDomain Microsoft.MixedReality/spatialAnchorsAccounts/accountDomain   properties.storageAccountName Microsoft.MixedReality/spatialAnchorsAccounts/storageAccountName   sku Microsoft.MixedReality/spatialAnchorsAccounts/sku   sku.name Microsoft.MixedReality/spatialAnchorsAccounts/sku.name   sku.tier Microsoft.MixedReality/spatialAnchorsAccounts/sku.tier   sku.size Microsoft.MixedReality/spatialAnchorsAccounts/sku.size   sku.family Microsoft.MixedReality/spatialAnchorsAccounts/sku.family   sku.capacity Microsoft.MixedReality/spatialAnchorsAccounts/sku.capacity    </description>
     </item>
     
     <item>

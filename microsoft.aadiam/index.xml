@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/microsoft.aadiam/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/microsoft.aadiam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</guid>
+      <description>Link to resource definition: microsoft.aadiam/azureADMetrics
+   Default Path Alias     properties.provisioningState microsoft.aadiam/azureADMetrics/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</guid>
+      <description>Link to resource definition: microsoft.aadiam/diagnosticSettings
+   Default Path Alias     properties.storageAccountId microsoft.aadiam/diagnosticSettings/storageAccountId   properties.serviceBusRuleId microsoft.aadiam/diagnosticSettings/serviceBusRuleId   properties.workspaceId microsoft.aadiam/diagnosticSettings/workspaceId   properties.eventHubAuthorizationRuleId microsoft.aadiam/diagnosticSettings/eventHubAuthorizationRuleId   properties.eventHubName microsoft.aadiam/diagnosticSettings/eventHubName   properties.logs microsoft.aadiam/diagnosticSettings/logs   properties.logs[*] microsoft.aadiam/diagnosticSettings/logs[*]   properties.logs[*].category microsoft.aadiam/diagnosticSettings/logs[*].category   properties.logs[*].enabled microsoft.aadiam/diagnosticSettings/logs[*].enabled   properties.logs[*].retentionPolicy microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy   properties.logs[*].retentionPolicy.enabled microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.enabled   properties.logs[*].retentionPolicy.days microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.days    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</guid>
+      <description>Link to resource definition: microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/provisioningState   properties.privateLinkConnectionTags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags   properties.privateLinkConnectionTags.tags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags.tags    </description>
+    </item>
+    
+  </channel>
+</rss>
