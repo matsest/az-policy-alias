@@ -152,7 +152,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Security/pricings/</guid>
       <description>Link to resource definition: Microsoft.Security/pricings
-   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime    </description>
+   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime   properties.subPlan Microsoft.Security/pricings/subPlan    </description>
     </item>
     
     <item>
@@ -172,7 +172,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Security/settings/</guid>
       <description>Link to resource definition: Microsoft.Security/settings
-   Default Path Alias     properties.enabled Microsoft.Security/settings/DataExportSetting.enabled   properties.enabled Microsoft.Security/settings/DataExportSettings.enabled    </description>
+   Default Path Alias     properties.enabled Microsoft.Security/settings/DataExportSetting.enabled   properties.enabled Microsoft.Security/settings/DataExportSettings.enabled   properties.enabled Microsoft.Security/settings/AlertSyncSettings.enabled    </description>
     </item>
     
     <item>

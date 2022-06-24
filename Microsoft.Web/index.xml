@@ -37,12 +37,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/containerApps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/containerApps/</guid>
+      <description>Link to resource definition: Microsoft.Web/containerApps
+   Default Path Alias     properties.provisioningState Microsoft.Web/containerApps/provisioningState   properties.kubeEnvironmentId Microsoft.Web/containerApps/kubeEnvironmentId   properties.latestRevisionName Microsoft.Web/containerApps/latestRevisionName   properties.latestRevisionFqdn Microsoft.Web/containerApps/latestRevisionFqdn   properties.configuration Microsoft.Web/containerApps/configuration   properties.configuration.secrets Microsoft.Web/containerApps/configuration.secrets   properties.configuration.secrets[*] Microsoft.Web/containerApps/configuration.secrets[*]   properties.configuration.secrets[*].name Microsoft.Web/containerApps/configuration.secrets[*].name   properties.configuration.secrets[*].value Microsoft.Web/containerApps/configuration.secrets[*].value   properties.configuration.activeRevisionsMode Microsoft.Web/containerApps/configuration.activeRevisionsMode   properties.configuration.ingress Microsoft.Web/containerApps/configuration.ingress   properties.configuration.ingress.fqdn Microsoft.Web/containerApps/configuration.ingress.fqdn   properties.configuration.ingress.external Microsoft.Web/containerApps/configuration.ingress.external   properties.configuration.ingress.targetPort Microsoft.Web/containerApps/configuration.ingress.targetPort   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Web/customApis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Web/customApis/</guid>
       <description>Link to resource definition: Microsoft.Web/customApis
    Default Path Alias     properties.connectionParameters.additionalProperties.type Microsoft.Web/customApis/connectionParameters.additionalProperties.type   properties.connectionParameters.additionalProperties.oAuthSettings.identityProvider Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.identityProvider   properties.connectionParameters.additionalProperties.oAuthSettings.clientId Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.clientId   properties.connectionParameters.additionalProperties.oAuthSettings.clientSecret Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.clientSecret   properties.connectionParameters.additionalProperties.oAuthSettings.scopes[*] Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.scopes[*]   properties.connectionParameters.additionalProperties.oAuthSettings.scopes Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.scopes   properties.connectionParameters.additionalProperties.oAuthSettings.redirectUrl Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.redirectUrl   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.options Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.options   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.uiDefinition Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters.additionalProperties.uiDefinition   properties.connectionParameters.additionalProperties.oAuthSettings.customParameters Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings.customParameters   properties.connectionParameters.additionalProperties.oAuthSettings Microsoft.Web/customApis/connectionParameters.additionalProperties.oAuthSettings   properties.connectionParameters.additionalProperties Microsoft.Web/customApis/connectionParameters.additionalProperties   properties.connectionParameters Microsoft.Web/customApis/connectionParameters   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</guid>
+      <description>Link to resource definition: Microsoft.Web/hostingenvironments/configurations
+   Default Path Alias     properties.windowsOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses   properties.windowsOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses[*]   properties.linuxOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses   properties.linuxOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses[*]   properties.allowNewPrivateEndpointConnections Microsoft.Web/hostingEnvironments/configurations/allowNewPrivateEndpointConnections   properties.externalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses   properties.externalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses[*]   properties.internalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses   properties.internalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses[*]    </description>
     </item>
     
     <item>

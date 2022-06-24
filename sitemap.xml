@@ -428,9 +428,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
     <priority>0</priority>
   </url><url>
@@ -3257,7 +3254,13 @@
     <loc>http://policyalias.mats.codes/Microsoft.Web/connections/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/containerApps/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/customApis/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-multiRolePools/</loc>
