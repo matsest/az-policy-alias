@@ -1,6 +1,8 @@
 # Azure Policy Aliases
 
-This website is made to make it easier to quickly find and search for supported [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases) to use when authoring custom Azure Policy definitions.
+[![last updated](https://img.shields.io/github/last-commit/matsest/az-policy-alias/gh-pages?color=blue&label=last%20updated&logo=powershell&logoColor=white)](https://github.com/matsest/az-policy-alias/commits/gh-pages)
+
+This website is made to make it easier to quickly find and search for supported [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases) to use when authoring custom Azure Policy definitions. Available aliases are [automatically updated every day](#more-information).
 
 This site is made by [@matsest](https://github.com/matsest) and have no affliations with Microsoft.
 
