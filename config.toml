@@ -51,3 +51,7 @@ enableRobotsTXT = true
   # option allows you to distinguish between files with the same name in different folders.
   # NOTE: This parameter only applies when 'geekdocSearch = true'.
   geekdocSearchShowParent = true
+
+  [params.geekdocContentLicense]
+  name = "MIT"
+  link = "https://github.com/matsest/az-policy-alias/blob/main/LICENSE"
