@@ -1,6 +1,6 @@
 # Azure Policy Aliases
 
-[![latest alias update](https://img.shields.io/github/last-commit/matsest/az-policy-alias/gh-pages?color=red&label=latest%20alias%20update&logo=powershell&logoColor=white)](https://img.shields.io/github/last-commit/matsest/az-policy-alias/gh-pages?color=red&label=latest%20alias%20update&logo=powershell&logoColor=white)
+[![latest alias update](https://img.shields.io/github/last-commit/matsest/az-policy-alias/gh-pages?color=red&label=latest%20alias%20update&logo=powershell&logoColor=white)](https://github.com/matsest/az-policy-alias/commits/gh-pages)
 [![update-and-deploy](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml/badge.svg?branch=main)](https://github.com/matsest/az-policy-alias/actions/workflows/deploy.yaml)
 [![deploy-github-pages](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/matsest/az-policy-alias/actions/workflows/pages/pages-build-deployment)
 [![Hugo Version](https://img.shields.io/badge/hugo-0.92-blue.svg)](https://gohugo.io)
