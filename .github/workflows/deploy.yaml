@@ -58,3 +58,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           cname: policyalias.mats.codes
+          commit_message: "docs: update and publish (${{ github.event_name }})"
