@@ -1703,6 +1703,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components-versions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-computes/</loc>
     <priority>0</priority>
   </url><url>
@@ -1710,6 +1716,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data-versions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-datastores/</loc>
