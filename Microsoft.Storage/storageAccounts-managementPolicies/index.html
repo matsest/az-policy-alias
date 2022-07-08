@@ -66,7 +66,7 @@
       "headline": "Storage Accounts Management Policies",
       "description": "Link to resource definition: Microsoft.Storage\/storageAccounts\/managementPolicies\n   Default Path Alias     properties.lastModifiedTime Microsoft.Storage\/storageAccounts\/managementPolicies\/lastModifiedTime   properties.policy Microsoft.Storage\/storageAccounts\/managementPolicies\/policy   properties.policy.rules[*].enabled Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].enabled   properties.policy.rules[*].name Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].name   properties.policy.rules[*].type Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].type   properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.tierToCool Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToCool   properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.tierToArchive Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToArchive   properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan   properties.policy.rules[*].definition.actions.baseBlob.delete Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.delete   properties.policy.rules[*].definition.actions.baseBlob Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob   properties.policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan   properties.policy.rules[*].definition.actions.snapshot.delete Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.snapshot.delete   properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "154",
+      "wordCount" : "178",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -5299,6 +5299,54 @@
 <tr>
 <td><code>properties.policy.rules[*].definition.actions.version.delete.daysAfterCreationGreaterThan</code></td>
 <td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.delete.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.delete.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.delete.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCool.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToArchive.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.delete.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.delete.daysAfterLastTierChangeGreaterThan</code></td>
 </tr>
 </tbody>
 </table> </div>

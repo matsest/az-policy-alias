@@ -8917,6 +8917,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-localusers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-localusers/</guid>
+      <description>Link to resource definition: Microsoft.Storage/storageAccounts/localusers
+   Default Path Alias     properties.permissionScopes Microsoft.Storage/storageAccounts/localUsers/permissionScopes   properties.permissionScopes[*] Microsoft.Storage/storageAccounts/localUsers/permissionScopes[*]   properties.permissionScopes[*].permissions Microsoft.Storage/storageAccounts/localUsers/permissionScopes[*].permissions   properties.permissionScopes[*].service Microsoft.Storage/storageAccounts/localUsers/permissionScopes[*].service   properties.permissionScopes[*].resourceName Microsoft.Storage/storageAccounts/localUsers/permissionScopes[*].resourceName   properties.homeDirectory Microsoft.Storage/storageAccounts/localUsers/homeDirectory   properties.sshAuthorizedKeys Microsoft.Storage/storageAccounts/localUsers/sshAuthorizedKeys   properties.sshAuthorizedKeys[*] Microsoft.Storage/storageAccounts/localUsers/sshAuthorizedKeys[*]   properties.sshAuthorizedKeys[*].description Microsoft.Storage/storageAccounts/localUsers/sshAuthorizedKeys[*].description   properties.sshAuthorizedKeys[*].key Microsoft.Storage/storageAccounts/localUsers/sshAuthorizedKeys[*].key   properties.sid Microsoft.Storage/storageAccounts/localUsers/sid   properties.hasSharedKey Microsoft.Storage/storageAccounts/localUsers/hasSharedKey   properties.hasSshKey Microsoft.Storage/storageAccounts/localUsers/hasSshKey   properties.hasSshPassword Microsoft.Storage/storageAccounts/localUsers/hasSshPassword    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8972,7 +8982,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices-tables/</guid>
       <description>Link to resource definition: Microsoft.Storage/storageAccounts/tableServices/tables
-   Default Path Alias     properties.tableName Microsoft.Storage/storageAccounts/tableServices/tables/tableName    </description>
+   Default Path Alias     properties.tableName Microsoft.Storage/storageAccounts/tableServices/tables/tableName   properties.signedIdentifiers Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers   properties.signedIdentifiers[*] Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*]   properties.signedIdentifiers[*].id Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].id   properties.signedIdentifiers[*].accessPolicy Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy   properties.signedIdentifiers[*].accessPolicy.startTime Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.startTime   properties.signedIdentifiers[*].accessPolicy.expiryTime Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.expiryTime   properties.signedIdentifiers[*].accessPolicy.permission Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.permission    </description>
     </item>
     
     <item>

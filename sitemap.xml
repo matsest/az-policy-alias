@@ -2975,6 +2975,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-inventoryPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-localusers/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</loc>
     <priority>0</priority>
   </url><url>
