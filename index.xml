@@ -4587,6 +4587,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/privateLinkScopes
+   Default Path Alias     properties.publicNetworkAccess Microsoft.KubernetesConfiguration/privateLinkScopes/publicNetworkAccess   properties.provisioningState Microsoft.KubernetesConfiguration/privateLinkScopes/provisioningState   properties.clusterResourceId Microsoft.KubernetesConfiguration/privateLinkScopes/clusterResourceId   properties.privateLinkScopeId Microsoft.KubernetesConfiguration/privateLinkScopes/privateLinkScopeId   properties.privateEndpointConnections Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -4783,6 +4803,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.LabServices/labs/</guid>
       <description>Link to resource definition: Microsoft.LabServices/labs
    Default Path Alias     properties.autoShutdownProfile Microsoft.LabServices/labs/autoShutdownProfile   properties.autoShutdownProfile.shutdownOnDisconnect Microsoft.LabServices/labs/autoShutdownProfile.shutdownOnDisconnect   properties.autoShutdownProfile.shutdownWhenNotConnected Microsoft.LabServices/labs/autoShutdownProfile.shutdownWhenNotConnected   properties.autoShutdownProfile.shutdownOnIdle Microsoft.LabServices/labs/autoShutdownProfile.shutdownOnIdle   properties.autoShutdownProfile.disconnectDelay Microsoft.LabServices/labs/autoShutdownProfile.disconnectDelay   properties.autoShutdownProfile.noConnectDelay Microsoft.LabServices/labs/autoShutdownProfile.noConnectDelay   properties.autoShutdownProfile.idleDelay Microsoft.LabServices/labs/autoShutdownProfile.idleDelay   properties.connectionProfile Microsoft.LabServices/labs/connectionProfile   properties.connectionProfile.webSshAccess Microsoft.LabServices/labs/connectionProfile.webSshAccess   properties.connectionProfile.webRdpAccess Microsoft.LabServices/labs/connectionProfile.webRdpAccess   properties.connectionProfile.clientSshAccess Microsoft.LabServices/labs/connectionProfile.clientSshAccess   properties.connectionProfile.clientRdpAccess Microsoft.LabServices/labs/connectionProfile.clientRdpAccess   properties.virtualMachineProfile Microsoft.LabServices/labs/virtualMachineProfile   properties.virtualMachineProfile.createOption Microsoft.LabServices/labs/virtualMachineProfile.createOption   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</guid>
+      <description>Link to resource definition: Microsoft.LoadTestService/loadtests
+   Default Path Alias     properties.description Microsoft.LoadTestService/loadTests/description   properties.provisioningState Microsoft.LoadTestService/loadTests/provisioningState   properties.dataPlaneURI Microsoft.LoadTestService/loadTests/dataPlaneURI   properties.encryption Microsoft.LoadTestService/loadTests/encryption   properties.encryption.identity Microsoft.LoadTestService/loadTests/encryption.identity   properties.encryption.identity.type Microsoft.LoadTestService/loadTests/encryption.identity.type   properties.encryption.identity.resourceId Microsoft.LoadTestService/loadTests/encryption.identity.resourceId   properties.encryption.keyUrl Microsoft.LoadTestService/loadTests/encryption.keyUrl    </description>
     </item>
     
     <item>
@@ -9812,7 +9842,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</guid>
       <description>Link to resource definition: Microsoft.Web/hostingenvironments/configurations
-   Default Path Alias     properties.windowsOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses   properties.windowsOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses[*]   properties.linuxOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses   properties.linuxOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses[*]   properties.allowNewPrivateEndpointConnections Microsoft.Web/hostingEnvironments/configurations/allowNewPrivateEndpointConnections   properties.externalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses   properties.externalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses[*]   properties.internalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses   properties.internalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses[*]    </description>
+   Default Path Alias     properties.windowsOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses   properties.windowsOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses[*]   properties.linuxOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses   properties.linuxOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses[*]   properties.allowNewPrivateEndpointConnections Microsoft.Web/hostingEnvironments/configurations/allowNewPrivateEndpointConnections   properties.externalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses   properties.externalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses[*]   properties.internalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses   properties.internalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses[*]   properties.provisioningState Microsoft.Web/hostingEnvironments/configurations/provisioningState   properties.provisioningDetails Microsoft.Web/hostingEnvironments/configurations/provisioningDetails   properties.dnsSuffix Microsoft.Web/hostingEnvironments/configurations/dnsSuffix   properties.certificateUrl Microsoft.Web/hostingEnvironments/configurations/certificateUrl   properties.keyVaultReferenceIdentity Microsoft.Web/hostingEnvironments/configurations/keyVaultReferenceIdentity   properties.</description>
     </item>
     
     <item>
@@ -10217,12 +10247,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/builds/linkedBackends
+   Default Path Alias     properties.backendResourceId Microsoft.Web/staticSites/builds/linkedBackends/backendResourceId   properties.region Microsoft.Web/staticSites/builds/linkedBackends/region   properties.createdOn Microsoft.Web/staticSites/builds/linkedBackends/createdOn   properties.provisioningState Microsoft.Web/staticSites/builds/linkedBackends/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</guid>
       <description>Link to resource definition: Microsoft.Web/staticSites/builds/userProvidedFunctionApps
    Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/builds/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/linkedBackends
+   Default Path Alias     properties.backendResourceId Microsoft.Web/staticSites/linkedBackends/backendResourceId   properties.region Microsoft.Web/staticSites/linkedBackends/region   properties.createdOn Microsoft.Web/staticSites/linkedBackends/createdOn   properties.provisioningState Microsoft.Web/staticSites/linkedBackends/provisioningState    </description>
     </item>
     
     <item>

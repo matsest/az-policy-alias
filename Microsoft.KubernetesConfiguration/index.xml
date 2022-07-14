@@ -27,6 +27,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections
+   Default Path Alias     properties.privateEndpoint Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionsRequired Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired   properties.provisioningState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</guid>
+      <description>Link to resource definition: Microsoft.KubernetesConfiguration/privateLinkScopes
+   Default Path Alias     properties.publicNetworkAccess Microsoft.KubernetesConfiguration/privateLinkScopes/publicNetworkAccess   properties.provisioningState Microsoft.KubernetesConfiguration/privateLinkScopes/provisioningState   properties.clusterResourceId Microsoft.KubernetesConfiguration/privateLinkScopes/clusterResourceId   properties.privateLinkScopeId Microsoft.KubernetesConfiguration/privateLinkScopes/privateLinkScopeId   properties.privateEndpointConnections Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].type   properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateEndpoint   properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateEndpoint.id   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.status   properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.description   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

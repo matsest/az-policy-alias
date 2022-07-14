@@ -62,7 +62,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</guid>
       <description>Link to resource definition: Microsoft.Web/hostingenvironments/configurations
-   Default Path Alias     properties.windowsOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses   properties.windowsOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses[*]   properties.linuxOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses   properties.linuxOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses[*]   properties.allowNewPrivateEndpointConnections Microsoft.Web/hostingEnvironments/configurations/allowNewPrivateEndpointConnections   properties.externalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses   properties.externalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses[*]   properties.internalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses   properties.internalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses[*]    </description>
+   Default Path Alias     properties.windowsOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses   properties.windowsOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/windowsOutboundIpAddresses[*]   properties.linuxOutboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses   properties.linuxOutboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/linuxOutboundIpAddresses[*]   properties.allowNewPrivateEndpointConnections Microsoft.Web/hostingEnvironments/configurations/allowNewPrivateEndpointConnections   properties.externalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses   properties.externalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/externalInboundIpAddresses[*]   properties.internalInboundIpAddresses Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses   properties.internalInboundIpAddresses[*] Microsoft.Web/hostingEnvironments/configurations/internalInboundIpAddresses[*]   properties.provisioningState Microsoft.Web/hostingEnvironments/configurations/provisioningState   properties.provisioningDetails Microsoft.Web/hostingEnvironments/configurations/provisioningDetails   properties.dnsSuffix Microsoft.Web/hostingEnvironments/configurations/dnsSuffix   properties.certificateUrl Microsoft.Web/hostingEnvironments/configurations/certificateUrl   properties.keyVaultReferenceIdentity Microsoft.Web/hostingEnvironments/configurations/keyVaultReferenceIdentity   properties.</description>
     </item>
     
     <item>
@@ -467,12 +467,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/builds/linkedBackends
+   Default Path Alias     properties.backendResourceId Microsoft.Web/staticSites/builds/linkedBackends/backendResourceId   properties.region Microsoft.Web/staticSites/builds/linkedBackends/region   properties.createdOn Microsoft.Web/staticSites/builds/linkedBackends/createdOn   properties.provisioningState Microsoft.Web/staticSites/builds/linkedBackends/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</guid>
       <description>Link to resource definition: Microsoft.Web/staticSites/builds/userProvidedFunctionApps
    Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/builds/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/linkedBackends
+   Default Path Alias     properties.backendResourceId Microsoft.Web/staticSites/linkedBackends/backendResourceId   properties.region Microsoft.Web/staticSites/linkedBackends/region   properties.createdOn Microsoft.Web/staticSites/linkedBackends/createdOn   properties.provisioningState Microsoft.Web/staticSites/linkedBackends/provisioningState    </description>
     </item>
     
     <item>

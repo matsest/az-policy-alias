@@ -1565,6 +1565,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/fluxConfigurations/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</loc>
     <priority>0</priority>
   </url><url>
@@ -1629,6 +1635,12 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labs/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/</loc>
@@ -3395,7 +3407,13 @@
     <loc>http://policyalias.mats.codes/Microsoft.Web/sourceControls/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-privateEndpointConnections/</loc>
