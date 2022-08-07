@@ -67,16 +67,6 @@
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</guid>
-      <description>Link to resource definition: Microsoft.ContainerService/openShiftManagedClusters
-   Default Path Alias     properties.provisioningState Microsoft.ContainerService/openShiftManagedClusters/provisioningState   properties.openShiftVersion Microsoft.ContainerService/openShiftManagedClusters/openShiftVersion   properties.publicHostname Microsoft.ContainerService/openShiftManagedClusters/publicHostname   properties.fqdn Microsoft.ContainerService/openShiftManagedClusters/fqdn   properties.networkProfile.vnetCidr Microsoft.ContainerService/openShiftManagedClusters/networkProfile.vnetCidr   properties.networkProfile.peerVnetId Microsoft.ContainerService/openShiftManagedClusters/networkProfile.peerVnetId   properties.networkProfile Microsoft.ContainerService/openShiftManagedClusters/networkProfile   properties.routerProfiles[*].name Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].name   properties.routerProfiles[*].publicSubdomain Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].publicSubdomain   properties.routerProfiles[*].fqdn Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*].fqdn   properties.routerProfiles[*] Microsoft.ContainerService/openShiftManagedClusters/routerProfiles[*]   properties.routerProfiles Microsoft.ContainerService/openShiftManagedClusters/routerProfiles   properties.masterPoolProfile.name Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.name   properties.masterPoolProfile.count Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.count   properties.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

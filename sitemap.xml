@@ -707,9 +707,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedclustersnapshots/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/openShiftManagedClusters/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</loc>
     <priority>0</priority>
   </url><url>
