@@ -2342,9 +2342,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementconfigurations/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/solutions/</loc>
     <priority>0</priority>
   </url><url>
