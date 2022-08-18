@@ -5197,6 +5197,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-schedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-schedules/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/schedules
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/schedules/description   properties.tags Microsoft.MachineLearningServices/workspaces/schedules/tags   properties.action Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob   properties.action Microsoft.MachineLearningServices/workspaces/schedules/action.InvokeBatchEndpoint   properties.action Microsoft.MachineLearningServices/workspaces/schedules/action   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Sweep   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Spark   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Pipeline   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Labeling   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Command   properties.action.jobDefinition Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.AutoML   properties.action.jobDefinition.description Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.description   properties.action.jobDefinition.tags Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.tags   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

@@ -1766,6 +1766,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-schedules/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</loc>
     <priority>0</priority>
   </url><url>
