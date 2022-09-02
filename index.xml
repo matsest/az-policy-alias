@@ -4067,6 +4067,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</guid>
+      <description>Link to resource definition: Microsoft.Features/featureProviders/subscriptionFeatureRegistrations
+   Default Path Alias     properties.tenantId Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/tenantId   properties.subscriptionId Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/subscriptionId   properties.featureName Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/featureName   properties.displayName Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/displayName   properties.providerNamespace Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/providerNamespace   properties.state Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/state   properties.authorizationProfile Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile   properties.authorizationProfile.requestedTime Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile.requestedTime   properties.authorizationProfile.requester Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile.requester   properties.authorizationProfile.requesterObjectId Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile.requesterObjectId   properties.authorizationProfile.approvedTime Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile.approvedTime   properties.authorizationProfile.approver Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/authorizationProfile.approver   properties.metadata Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/metadata   properties.releaseDate Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/releaseDate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.FluidRelay/fluidRelayServers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

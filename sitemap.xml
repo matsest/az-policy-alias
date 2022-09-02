@@ -1376,6 +1376,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Features/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.FluidRelay/</loc>
     <priority>0</priority>
   </url><url>
