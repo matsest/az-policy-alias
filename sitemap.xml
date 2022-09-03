@@ -350,6 +350,24 @@
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/DataControllers/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/PostgresInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlManagedInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/</loc>
     <priority>0</priority>
   </url><url>
