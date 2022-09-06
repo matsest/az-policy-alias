@@ -17,6 +17,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/fleets/members
+   Default Path Alias     properties.clusterResourceId Microsoft.ContainerService/fleets/members/clusterResourceId   properties.provisioningState Microsoft.ContainerService/fleets/members/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</guid>
+      <description>Link to resource definition: Microsoft.ContainerService/fleets
+   Default Path Alias     properties.hubProfile Microsoft.ContainerService/fleets/hubProfile   properties.hubProfile.dnsPrefix Microsoft.ContainerService/fleets/hubProfile.dnsPrefix   properties.hubProfile.fqdn Microsoft.ContainerService/fleets/hubProfile.fqdn   properties.hubProfile.kubernetesVersion Microsoft.ContainerService/fleets/hubProfile.kubernetesVersion   properties.provisioningState Microsoft.ContainerService/fleets/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

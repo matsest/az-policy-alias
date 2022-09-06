@@ -710,6 +710,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/containerServices/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</loc>
     <priority>0</priority>
   </url><url>
