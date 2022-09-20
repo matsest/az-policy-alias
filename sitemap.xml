@@ -1457,6 +1457,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-privateEndpointConnections/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces/</loc>
     <priority>0</priority>
   </url><url>
