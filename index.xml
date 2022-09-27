@@ -4137,6 +4137,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations-resourceSyncRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations-resourceSyncRules/</guid>
+      <description>Link to resource definition: Microsoft.ExtendedLocation/customLocations/resourceSyncRules
+   Default Path Alias     properties.priority Microsoft.ExtendedLocation/customLocations/resourceSyncRules/priority   properties.provisioningState Microsoft.ExtendedLocation/customLocations/resourceSyncRules/provisioningState   properties.selector Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector   properties.selector.matchExpressions Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions   properties.selector.matchExpressions[*] Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*]   properties.selector.matchExpressions[*].key Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].key   properties.selector.matchExpressions[*].operator Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].operator   properties.selector.matchExpressions[*].values Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].values   properties.selector.matchExpressions[*].values[*] Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].values[*]   properties.selector.matchLabels Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchLabels   properties.targetResourceGroup Microsoft.ExtendedLocation/customLocations/resourceSyncRules/targetResourceGroup    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</guid>
+      <description>Link to resource definition: Microsoft.ExtendedLocation/customLocations
+   Default Path Alias     properties.authentication Microsoft.ExtendedLocation/customLocations/authentication   properties.authentication.type Microsoft.ExtendedLocation/customLocations/authentication.type   properties.authentication.value Microsoft.ExtendedLocation/customLocations/authentication.value   properties.clusterExtensionIds Microsoft.ExtendedLocation/customLocations/clusterExtensionIds   properties.clusterExtensionIds[*] Microsoft.ExtendedLocation/customLocations/clusterExtensionIds[*]   properties.displayName Microsoft.ExtendedLocation/customLocations/displayName   properties.hostResourceId Microsoft.ExtendedLocation/customLocations/hostResourceId   properties.hostType Microsoft.ExtendedLocation/customLocations/hostType   properties.namespace Microsoft.ExtendedLocation/customLocations/namespace   properties.provisioningState Microsoft.ExtendedLocation/customLocations/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8063,6 +8083,66 @@
       <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters/</guid>
       <description>Link to resource definition: Microsoft.ServiceFabric/clusters
    Default Path Alias     properties.certificate.thumbprint Microsoft.ServiceFabric/clusters/certificate.thumbprint   properties.certificate.x509StoreName Microsoft.ServiceFabric/clusters/certificate.x509StoreName   properties.azureActiveDirectory.tenantId Microsoft.ServiceFabric/clusters/azureActiveDirectory.tenantId   properties.fabricSettings[*].name Microsoft.ServiceFabric/clusters/fabricSettings[*].name   properties.fabricSettings[*].parameters[*].name Microsoft.ServiceFabric/clusters/fabricSettings[*].parameters[*].name   properties.fabricSettings[*].parameters[*].value Microsoft.ServiceFabric/clusters/fabricSettings[*].parameters[*].value   properties.availableClusterVersions[*].codeVersion Microsoft.ServiceFabric/clusters/availableClusterVersions[*].codeVersion   properties.availableClusterVersions[*].supportExpiryUtc Microsoft.ServiceFabric/clusters/availableClusterVersions[*].supportExpiryUtc   properties.availableClusterVersions[*].environment Microsoft.ServiceFabric/clusters/availableClusterVersions[*].environment   properties.availableClusterVersions[*] Microsoft.ServiceFabric/clusters/availableClusterVersions[*]   properties.availableClusterVersions Microsoft.ServiceFabric/clusters/availableClusterVersions   properties.clusterId Microsoft.ServiceFabric/clusters/clusterId   properties.clusterState Microsoft.ServiceFabric/clusters/clusterState   properties.clusterEndpoint Microsoft.ServiceFabric/clusters/clusterEndpoint   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications-services/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters/applications/services
+   Default Path Alias     properties.placementConstraints Microsoft.ServiceFabric/managedclusters/applications/services/placementConstraints   properties.correlationScheme Microsoft.ServiceFabric/managedclusters/applications/services/correlationScheme   properties.correlationScheme[*] Microsoft.ServiceFabric/managedclusters/applications/services/correlationScheme[*]   properties.correlationScheme[*].scheme Microsoft.ServiceFabric/managedclusters/applications/services/correlationScheme[*].scheme   properties.correlationScheme[*].serviceName Microsoft.ServiceFabric/managedclusters/applications/services/correlationScheme[*].serviceName   properties.serviceLoadMetrics Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics   properties.serviceLoadMetrics[*] Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*]   properties.serviceLoadMetrics[*].name Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*].name   properties.serviceLoadMetrics[*].weight Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*].weight   properties.serviceLoadMetrics[*].primaryDefaultLoad Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*].primaryDefaultLoad   properties.serviceLoadMetrics[*].secondaryDefaultLoad Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*].secondaryDefaultLoad   properties.serviceLoadMetrics[*].defaultLoad Microsoft.ServiceFabric/managedclusters/applications/services/serviceLoadMetrics[*].defaultLoad   properties.servicePlacementPolicies Microsoft.ServiceFabric/managedclusters/applications/services/servicePlacementPolicies   properties.servicePlacementPolicies[*] Microsoft.ServiceFabric/managedclusters/applications/services/servicePlacementPolicies[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters/applications
+   Default Path Alias     properties.provisioningState Microsoft.ServiceFabric/managedclusters/applications/provisioningState   properties.version Microsoft.ServiceFabric/managedclusters/applications/version   properties.parameters Microsoft.ServiceFabric/managedclusters/applications/parameters   properties.upgradePolicy Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy   properties.upgradePolicy.applicationHealthPolicy Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy   properties.upgradePolicy.applicationHealthPolicy.considerWarningAsError Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.considerWarningAsError   properties.upgradePolicy.applicationHealthPolicy.maxPercentUnhealthyDeployedApplications Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.maxPercentUnhealthyDeployedApplications   properties.upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy   properties.upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyServices Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyServices   properties.upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyPartitionsPerService Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyPartitionsPerService   properties.upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyReplicasPerPartition Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.defaultServiceTypeHealthPolicy.maxPercentUnhealthyReplicasPerPartition   properties.upgradePolicy.applicationHealthPolicy.serviceTypeHealthPolicyMap Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.applicationHealthPolicy.serviceTypeHealthPolicyMap   properties.upgradePolicy.forceRestart Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.forceRestart   properties.upgradePolicy.rollingUpgradeMonitoringPolicy Microsoft.ServiceFabric/managedclusters/applications/upgradePolicy.rollingUpgradeMonitoringPolicy   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes-versions/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters/applicationTypes/versions
+   Default Path Alias     properties.provisioningState Microsoft.ServiceFabric/managedclusters/applicationTypes/versions/provisioningState   properties.appPackageUrl Microsoft.ServiceFabric/managedclusters/applicationTypes/versions/appPackageUrl    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters/applicationTypes
+   Default Path Alias     properties.provisioningState Microsoft.ServiceFabric/managedclusters/applicationTypes/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-nodetypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-nodetypes/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters/nodetypes
+   Default Path Alias     properties.isPrimary Microsoft.ServiceFabric/managedClusters/nodeTypes/isPrimary   properties.vmInstanceCount Microsoft.ServiceFabric/managedClusters/nodeTypes/vmInstanceCount   properties.dataDiskSizeGB Microsoft.ServiceFabric/managedClusters/nodeTypes/dataDiskSizeGB   properties.placementProperties Microsoft.ServiceFabric/managedClusters/nodeTypes/placementProperties   properties.capacities Microsoft.ServiceFabric/managedClusters/nodeTypes/capacities   properties.applicationPorts Microsoft.ServiceFabric/managedClusters/nodeTypes/applicationPorts   properties.applicationPorts.startPort Microsoft.ServiceFabric/managedClusters/nodeTypes/applicationPorts.startPort   properties.applicationPorts.endPort Microsoft.ServiceFabric/managedClusters/nodeTypes/applicationPorts.endPort   properties.ephemeralPorts Microsoft.ServiceFabric/managedClusters/nodeTypes/ephemeralPorts   properties.ephemeralPorts.startPort Microsoft.ServiceFabric/managedClusters/nodeTypes/ephemeralPorts.startPort   properties.ephemeralPorts.endPort Microsoft.ServiceFabric/managedClusters/nodeTypes/ephemeralPorts.endPort   properties.vmSize Microsoft.ServiceFabric/managedClusters/nodeTypes/vmSize   properties.vmImagePublisher Microsoft.ServiceFabric/managedClusters/nodeTypes/vmImagePublisher   properties.vmImageOffer Microsoft.ServiceFabric/managedClusters/nodeTypes/vmImageOffer   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters/</guid>
+      <description>Link to resource definition: Microsoft.ServiceFabric/managedclusters
+   Default Path Alias     properties.dnsName Microsoft.ServiceFabric/managedClusters/dnsName   properties.fqdn Microsoft.ServiceFabric/managedClusters/fqdn   properties.clusterId Microsoft.ServiceFabric/managedClusters/clusterId   properties.clusterState Microsoft.ServiceFabric/managedClusters/clusterState   properties.clusterCertificateThumbprint Microsoft.ServiceFabric/managedClusters/clusterCertificateThumbprint   properties.clientConnectionPort Microsoft.ServiceFabric/managedClusters/clientConnectionPort   properties.httpGatewayConnectionPort Microsoft.ServiceFabric/managedClusters/httpGatewayConnectionPort   properties.adminUserName Microsoft.ServiceFabric/managedClusters/adminUserName   properties.adminPassword Microsoft.ServiceFabric/managedClusters/adminPassword   properties.loadBalancingRules Microsoft.ServiceFabric/managedClusters/loadBalancingRules   properties.loadBalancingRules[*] Microsoft.ServiceFabric/managedClusters/loadBalancingRules[*]   properties.loadBalancingRules[*].frontendPort Microsoft.ServiceFabric/managedClusters/loadBalancingRules[*].frontendPort   properties.loadBalancingRules[*].backendPort Microsoft.ServiceFabric/managedClusters/loadBalancingRules[*].backendPort   properties.loadBalancingRules[*].protocol Microsoft.ServiceFabric/managedClusters/loadBalancingRules[*].protocol   properties.</description>
     </item>
     
     <item>

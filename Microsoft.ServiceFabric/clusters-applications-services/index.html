@@ -66,7 +66,7 @@
       "headline": "Clusters Applications Services",
       "description": "Link to resource definition: Microsoft.ServiceFabric\/clusters\/applications\/services\n   Default Path Alias     properties.placementConstraints Microsoft.ServiceFabric\/clusters\/applications\/services\/placementConstraints   properties.correlationScheme.Scheme Microsoft.ServiceFabric\/clusters\/applications\/services\/correlationScheme.Scheme   properties.correlationScheme.ServiceName Microsoft.ServiceFabric\/clusters\/applications\/services\/correlationScheme.ServiceName   properties.correlationScheme Microsoft.ServiceFabric\/clusters\/applications\/services\/correlationScheme   properties.serviceLoadMetrics.Name Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics.Name   properties.serviceLoadMetrics.Weight Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics.Weight   properties.serviceLoadMetrics.PrimaryDefaultLoad Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics.PrimaryDefaultLoad   properties.serviceLoadMetrics.SecondaryDefaultLoad Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics.SecondaryDefaultLoad   properties.serviceLoadMetrics.DefaultLoad Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics.DefaultLoad   properties.serviceLoadMetrics Microsoft.ServiceFabric\/clusters\/applications\/services\/serviceLoadMetrics   properties.servicePlacementPolicies.Type Microsoft.ServiceFabric\/clusters\/applications\/services\/servicePlacementPolicies.Type   properties.servicePlacementPolicies Microsoft.ServiceFabric\/clusters\/applications\/services\/servicePlacementPolicies   properties.defaultMoveCost Microsoft.ServiceFabric\/clusters\/applications\/services\/defaultMoveCost   properties.provisioningState Microsoft.ServiceFabric\/clusters\/applications\/services\/provisioningState   properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "68",
+      "wordCount" : "102",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2507,6 +2507,48 @@
                   class="gdoc-nav__entry"
                 >
                   Microsoft.EventHub
+                </a>
+              </span>
+              
+            </label>
+          
+        
+
+        
+      </li>
+    
+      
+      
+
+
+      <li>
+        
+        
+          
+          
+          
+          
+          
+          
+          
+
+          
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              <span class="flex">
+                
+                <a
+                  href="/Microsoft.ExtendedLocation/"
+                  class="gdoc-nav__entry"
+                >
+                  Microsoft.ExtendedLocation
                 </a>
               </span>
               
@@ -5254,6 +5296,74 @@
 <td><code>properties.servicePackageActivationMode</code></td>
 <td><code>Microsoft.ServiceFabric/clusters/applications/services/servicePackageActivationMode</code></td>
 </tr>
+<tr>
+<td><code>properties.instanceCount</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateless.instanceCount</code></td>
+</tr>
+<tr>
+<td><code>properties.hasPersistedState</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.hasPersistedState</code></td>
+</tr>
+<tr>
+<td><code>properties.targetReplicaSetSize</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.targetReplicaSetSize</code></td>
+</tr>
+<tr>
+<td><code>properties.minReplicaSetSize</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.minReplicaSetSize</code></td>
+</tr>
+<tr>
+<td><code>properties.replicaRestartWaitDuration</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.replicaRestartWaitDuration</code></td>
+</tr>
+<tr>
+<td><code>properties.quorumLossWaitDuration</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.quorumLossWaitDuration</code></td>
+</tr>
+<tr>
+<td><code>properties.standByReplicaKeepDuration</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateful.standByReplicaKeepDuration</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.UniformInt64Range</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.Count</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.UniformInt64Range.Count</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.Count</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named.Count</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.LowKey</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.UniformInt64Range.LowKey</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.HighKey</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.UniformInt64Range.HighKey</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.Names</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named.Names</code></td>
+</tr>
+<tr>
+<td><code>properties.partitionDescription.Names[*]</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named.Names[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.instanceCloseDelayDuration</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/Stateless.instanceCloseDelayDuration</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceDnsName</code></td>
+<td><code>Microsoft.ServiceFabric/clusters/applications/services/serviceDnsName</code></td>
+</tr>
 </tbody>
 </table> </div>
 
@@ -5274,6 +5384,30 @@
   
   
 
+  
+    
+    
+
+    
+    
+      
+      
+      
+
+      
+        
+      
+      
+
+      
+
+      
+
+      
+    
+
+    
+    
   
     
     

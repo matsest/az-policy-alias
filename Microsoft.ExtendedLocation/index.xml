@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ExtendedLocation/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ExtendedLocation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations-resourceSyncRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations-resourceSyncRules/</guid>
+      <description>Link to resource definition: Microsoft.ExtendedLocation/customLocations/resourceSyncRules
+   Default Path Alias     properties.priority Microsoft.ExtendedLocation/customLocations/resourceSyncRules/priority   properties.provisioningState Microsoft.ExtendedLocation/customLocations/resourceSyncRules/provisioningState   properties.selector Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector   properties.selector.matchExpressions Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions   properties.selector.matchExpressions[*] Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*]   properties.selector.matchExpressions[*].key Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].key   properties.selector.matchExpressions[*].operator Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].operator   properties.selector.matchExpressions[*].values Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].values   properties.selector.matchExpressions[*].values[*] Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].values[*]   properties.selector.matchLabels Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchLabels   properties.targetResourceGroup Microsoft.ExtendedLocation/customLocations/resourceSyncRules/targetResourceGroup    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</guid>
+      <description>Link to resource definition: Microsoft.ExtendedLocation/customLocations
+   Default Path Alias     properties.authentication Microsoft.ExtendedLocation/customLocations/authentication   properties.authentication.type Microsoft.ExtendedLocation/customLocations/authentication.type   properties.authentication.value Microsoft.ExtendedLocation/customLocations/authentication.value   properties.clusterExtensionIds Microsoft.ExtendedLocation/customLocations/clusterExtensionIds   properties.clusterExtensionIds[*] Microsoft.ExtendedLocation/customLocations/clusterExtensionIds[*]   properties.displayName Microsoft.ExtendedLocation/customLocations/displayName   properties.hostResourceId Microsoft.ExtendedLocation/customLocations/hostResourceId   properties.hostType Microsoft.ExtendedLocation/customLocations/hostType   properties.namespace Microsoft.ExtendedLocation/customLocations/namespace   properties.provisioningState Microsoft.ExtendedLocation/customLocations/provisioningState    </description>
+    </item>
+    
+  </channel>
+</rss>
