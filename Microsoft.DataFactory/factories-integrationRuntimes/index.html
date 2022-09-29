@@ -66,7 +66,7 @@
       "headline": "Factories Integration Runtimes",
       "description": "Link to resource definition: Microsoft.DataFactory\/factories\/integrationRuntimes\n   Default Path Alias     properties.type Microsoft.DataFactory\/factories\/integrationruntimes\/type   properties.typeProperties Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties   properties.state Microsoft.DataFactory\/factories\/integrationruntimes\/state   properties.typeProperties.computeProperties Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.computeProperties   properties.typeProperties.computeProperties.location Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.computeProperties.location   properties.typeProperties.computeProperties.nodeSize Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.computeProperties.nodeSize   properties.typeProperties.computeProperties.numberOfNodes Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.computeProperties.numberOfNodes   properties.typeProperties.computeProperties.maxParallelExecutionsPerNode Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.computeProperties.maxParallelExecutionsPerNode   properties.typeProperties.ssisProperties Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties   properties.typeProperties.ssisProperties.catalogInfo Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties.catalogInfo   properties.typeProperties.ssisProperties.catalogInfo.catalogServerEndpoint Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties.catalogInfo.catalogServerEndpoint   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminUserName Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties.catalogInfo.catalogAdminUserName   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties.catalogInfo.catalogAdminPassword   properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type Microsoft.DataFactory\/factories\/integrationruntimes\/typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type   properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "244",
+      "wordCount" : "288",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -5647,6 +5647,94 @@
 <tr>
 <td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password</code></td>
 <td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password.AzureKeyVaultSecret</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.linkedInfo</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.linkedInfo.key</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.Key.key.SecureString</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.SecureString</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.customSetupScriptProperties.sasToken</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.SecureString</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.linkedInfo.credential</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.linkedInfo.credential.type</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential.type</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.linkedInfo.credential.referenceName</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential.referenceName</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.computeProperties.dataFlowProperties.cleanup</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.cleanup</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.computeProperties.vNetProperties.subnetId</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.vNetProperties.subnetId</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].AzPowerShellSetup</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.licenseKey</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties.licenseKey</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.credential</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.credential.type</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential.type</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.ssisProperties.credential.referenceName</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential.referenceName</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.customerVirtualNetwork</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.customerVirtualNetwork.subnetId</code></td>
+<td><code>Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork.subnetId</code></td>
 </tr>
 </tbody>
 </table> </div>

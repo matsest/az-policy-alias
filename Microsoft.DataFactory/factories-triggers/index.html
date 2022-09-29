@@ -66,7 +66,7 @@
       "headline": "Factories Triggers",
       "description": "Link to resource definition: Microsoft.DataFactory\/factories\/triggers\n   Default Path Alias     properties.type Microsoft.DataFactory\/factories\/triggers\/type   properties.description Microsoft.DataFactory\/factories\/triggers\/description   properties.runtimeState Microsoft.DataFactory\/factories\/triggers\/runtimeState   properties.annotations[*] Microsoft.DataFactory\/factories\/triggers\/annotations[*]   properties.annotations Microsoft.DataFactory\/factories\/triggers\/annotations   properties.pipelines Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines   properties.pipelines[*] Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*]   properties.pipelines[*].pipelineReference Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*].pipelineReference   properties.pipelines[*].pipelineReference.type Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*].pipelineReference.type   properties.pipelines[*].pipelineReference.referenceName Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*].pipelineReference.referenceName   properties.pipelines[*].pipelineReference.name Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*].pipelineReference.name   properties.pipelines[*].parameters Microsoft.DataFactory\/factories\/triggers\/MultiplePipelineTrigger.pipelines[*].parameters   properties.pipeline Microsoft.DataFactory\/factories\/triggers\/TumblingWindowTrigger.pipeline   properties.pipeline.pipelineReference Microsoft.DataFactory\/factories\/triggers\/TumblingWindowTrigger.pipeline.pipelineReference   properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "196",
+      "wordCount" : "220",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -5551,6 +5551,54 @@
 <tr>
 <td><code>properties.typeProperties.subjectEndsWith</code></td>
 <td><code>Microsoft.DataFactory/factories/triggers/CustomEventsTrigger.typeProperties.subjectEndsWith</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/BlobEventsTrigger.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/BlobTrigger.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/RerunTumblingWindowTrigger.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/CustomEventsTrigger.typeProperties</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].SelfDependencyTumblingWindowTriggerReference</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*]</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*].offset</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference.offset</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*].size</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference.size</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*].referenceTrigger</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*].referenceTrigger.type</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.type</code></td>
+</tr>
+<tr>
+<td><code>properties.typeProperties.dependsOn[*].referenceTrigger.referenceName</code></td>
+<td><code>Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.referenceName</code></td>
 </tr>
 </tbody>
 </table> </div>
