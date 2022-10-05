@@ -287,6 +287,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfileAssignments/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles-versions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/</loc>
     <priority>0</priority>
   </url><url>

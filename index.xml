@@ -832,7 +832,27 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfileAssignments/</guid>
       <description>Link to resource definition: Microsoft.Automanage/configurationProfileAssignments
-   Default Path Alias     properties.configurationProfile Microsoft.Automanage/configurationProfileAssignments/configurationProfile   properties.targetId Microsoft.Automanage/configurationProfileAssignments/targetId   properties.accountId Microsoft.Automanage/configurationProfileAssignments/accountId   properties.configurationProfilePreferenceId Microsoft.Automanage/configurationProfileAssignments/configurationProfilePreferenceId   properties.provisioningStatus Microsoft.Automanage/configurationProfileAssignments/provisioningStatus   properties.compliance Microsoft.Automanage/configurationProfileAssignments/compliance   properties.compliance.updateStatus Microsoft.Automanage/configurationProfileAssignments/compliance.updateStatus    </description>
+   Default Path Alias     properties.configurationProfile Microsoft.Automanage/configurationProfileAssignments/configurationProfile   properties.targetId Microsoft.Automanage/configurationProfileAssignments/targetId   properties.accountId Microsoft.Automanage/configurationProfileAssignments/accountId   properties.configurationProfilePreferenceId Microsoft.Automanage/configurationProfileAssignments/configurationProfilePreferenceId   properties.provisioningStatus Microsoft.Automanage/configurationProfileAssignments/provisioningStatus   properties.compliance Microsoft.Automanage/configurationProfileAssignments/compliance   properties.compliance.updateStatus Microsoft.Automanage/configurationProfileAssignments/compliance.updateStatus   properties.provisioningState Microsoft.Automanage/configurationProfileAssignments/provisioningState   properties.status Microsoft.Automanage/configurationProfileAssignments/status   properties.profileOverrides Microsoft.Automanage/configurationProfileAssignments/profileOverrides   managedBy Microsoft.Automanage/configurationProfileAssignments/managedBy    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles-versions/</guid>
+      <description>Link to resource definition: Microsoft.Automanage/configurationProfiles/versions
+   Default Path Alias     properties.overrides Microsoft.Automanage/configurationProfiles/versions/overrides   properties.overrides[*] Microsoft.Automanage/configurationProfiles/versions/overrides[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles/</guid>
+      <description>Link to resource definition: Microsoft.Automanage/configurationProfiles
+   Default Path Alias     properties.overrides Microsoft.Automanage/configurationProfiles/overrides   properties.overrides[*] Microsoft.Automanage/configurationProfiles/overrides[*]    </description>
     </item>
     
     <item>
