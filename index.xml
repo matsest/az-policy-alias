@@ -1057,6 +1057,136 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/addons
+   Default Path Alias     properties.licenseKey Microsoft.AVS/privateClouds/addons/licenseKey   properties.licenseKey Microsoft.AVS/privateClouds/addons/SRM.licenseKey   properties.addonType Microsoft.AVS/privateClouds/addons/addonType   properties.provisioningState Microsoft.AVS/privateClouds/addons/provisioningState   properties.offer Microsoft.AVS/privateClouds/addons/HCX.offer   properties.vrsCount Microsoft.AVS/privateClouds/addons/VR.vrsCount    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/authorizations
+   Default Path Alias     properties.provisioningState Microsoft.AVS/privateClouds/authorizations/provisioningState   properties.expressRouteAuthorizationId Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationId   properties.expressRouteAuthorizationKey Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationKey   properties.expressRouteId Microsoft.AVS/privateClouds/authorizations/expressRouteId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters/datastores
+   Default Path Alias     properties.provisioningState Microsoft.AVS/privateClouds/clusters/datastores/provisioningState   properties.netAppVolume Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume   properties.netAppVolume.nfsProviderIp Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsProviderIp   properties.netAppVolume.nfsFilePath Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsFilePath   properties.diskPoolVolume Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume   properties.diskPoolVolume.endpoints Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints   properties.diskPoolVolume.endpoints[*] Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints[*]   properties.diskPoolVolume.lunName Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.lunName   properties.netAppVolume.id Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.id   properties.diskPoolVolume.targetId Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.targetId   properties.diskPoolVolume.mountOption Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.mountOption   properties.diskPoolVolume.path Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.path   properties.status Microsoft.AVS/privateClouds/clusters/datastores/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters
+   Default Path Alias     sku Microsoft.AVS/privateClouds/clusters/sku   sku.name Microsoft.AVS/privateClouds/clusters/sku.name   properties.clusterSize Microsoft.AVS/privateClouds/clusters/clusterSize   properties.provisioningState Microsoft.AVS/privateClouds/clusters/provisioningState   properties.clusterId Microsoft.AVS/privateClouds/clusters/clusterId   properties.hosts Microsoft.AVS/privateClouds/clusters/hosts   properties.hosts[*] Microsoft.AVS/privateClouds/clusters/hosts[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/globalReachConnections
+   Default Path Alias     properties.provisioningState Microsoft.AVS/privateClouds/globalReachConnections/provisioningState   properties.addressPrefix Microsoft.AVS/privateClouds/globalReachConnections/addressPrefix   properties.authorizationKey Microsoft.AVS/privateClouds/globalReachConnections/authorizationKey   properties.circuitConnectionStatus Microsoft.AVS/privateClouds/globalReachConnections/circuitConnectionStatus   properties.peerExpressRouteCircuit Microsoft.AVS/privateClouds/globalReachConnections/peerExpressRouteCircuit   properties.expressRouteId Microsoft.AVS/privateClouds/globalReachConnections/expressRouteId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/hcxEnterpriseSites
+   Default Path Alias     properties.activationKey Microsoft.AVS/privateClouds/hcxEnterpriseSites/activationKey   properties.status Microsoft.AVS/privateClouds/hcxEnterpriseSites/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations
+   Default Path Alias     properties.serverAddresses Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses   properties.serverAddresses[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses[*]   properties.serverAddress Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.serverAddress   properties.leaseTime Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.leaseTime   properties.dhcpType Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/dhcpType   properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/displayName   properties.segments Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments   properties.segments[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments[*]   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsServices
+   Default Path Alias     properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/displayName   properties.dnsServiceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/dnsServiceIp   properties.defaultDnsZone Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/defaultDnsZone   properties.fqdnZones Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones   properties.fqdnZones[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones[*]   properties.logLevel Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/logLevel   properties.status Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/status   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsZones
+   Default Path Alias     properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/displayName   properties.domain Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain   properties.domain[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain[*]   properties.dnsServerIps Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps   properties.dnsServerIps[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps[*]   properties.sourceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/sourceIp   properties.dnsServices Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServices   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles
+   Default Path Alias     properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/displayName   properties.direction Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/direction   properties.source Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/source   properties.destination Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/destination   properties.status Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/status   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/segments
+   Default Path Alias     properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/segments/displayName   properties.connectedGateway Microsoft.AVS/privateClouds/workloadNetworks/segments/connectedGateway   properties.subnet Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet   properties.subnet.dhcpRanges Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges   properties.subnet.dhcpRanges[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges[*]   properties.subnet.gatewayAddress Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.gatewayAddress   properties.portVif Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif   properties.portVif[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*]   properties.portVif[*].portName Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*].portName   properties.status Microsoft.AVS/privateClouds/workloadNetworks/segments/status   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/segments/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/segments/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/vmGroups
+   Default Path Alias     properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/displayName   properties.members Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members   properties.members[*] Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members[*]   properties.status Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/status   properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/provisioningState   properties.revision Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/revision    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</guid>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds
+   Default Path Alias     sku Microsoft.AVS/privateClouds/sku   sku.name Microsoft.AVS/privateClouds/sku.name   properties.managementCluster Microsoft.AVS/privateClouds/managementCluster   properties.managementCluster.clusterSize Microsoft.AVS/privateClouds/managementCluster.clusterSize   properties.managementCluster.provisioningState Microsoft.AVS/privateClouds/managementCluster.provisioningState   properties.managementCluster.clusterId Microsoft.AVS/privateClouds/managementCluster.clusterId   properties.managementCluster.hosts Microsoft.AVS/privateClouds/managementCluster.hosts   properties.managementCluster.hosts[*] Microsoft.AVS/privateClouds/managementCluster.hosts[*]   properties.internet Microsoft.AVS/privateClouds/internet   properties.identitySources Microsoft.AVS/privateClouds/identitySources   properties.identitySources[*] Microsoft.AVS/privateClouds/identitySources[*]   properties.identitySources[*].name Microsoft.AVS/privateClouds/identitySources[*].name   properties.identitySources[*].alias Microsoft.AVS/privateClouds/identitySources[*].alias   properties.identitySources[*].domain Microsoft.AVS/privateClouds/identitySources[*].domain   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1532,7 +1662,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups-capacityReservations/</guid>
       <description>Link to resource definition: Microsoft.Compute/capacityReservationGroups/capacityReservations
-   Default Path Alias     properties.reservationId Microsoft.Compute/capacityReservationGroups/capacityReservations/reservationId   properties.virtualMachinesAssociated Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated   properties.virtualMachinesAssociated[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*]   properties.virtualMachinesAssociated[*].id Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*].id   properties.provisioningTime Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningTime   properties.provisioningState Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningState   sku Microsoft.Compute/capacityReservationGroups/capacityReservations/sku   sku.name Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.name   sku.tier Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.tier   sku.capacity Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.capacity   zones Microsoft.Compute/capacityReservationGroups/capacityReservations/zones   zones[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/zones[*]   properties.timeCreated Microsoft.Compute/capacityReservationGroups/capacityReservations/timeCreated    </description>
+   Default Path Alias     properties.reservationId Microsoft.Compute/capacityReservationGroups/capacityReservations/reservationId   properties.virtualMachinesAssociated Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated   properties.virtualMachinesAssociated[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*]   properties.virtualMachinesAssociated[*].id Microsoft.Compute/capacityReservationGroups/capacityReservations/virtualMachinesAssociated[*].id   properties.provisioningTime Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningTime   properties.provisioningState Microsoft.Compute/capacityReservationGroups/capacityReservations/provisioningState   sku Microsoft.Compute/capacityReservationGroups/capacityReservations/sku   sku.name Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.name   sku.tier Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.tier   sku.capacity Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.capacity   zones Microsoft.Compute/capacityReservationGroups/capacityReservations/zones   zones[*] Microsoft.Compute/capacityReservationGroups/capacityReservations/zones[*]   properties.timeCreated Microsoft.Compute/capacityReservationGroups/capacityReservations/timeCreated   properties.platformFaultDomainCount Microsoft.Compute/capacityReservationGroups/capacityReservations/platformFaultDomainCount    </description>
     </item>
     
     <item>
@@ -1612,7 +1742,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications/</guid>
       <description>Link to resource definition: Microsoft.Compute/galleries/applications
-   Default Path Alias     properties.description Microsoft.Compute/galleries/applications/description   properties.eula Microsoft.Compute/galleries/applications/eula   properties.privacyStatementUri Microsoft.Compute/galleries/applications/privacyStatementUri   properties.releaseNoteUri Microsoft.Compute/galleries/applications/releaseNoteUri   properties.endOfLifeDate Microsoft.Compute/galleries/applications/endOfLifeDate   properties.supportedOSType Microsoft.Compute/galleries/applications/supportedOSType    </description>
+   Default Path Alias     properties.description Microsoft.Compute/galleries/applications/description   properties.eula Microsoft.Compute/galleries/applications/eula   properties.privacyStatementUri Microsoft.Compute/galleries/applications/privacyStatementUri   properties.releaseNoteUri Microsoft.Compute/galleries/applications/releaseNoteUri   properties.endOfLifeDate Microsoft.Compute/galleries/applications/endOfLifeDate   properties.supportedOSType Microsoft.Compute/galleries/applications/supportedOSType   properties.customActions Microsoft.Compute/galleries/applications/customActions   properties.customActions[*] Microsoft.Compute/galleries/applications/customActions[*]   properties.customActions[*].name Microsoft.Compute/galleries/applications/customActions[*].name   properties.customActions[*].script Microsoft.Compute/galleries/applications/customActions[*].script   properties.customActions[*].description Microsoft.Compute/galleries/applications/customActions[*].description   properties.customActions[*].parameters Microsoft.Compute/galleries/applications/customActions[*].parameters   properties.customActions[*].parameters[*] Microsoft.Compute/galleries/applications/customActions[*].parameters[*]   properties.customActions[*].parameters[*].name Microsoft.Compute/galleries/applications/customActions[*].parameters[*].name   properties.</description>
     </item>
     
     <item>
@@ -1762,7 +1892,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-extensions/</guid>
       <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/extensions
-   Default Path Alias     properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/extensions/provisioningState   properties.publisher Microsoft.Compute/virtualMachineScaleSets/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/extensions/autoUpgradeMinorVersion   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/extensions/enableAutomaticUpgrade   properties.settings Microsoft.Compute/virtualMachineScaleSets/extensions/settings   properties.settings.workspaceId Microsoft.Compute/virtualMachineScaleSets/extensions/settings.workspaceId   properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/extensions/forceUpdateTag   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettings   properties.provisionAfterExtensions[*] Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]   properties.provisionAfterExtensions Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/extensions/suppressFailures    </description>
+   Default Path Alias     properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/extensions/provisioningState   properties.publisher Microsoft.Compute/virtualMachineScaleSets/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/extensions/autoUpgradeMinorVersion   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/extensions/enableAutomaticUpgrade   properties.settings Microsoft.Compute/virtualMachineScaleSets/extensions/settings   properties.settings.workspaceId Microsoft.Compute/virtualMachineScaleSets/extensions/settings.workspaceId   properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/extensions/forceUpdateTag   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettings   properties.provisionAfterExtensions[*] Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]   properties.provisionAfterExtensions Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/extensions/suppressFailures   properties.protectedSettingsFromKeyVault Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettingsFromKeyVault   properties.</description>
     </item>
     
     <item>
@@ -1772,7 +1902,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions/</guid>
       <description>Link to resource definition: Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions
-   Default Path Alias     properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/forceUpdateTag   properties.publisher Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/autoUpgradeMinorVersion   properties.settings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/settings   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettings   properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisioningState   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/enableAutomaticUpgrade   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/suppressFailures    </description>
+   Default Path Alias     properties.forceUpdateTag Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/forceUpdateTag   properties.publisher Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/publisher   properties.type Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/autoUpgradeMinorVersion   properties.settings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/settings   properties.protectedSettings Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettings   properties.provisioningState Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisioningState   properties.enableAutomaticUpgrade Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/enableAutomaticUpgrade   properties.suppressFailures Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/suppressFailures   properties.protectedSettingsFromKeyVault Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault   properties.protectedSettingsFromKeyVault.secretUrl Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.secretUrl   properties.protectedSettingsFromKeyVault.sourceVault Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault   properties.protectedSettingsFromKeyVault.sourceVault.id Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id    </description>
     </item>
     
     <item>

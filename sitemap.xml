@@ -356,6 +356,48 @@
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/</loc>
     <priority>0</priority>
   </url><url>
