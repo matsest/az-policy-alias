@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ManagedIdentity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</guid>
+      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
+   Default Path Alias     properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer   properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject   properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences   properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

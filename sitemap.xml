@@ -1865,6 +1865,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</loc>
     <priority>0</priority>
   </url><url>
