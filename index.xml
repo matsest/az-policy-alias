@@ -7197,6 +7197,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks-queries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks-queries/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/querypacks/queries
+   Default Path Alias     properties.id Microsoft.OperationalInsights/queryPacks/queries/id   properties.displayName Microsoft.OperationalInsights/queryPacks/queries/displayName   properties.timeCreated Microsoft.OperationalInsights/queryPacks/queries/timeCreated   properties.timeModified Microsoft.OperationalInsights/queryPacks/queries/timeModified   properties.author Microsoft.OperationalInsights/queryPacks/queries/author   properties.description Microsoft.OperationalInsights/queryPacks/queries/description   properties.body Microsoft.OperationalInsights/queryPacks/queries/body   properties.related Microsoft.OperationalInsights/queryPacks/queries/related   properties.related.categories Microsoft.OperationalInsights/queryPacks/queries/related.categories   properties.related.categories[*] Microsoft.OperationalInsights/queryPacks/queries/related.categories[*]   properties.related.resourceTypes Microsoft.OperationalInsights/queryPacks/queries/related.resourceTypes   properties.related.resourceTypes[*] Microsoft.OperationalInsights/queryPacks/queries/related.resourceTypes[*]   properties.related.solutions Microsoft.OperationalInsights/queryPacks/queries/related.solutions   properties.related.solutions[*] Microsoft.OperationalInsights/queryPacks/queries/related.solutions[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/querypacks
+   Default Path Alias     properties.queryPackId Microsoft.OperationalInsights/queryPacks/queryPackId   properties.timeCreated Microsoft.OperationalInsights/queryPacks/timeCreated   properties.timeModified Microsoft.OperationalInsights/queryPacks/timeModified   properties.provisioningState Microsoft.OperationalInsights/queryPacks/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataExports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -7243,6 +7263,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</guid>
       <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/storageInsightConfigs
    Default Path Alias     properties.containers[*] Microsoft.OperationalInsights/workspaces/storageinsightconfigs/containers[*]   properties.containers Microsoft.OperationalInsights/workspaces/storageinsightconfigs/containers   properties.tables[*] Microsoft.OperationalInsights/workspaces/storageinsightconfigs/tables[*]   properties.tables Microsoft.OperationalInsights/workspaces/storageinsightconfigs/tables   properties.storageAccount.id Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount.id   properties.storageAccount.key Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount.key   properties.storageAccount Microsoft.OperationalInsights/workspaces/storageinsightconfigs/storageAccount   properties.status.state Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.state   properties.status.description Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.description   properties.status Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-tables/</guid>
+      <description>Link to resource definition: Microsoft.OperationalInsights/workspaces/tables
+   Default Path Alias     properties.retentionInDays Microsoft.OperationalInsights/workspaces/tables/retentionInDays   properties.isTroubleshootingAllowed Microsoft.OperationalInsights/workspaces/tables/isTroubleshootingAllowed   properties.isTroubleshootEnabled Microsoft.OperationalInsights/workspaces/tables/isTroubleshootEnabled   properties.lastTroubleshootDate Microsoft.OperationalInsights/workspaces/tables/lastTroubleshootDate   properties.totalRetentionInDays Microsoft.OperationalInsights/workspaces/tables/totalRetentionInDays   properties.archiveRetentionInDays Microsoft.OperationalInsights/workspaces/tables/archiveRetentionInDays   properties.searchResults Microsoft.OperationalInsights/workspaces/tables/searchResults   properties.searchResults.query Microsoft.OperationalInsights/workspaces/tables/searchResults.query   properties.searchResults.description Microsoft.OperationalInsights/workspaces/tables/searchResults.description   properties.searchResults.limit Microsoft.OperationalInsights/workspaces/tables/searchResults.limit   properties.searchResults.startSearchTime Microsoft.OperationalInsights/workspaces/tables/searchResults.startSearchTime   properties.searchResults.endSearchTime Microsoft.OperationalInsights/workspaces/tables/searchResults.endSearchTime   properties.searchResults.sourceTable Microsoft.OperationalInsights/workspaces/tables/searchResults.sourceTable   properties.restoredLogs Microsoft.OperationalInsights/workspaces/tables/restoredLogs   properties.</description>
     </item>
     
     <item>

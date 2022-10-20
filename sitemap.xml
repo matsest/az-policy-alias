@@ -2414,6 +2414,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/clusters/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks-queries/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataExports/</loc>
     <priority>0</priority>
   </url><url>
@@ -2427,6 +2433,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-tables/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces/</loc>
