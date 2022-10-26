@@ -1796,6 +1796,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/registries/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments/</loc>
     <priority>0</priority>
   </url><url>

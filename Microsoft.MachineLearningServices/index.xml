@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.MachineLearningServices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/registries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/registries/</guid>
+      <description>Link to resource definition: Microsoft.MachineLearningServices/registries
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/registries/description   properties.tags Microsoft.MachineLearningServices/registries/tags   properties.publicNetworkAccess Microsoft.MachineLearningServices/registries/publicNetworkAccess   properties.discoveryUrl Microsoft.MachineLearningServices/registries/discoveryUrl   properties.intellectualPropertyPublisher Microsoft.MachineLearningServices/registries/intellectualPropertyPublisher   properties.managedResourceGroup Microsoft.MachineLearningServices/registries/managedResourceGroup   properties.managedResourceGroup.resourceId Microsoft.MachineLearningServices/registries/managedResourceGroup.resourceId   properties.mlFlowRegistryUri Microsoft.MachineLearningServices/registries/mlFlowRegistryUri   properties.privateLinkCount Microsoft.MachineLearningServices/registries/privateLinkCount   properties.regionDetails Microsoft.MachineLearningServices/registries/regionDetails   properties.regionDetails[*] Microsoft.MachineLearningServices/registries/regionDetails[*]   properties.regionDetails[*].acrDetails Microsoft.MachineLearningServices/registries/regionDetails[*].acrDetails   properties.regionDetails[*].acrDetails[*] Microsoft.MachineLearningServices/registries/regionDetails[*].acrDetails[*]   properties.regionDetails[*].acrDetails[*].systemCreatedAcrAccount Microsoft.MachineLearningServices/registries/regionDetails[*].acrDetails[*].systemCreatedAcrAccount   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,7 +42,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes-versions/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/codes/versions
-   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/codes/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/codes/versions/description   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/codes/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/codes/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/codes/versions/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/codes/versions/isArchived   properties.codeUri Microsoft.MachineLearningServices/workspaces/codes/versions/codeUri    </description>
+   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/codes/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/codes/versions/description   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/codes/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/codes/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/codes/versions/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/codes/versions/isArchived   properties.codeUri Microsoft.MachineLearningServices/workspaces/codes/versions/codeUri   properties.provisioningState Microsoft.MachineLearningServices/workspaces/codes/versions/provisioningState    </description>
     </item>
     
     <item>
@@ -42,7 +52,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/codes
-   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/codes/description   properties.tags Microsoft.MachineLearningServices/workspaces/codes/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/codes/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/codes/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/codes/nextVersion    </description>
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/codes/description   properties.tags Microsoft.MachineLearningServices/workspaces/codes/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/codes/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/codes/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/codes/nextVersion   properties.provisioningState Microsoft.MachineLearningServices/workspaces/codes/provisioningState    </description>
     </item>
     
     <item>
@@ -52,7 +62,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components-versions/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/components/versions
-   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/components/versions/description   properties.tags Microsoft.MachineLearningServices/workspaces/components/versions/tags   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/components/versions/isAnonymous   properties.isArchived Microsoft.MachineLearningServices/workspaces/components/versions/isArchived    </description>
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/components/versions/description   properties.tags Microsoft.MachineLearningServices/workspaces/components/versions/tags   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/components/versions/isAnonymous   properties.isArchived Microsoft.MachineLearningServices/workspaces/components/versions/isArchived   properties.provisioningState Microsoft.MachineLearningServices/workspaces/components/versions/provisioningState    </description>
     </item>
     
     <item>
@@ -62,7 +72,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/components
-   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/components/description   properties.tags Microsoft.MachineLearningServices/workspaces/components/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/components/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/components/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/components/nextVersion    </description>
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/components/description   properties.tags Microsoft.MachineLearningServices/workspaces/components/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/components/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/components/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/components/nextVersion   properties.provisioningState Microsoft.MachineLearningServices/workspaces/components/provisioningState    </description>
     </item>
     
     <item>
@@ -132,7 +142,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/environments
-   Default Path Alias     properties.tags Microsoft.MachineLearningServices/workspaces/environments/tags   properties.description Microsoft.MachineLearningServices/workspaces/environments/description   properties.isArchived Microsoft.MachineLearningServices/workspaces/environments/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/environments/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/environments/nextVersion    </description>
+   Default Path Alias     properties.tags Microsoft.MachineLearningServices/workspaces/environments/tags   properties.description Microsoft.MachineLearningServices/workspaces/environments/description   properties.isArchived Microsoft.MachineLearningServices/workspaces/environments/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/environments/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/environments/nextVersion   properties.provisioningState Microsoft.MachineLearningServices/workspaces/environments/provisioningState    </description>
     </item>
     
     <item>
@@ -162,7 +172,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models-versions/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/models/versions
-   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/models/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/models/versions/description   properties.flavors Microsoft.MachineLearningServices/workspaces/models/versions/flavors   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/models/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/models/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/models/versions/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/models/versions/isArchived   properties.jobName Microsoft.MachineLearningServices/workspaces/models/versions/jobName   properties.modelType Microsoft.MachineLearningServices/workspaces/models/versions/modelType   properties.modelUri Microsoft.MachineLearningServices/workspaces/models/versions/modelUri    </description>
+   Default Path Alias     properties.datastoreId Microsoft.MachineLearningServices/workspaces/models/versions/datastoreId   properties.description Microsoft.MachineLearningServices/workspaces/models/versions/description   properties.flavors Microsoft.MachineLearningServices/workspaces/models/versions/flavors   properties.isAnonymous Microsoft.MachineLearningServices/workspaces/models/versions/isAnonymous   properties.path Microsoft.MachineLearningServices/workspaces/models/versions/path   properties.tags Microsoft.MachineLearningServices/workspaces/models/versions/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/models/versions/isArchived   properties.jobName Microsoft.MachineLearningServices/workspaces/models/versions/jobName   properties.modelType Microsoft.MachineLearningServices/workspaces/models/versions/modelType   properties.modelUri Microsoft.MachineLearningServices/workspaces/models/versions/modelUri   properties.provisioningState Microsoft.MachineLearningServices/workspaces/models/versions/provisioningState    </description>
     </item>
     
     <item>
@@ -172,7 +182,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models/</guid>
       <description>Link to resource definition: Microsoft.MachineLearningServices/workspaces/models
-   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/models/description   properties.tags Microsoft.MachineLearningServices/workspaces/models/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/models/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/models/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/models/nextVersion    </description>
+   Default Path Alias     properties.description Microsoft.MachineLearningServices/workspaces/models/description   properties.tags Microsoft.MachineLearningServices/workspaces/models/tags   properties.isArchived Microsoft.MachineLearningServices/workspaces/models/isArchived   properties.latestVersion Microsoft.MachineLearningServices/workspaces/models/latestVersion   properties.nextVersion Microsoft.MachineLearningServices/workspaces/models/nextVersion   properties.provisioningState Microsoft.MachineLearningServices/workspaces/models/provisioningState    </description>
     </item>
     
     <item>
