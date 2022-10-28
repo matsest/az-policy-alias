@@ -77,6 +77,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies/</guid>
+      <description>Link to resource definition: Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies
+   Default Path Alias     properties.resourceGuardResourceId Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/resourceGuardResourceId   properties.resourceGuardOperationDetails Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/resourceGuardOperationDetails   properties.resourceGuardOperationDetails[*] Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/resourceGuardOperationDetails[*]   properties.resourceGuardOperationDetails[*].vaultCriticalOperation Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/resourceGuardOperationDetails[*].vaultCriticalOperation   properties.resourceGuardOperationDetails[*].defaultResourceRequest Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/resourceGuardOperationDetails[*].defaultResourceRequest   properties.lastUpdatedTime Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/lastUpdatedTime   properties.description Microsoft.RecoveryServices/vaults/backupResourceGuardProxies/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupstorageconfig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,6 +103,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-extendedInformation/</guid>
       <description>Link to resource definition: Microsoft.RecoveryServices/Vaults/extendedInformation
    Default Path Alias     properties.integrityKey Microsoft.RecoveryServices/Vaults/extendedInformation/vaultExtendedInfo.integrityKey   properties.encryptionKey Microsoft.RecoveryServices/Vaults/extendedInformation/vaultExtendedInfo.encryptionKey   properties.encryptionKeyThumbprint Microsoft.RecoveryServices/Vaults/extendedInformation/vaultExtendedInfo.encryptionKeyThumbprint   properties.algorithm Microsoft.RecoveryServices/Vaults/extendedInformation/vaultExtendedInfo.algorithm   properties.integrityKey Microsoft.RecoveryServices/vaults/extendedInformation/integrityKey   properties.encryptionKey Microsoft.RecoveryServices/vaults/extendedInformation/encryptionKey   properties.encryptionKeyThumbprint Microsoft.RecoveryServices/vaults/extendedInformation/encryptionKeyThumbprint   properties.algorithm Microsoft.RecoveryServices/vaults/extendedInformation/algorithm    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.RecoveryServices/Vaults/privateEndpointConnections
+   Default Path Alias     properties.provisioningState Microsoft.RecoveryServices/vaults/privateEndpointConnections/provisioningState   properties.privateEndpoint Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired    </description>
     </item>
     
     <item>

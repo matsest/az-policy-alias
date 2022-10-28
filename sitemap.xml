@@ -959,6 +959,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/BackupVaults/</loc>
     <priority>0</priority>
   </url><url>
@@ -2513,10 +2516,16 @@
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupstorageconfig/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-extendedInformation/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-privateEndpointConnections/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationAlertSettings/</loc>
