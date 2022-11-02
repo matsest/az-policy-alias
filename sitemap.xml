@@ -2876,7 +2876,13 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-administrators/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-advancedThreatProtectionSettings/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-azureADOnlyAuthentications/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-advancedThreatProtectionSettings/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-backupLongTermRetentionPolicies/</loc>
@@ -2906,6 +2912,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-distributedAvailabilityGroups/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-dtc/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-encryptionProtector/</loc>
     <priority>0</priority>
   </url><url>
@@ -2933,6 +2942,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-administrators/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-advancedThreatProtectionSettings/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-advisors/</loc>
     <priority>0</priority>
   </url><url>
@@ -2955,6 +2967,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-connectionPolicies/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advancedThreatProtectionSettings/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advisors-recommendedActions/</loc>
@@ -3002,6 +3017,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-securityAlertPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-syncGroups-syncMembers/</loc>
     <priority>0</priority>
   </url><url>
@@ -3047,6 +3065,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-firewallRules/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-ipv6FirewallRules/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-credentials/</loc>
     <priority>0</priority>
   </url><url>
@@ -3072,6 +3093,12 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-securityAlertPolicies/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlvulnerabilityassessments/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-syncAgents/</loc>

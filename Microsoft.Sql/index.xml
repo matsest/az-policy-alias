@@ -47,12 +47,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.Sql/managedInstances/advancedThreatProtectionSettings
+   Default Path Alias     properties.state Microsoft.Sql/managedInstances/advancedThreatProtectionSettings/state   properties.creationTime Microsoft.Sql/managedInstances/advancedThreatProtectionSettings/creationTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-azureADOnlyAuthentications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-azureADOnlyAuthentications/</guid>
       <description>Link to resource definition: Microsoft.Sql/managedInstances/azureADOnlyAuthentications
    Default Path Alias     properties.azureADOnlyAuthentication Microsoft.Sql/managedInstances/azureADOnlyAuthentications/azureADOnlyAuthentication    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings
+   Default Path Alias     properties.state Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings/state   properties.creationTime Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings/creationTime    </description>
     </item>
     
     <item>
@@ -142,7 +162,17 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-distributedAvailabilityGroups/</guid>
       <description>Link to resource definition: Microsoft.Sql/managedInstances/distributedAvailabilityGroups
-   Default Path Alias     properties.targetDatabase Microsoft.Sql/managedInstances/distributedAvailabilityGroups/targetDatabase   properties.sourceEndpoint Microsoft.Sql/managedInstances/distributedAvailabilityGroups/sourceEndpoint   properties.primaryAvailabilityGroupName Microsoft.Sql/managedInstances/distributedAvailabilityGroups/primaryAvailabilityGroupName   properties.secondaryAvailabilityGroupName Microsoft.Sql/managedInstances/distributedAvailabilityGroups/secondaryAvailabilityGroupName   properties.replicationMode Microsoft.Sql/managedInstances/distributedAvailabilityGroups/replicationMode   properties.distributedAvailabilityGroupId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/distributedAvailabilityGroupId   properties.sourceReplicaId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/sourceReplicaId   properties.targetReplicaId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/targetReplicaId   properties.linkState Microsoft.Sql/managedInstances/distributedAvailabilityGroups/linkState   properties.lastHardenedLsn Microsoft.Sql/managedInstances/distributedAvailabilityGroups/lastHardenedLsn    </description>
+   Default Path Alias     properties.targetDatabase Microsoft.Sql/managedInstances/distributedAvailabilityGroups/targetDatabase   properties.sourceEndpoint Microsoft.Sql/managedInstances/distributedAvailabilityGroups/sourceEndpoint   properties.primaryAvailabilityGroupName Microsoft.Sql/managedInstances/distributedAvailabilityGroups/primaryAvailabilityGroupName   properties.secondaryAvailabilityGroupName Microsoft.Sql/managedInstances/distributedAvailabilityGroups/secondaryAvailabilityGroupName   properties.replicationMode Microsoft.Sql/managedInstances/distributedAvailabilityGroups/replicationMode   properties.distributedAvailabilityGroupId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/distributedAvailabilityGroupId   properties.sourceReplicaId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/sourceReplicaId   properties.targetReplicaId Microsoft.Sql/managedInstances/distributedAvailabilityGroups/targetReplicaId   properties.linkState Microsoft.Sql/managedInstances/distributedAvailabilityGroups/linkState   properties.lastHardenedLsn Microsoft.Sql/managedInstances/distributedAvailabilityGroups/lastHardenedLsn   properties.instanceRole Microsoft.Sql/managedInstances/distributedAvailabilityGroups/instanceRole    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-dtc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-dtc/</guid>
+      <description>Link to resource definition: Microsoft.Sql/managedInstances/dtc
+   Default Path Alias     properties.dtcEnabled Microsoft.Sql/managedInstances/dtc/dtcEnabled   properties.securitySettings Microsoft.Sql/managedInstances/dtc/securitySettings   properties.securitySettings.transactionManagerCommunicationSettings Microsoft.Sql/managedInstances/dtc/securitySettings.transactionManagerCommunicationSettings   properties.securitySettings.transactionManagerCommunicationSettings.allowInboundEnabled Microsoft.Sql/managedInstances/dtc/securitySettings.transactionManagerCommunicationSettings.allowInboundEnabled   properties.securitySettings.transactionManagerCommunicationSettings.allowOutboundEnabled Microsoft.Sql/managedInstances/dtc/securitySettings.transactionManagerCommunicationSettings.allowOutboundEnabled   properties.securitySettings.transactionManagerCommunicationSettings.authentication Microsoft.Sql/managedInstances/dtc/securitySettings.transactionManagerCommunicationSettings.authentication   properties.securitySettings.xaTransactionsEnabled Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsEnabled   properties.securitySettings.snaLu6point2TransactionsEnabled Microsoft.Sql/managedInstances/dtc/securitySettings.snaLu6point2TransactionsEnabled   properties.externalDnsSuffixSearchList Microsoft.Sql/managedInstances/dtc/externalDnsSuffixSearchList   properties.externalDnsSuffixSearchList[*] Microsoft.Sql/managedInstances/dtc/externalDnsSuffixSearchList[*]   properties.dtcHostNameDnsSuffix Microsoft.Sql/managedInstances/dtc/dtcHostNameDnsSuffix   properties.provisioningState Microsoft.Sql/managedInstances/dtc/provisioningState   properties.securitySettings.xaTransactionsDefaultTimeout Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsDefaultTimeout   properties.securitySettings.xaTransactionsMaximumTimeout Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsMaximumTimeout    </description>
     </item>
     
     <item>
@@ -237,6 +267,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/advancedThreatProtectionSettings
+   Default Path Alias     properties.state Microsoft.Sql/servers/advancedThreatProtectionSettings/state   properties.creationTime Microsoft.Sql/servers/advancedThreatProtectionSettings/creationTime    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Sql/servers-advisors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -313,6 +353,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-connectionPolicies/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/connectionPolicies
    Default Path Alias     properties.connectionType Microsoft.Sql/servers/connectionPolicies/connectionType   properties.connectionType Microsoft.Sql/servers/connectionPolicies/default.connectionType    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/databases/advancedThreatProtectionSettings
+   Default Path Alias     properties.state Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/state   properties.creationTime Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/creationTime    </description>
     </item>
     
     <item>
@@ -467,6 +517,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines
+   Default Path Alias     properties.results Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/results    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-syncGroups-syncMembers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -552,7 +612,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-devOpsAuditingSettings/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/devOpsAuditingSettings
-   Default Path Alias     properties.isAzureMonitorTargetEnabled Microsoft.Sql/servers/devOpsAuditingSettings/isAzureMonitorTargetEnabled   properties.state Microsoft.Sql/servers/devOpsAuditingSettings/state   properties.storageEndpoint Microsoft.Sql/servers/devOpsAuditingSettings/storageEndpoint   properties.storageAccountAccessKey Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountAccessKey   properties.storageAccountSubscriptionId Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountSubscriptionId    </description>
+   Default Path Alias     properties.isAzureMonitorTargetEnabled Microsoft.Sql/servers/devOpsAuditingSettings/isAzureMonitorTargetEnabled   properties.state Microsoft.Sql/servers/devOpsAuditingSettings/state   properties.storageEndpoint Microsoft.Sql/servers/devOpsAuditingSettings/storageEndpoint   properties.storageAccountAccessKey Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountAccessKey   properties.storageAccountSubscriptionId Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountSubscriptionId   properties.isManagedIdentityInUse Microsoft.Sql/servers/devOpsAuditingSettings/isManagedIdentityInUse    </description>
     </item>
     
     <item>
@@ -613,6 +673,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-firewallRules/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/firewallRules
    Default Path Alias     properties.startIpAddress Microsoft.Sql/servers/firewallRules/startIpAddress   properties.endIpAddress Microsoft.Sql/servers/firewallRules/endIpAddress    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-ipv6FirewallRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-ipv6FirewallRules/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/ipv6FirewallRules
+   Default Path Alias     properties.startIPv6Address Microsoft.Sql/servers/ipv6FirewallRules/startIPv6Address   properties.endIPv6Address Microsoft.Sql/servers/ipv6FirewallRules/endIPv6Address    </description>
     </item>
     
     <item>
@@ -707,6 +777,26 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines
+   Default Path Alias     properties.results Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/results    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlvulnerabilityassessments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlvulnerabilityassessments/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/sqlvulnerabilityassessments
+   Default Path Alias     properties.state Microsoft.Sql/servers/sqlVulnerabilityAssessments/state    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Sql/servers-syncAgents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -752,7 +842,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Sql/virtualClusters/</guid>
       <description>Link to resource definition: Microsoft.Sql/virtualClusters
-   Default Path Alias     properties.subnetId Microsoft.Sql/virtualClusters/subnetId   properties.family Microsoft.Sql/virtualClusters/family   properties.childResources Microsoft.Sql/virtualClusters/childResources   properties.childResources[*] Microsoft.Sql/virtualClusters/childResources[*]   properties.maintenanceConfigurationId Microsoft.Sql/virtualClusters/maintenanceConfigurationId    </description>
+   Default Path Alias     properties.subnetId Microsoft.Sql/virtualClusters/subnetId   properties.family Microsoft.Sql/virtualClusters/family   properties.childResources Microsoft.Sql/virtualClusters/childResources   properties.childResources[*] Microsoft.Sql/virtualClusters/childResources[*]   properties.maintenanceConfigurationId Microsoft.Sql/virtualClusters/maintenanceConfigurationId   properties.version Microsoft.Sql/virtualClusters/version    </description>
     </item>
     
   </channel>
