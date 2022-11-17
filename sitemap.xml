@@ -839,6 +839,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Databricks/accessConnectors/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-privateEndpointConnections/</loc>
     <priority>0</priority>
   </url><url>

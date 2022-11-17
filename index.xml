@@ -2457,6 +2457,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Databricks/accessConnectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Databricks/accessConnectors/</guid>
+      <description>Link to resource definition: Microsoft.Databricks/accessConnectors
+   Default Path Alias     properties.provisioningState Microsoft.Databricks/accessConnectors/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -7682,7 +7692,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-networkrulesets/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/networkrulesets
-   Default Path Alias     properties.defaultAction Microsoft.Relay/namespaces/networkRuleSets/defaultAction   properties.ipRules Microsoft.Relay/namespaces/networkRuleSets/ipRules   properties.ipRules[*] Microsoft.Relay/namespaces/networkRuleSets/ipRules[*]   properties.ipRules[*].ipMask Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].ipMask   properties.ipRules[*].action Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].action    </description>
+   Default Path Alias     properties.defaultAction Microsoft.Relay/namespaces/networkRuleSets/defaultAction   properties.ipRules Microsoft.Relay/namespaces/networkRuleSets/ipRules   properties.ipRules[*] Microsoft.Relay/namespaces/networkRuleSets/ipRules[*]   properties.ipRules[*].ipMask Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].ipMask   properties.ipRules[*].action Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].action   properties.publicNetworkAccess Microsoft.Relay/namespaces/networkRuleSets/publicNetworkAccess    </description>
     </item>
     
     <item>
@@ -7722,7 +7732,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces
-   Default Path Alias     sku Microsoft.Relay/namespaces/sku   sku.name Microsoft.Relay/namespaces/sku.name   sku.tier Microsoft.Relay/namespaces/sku.tier   properties.provisioningState Microsoft.Relay/namespaces/provisioningState   properties.createdAt Microsoft.Relay/namespaces/createdAt   properties.updatedAt Microsoft.Relay/namespaces/updatedAt   properties.serviceBusEndpoint Microsoft.Relay/namespaces/serviceBusEndpoint   properties.metricId Microsoft.Relay/namespaces/metricId    </description>
+   Default Path Alias     sku Microsoft.Relay/namespaces/sku   sku.name Microsoft.Relay/namespaces/sku.name   sku.tier Microsoft.Relay/namespaces/sku.tier   properties.provisioningState Microsoft.Relay/namespaces/provisioningState   properties.createdAt Microsoft.Relay/namespaces/createdAt   properties.updatedAt Microsoft.Relay/namespaces/updatedAt   properties.serviceBusEndpoint Microsoft.Relay/namespaces/serviceBusEndpoint   properties.metricId Microsoft.Relay/namespaces/metricId   properties.status Microsoft.Relay/namespaces/status   properties.privateEndpointConnections Microsoft.Relay/namespaces/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.Relay/namespaces/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.Relay/namespaces/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.Relay/namespaces/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.Relay/namespaces/privateEndpointConnections[*].type   properties.</description>
     </item>
     
     <item>
