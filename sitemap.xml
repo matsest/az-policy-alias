@@ -1109,6 +1109,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-msixpackages/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</loc>
     <priority>0</priority>
   </url><url>
