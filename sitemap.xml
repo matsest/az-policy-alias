@@ -2102,6 +2102,24 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/ddosProtectionPlans/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-forwardingRules/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-inboundEndpoints/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-outboundEndpoints/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-A/</loc>
     <priority>0</priority>
   </url><url>
@@ -2157,6 +2175,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteGateways/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts-authorizations/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts/</loc>
@@ -2216,6 +2237,27 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkInterfaces/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkProfiles/</loc>
     <priority>0</priority>
   </url><url>
@@ -2223,6 +2265,12 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityGroups/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-resourceAssociations/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters/</loc>
@@ -2315,6 +2363,15 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/serviceEndpointPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-azureendpoints/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-externalendpoints/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-nestedendpoints/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles/</loc>
     <priority>0</priority>
   </url><url>
@@ -2333,6 +2390,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-ipConfigurations/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeMaps/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeTables/</loc>
     <priority>0</priority>
   </url><url>
@@ -2340,6 +2400,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways/</loc>
@@ -2373,6 +2436,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnGateways/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations/</loc>
@@ -2814,6 +2880,21 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/dryruns/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/linkers/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-connectors/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-dryruns/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/</loc>

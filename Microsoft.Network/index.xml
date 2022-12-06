@@ -102,7 +102,67 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Network/ddosProtectionPlans/</guid>
       <description>Link to resource definition: Microsoft.Network/ddosProtectionPlans
-   Default Path Alias     properties.resourceGuid Microsoft.Network/ddosProtectionPlans/resourceGuid   properties.provisioningState Microsoft.Network/ddosProtectionPlans/provisioningState   properties.virtualNetworks[*].id Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id   properties.virtualNetworks[*] Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]   properties.virtualNetworks Microsoft.Network/ddosProtectionPlans/virtualNetworks    </description>
+   Default Path Alias     properties.resourceGuid Microsoft.Network/ddosProtectionPlans/resourceGuid   properties.provisioningState Microsoft.Network/ddosProtectionPlans/provisioningState   properties.virtualNetworks[*].id Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id   properties.virtualNetworks[*] Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]   properties.virtualNetworks Microsoft.Network/ddosProtectionPlans/virtualNetworks   properties.publicIpAddresses Microsoft.Network/ddosProtectionPlans/publicIpAddresses   properties.publicIpAddresses[*] Microsoft.Network/ddosProtectionPlans/publicIpAddresses[*]   properties.publicIpAddresses[*].id Microsoft.Network/ddosProtectionPlans/publicIpAddresses[*].id    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-forwardingRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-forwardingRules/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsForwardingRulesets/forwardingRules
+   Default Path Alias     properties.domainName Microsoft.Network/dnsForwardingRulesets/forwardingRules/domainName   properties.targetDnsServers Microsoft.Network/dnsForwardingRulesets/forwardingRules/targetDnsServers   properties.targetDnsServers[*] Microsoft.Network/dnsForwardingRulesets/forwardingRules/targetDnsServers[*]   properties.targetDnsServers[*].ipAddress Microsoft.Network/dnsForwardingRulesets/forwardingRules/targetDnsServers[*].ipAddress   properties.targetDnsServers[*].port Microsoft.Network/dnsForwardingRulesets/forwardingRules/targetDnsServers[*].port   properties.metadata Microsoft.Network/dnsForwardingRulesets/forwardingRules/metadata   properties.forwardingRuleState Microsoft.Network/dnsForwardingRulesets/forwardingRules/forwardingRuleState   properties.provisioningState Microsoft.Network/dnsForwardingRulesets/forwardingRules/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks
+   Default Path Alias     properties.virtualNetwork Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks/virtualNetwork   properties.virtualNetwork.id Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks/virtualNetwork.id   properties.metadata Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks/metadata   properties.provisioningState Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsForwardingRulesets
+   Default Path Alias     properties.dnsResolverOutboundEndpoints Microsoft.Network/dnsForwardingRulesets/dnsResolverOutboundEndpoints   properties.dnsResolverOutboundEndpoints[*] Microsoft.Network/dnsForwardingRulesets/dnsResolverOutboundEndpoints[*]   properties.dnsResolverOutboundEndpoints[*].id Microsoft.Network/dnsForwardingRulesets/dnsResolverOutboundEndpoints[*].id   properties.provisioningState Microsoft.Network/dnsForwardingRulesets/provisioningState   properties.resourceGuid Microsoft.Network/dnsForwardingRulesets/resourceGuid    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-inboundEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-inboundEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsResolvers/inboundEndpoints
+   Default Path Alias     properties.ipConfigurations Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations   properties.ipConfigurations[*] Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*]   properties.ipConfigurations[*].subnet Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*].subnet   properties.ipConfigurations[*].subnet.id Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*].subnet.id   properties.ipConfigurations[*].privateIpAddress Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*].privateIpAddress   properties.ipConfigurations[*].privateIpAllocationMethod Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*].privateIpAllocationMethod   properties.provisioningState Microsoft.Network/dnsResolvers/inboundEndpoints/provisioningState   properties.resourceGuid Microsoft.Network/dnsResolvers/inboundEndpoints/resourceGuid    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-outboundEndpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-outboundEndpoints/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsResolvers/outboundEndpoints
+   Default Path Alias     properties.subnet Microsoft.Network/dnsResolvers/outboundEndpoints/subnet   properties.subnet.id Microsoft.Network/dnsResolvers/outboundEndpoints/subnet.id   properties.provisioningState Microsoft.Network/dnsResolvers/outboundEndpoints/provisioningState   properties.resourceGuid Microsoft.Network/dnsResolvers/outboundEndpoints/resourceGuid    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers/</guid>
+      <description>Link to resource definition: Microsoft.Network/dnsResolvers
+   Default Path Alias     properties.virtualNetwork Microsoft.Network/dnsResolvers/virtualNetwork   properties.virtualNetwork.id Microsoft.Network/dnsResolvers/virtualNetwork.id   properties.dnsResolverState Microsoft.Network/dnsResolvers/dnsResolverState   properties.provisioningState Microsoft.Network/dnsResolvers/provisioningState   properties.resourceGuid Microsoft.Network/dnsResolvers/resourceGuid    </description>
     </item>
     
     <item>
@@ -297,6 +357,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts-authorizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts-authorizations/</guid>
+      <description>Link to resource definition: Microsoft.Network/expressRoutePorts/authorizations
+   Default Path Alias     properties.authorizationKey Microsoft.Network/expressRoutePorts/authorizations/authorizationKey   properties.authorizationUseStatus Microsoft.Network/expressRoutePorts/authorizations/authorizationUseStatus   properties.circuitResourceUri Microsoft.Network/expressRoutePorts/authorizations/circuitResourceUri   properties.provisioningState Microsoft.Network/expressRoutePorts/authorizations/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -487,6 +557,76 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagerConnections
+   Default Path Alias     properties.networkManagerId Microsoft.Network/networkManagerConnections/networkManagerId   properties.connectionState Microsoft.Network/networkManagerConnections/connectionState   properties.description Microsoft.Network/networkManagerConnections/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/connectivityConfigurations
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/connectivityConfigurations/displayName   properties.description Microsoft.Network/networkManagers/connectivityConfigurations/description   properties.connectivityTopology Microsoft.Network/networkManagers/connectivityConfigurations/connectivityTopology   properties.hubs Microsoft.Network/networkManagers/connectivityConfigurations/hubs   properties.hubs[*] Microsoft.Network/networkManagers/connectivityConfigurations/hubs[*]   properties.hubs[*].resourceId Microsoft.Network/networkManagers/connectivityConfigurations/hubs[*].resourceId   properties.hubs[*].resourceType Microsoft.Network/networkManagers/connectivityConfigurations/hubs[*].resourceType   properties.isGlobal Microsoft.Network/networkManagers/connectivityConfigurations/isGlobal   properties.appliesToGroups Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups   properties.appliesToGroups[*] Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*]   properties.appliesToGroups[*].networkGroupId Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*].networkGroupId   properties.appliesToGroups[*].useHubGateway Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*].useHubGateway   properties.appliesToGroups[*].isGlobal Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*].isGlobal   properties.appliesToGroups[*].groupConnectivity Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*].groupConnectivity   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/networkGroups
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/networkGroups/displayName   properties.description Microsoft.Network/networkManagers/networkGroups/description   properties.memberType Microsoft.Network/networkManagers/networkGroups/memberType   properties.groupMembers Microsoft.Network/networkManagers/networkGroups/groupMembers   properties.groupMembers[*] Microsoft.Network/networkManagers/networkGroups/groupMembers[*]   properties.groupMembers[*].resourceId Microsoft.Network/networkManagers/networkGroups/groupMembers[*].resourceId   properties.conditionalMembership Microsoft.Network/networkManagers/networkGroups/conditionalMembership   properties.provisioningState Microsoft.Network/networkManagers/networkGroups/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/scopeConnections
+   Default Path Alias     properties.tenantId Microsoft.Network/networkManagers/scopeConnections/tenantId   properties.resourceId Microsoft.Network/networkManagers/scopeConnections/resourceId   properties.connectionState Microsoft.Network/networkManagers/scopeConnections/connectionState   properties.description Microsoft.Network/networkManagers/scopeConnections/description    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityAdminConfigurations
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/displayName   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/description   properties.securityType Microsoft.Network/networkManagers/securityAdminConfigurations/securityType   properties.deleteExistingNSGs Microsoft.Network/networkManagers/securityAdminConfigurations/deleteExistingNSGs   properties.provisioningState Microsoft.Network/networkManagers/securityAdminConfigurations/provisioningState   properties.applyOnNetworkIntentPolicyBasedServices Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices   properties.applyOnNetworkIntentPolicyBasedServices[*] Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityUserConfigurations
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityUserConfigurations/displayName   properties.description Microsoft.Network/networkManagers/securityUserConfigurations/description   properties.securityType Microsoft.Network/networkManagers/securityUserConfigurations/securityType   properties.deleteExistingNSGs Microsoft.Network/networkManagers/securityUserConfigurations/deleteExistingNSGs   properties.provisioningState Microsoft.Network/networkManagers/securityUserConfigurations/provisioningState   properties.applyOnNetworkIntentPolicyBasedServices Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices   properties.applyOnNetworkIntentPolicyBasedServices[*] Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/displayName   properties.description Microsoft.Network/networkManagers/description   properties.networkManagerScopes Microsoft.Network/networkManagers/networkManagerScopes   properties.networkManagerScopes.managementGroups Microsoft.Network/networkManagers/networkManagerScopes.managementGroups   properties.networkManagerScopes.managementGroups[*] Microsoft.Network/networkManagers/networkManagerScopes.managementGroups[*]   properties.networkManagerScopes.subscriptions Microsoft.Network/networkManagers/networkManagerScopes.subscriptions   properties.networkManagerScopes.subscriptions[*] Microsoft.Network/networkManagers/networkManagerScopes.subscriptions[*]   properties.networkManagerScopeAccesses Microsoft.Network/networkManagers/networkManagerScopeAccesses   properties.networkManagerScopeAccesses[*] Microsoft.Network/networkManagers/networkManagerScopeAccesses[*]   properties.provisioningState Microsoft.Network/networkManagers/provisioningState   properties.networkManagerScopes.crossTenantScopes Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes   properties.networkManagerScopes.crossTenantScopes[*] Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes[*]   properties.networkManagerScopes.crossTenantScopes[*].tenantId Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes[*].tenantId   properties.networkManagerScopes.crossTenantScopes[*].managementGroups Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes[*].managementGroups   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/networkProfiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -517,12 +657,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkSecurityPerimeters/profiles
+   Default Path Alias     properties.accessRulesVersion Microsoft.Network/networkSecurityPerimeters/profiles/accessRulesVersion   properties.diagnosticSettingsVersion Microsoft.Network/networkSecurityPerimeters/profiles/diagnosticSettingsVersion    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-resourceAssociations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-resourceAssociations/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkSecurityPerimeters/resourceAssociations
+   Default Path Alias     properties.provisioningState Microsoft.Network/networkSecurityPerimeters/resourceAssociations/provisioningState   properties.privateLinkResource Microsoft.Network/networkSecurityPerimeters/resourceAssociations/privateLinkResource   properties.privateLinkResource.id Microsoft.Network/networkSecurityPerimeters/resourceAssociations/privateLinkResource.id   properties.profile Microsoft.Network/networkSecurityPerimeters/resourceAssociations/profile   properties.profile.id Microsoft.Network/networkSecurityPerimeters/resourceAssociations/profile.id   properties.accessMode Microsoft.Network/networkSecurityPerimeters/resourceAssociations/accessMode   properties.hasProvisioningIssues Microsoft.Network/networkSecurityPerimeters/resourceAssociations/hasProvisioningIssues    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters/</guid>
       <description>Link to resource definition: Microsoft.Network/networkSecurityPerimeters
-   Default Path Alias     properties.displayName Microsoft.Network/networkSecurityPerimeters/displayName   properties.description Microsoft.Network/networkSecurityPerimeters/description   properties.provisioningState Microsoft.Network/networkSecurityPerimeters/provisioningState    </description>
+   Default Path Alias     properties.displayName Microsoft.Network/networkSecurityPerimeters/displayName   properties.description Microsoft.Network/networkSecurityPerimeters/description   properties.provisioningState Microsoft.Network/networkSecurityPerimeters/provisioningState   properties.perimeterGuid Microsoft.Network/networkSecurityPerimeters/perimeterGuid    </description>
     </item>
     
     <item>
@@ -572,7 +732,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Network/networkWatchers/</guid>
       <description>Link to resource definition: Microsoft.Network/networkWatchers
-   Default Path Alias     properties.provisioningState Microsoft.Network/networkWatchers/provisioningState    </description>
+   Default Path Alias     properties.provisioningState Microsoft.Network/networkWatchers/provisioningState   properties.runningOperationIds Microsoft.Network/networkWatchers/runningOperationIds   properties.runningOperationIds[*] Microsoft.Network/networkWatchers/runningOperationIds[*]    </description>
     </item>
     
     <item>
@@ -817,6 +977,36 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-azureendpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-azureendpoints/</guid>
+      <description>Link to resource definition: Microsoft.Network/trafficmanagerprofiles/azureendpoints
+   Default Path Alias     properties.targetResourceId Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/targetResourceId   properties.target Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/target   properties.endpointStatus Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/endpointStatus   properties.weight Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/weight   properties.priority Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/priority   properties.endpointLocation Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/endpointLocation   properties.endpointMonitorStatus Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/endpointMonitorStatus   properties.minChildEndpoints Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/minChildEndpoints   properties.minChildEndpointsIPv4 Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/minChildEndpointsIPv4   properties.minChildEndpointsIPv6 Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/minChildEndpointsIPv6   properties.geoMapping Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/geoMapping   properties.geoMapping[*] Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/geoMapping[*]   properties.subnets Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/subnets   properties.subnets[*] Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/subnets[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-externalendpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-externalendpoints/</guid>
+      <description>Link to resource definition: Microsoft.Network/trafficmanagerprofiles/externalendpoints
+   Default Path Alias     properties.targetResourceId Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/targetResourceId   properties.target Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/target   properties.endpointStatus Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/endpointStatus   properties.weight Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/weight   properties.priority Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/priority   properties.endpointLocation Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/endpointLocation   properties.endpointMonitorStatus Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/endpointMonitorStatus   properties.minChildEndpoints Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/minChildEndpoints   properties.minChildEndpointsIPv4 Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/minChildEndpointsIPv4   properties.minChildEndpointsIPv6 Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/minChildEndpointsIPv6   properties.geoMapping Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/geoMapping   properties.geoMapping[*] Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/geoMapping[*]   properties.subnets Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/subnets   properties.subnets[*] Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/subnets[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-nestedendpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-nestedendpoints/</guid>
+      <description>Link to resource definition: Microsoft.Network/trafficmanagerprofiles/nestedendpoints
+   Default Path Alias     properties.targetResourceId Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/targetResourceId   properties.target Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/target   properties.endpointStatus Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/endpointStatus   properties.weight Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/weight   properties.priority Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/priority   properties.endpointLocation Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/endpointLocation   properties.endpointMonitorStatus Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/endpointMonitorStatus   properties.minChildEndpoints Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/minChildEndpoints   properties.minChildEndpointsIPv4 Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/minChildEndpointsIPv4   properties.minChildEndpointsIPv6 Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/minChildEndpointsIPv6   properties.geoMapping Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/geoMapping   properties.geoMapping[*] Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/geoMapping[*]   properties.subnets Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/subnets   properties.subnets[*] Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/subnets[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -877,6 +1067,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeMaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeMaps/</guid>
+      <description>Link to resource definition: Microsoft.Network/virtualHubs/routeMaps
+   Default Path Alias     properties.associatedInboundConnections Microsoft.Network/virtualHubs/routeMaps/associatedInboundConnections   properties.associatedInboundConnections[*] Microsoft.Network/virtualHubs/routeMaps/associatedInboundConnections[*]   properties.associatedOutboundConnections Microsoft.Network/virtualHubs/routeMaps/associatedOutboundConnections   properties.associatedOutboundConnections[*] Microsoft.Network/virtualHubs/routeMaps/associatedOutboundConnections[*]   properties.rules Microsoft.Network/virtualHubs/routeMaps/rules   properties.rules[*] Microsoft.Network/virtualHubs/routeMaps/rules[*]   properties.rules[*].name Microsoft.Network/virtualHubs/routeMaps/rules[*].name   properties.rules[*].matchCriteria Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria   properties.rules[*].matchCriteria[*] Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*]   properties.rules[*].matchCriteria[*].routePrefix Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*].routePrefix   properties.rules[*].matchCriteria[*].routePrefix[*] Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*].routePrefix[*]   properties.rules[*].matchCriteria[*].community Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*].community   properties.rules[*].matchCriteria[*].community[*] Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*].community[*]   properties.rules[*].matchCriteria[*].asPath Microsoft.Network/virtualHubs/routeMaps/rules[*].matchCriteria[*].asPath   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeTables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -903,6 +1103,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</guid>
       <description>Link to resource definition: Microsoft.Network/virtualHubs
    Default Path Alias     properties.virtualWan.id Microsoft.Network/virtualHubs/virtualWan.id   properties.virtualWan Microsoft.Network/virtualHubs/virtualWan   properties.hubVirtualNetworkConnections[*].properties.remoteVirtualNetwork.id Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork.id   properties.hubVirtualNetworkConnections[*].properties.remoteVirtualNetwork Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork   properties.hubVirtualNetworkConnections[*].properties.allowHubToRemoteVnetTransit Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowHubToRemoteVnetTransit   properties.hubVirtualNetworkConnections[*].properties.allowRemoteVnetToUseHubVnetGateways Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways   properties.hubVirtualNetworkConnections[*].properties.provisioningState Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].provisioningState   properties.hubVirtualNetworkConnections[*].etag Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].etag   properties.hubVirtualNetworkConnections[*] Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*]   properties.hubVirtualNetworkConnections Microsoft.Network/virtualHubs/hubVirtualNetworkConnections   properties.hubVirtualNetworkConnections[*].id Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].id   properties.hubVirtualNetworkConnections[*].name Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].name   properties.hubVirtualNetworkConnections[*].type Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].type   properties.hubVirtualNetworkConnections[*].location Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].location   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</guid>
+      <description>Link to resource definition: Microsoft.Network/virtualNetworkGateways/natRules
+   Default Path Alias     properties.provisioningState Microsoft.Network/virtualNetworkGateways/natRules/provisioningState   properties.type Microsoft.Network/virtualNetworkGateways/natRules/type   properties.mode Microsoft.Network/virtualNetworkGateways/natRules/mode   properties.internalMappings Microsoft.Network/virtualNetworkGateways/natRules/internalMappings   properties.internalMappings[*] Microsoft.Network/virtualNetworkGateways/natRules/internalMappings[*]   properties.internalMappings[*].addressSpace Microsoft.Network/virtualNetworkGateways/natRules/internalMappings[*].addressSpace   properties.externalMappings Microsoft.Network/virtualNetworkGateways/natRules/externalMappings   properties.externalMappings[*] Microsoft.Network/virtualNetworkGateways/natRules/externalMappings[*]   properties.externalMappings[*].addressSpace Microsoft.Network/virtualNetworkGateways/natRules/externalMappings[*].addressSpace   properties.ipConfigurationId Microsoft.Network/virtualNetworkGateways/natRules/ipConfigurationId   properties.internalMappings[*].portRange Microsoft.Network/virtualNetworkGateways/natRules/internalMappings[*].portRange   properties.externalMappings[*].portRange Microsoft.Network/virtualNetworkGateways/natRules/externalMappings[*].portRange    </description>
     </item>
     
     <item>
@@ -1013,6 +1223,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Network/vpnGateways/</guid>
       <description>Link to resource definition: Microsoft.Network/vpnGateways
    Default Path Alias     properties.virtualHub.id Microsoft.Network/vpnGateways/virtualHub.id   properties.virtualHub Microsoft.Network/vpnGateways/virtualHub   properties.connections[*].properties.remoteVpnSite.id Microsoft.Network/vpnGateways/connections[*].remoteVpnSite.id   properties.connections[*].properties.remoteVpnSite Microsoft.Network/vpnGateways/connections[*].remoteVpnSite   properties.connections[*].properties.routingWeight Microsoft.Network/vpnGateways/connections[*].routingWeight   properties.connections[*].properties.connectionStatus Microsoft.Network/vpnGateways/connections[*].connectionStatus   properties.connections[*].properties.ingressBytesTransferred Microsoft.Network/vpnGateways/connections[*].ingressBytesTransferred   properties.connections[*].properties.egressBytesTransferred Microsoft.Network/vpnGateways/connections[*].egressBytesTransferred   properties.connections[*].properties.connectionBandwidth Microsoft.Network/vpnGateways/connections[*].connectionBandwidth   properties.connections[*].properties.sharedKey Microsoft.Network/vpnGateways/connections[*].sharedKey   properties.connections[*].properties.enableBgp Microsoft.Network/vpnGateways/connections[*].enableBgp   properties.connections[*].properties.ipsecPolicies[*].saLifeTimeSeconds Microsoft.Network/vpnGateways/connections[*].ipsecPolicies[*].saLifeTimeSeconds   properties.connections[*].properties.ipsecPolicies[*].saDataSizeKilobytes Microsoft.Network/vpnGateways/connections[*].ipsecPolicies[*].saDataSizeKilobytes   properties.connections[*].properties.ipsecPolicies[*].ipsecEncryption Microsoft.Network/vpnGateways/connections[*].ipsecPolicies[*].ipsecEncryption   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups/</guid>
+      <description>Link to resource definition: Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups
+   Default Path Alias     properties.isDefault Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/isDefault   properties.priority Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/priority   properties.policyMembers Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/policyMembers   properties.policyMembers[*] Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/policyMembers[*]   properties.policyMembers[*].name Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/policyMembers[*].name   properties.policyMembers[*].attributeType Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/policyMembers[*].attributeType   properties.policyMembers[*].attributeValue Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/policyMembers[*].attributeValue   properties.p2SConnectionConfigurations Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2SConnectionConfigurations   properties.p2SConnectionConfigurations[*] Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2SConnectionConfigurations[*]   properties.p2SConnectionConfigurations[*].id Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2SConnectionConfigurations[*].id   properties.provisioningState Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/provisioningState    </description>
     </item>
     
     <item>

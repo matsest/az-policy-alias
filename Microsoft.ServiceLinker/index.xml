@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ServiceLinker/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ServiceLinker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceLinker/dryruns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceLinker/dryruns/</guid>
+      <description>Link to resource definition: Microsoft.ServiceLinker/dryruns
+   Default Path Alias     properties.parameters Microsoft.ServiceLinker/dryruns/parameters   properties.parameters.targetService Microsoft.ServiceLinker/dryruns/parameters.targetService.ConfluentSchemaRegistry   properties.parameters.targetService Microsoft.ServiceLinker/dryruns/parameters.targetService.SelfHostedServer   properties.parameters.targetService Microsoft.ServiceLinker/dryruns/parameters.targetService.ConfluentBootstrapServer   properties.parameters.targetService Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource   properties.parameters.targetService Microsoft.ServiceLinker/dryruns/parameters.targetService   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/dryruns/parameters.targetService.ConfluentSchemaRegistry.endpoint   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/dryruns/parameters.targetService.SelfHostedServer.endpoint   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/dryruns/parameters.targetService.ConfluentBootstrapServer.endpoint   properties.parameters.targetService.id Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource.id   properties.parameters.targetService.resourceProperties Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource.resourceProperties.KeyVault   properties.parameters.targetService.resourceProperties Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource.resourceProperties   properties.parameters.targetService.resourceProperties.connectAsKubernetesCsiDriver Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource.resourceProperties.KeyVault.connectAsKubernetesCsiDriver   properties.parameters.targetService.resourceProperties.type Microsoft.ServiceLinker/dryruns/parameters.targetService.AzureResource.resourceProperties.type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceLinker/linkers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceLinker/linkers/</guid>
+      <description>Link to resource definition: Microsoft.ServiceLinker/linkers
+   Default Path Alias     properties.targetId Microsoft.ServiceLinker/linkers/targetId   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalCertificate   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalSecret   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.userAssignedIdentity   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.secret   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.userAccount   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.systemAssignedIdentity   properties.authInfo Microsoft.ServiceLinker/linkers/authInfo.accessKey   properties.authInfo.clientId Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalCertificate.clientId   properties.authInfo.clientId Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalSecret.clientId   properties.authInfo.clientId Microsoft.ServiceLinker/linkers/authInfo.userAssignedIdentity.clientId   properties.authInfo.principalId Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalCertificate.principalId   properties.authInfo.principalId Microsoft.ServiceLinker/linkers/authInfo.servicePrincipalSecret.principalId   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-connectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-connectors/</guid>
+      <description>Link to resource definition: Microsoft.ServiceLinker/locations/connectors
+   Default Path Alias     properties.targetService Microsoft.ServiceLinker/locations/connectors/targetService.ConfluentSchemaRegistry   properties.targetService Microsoft.ServiceLinker/locations/connectors/targetService.SelfHostedServer   properties.targetService Microsoft.ServiceLinker/locations/connectors/targetService.ConfluentBootstrapServer   properties.targetService Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource   properties.targetService Microsoft.ServiceLinker/locations/connectors/targetService   properties.targetService.endpoint Microsoft.ServiceLinker/locations/connectors/targetService.ConfluentSchemaRegistry.endpoint   properties.targetService.endpoint Microsoft.ServiceLinker/locations/connectors/targetService.SelfHostedServer.endpoint   properties.targetService.endpoint Microsoft.ServiceLinker/locations/connectors/targetService.ConfluentBootstrapServer.endpoint   properties.targetService.id Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource.id   properties.targetService.resourceProperties Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource.resourceProperties.KeyVault   properties.targetService.resourceProperties Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource.resourceProperties   properties.targetService.resourceProperties.connectAsKubernetesCsiDriver Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource.resourceProperties.KeyVault.connectAsKubernetesCsiDriver   properties.targetService.resourceProperties.type Microsoft.ServiceLinker/locations/connectors/targetService.AzureResource.resourceProperties.type   properties.targetService.type Microsoft.ServiceLinker/locations/connectors/targetService.type   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-dryruns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-dryruns/</guid>
+      <description>Link to resource definition: Microsoft.ServiceLinker/locations/dryruns
+   Default Path Alias     properties.parameters Microsoft.ServiceLinker/locations/dryruns/parameters   properties.parameters.targetService Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.ConfluentSchemaRegistry   properties.parameters.targetService Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.SelfHostedServer   properties.parameters.targetService Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.ConfluentBootstrapServer   properties.parameters.targetService Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource   properties.parameters.targetService Microsoft.ServiceLinker/locations/dryruns/parameters.targetService   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.ConfluentSchemaRegistry.endpoint   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.SelfHostedServer.endpoint   properties.parameters.targetService.endpoint Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.ConfluentBootstrapServer.endpoint   properties.parameters.targetService.id Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource.id   properties.parameters.targetService.resourceProperties Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource.resourceProperties.KeyVault   properties.parameters.targetService.resourceProperties Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource.resourceProperties   properties.parameters.targetService.resourceProperties.connectAsKubernetesCsiDriver Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource.resourceProperties.KeyVault.connectAsKubernetesCsiDriver   properties.parameters.targetService.resourceProperties.type Microsoft.ServiceLinker/locations/dryruns/parameters.targetService.AzureResource.resourceProperties.type   properties.</description>
+    </item>
+    
+  </channel>
+</rss>
