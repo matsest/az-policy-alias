@@ -1874,6 +1874,15 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maintenance/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maintenance/maintenanceConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/</loc>
     <priority>0</priority>
   </url><url>

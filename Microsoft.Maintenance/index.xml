@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Maintenance/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Maintenance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</guid>
+      <description>Link to resource definition: Microsoft.Maintenance/configurationAssignments
+   Default Path Alias     properties.maintenanceConfigurationId Microsoft.Maintenance/configurationAssignments/maintenanceConfigurationId   properties.resourceId Microsoft.Maintenance/configurationAssignments/resourceId    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Maintenance/maintenanceConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Maintenance/maintenanceConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Maintenance/maintenanceConfigurations
+   Default Path Alias     properties.namespace Microsoft.Maintenance/maintenanceConfigurations/namespace   properties.extensionProperties Microsoft.Maintenance/maintenanceConfigurations/extensionProperties   properties.maintenanceScope Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope   properties.maintenanceWindow Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow   properties.maintenanceWindow.startDateTime Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow.startDateTime   properties.maintenanceWindow.expirationDateTime Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow.expirationDateTime   properties.maintenanceWindow.duration Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow.duration   properties.maintenanceWindow.timeZone Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow.timeZone   properties.maintenanceWindow.recurEvery Microsoft.Maintenance/maintenanceConfigurations/maintenanceWindow.recurEvery   properties.visibility Microsoft.Maintenance/maintenanceConfigurations/visibility   properties.installPatches Microsoft.Maintenance/maintenanceConfigurations/installPatches   properties.installPatches.rebootSetting Microsoft.Maintenance/maintenanceConfigurations/installPatches.rebootSetting   properties.installPatches.windowsParameters Microsoft.Maintenance/maintenanceConfigurations/installPatches.windowsParameters   properties.installPatches.windowsParameters.kbNumbersToExclude Microsoft.Maintenance/maintenanceConfigurations/installPatches.windowsParameters.kbNumbersToExclude   properties.</description>
+    </item>
+    
+  </channel>
+</rss>
