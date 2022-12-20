@@ -83,6 +83,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apiVersionSets/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationServers/</loc>
     <priority>0</priority>
   </url><url>
@@ -102,6 +105,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-certificateAuthorities/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-hostnameConfigurations/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways/</loc>

@@ -217,6 +217,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/authorizationProviders
+   Default Path Alias     properties.displayName Microsoft.ApiManagement/service/authorizationProviders/displayName   properties.identityProvider Microsoft.ApiManagement/service/authorizationProviders/identityProvider   properties.oauth2 Microsoft.ApiManagement/service/authorizationProviders/oauth2   properties.oauth2.redirectUrl Microsoft.ApiManagement/service/authorizationProviders/oauth2.redirectUrl   properties.oauth2.grantTypes Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes   properties.oauth2.grantTypes.authorizationCode Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes.authorizationCode   properties.oauth2.grantTypes.clientCredentials Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes.clientCredentials    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationServers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -287,6 +297,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-hostnameConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-hostnameConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/gateways/hostnameConfigurations
+   Default Path Alias     properties.hostname Microsoft.ApiManagement/service/gateways/hostnameConfigurations/hostname   properties.certificateId Microsoft.ApiManagement/service/gateways/hostnameConfigurations/certificateId   properties.negotiateClientCertificate Microsoft.ApiManagement/service/gateways/hostnameConfigurations/negotiateClientCertificate   properties.tls10Enabled Microsoft.ApiManagement/service/gateways/hostnameConfigurations/tls10Enabled   properties.tls11Enabled Microsoft.ApiManagement/service/gateways/hostnameConfigurations/tls11Enabled   properties.http2Enabled Microsoft.ApiManagement/service/gateways/hostnameConfigurations/http2Enabled    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -352,7 +372,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-openidConnectProviders/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/openidConnectProviders
-   Default Path Alias     properties.displayName Microsoft.ApiManagement/service/openidConnectProviders/displayName   properties.description Microsoft.ApiManagement/service/openidConnectProviders/description   properties.metadataEndpoint Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint   properties.clientId Microsoft.ApiManagement/service/openidConnectProviders/clientId   properties.clientSecret Microsoft.ApiManagement/service/openidConnectProviders/clientSecret    </description>
+   Default Path Alias     properties.displayName Microsoft.ApiManagement/service/openidConnectProviders/displayName   properties.description Microsoft.ApiManagement/service/openidConnectProviders/description   properties.metadataEndpoint Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint   properties.clientId Microsoft.ApiManagement/service/openidConnectProviders/clientId   properties.clientSecret Microsoft.ApiManagement/service/openidConnectProviders/clientSecret   properties.useInTestConsole Microsoft.ApiManagement/service/openidConnectProviders/useInTestConsole   properties.useInApiDocumentation Microsoft.ApiManagement/service/openidConnectProviders/useInApiDocumentation    </description>
     </item>
     
     <item>
