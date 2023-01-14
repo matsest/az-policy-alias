@@ -637,6 +637,36 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apiPortals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apiPortals/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/apiPortals
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/apiPortals/provisioningState   properties.public Microsoft.AppPlatform/Spring/apiPortals/public   properties.url Microsoft.AppPlatform/Spring/apiPortals/url   properties.httpsOnly Microsoft.AppPlatform/Spring/apiPortals/httpsOnly   properties.gatewayIds Microsoft.AppPlatform/Spring/apiPortals/gatewayIds   properties.gatewayIds[*] Microsoft.AppPlatform/Spring/apiPortals/gatewayIds[*]   properties.sourceUrls Microsoft.AppPlatform/Spring/apiPortals/sourceUrls   properties.sourceUrls[*] Microsoft.AppPlatform/Spring/apiPortals/sourceUrls[*]   properties.ssoProperties Microsoft.AppPlatform/Spring/apiPortals/ssoProperties   properties.ssoProperties.scope Microsoft.AppPlatform/Spring/apiPortals/ssoProperties.scope   properties.ssoProperties.scope[*] Microsoft.AppPlatform/Spring/apiPortals/ssoProperties.scope[*]   properties.ssoProperties.clientId Microsoft.AppPlatform/Spring/apiPortals/ssoProperties.clientId   properties.ssoProperties.clientSecret Microsoft.AppPlatform/Spring/apiPortals/ssoProperties.clientSecret   properties.ssoProperties.issuerUri Microsoft.AppPlatform/Spring/apiPortals/ssoProperties.issuerUri   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationAccelerators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationAccelerators/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/applicationAccelerators
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/applicationAccelerators/provisioningState   properties.components Microsoft.AppPlatform/Spring/applicationAccelerators/components   properties.components[*] Microsoft.AppPlatform/Spring/applicationAccelerators/components[*]   properties.components[*].name Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].name   properties.components[*].resourceRequests Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].resourceRequests   properties.components[*].resourceRequests.cpu Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].resourceRequests.cpu   properties.components[*].resourceRequests.memory Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].resourceRequests.memory   properties.components[*].resourceRequests.instanceCount Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].resourceRequests.instanceCount   properties.components[*].instances Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].instances   properties.components[*].instances[*] Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].instances[*]   properties.components[*].instances[*].name Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].instances[*].name   properties.components[*].instances[*].status Microsoft.AppPlatform/Spring/applicationAccelerators/components[*].instances[*].status   sku Microsoft.AppPlatform/Spring/applicationAccelerators/sku   sku.name Microsoft.AppPlatform/Spring/applicationAccelerators/sku.name   sku.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationLiveViews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationLiveViews/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/applicationLiveViews
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/applicationLiveViews/provisioningState   properties.components Microsoft.AppPlatform/Spring/applicationLiveViews/components   properties.components[*] Microsoft.AppPlatform/Spring/applicationLiveViews/components[*]   properties.components[*].resourceRequests Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].resourceRequests   properties.components[*].resourceRequests.cpu Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].resourceRequests.cpu   properties.components[*].resourceRequests.memory Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].resourceRequests.memory   properties.components[*].resourceRequests.instanceCount Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].resourceRequests.instanceCount   properties.components[*].instances Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances   properties.components[*].instances[*] Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*]   properties.components[*].instances[*].name Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*].name   properties.components[*].instances[*].status Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*].status    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-bindings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -662,7 +692,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-domains/</guid>
       <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps/domains
-   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/apps/domains/thumbprint   properties.appName Microsoft.AppPlatform/Spring/apps/domains/appName   properties.certName Microsoft.AppPlatform/Spring/apps/domains/certName    </description>
+   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/apps/domains/thumbprint   properties.appName Microsoft.AppPlatform/Spring/apps/domains/appName   properties.certName Microsoft.AppPlatform/Spring/apps/domains/certName   properties.provisioningState Microsoft.AppPlatform/Spring/apps/domains/provisioningState    </description>
     </item>
     
     <item>
@@ -672,7 +702,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps/</guid>
       <description>Link to resource definition: Microsoft.AppPlatform/Spring/apps
-   Default Path Alias     properties.public Microsoft.AppPlatform/Spring/apps/public   properties.url Microsoft.AppPlatform/Spring/apps/url   properties.provisioningState Microsoft.AppPlatform/Spring/apps/provisioningState   properties.activeDeploymentName Microsoft.AppPlatform/Spring/apps/activeDeploymentName   properties.fqdn Microsoft.AppPlatform/Spring/apps/fqdn   properties.httpsOnly Microsoft.AppPlatform/Spring/apps/httpsOnly   properties.createdTime Microsoft.AppPlatform/Spring/apps/createdTime   properties.temporaryDisk Microsoft.AppPlatform/Spring/apps/temporaryDisk   properties.temporaryDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/temporaryDisk.sizeInGB   properties.temporaryDisk.mountPath Microsoft.AppPlatform/Spring/apps/temporaryDisk.mountPath   properties.persistentDisk Microsoft.AppPlatform/Spring/apps/persistentDisk   properties.persistentDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.sizeInGB   properties.persistentDisk.usedInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.usedInGB   properties.persistentDisk.mountPath Microsoft.AppPlatform/Spring/apps/persistentDisk.mountPath    </description>
+   Default Path Alias     properties.public Microsoft.AppPlatform/Spring/apps/public   properties.url Microsoft.AppPlatform/Spring/apps/url   properties.provisioningState Microsoft.AppPlatform/Spring/apps/provisioningState   properties.activeDeploymentName Microsoft.AppPlatform/Spring/apps/activeDeploymentName   properties.fqdn Microsoft.AppPlatform/Spring/apps/fqdn   properties.httpsOnly Microsoft.AppPlatform/Spring/apps/httpsOnly   properties.createdTime Microsoft.AppPlatform/Spring/apps/createdTime   properties.temporaryDisk Microsoft.AppPlatform/Spring/apps/temporaryDisk   properties.temporaryDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/temporaryDisk.sizeInGB   properties.temporaryDisk.mountPath Microsoft.AppPlatform/Spring/apps/temporaryDisk.mountPath   properties.persistentDisk Microsoft.AppPlatform/Spring/apps/persistentDisk   properties.persistentDisk.sizeInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.sizeInGB   properties.persistentDisk.usedInGB Microsoft.AppPlatform/Spring/apps/persistentDisk.usedInGB   properties.persistentDisk.mountPath Microsoft.AppPlatform/Spring/apps/persistentDisk.mountPath   properties.</description>
     </item>
     
     <item>
@@ -682,7 +712,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-certificates/</guid>
       <description>Link to resource definition: Microsoft.AppPlatform/Spring/certificates
-   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/certificates/thumbprint   properties.vaultUri Microsoft.AppPlatform/Spring/certificates/vaultUri   properties.keyVaultCertName Microsoft.AppPlatform/Spring/certificates/keyVaultCertName   properties.certVersion Microsoft.AppPlatform/Spring/certificates/certVersion   properties.issuer Microsoft.AppPlatform/Spring/certificates/issuer   properties.issuedDate Microsoft.AppPlatform/Spring/certificates/issuedDate   properties.expirationDate Microsoft.AppPlatform/Spring/certificates/expirationDate   properties.activateDate Microsoft.AppPlatform/Spring/certificates/activateDate   properties.subjectName Microsoft.AppPlatform/Spring/certificates/subjectName   properties.dnsNames Microsoft.AppPlatform/Spring/certificates/dnsNames   properties.dnsNames[*] Microsoft.AppPlatform/Spring/certificates/dnsNames[*]    </description>
+   Default Path Alias     properties.thumbprint Microsoft.AppPlatform/Spring/certificates/thumbprint   properties.vaultUri Microsoft.AppPlatform/Spring/certificates/vaultUri   properties.keyVaultCertName Microsoft.AppPlatform/Spring/certificates/keyVaultCertName   properties.certVersion Microsoft.AppPlatform/Spring/certificates/certVersion   properties.issuer Microsoft.AppPlatform/Spring/certificates/issuer   properties.issuedDate Microsoft.AppPlatform/Spring/certificates/issuedDate   properties.expirationDate Microsoft.AppPlatform/Spring/certificates/expirationDate   properties.activateDate Microsoft.AppPlatform/Spring/certificates/activateDate   properties.subjectName Microsoft.AppPlatform/Spring/certificates/subjectName   properties.dnsNames Microsoft.AppPlatform/Spring/certificates/dnsNames   properties.dnsNames[*] Microsoft.AppPlatform/Spring/certificates/dnsNames[*]   properties.vaultUri Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.vaultUri   properties.keyVaultCertName Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.keyVaultCertName   properties.certVersion Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.certVersion   properties.</description>
     </item>
     
     <item>
@@ -697,12 +727,52 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configurationServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configurationServices/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/configurationServices
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/configurationServices/provisioningState   properties.resourceRequests Microsoft.AppPlatform/Spring/configurationServices/resourceRequests   properties.resourceRequests.cpu Microsoft.AppPlatform/Spring/configurationServices/resourceRequests.cpu   properties.resourceRequests.memory Microsoft.AppPlatform/Spring/configurationServices/resourceRequests.memory   properties.resourceRequests.instanceCount Microsoft.AppPlatform/Spring/configurationServices/resourceRequests.instanceCount   properties.instances Microsoft.AppPlatform/Spring/configurationServices/instances   properties.instances[*] Microsoft.AppPlatform/Spring/configurationServices/instances[*]   properties.instances[*].name Microsoft.AppPlatform/Spring/configurationServices/instances[*].name   properties.instances[*].status Microsoft.AppPlatform/Spring/configurationServices/instances[*].status   properties.settings Microsoft.AppPlatform/Spring/configurationServices/settings   properties.settings.gitProperty Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty   properties.settings.gitProperty.repositories Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories   properties.settings.gitProperty.repositories[*] Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*]   properties.settings.gitProperty.repositories[*].name Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-devToolPortals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-devToolPortals/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/devToolPortals
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/DevToolPortals/provisioningState   properties.resourceRequests Microsoft.AppPlatform/Spring/DevToolPortals/resourceRequests   properties.resourceRequests.cpu Microsoft.AppPlatform/Spring/DevToolPortals/resourceRequests.cpu   properties.resourceRequests.memory Microsoft.AppPlatform/Spring/DevToolPortals/resourceRequests.memory   properties.resourceRequests.instanceCount Microsoft.AppPlatform/Spring/DevToolPortals/resourceRequests.instanceCount   properties.instances Microsoft.AppPlatform/Spring/DevToolPortals/instances   properties.instances[*] Microsoft.AppPlatform/Spring/DevToolPortals/instances[*]   properties.instances[*].name Microsoft.AppPlatform/Spring/DevToolPortals/instances[*].name   properties.instances[*].status Microsoft.AppPlatform/Spring/DevToolPortals/instances[*].status   properties.public Microsoft.AppPlatform/Spring/DevToolPortals/public   properties.url Microsoft.AppPlatform/Spring/DevToolPortals/url   properties.ssoProperties Microsoft.AppPlatform/Spring/DevToolPortals/ssoProperties   properties.ssoProperties.scopes Microsoft.AppPlatform/Spring/DevToolPortals/ssoProperties.scopes   properties.ssoProperties.scopes[*] Microsoft.AppPlatform/Spring/DevToolPortals/ssoProperties.scopes[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-gateways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-gateways/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/gateways
+   Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/gateways/provisioningState   properties.public Microsoft.AppPlatform/Spring/gateways/public   properties.url Microsoft.AppPlatform/Spring/gateways/url   properties.httpsOnly Microsoft.AppPlatform/Spring/gateways/httpsOnly   properties.ssoProperties Microsoft.AppPlatform/Spring/gateways/ssoProperties   properties.ssoProperties.scope Microsoft.AppPlatform/Spring/gateways/ssoProperties.scope   properties.ssoProperties.scope[*] Microsoft.AppPlatform/Spring/gateways/ssoProperties.scope[*]   properties.ssoProperties.clientId Microsoft.AppPlatform/Spring/gateways/ssoProperties.clientId   properties.ssoProperties.clientSecret Microsoft.AppPlatform/Spring/gateways/ssoProperties.clientSecret   properties.ssoProperties.issuerUri Microsoft.AppPlatform/Spring/gateways/ssoProperties.issuerUri   properties.apiMetadataProperties Microsoft.AppPlatform/Spring/gateways/apiMetadataProperties   properties.apiMetadataProperties.title Microsoft.AppPlatform/Spring/gateways/apiMetadataProperties.title   properties.apiMetadataProperties.description Microsoft.AppPlatform/Spring/gateways/apiMetadataProperties.description   properties.apiMetadataProperties.documentation Microsoft.AppPlatform/Spring/gateways/apiMetadataProperties.documentation   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</guid>
       <description>Link to resource definition: Microsoft.AppPlatform/Spring/monitoringSettings
    Default Path Alias     properties.provisioningState Microsoft.AppPlatform/Spring/monitoringSettings/provisioningState   properties.error Microsoft.AppPlatform/Spring/monitoringSettings/error   properties.error.code Microsoft.AppPlatform/Spring/monitoringSettings/error.code   properties.error.message Microsoft.AppPlatform/Spring/monitoringSettings/error.message   properties.traceEnabled Microsoft.AppPlatform/Spring/monitoringSettings/traceEnabled   properties.appInsightsInstrumentationKey Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsInstrumentationKey   properties.appInsightsSamplingRate Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsSamplingRate   properties.appInsightsAgentVersions Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions   properties.appInsightsAgentVersions.java Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions.java    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-storages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-storages/</guid>
+      <description>Link to resource definition: Microsoft.AppPlatform/Spring/storages
+   Default Path Alias     properties.accountName Microsoft.AppPlatform/Spring/storages/StorageAccount.accountName   properties.accountKey Microsoft.AppPlatform/Spring/storages/StorageAccount.accountKey   properties.storageType Microsoft.AppPlatform/Spring/storages/storageType    </description>
     </item>
     
     <item>
@@ -3083,6 +3153,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers/</guid>
       <description>Link to resource definition: Microsoft.DBforMySQL/servers
    Default Path Alias     sku.name Microsoft.DBforMySQL/servers/sku.name   sku.tier Microsoft.DBforMySQL/servers/sku.tier   sku.family Microsoft.DBforMySQL/servers/sku.family   sku.capacity Microsoft.DBforMySQL/servers/sku.capacity   properties.administratorLogin Microsoft.DBforMySQL/servers/administratorLogin   properties.storageProfile Microsoft.DBforMySQL/servers/storageProfile   properties.storageProfile.storageMB Microsoft.DBforMySQL/servers/storageProfile.storageMB   properties.storageProfile.backupRetentionDays Microsoft.DBforMySQL/servers/storageProfile.backupRetentionDays   properties.storageProfile.geoRedundantBackup Microsoft.DBforMySQL/servers/storageProfile.geoRedundantBackup   properties.version Microsoft.DBforMySQL/servers/version   properties.sslEnforcement Microsoft.DBforMySQL/servers/sslEnforcement   properties.userVisibleState Microsoft.DBforMySQL/servers/userVisibleState   properties.fullyQualifiedDomainName Microsoft.DBforMySQL/servers/fullyQualifiedDomainName   properties.earliestRestoreDate Microsoft.DBforMySQL/servers/earliestRestoreDate   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-administrators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-administrators/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/administrators
+   Default Path Alias     properties.principalType Microsoft.DBforPostgreSQL/flexibleServers/administrators/principalType   properties.principalName Microsoft.DBforPostgreSQL/flexibleServers/administrators/principalName   properties.tenantId Microsoft.DBforPostgreSQL/flexibleServers/administrators/tenantId    </description>
     </item>
     
     <item>

@@ -218,6 +218,15 @@
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apiPortals/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationAccelerators/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationLiveViews/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-bindings/</loc>
     <priority>0</priority>
   </url><url>
@@ -236,7 +245,19 @@
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configServers/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configurationServices/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-devToolPortals/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-gateways/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-storages/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring/</loc>
@@ -1059,6 +1080,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-administrators/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</loc>
