@@ -821,6 +821,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-privateEndpointConnections/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana/</loc>
     <priority>0</priority>
   </url><url>
