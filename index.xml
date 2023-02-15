@@ -9437,6 +9437,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules
+   Default Path Alias     properties.results Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules/results   properties.results[*] Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules/results[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -9693,6 +9703,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-securityAlertPolicies/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/securityAlertPolicies
    Default Path Alias     properties.state Microsoft.Sql/securityAlertPolicies.state   properties.emailAccountAdmins Microsoft.Sql/securityAlertPolicies.emailAccountAdmins   properties.disabledAlerts Microsoft.Sql/securityAlertPolicies.disabledAlerts   properties.disabledAlerts[*] Microsoft.Sql/servers/securityAlertPolicies/disabledAlerts[*]   properties.state Microsoft.Sql/servers/securityAlertPolicies/state   properties.emailAccountAdmins Microsoft.Sql/servers/securityAlertPolicies/emailAccountAdmins   properties.disabledAlerts Microsoft.Sql/servers/securityAlertPolicies/disabledAlerts   properties.storageEndpoint Microsoft.Sql/servers/securityAlertPolicies/storageEndpoint   properties.retentionDays Microsoft.Sql/servers/securityAlertPolicies/retentionDays   properties.emailAddresses Microsoft.Sql/servers/securityAlertPolicies/emailAddresses   properties.emailAddresses[*] Microsoft.Sql/servers/securityAlertPolicies/emailAddresses[*]   properties.storageAccountAccessKey Microsoft.Sql/servers/securityAlertPolicies/storageAccountAccessKey   properties.creationTime Microsoft.Sql/servers/securityAlertPolicies/creationTime   properties.state Microsoft.Sql/servers/securityAlertPolicies/Default.state   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules
+   Default Path Alias     properties.results Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules/results   properties.results[*] Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules/results[*]    </description>
     </item>
     
     <item>

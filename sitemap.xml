@@ -3146,6 +3146,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-securityAlertPolicies/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</loc>
     <priority>0</priority>
   </url><url>
@@ -3222,6 +3225,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-securityAlertPolicies/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines/</loc>
