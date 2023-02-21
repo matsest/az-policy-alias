@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.RedHatOpenShift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/OpenShiftClusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/OpenShiftClusters/</guid>
+      <description>Link to resource definition: Microsoft.RedHatOpenShift/OpenShiftClusters
+   Default Path Alias     properties.provisioningState Microsoft.RedHatOpenShift/openShiftClusters/provisioningState   properties.clusterProfile Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile   properties.clusterProfile.pullSecret Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile.pullSecret   properties.clusterProfile.domain Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile.domain   properties.clusterProfile.version Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile.version   properties.clusterProfile.resourceGroupId Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile.resourceGroupId   properties.consoleProfile Microsoft.RedHatOpenShift/openShiftClusters/consoleProfile   properties.consoleProfile.url Microsoft.RedHatOpenShift/openShiftClusters/consoleProfile.url   properties.servicePrincipalProfile Microsoft.RedHatOpenShift/openShiftClusters/servicePrincipalProfile   properties.servicePrincipalProfile.clientId Microsoft.RedHatOpenShift/openShiftClusters/servicePrincipalProfile.clientId   properties.servicePrincipalProfile.clientSecret Microsoft.RedHatOpenShift/openShiftClusters/servicePrincipalProfile.clientSecret   properties.networkProfile Microsoft.RedHatOpenShift/openShiftClusters/networkProfile   properties.networkProfile.podCidr Microsoft.RedHatOpenShift/openShiftClusters/networkProfile.podCidr   properties.networkProfile.serviceCidr Microsoft.RedHatOpenShift/openShiftClusters/networkProfile.serviceCidr   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2681,6 +2681,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/OpenShiftClusters/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/</loc>
     <priority>0</priority>
   </url><url>
