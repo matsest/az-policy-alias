@@ -2957,6 +2957,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-hubs/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-privateEndpointConnections/</loc>
     <priority>0</priority>
   </url><url>
