@@ -1103,6 +1103,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/serverGroupsv2-privateEndpointConnections/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-administrators/</loc>
     <priority>0</priority>
   </url><url>
