@@ -6797,6 +6797,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/networkGroups/staticMembers
+   Default Path Alias     properties.resourceId Microsoft.Network/networkManagers/networkGroups/staticMembers/resourceId   properties.region Microsoft.Network/networkManagers/networkGroups/staticMembers/region   properties.provisioningState Microsoft.Network/networkManagers/networkGroups/staticMembers/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -6817,12 +6827,32 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/displayName   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/description   properties.appliesToGroups Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups   properties.appliesToGroups[*] Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups[*]   properties.appliesToGroups[*].networkGroupId Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups[*].networkGroupId   properties.provisioningState Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</guid>
       <description>Link to resource definition: Microsoft.Network/networkManagers/securityAdminConfigurations
    Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/displayName   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/description   properties.securityType Microsoft.Network/networkManagers/securityAdminConfigurations/securityType   properties.deleteExistingNSGs Microsoft.Network/networkManagers/securityAdminConfigurations/deleteExistingNSGs   properties.provisioningState Microsoft.Network/networkManagers/securityAdminConfigurations/provisioningState   properties.applyOnNetworkIntentPolicyBasedServices Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices   properties.applyOnNetworkIntentPolicyBasedServices[*] Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/displayName   properties.description Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/description   properties.appliesToGroups Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/appliesToGroups   properties.appliesToGroups[*] Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/appliesToGroups[*]   properties.appliesToGroups[*].networkGroupId Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/appliesToGroups[*].networkGroupId   properties.provisioningState Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/provisioningState    </description>
     </item>
     
     <item>
@@ -6873,6 +6903,26 @@
       <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityGroups/</guid>
       <description>Link to resource definition: Microsoft.Network/networkSecurityGroups
    Default Path Alias     properties.securityRules[*].properties.protocol Microsoft.Network/networkSecurityGroups/securityRules[*].protocol   properties.securityRules[*].properties.sourcePortRange Microsoft.Network/networkSecurityGroups/securityRules[*].sourcePortRange   properties.securityRules[*].properties.sourcePortRanges[*] Microsoft.Network/networkSecurityGroups/securityRules[*].sourcePortRanges[*]   properties.securityRules[*].properties.destinationPortRange Microsoft.Network/networkSecurityGroups/securityRules[*].destinationPortRange   properties.securityRules[*].properties.destinationPortRanges[*] Microsoft.Network/networkSecurityGroups/securityRules[*].destinationPortRanges[*]   properties.securityRules[*].properties.sourceApplicationSecurityGroups[*] Microsoft.Network/networkSecurityGroups/securityRules[*].sourceApplicationSecurityGroups[*]   properties.securityRules[*].properties.destinationApplicationSecurityGroups[*] Microsoft.Network/networkSecurityGroups/securityRules[*].destinationApplicationSecurityGroups[*]   properties.securityRules[*].properties.priority Microsoft.Network/networkSecurityGroups/securityRules[*].priority   properties.securityRules[*].properties.direction Microsoft.Network/networkSecurityGroups/securityRules[*].direction   properties.securityRules[*].properties.access Microsoft.Network/networkSecurityGroups/securityRules[*].access   properties.securityRules[*].properties.destinationAddressPrefix Microsoft.Network/networkSecurityGroups/securityRules[*].destinationAddressPrefix   properties.securityRules[*].properties.destinationAddressPrefixes[*] Microsoft.Network/networkSecurityGroups/securityRules[*].destinationAddressPrefixes[*]   properties.securityRules[*].properties.sourceAddressPrefix Microsoft.Network/networkSecurityGroups/securityRules[*].sourceAddressPrefix   properties.securityRules[*].properties.sourceAddressPrefixes[*] Microsoft.Network/networkSecurityGroups/securityRules[*].sourceAddressPrefixes[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-links/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkSecurityPerimeters/links
+   Default Path Alias     properties.provisioningState Microsoft.Network/networkSecurityPerimeters/links/provisioningState   properties.autoApprovedRemotePerimeterResourceId Microsoft.Network/networkSecurityPerimeters/links/autoApprovedRemotePerimeterResourceId   properties.remotePerimeterGuid Microsoft.Network/networkSecurityPerimeters/links/remotePerimeterGuid   properties.remotePerimeterLocation Microsoft.Network/networkSecurityPerimeters/links/remotePerimeterLocation   properties.localInboundProfiles Microsoft.Network/networkSecurityPerimeters/links/localInboundProfiles   properties.localInboundProfiles[*] Microsoft.Network/networkSecurityPerimeters/links/localInboundProfiles[*]   properties.localOutboundProfiles Microsoft.Network/networkSecurityPerimeters/links/localOutboundProfiles   properties.localOutboundProfiles[*] Microsoft.Network/networkSecurityPerimeters/links/localOutboundProfiles[*]   properties.remoteInboundProfiles Microsoft.Network/networkSecurityPerimeters/links/remoteInboundProfiles   properties.remoteInboundProfiles[*] Microsoft.Network/networkSecurityPerimeters/links/remoteInboundProfiles[*]   properties.remoteOutboundProfiles Microsoft.Network/networkSecurityPerimeters/links/remoteOutboundProfiles   properties.remoteOutboundProfiles[*] Microsoft.Network/networkSecurityPerimeters/links/remoteOutboundProfiles[*]   properties.description Microsoft.Network/networkSecurityPerimeters/links/description   properties.status Microsoft.Network/networkSecurityPerimeters/links/status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkSecurityPerimeters/profiles/accessRules
+   Default Path Alias     properties.provisioningState Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/provisioningState   properties.direction Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/direction   properties.addressPrefixes Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/addressPrefixes   properties.addressPrefixes[*] Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/addressPrefixes[*]   properties.fullyQualifiedDomainNames Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/fullyQualifiedDomainNames   properties.fullyQualifiedDomainNames[*] Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/fullyQualifiedDomainNames[*]   properties.subscriptions Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/subscriptions   properties.subscriptions[*] Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/subscriptions[*]   properties.subscriptions[*].id Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/subscriptions[*].id   properties.networkSecurityPerimeters Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/networkSecurityPerimeters   properties.networkSecurityPerimeters[*] Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/networkSecurityPerimeters[*]   properties.networkSecurityPerimeters[*].id Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/networkSecurityPerimeters[*].id   properties.networkSecurityPerimeters[*].perimeterGuid Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/networkSecurityPerimeters[*].perimeterGuid   properties.networkSecurityPerimeters[*].location Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/networkSecurityPerimeters[*].location   properties.</description>
     </item>
     
     <item>
