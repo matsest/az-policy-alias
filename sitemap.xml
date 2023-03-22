@@ -425,6 +425,15 @@
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/b2cDirectories/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/guestUsages/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/</loc>
     <priority>0</priority>
   </url><url>
