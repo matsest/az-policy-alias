@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Workloads/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Workloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/monitors-providerInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/monitors-providerInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/monitors/providerInstances
+   Default Path Alias     properties.provisioningState Microsoft.Workloads/monitors/providerInstances/provisioningState   properties.errors Microsoft.Workloads/monitors/providerInstances/errors   properties.errors.code Microsoft.Workloads/monitors/providerInstances/errors.code   properties.errors.message Microsoft.Workloads/monitors/providerInstances/errors.message   properties.errors.target Microsoft.Workloads/monitors/providerInstances/errors.target   properties.errors.details Microsoft.Workloads/monitors/providerInstances/errors.details   properties.errors.details[*] Microsoft.Workloads/monitors/providerInstances/errors.details[*]   properties.errors.details[*].code Microsoft.Workloads/monitors/providerInstances/errors.details[*].code   properties.errors.details[*].message Microsoft.Workloads/monitors/providerInstances/errors.details[*].message   properties.errors.details[*].target Microsoft.Workloads/monitors/providerInstances/errors.details[*].target   properties.errors.details[*].details Microsoft.Workloads/monitors/providerInstances/errors.details[*].details   properties.errors.details[*].details[*] Microsoft.Workloads/monitors/providerInstances/errors.details[*].details[*]   properties.errors.details[*].innerError Microsoft.Workloads/monitors/providerInstances/errors.details[*].innerError   properties.errors.details[*].innerError.innerError Microsoft.Workloads/monitors/providerInstances/errors.details[*].innerError.innerError   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/monitors-sapLandscapeMonitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/monitors-sapLandscapeMonitor/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/monitors/sapLandscapeMonitor
+   Default Path Alias     properties.provisioningState Microsoft.Workloads/monitors/sapLandscapeMonitor/provisioningState   properties.grouping Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping   properties.grouping.landscape Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.landscape   properties.grouping.landscape[*] Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.landscape[*]   properties.grouping.landscape[*].name Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.landscape[*].name   properties.grouping.landscape[*].topSid Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.landscape[*].topSid   properties.grouping.landscape[*].topSid[*] Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.landscape[*].topSid[*]   properties.grouping.sapApplication Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.sapApplication   properties.grouping.sapApplication[*] Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.sapApplication[*]   properties.grouping.sapApplication[*].name Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.sapApplication[*].name   properties.grouping.sapApplication[*].topSid Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.sapApplication[*].topSid   properties.grouping.sapApplication[*].topSid[*] Microsoft.Workloads/monitors/sapLandscapeMonitor/grouping.sapApplication[*].topSid[*]   properties.topMetricsThresholds Microsoft.Workloads/monitors/sapLandscapeMonitor/topMetricsThresholds   properties.topMetricsThresholds[*] Microsoft.Workloads/monitors/sapLandscapeMonitor/topMetricsThresholds[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/monitors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/monitors/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/monitors
+   Default Path Alias     properties.provisioningState Microsoft.Workloads/monitors/provisioningState   properties.errors Microsoft.Workloads/monitors/errors   properties.errors.code Microsoft.Workloads/monitors/errors.code   properties.errors.message Microsoft.Workloads/monitors/errors.message   properties.errors.target Microsoft.Workloads/monitors/errors.target   properties.errors.details Microsoft.Workloads/monitors/errors.details   properties.errors.details[*] Microsoft.Workloads/monitors/errors.details[*]   properties.errors.details[*].code Microsoft.Workloads/monitors/errors.details[*].code   properties.errors.details[*].message Microsoft.Workloads/monitors/errors.details[*].message   properties.errors.details[*].target Microsoft.Workloads/monitors/errors.details[*].target   properties.errors.details[*].details Microsoft.Workloads/monitors/errors.details[*].details   properties.errors.details[*].details[*] Microsoft.Workloads/monitors/errors.details[*].details[*]   properties.errors.details[*].innerError Microsoft.Workloads/monitors/errors.details[*].innerError   properties.errors.details[*].innerError.innerError Microsoft.Workloads/monitors/errors.details[*].innerError.innerError   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads-wordpressInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads-wordpressInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/phpWorkloads/wordpressInstances
+   Default Path Alias     properties.version Microsoft.Workloads/phpWorkloads/wordpressInstances/version   properties.databaseName Microsoft.Workloads/phpWorkloads/wordpressInstances/databaseName   properties.databaseUser Microsoft.Workloads/phpWorkloads/wordpressInstances/databaseUser   properties.siteUrl Microsoft.Workloads/phpWorkloads/wordpressInstances/siteUrl   properties.provisioningState Microsoft.Workloads/phpWorkloads/wordpressInstances/provisioningState    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/phpWorkloads
+   Default Path Alias     properties.appLocation Microsoft.Workloads/phpWorkloads/appLocation   properties.managedResourceGroupConfiguration Microsoft.Workloads/phpWorkloads/managedResourceGroupConfiguration   properties.managedResourceGroupConfiguration.name Microsoft.Workloads/phpWorkloads/managedResourceGroupConfiguration.name   properties.adminUserProfile Microsoft.Workloads/phpWorkloads/adminUserProfile   properties.adminUserProfile.userName Microsoft.Workloads/phpWorkloads/adminUserProfile.userName   properties.adminUserProfile.sshPublicKey Microsoft.Workloads/phpWorkloads/adminUserProfile.sshPublicKey   properties.webNodesProfile Microsoft.Workloads/phpWorkloads/webNodesProfile   properties.webNodesProfile.name Microsoft.Workloads/phpWorkloads/webNodesProfile.name   properties.webNodesProfile.nodeSku Microsoft.Workloads/phpWorkloads/webNodesProfile.nodeSku   properties.webNodesProfile.osImage Microsoft.Workloads/phpWorkloads/webNodesProfile.osImage   properties.webNodesProfile.osImage.publisher Microsoft.Workloads/phpWorkloads/webNodesProfile.osImage.publisher   properties.webNodesProfile.osImage.offer Microsoft.Workloads/phpWorkloads/webNodesProfile.osImage.offer   properties.webNodesProfile.osImage.sku Microsoft.Workloads/phpWorkloads/webNodesProfile.osImage.sku   properties.webNodesProfile.osImage.version Microsoft.Workloads/phpWorkloads/webNodesProfile.osImage.version   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-applicationInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-applicationInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/sapVirtualInstances/applicationInstances
+   Default Path Alias     properties.instanceNo Microsoft.Workloads/sapVirtualInstances/applicationInstances/instanceNo   properties.subnet Microsoft.Workloads/sapVirtualInstances/applicationInstances/subnet   properties.hostname Microsoft.Workloads/sapVirtualInstances/applicationInstances/hostname   properties.kernelVersion Microsoft.Workloads/sapVirtualInstances/applicationInstances/kernelVersion   properties.kernelPatch Microsoft.Workloads/sapVirtualInstances/applicationInstances/kernelPatch   properties.ipAddress Microsoft.Workloads/sapVirtualInstances/applicationInstances/ipAddress   properties.gatewayPort Microsoft.Workloads/sapVirtualInstances/applicationInstances/gatewayPort   properties.icmHttpPort Microsoft.Workloads/sapVirtualInstances/applicationInstances/icmHttpPort   properties.icmHttpsPort Microsoft.Workloads/sapVirtualInstances/applicationInstances/icmHttpsPort   properties.virtualMachineId Microsoft.Workloads/sapVirtualInstances/applicationInstances/virtualMachineId   properties.status Microsoft.Workloads/sapVirtualInstances/applicationInstances/status   properties.storageDetails Microsoft.Workloads/sapVirtualInstances/applicationInstances/storageDetails   properties.storageDetails[*] Microsoft.Workloads/sapVirtualInstances/applicationInstances/storageDetails[*]   properties.storageDetails[*].id Microsoft.Workloads/sapVirtualInstances/applicationInstances/storageDetails[*].id   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-centralInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-centralInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/sapVirtualInstances/centralInstances
+   Default Path Alias     properties.instanceNo Microsoft.Workloads/sapVirtualInstances/centralInstances/instanceNo   properties.subnet Microsoft.Workloads/sapVirtualInstances/centralInstances/subnet   properties.messageServerProperties Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties   properties.messageServerProperties.msPort Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.msPort   properties.messageServerProperties.internalMsPort Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.internalMsPort   properties.messageServerProperties.httpPort Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.httpPort   properties.messageServerProperties.httpsPort Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.httpsPort   properties.messageServerProperties.hostname Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.hostname   properties.messageServerProperties.ipAddress Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.ipAddress   properties.messageServerProperties.health Microsoft.Workloads/sapVirtualInstances/centralInstances/messageServerProperties.health   properties.enqueueServerProperties Microsoft.Workloads/sapVirtualInstances/centralInstances/enqueueServerProperties   properties.enqueueServerProperties.hostname Microsoft.Workloads/sapVirtualInstances/centralInstances/enqueueServerProperties.hostname   properties.enqueueServerProperties.ipAddress Microsoft.Workloads/sapVirtualInstances/centralInstances/enqueueServerProperties.ipAddress   properties.enqueueServerProperties.port Microsoft.Workloads/sapVirtualInstances/centralInstances/enqueueServerProperties.port   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-databaseInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-databaseInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/sapVirtualInstances/databaseInstances
+   Default Path Alias     properties.subnet Microsoft.Workloads/sapVirtualInstances/databaseInstances/subnet   properties.databaseSid Microsoft.Workloads/sapVirtualInstances/databaseInstances/databaseSid   properties.databaseType Microsoft.Workloads/sapVirtualInstances/databaseInstances/databaseType   properties.ipAddress Microsoft.Workloads/sapVirtualInstances/databaseInstances/ipAddress   properties.loadBalancerDetails Microsoft.Workloads/sapVirtualInstances/databaseInstances/loadBalancerDetails   properties.loadBalancerDetails.id Microsoft.Workloads/sapVirtualInstances/databaseInstances/loadBalancerDetails.id   properties.vmDetails Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails   properties.vmDetails[*] Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*]   properties.vmDetails[*].virtualMachineId Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*].virtualMachineId   properties.vmDetails[*].status Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*].status   properties.vmDetails[*].storageDetails Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*].storageDetails   properties.vmDetails[*].storageDetails[*] Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*].storageDetails[*]   properties.vmDetails[*].storageDetails[*].id Microsoft.Workloads/sapVirtualInstances/databaseInstances/vmDetails[*].storageDetails[*].id   properties.status Microsoft.Workloads/sapVirtualInstances/databaseInstances/status   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances/</guid>
+      <description>Link to resource definition: Microsoft.Workloads/sapVirtualInstances
+   Default Path Alias     properties.environment Microsoft.Workloads/sapVirtualInstances/environment   properties.sapProduct Microsoft.Workloads/sapVirtualInstances/sapProduct   properties.configuration Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig   properties.configuration Microsoft.Workloads/sapVirtualInstances/configuration.Deployment   properties.configuration Microsoft.Workloads/sapVirtualInstances/configuration.Discovery   properties.configuration Microsoft.Workloads/sapVirtualInstances/configuration   properties.configuration.appLocation Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig.appLocation   properties.configuration.appLocation Microsoft.Workloads/sapVirtualInstances/configuration.Deployment.appLocation   properties.configuration.appLocation Microsoft.Workloads/sapVirtualInstances/configuration.Discovery.appLocation   properties.configuration.infrastructureConfiguration Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig.infrastructureConfiguration.ThreeTier   properties.configuration.infrastructureConfiguration Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig.infrastructureConfiguration.SingleServer   properties.configuration.infrastructureConfiguration Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig.infrastructureConfiguration   properties.configuration.infrastructureConfiguration Microsoft.Workloads/sapVirtualInstances/configuration.Deployment.infrastructureConfiguration.ThreeTier   properties.configuration.infrastructureConfiguration Microsoft.Workloads/sapVirtualInstances/configuration.Deployment.infrastructureConfiguration.SingleServer   properties.</description>
+    </item>
+    
+  </channel>
+</rss>

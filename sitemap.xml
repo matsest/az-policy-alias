@@ -3758,6 +3758,36 @@
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors-providerInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors-sapLandscapeMonitor/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads-wordpressInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-applicationInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-centralInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-databaseInstances/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/tags/</loc>
   </url>
 </urlset>
