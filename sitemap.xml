@@ -3377,63 +3377,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-accessControlRecords/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-bandwidthSettings/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-alertSettings/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies-schedules/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupPolicies/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-backupScheduleGroups/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-chapSettings/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers-shares/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-fileservers/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers-disks/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-iscsiservers/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-timeSettings/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers-volumes/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-devices-volumeContainers/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-extendedInformation/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageAccountCredentials/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers-storageDomains/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.StorSimple/managers/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/</loc>
     <priority>0</priority>
   </url><url>
