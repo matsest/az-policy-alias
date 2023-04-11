@@ -716,7 +716,7 @@
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-hybrididentitymetadata/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines/</loc>
