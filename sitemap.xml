@@ -452,6 +452,42 @@
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings-extensions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/galleryImages/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/marketplaceGalleryImages/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkInterfaces/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/storageContainers/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualmachines-extensions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualNetworks/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/</loc>
     <priority>0</priority>
   </url><url>
@@ -1050,6 +1086,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</loc>

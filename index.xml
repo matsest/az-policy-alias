@@ -1347,6 +1347,116 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings-extensions/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/clusters/arcSettings/extensions
+   Default Path Alias     properties.provisioningState Microsoft.AzureStackHCI/clusters/arcSettings/extensions/provisioningState   properties.extensionParameters Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters   properties.extensionParameters.forceUpdateTag Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.forceUpdateTag   properties.extensionParameters.publisher Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.publisher   properties.extensionParameters.type Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.type   properties.extensionParameters.typeHandlerVersion Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.typeHandlerVersion   properties.extensionParameters.autoUpgradeMinorVersion Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.autoUpgradeMinorVersion   properties.aggregateState Microsoft.AzureStackHCI/clusters/arcSettings/extensions/aggregateState   properties.perNodeExtensionDetails Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails   properties.perNodeExtensionDetails[*] Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*]   properties.perNodeExtensionDetails[*].name Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*].name   properties.perNodeExtensionDetails[*].extension Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*].extension   properties.perNodeExtensionDetails[*].state Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*].state   properties.extensionParameters.enableAutomaticUpgrade Microsoft.AzureStackHCI/clusters/arcSettings/extensions/extensionParameters.enableAutomaticUpgrade   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/clusters/arcSettings
+   Default Path Alias     properties.provisioningState Microsoft.AzureStackHCI/clusters/arcSettings/provisioningState   properties.arcInstanceResourceGroup Microsoft.AzureStackHCI/clusters/arcSettings/arcInstanceResourceGroup   properties.aggregateState Microsoft.AzureStackHCI/clusters/arcSettings/aggregateState   properties.perNodeDetails Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails   properties.perNodeDetails[*] Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*]   properties.perNodeDetails[*].name Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*].name   properties.perNodeDetails[*].arcInstance Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*].arcInstance   properties.perNodeDetails[*].state Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*].state   properties.arcApplicationClientId Microsoft.AzureStackHCI/clusters/arcSettings/arcApplicationClientId   properties.arcApplicationTenantId Microsoft.AzureStackHCI/clusters/arcSettings/arcApplicationTenantId   properties.arcServicePrincipalObjectId Microsoft.AzureStackHCI/clusters/arcSettings/arcServicePrincipalObjectId   properties.arcApplicationObjectId Microsoft.AzureStackHCI/clusters/arcSettings/arcApplicationObjectId   properties.defaultExtensions Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions   properties.defaultExtensions[*] Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*]   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/clusters
+   Default Path Alias     properties.provisioningState Microsoft.AzureStackHCI/clusters/provisioningState   properties.status Microsoft.AzureStackHCI/clusters/status   properties.cloudId Microsoft.AzureStackHCI/clusters/cloudId   properties.aadClientId Microsoft.AzureStackHCI/clusters/aadClientId   properties.aadTenantId Microsoft.AzureStackHCI/clusters/aadTenantId   properties.reportedProperties Microsoft.AzureStackHCI/clusters/reportedProperties   properties.reportedProperties.clusterName Microsoft.AzureStackHCI/clusters/reportedProperties.clusterName   properties.reportedProperties.clusterId Microsoft.AzureStackHCI/clusters/reportedProperties.clusterId   properties.reportedProperties.clusterVersion Microsoft.AzureStackHCI/clusters/reportedProperties.clusterVersion   properties.reportedProperties.nodes Microsoft.AzureStackHCI/clusters/reportedProperties.nodes   properties.reportedProperties.nodes[*] Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*]   properties.reportedProperties.nodes[*].name Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].name   properties.reportedProperties.nodes[*].id Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].id   properties.reportedProperties.nodes[*].manufacturer Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].manufacturer   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/galleryImages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/galleryImages/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/galleryImages
+   Default Path Alias     properties.containerName Microsoft.AzureStackHCI/galleryimages/containerName   properties.imagePath Microsoft.AzureStackHCI/galleryimages/imagePath   properties.osType Microsoft.AzureStackHCI/galleryimages/osType   properties.provisioningState Microsoft.AzureStackHCI/galleryimages/provisioningState   properties.resourceName Microsoft.AzureStackHCI/galleryimages/resourceName   properties.status Microsoft.AzureStackHCI/galleryimages/status   properties.status.errorCode Microsoft.AzureStackHCI/galleryimages/status.errorCode   properties.status.errorMessage Microsoft.AzureStackHCI/galleryimages/status.errorMessage   properties.cloudInitDataSource Microsoft.AzureStackHCI/galleryimages/cloudInitDataSource   properties.hyperVGeneration Microsoft.AzureStackHCI/galleryimages/hyperVGeneration   properties.identifier Microsoft.AzureStackHCI/galleryimages/identifier   properties.identifier.publisher Microsoft.AzureStackHCI/galleryimages/identifier.publisher   properties.identifier.offer Microsoft.AzureStackHCI/galleryimages/identifier.offer   properties.identifier.sku Microsoft.AzureStackHCI/galleryimages/identifier.sku   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/marketplaceGalleryImages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/marketplaceGalleryImages/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/marketplaceGalleryImages
+   Default Path Alias     properties.containerName Microsoft.AzureStackHCI/marketplacegalleryimages/containerName   properties.osType Microsoft.AzureStackHCI/marketplacegalleryimages/osType   properties.cloudInitDataSource Microsoft.AzureStackHCI/marketplacegalleryimages/cloudInitDataSource   properties.hyperVGeneration Microsoft.AzureStackHCI/marketplacegalleryimages/hyperVGeneration   properties.identifier Microsoft.AzureStackHCI/marketplacegalleryimages/identifier   properties.identifier.publisher Microsoft.AzureStackHCI/marketplacegalleryimages/identifier.publisher   properties.identifier.offer Microsoft.AzureStackHCI/marketplacegalleryimages/identifier.offer   properties.identifier.sku Microsoft.AzureStackHCI/marketplacegalleryimages/identifier.sku   properties.version Microsoft.AzureStackHCI/marketplacegalleryimages/version   properties.version.name Microsoft.AzureStackHCI/marketplacegalleryimages/version.name   properties.version.properties.storageProfile Microsoft.AzureStackHCI/marketplacegalleryimages/version.storageProfile   properties.version.properties.storageProfile.osDiskImage Microsoft.AzureStackHCI/marketplacegalleryimages/version.storageProfile.osDiskImage   properties.version.properties.storageProfile.osDiskImage.sizeInMB Microsoft.AzureStackHCI/marketplacegalleryimages/version.storageProfile.osDiskImage.sizeInMB   properties.provisioningState Microsoft.AzureStackHCI/marketplacegalleryimages/provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkInterfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkInterfaces/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/networkInterfaces
+   Default Path Alias     properties.ipConfigurations Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations   properties.ipConfigurations[*] Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*]   properties.ipConfigurations[*].name Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].name   properties.ipConfigurations[*].properties.gateway Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].gateway   properties.ipConfigurations[*].properties.prefixLength Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].prefixLength   properties.ipConfigurations[*].properties.privateIPAddress Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].privateIPAddress   properties.ipConfigurations[*].properties.privateIPAllocationMethod Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].privateIPAllocationMethod   properties.ipConfigurations[*].properties.subnet Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].subnet   properties.ipConfigurations[*].properties.subnet.id Microsoft.AzureStackHCI/networkinterfaces/ipConfigurations[*].subnet.id   properties.macAddress Microsoft.AzureStackHCI/networkinterfaces/macAddress   properties.dnsSettings Microsoft.AzureStackHCI/networkinterfaces/dnsSettings   properties.dnsSettings.dnsServers Microsoft.AzureStackHCI/networkinterfaces/dnsSettings.dnsServers   properties.dnsSettings.dnsServers[*] Microsoft.AzureStackHCI/networkinterfaces/dnsSettings.dnsServers[*]   properties.provisioningState Microsoft.AzureStackHCI/networkinterfaces/provisioningState   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/storageContainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/storageContainers/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/storageContainers
+   Default Path Alias     properties.path Microsoft.AzureStackHCI/storagecontainers/path   properties.provisioningState Microsoft.AzureStackHCI/storagecontainers/provisioningState   properties.resourceName Microsoft.AzureStackHCI/storagecontainers/resourceName   properties.availableSizeMB Microsoft.AzureStackHCI/storagecontainers/availableSizeMB   properties.containerSizeMB Microsoft.AzureStackHCI/storagecontainers/containerSizeMB   properties.status Microsoft.AzureStackHCI/storagecontainers/status   properties.status.errorCode Microsoft.AzureStackHCI/storagecontainers/status.errorCode   properties.status.errorMessage Microsoft.AzureStackHCI/storagecontainers/status.errorMessage   properties.status.availableSizeMB Microsoft.AzureStackHCI/storagecontainers/status.availableSizeMB   properties.status.containerSizeMB Microsoft.AzureStackHCI/storagecontainers/status.containerSizeMB   properties.status.provisioningStatus Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus   properties.status.provisioningStatus.operationId Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus.operationId   properties.status.provisioningStatus.status Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus.status    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/virtualHardDisks
+   Default Path Alias     properties.blockSizeBytes Microsoft.AzureStackHCI/virtualharddisks/blockSizeBytes   properties.diskSizeBytes Microsoft.AzureStackHCI/virtualharddisks/diskSizeBytes   properties.dynamic Microsoft.AzureStackHCI/virtualharddisks/dynamic   properties.logicalSectorBytes Microsoft.AzureStackHCI/virtualharddisks/logicalSectorBytes   properties.physicalSectorBytes Microsoft.AzureStackHCI/virtualharddisks/physicalSectorBytes   properties.provisioningState Microsoft.AzureStackHCI/virtualharddisks/provisioningState   properties.resourceName Microsoft.AzureStackHCI/virtualharddisks/resourceName   properties.status Microsoft.AzureStackHCI/virtualharddisks/status   properties.status.errorCode Microsoft.AzureStackHCI/virtualharddisks/status.errorCode   properties.status.errorMessage Microsoft.AzureStackHCI/virtualharddisks/status.errorMessage   properties.hyperVGeneration Microsoft.AzureStackHCI/virtualharddisks/hyperVGeneration   properties.diskFileFormat Microsoft.AzureStackHCI/virtualharddisks/diskFileFormat   properties.containerId Microsoft.AzureStackHCI/virtualharddisks/containerId   properties.status.provisioningStatus Microsoft.AzureStackHCI/virtualharddisks/status.provisioningStatus   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualmachines-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualmachines-extensions/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/virtualmachines/extensions
+   Default Path Alias     properties.forceUpdateTag Microsoft.AzureStackHCI/virtualMachines/extensions/forceUpdateTag   properties.publisher Microsoft.AzureStackHCI/virtualMachines/extensions/publisher   properties.type Microsoft.AzureStackHCI/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.AzureStackHCI/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.AzureStackHCI/virtualMachines/extensions/autoUpgradeMinorVersion   properties.provisioningState Microsoft.AzureStackHCI/virtualMachines/extensions/provisioningState   properties.instanceView Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView   properties.instanceView.name Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.name   properties.instanceView.type Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.type   properties.instanceView.typeHandlerVersion Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.typeHandlerVersion   properties.instanceView.status Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.status   properties.instanceView.status.code Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.status.code   properties.instanceView.status.level Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.status.level   properties.instanceView.status.displayStatus Microsoft.AzureStackHCI/virtualMachines/extensions/instanceView.status.displayStatus   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/virtualMachines
+   Default Path Alias     properties.hardwareProfile Microsoft.AzureStackHCI/virtualmachines/hardwareProfile   properties.hardwareProfile.vmSize Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.vmSize   properties.hardwareProfile.processors Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.processors   properties.hardwareProfile.memoryGB Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.memoryGB   properties.hardwareProfile.dynamicMemoryConfig Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig   properties.hardwareProfile.dynamicMemoryConfig.maximumMemoryGB Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig.maximumMemoryGB   properties.hardwareProfile.dynamicMemoryConfig.minimumMemoryGB Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig.minimumMemoryGB   properties.hardwareProfile.dynamicMemoryConfig.targetMemoryBuffer Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig.targetMemoryBuffer   properties.networkProfile Microsoft.AzureStackHCI/virtualmachines/networkProfile   properties.networkProfile.networkInterfaces Microsoft.AzureStackHCI/virtualmachines/networkProfile.networkInterfaces   properties.networkProfile.networkInterfaces[*] Microsoft.AzureStackHCI/virtualmachines/networkProfile.networkInterfaces[*]   properties.networkProfile.networkInterfaces[*].id Microsoft.AzureStackHCI/virtualmachines/networkProfile.networkInterfaces[*].id   properties.osProfile Microsoft.AzureStackHCI/virtualmachines/osProfile   properties.osProfile.adminPassword Microsoft.AzureStackHCI/virtualmachines/osProfile.adminPassword   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualNetworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualNetworks/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/virtualNetworks
+   Default Path Alias     properties.networkType Microsoft.AzureStackHCI/virtualnetworks/networkType   properties.subnets Microsoft.AzureStackHCI/virtualnetworks/subnets   properties.subnets[*] Microsoft.AzureStackHCI/virtualnetworks/subnets[*]   properties.subnets[*].name Microsoft.AzureStackHCI/virtualnetworks/subnets[*].name   properties.subnets[*].properties.addressPrefix Microsoft.AzureStackHCI/virtualnetworks/subnets[*].addressPrefix   properties.subnets[*].properties.addressPrefixes Microsoft.AzureStackHCI/virtualnetworks/subnets[*].addressPrefixes   properties.subnets[*].properties.addressPrefixes[*] Microsoft.AzureStackHCI/virtualnetworks/subnets[*].addressPrefixes[*]   properties.subnets[*].properties.ipAllocationMethod Microsoft.AzureStackHCI/virtualnetworks/subnets[*].ipAllocationMethod   properties.subnets[*].properties.ipConfigurationReferences Microsoft.AzureStackHCI/virtualnetworks/subnets[*].ipConfigurationReferences   properties.subnets[*].properties.ipConfigurationReferences[*] Microsoft.AzureStackHCI/virtualnetworks/subnets[*].ipConfigurationReferences[*]   properties.subnets[*].properties.ipConfigurationReferences[*].ID Microsoft.AzureStackHCI/virtualnetworks/subnets[*].ipConfigurationReferences[*].ID   properties.subnets[*].properties.routeTable Microsoft.AzureStackHCI/virtualnetworks/subnets[*].routeTable   properties.subnets[*].properties.routeTable.id Microsoft.AzureStackHCI/virtualnetworks/subnets[*].routeTable.id   properties.subnets[*].properties.routeTable.name Microsoft.AzureStackHCI/virtualnetworks/subnets[*].routeTable.name   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-applications-versions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3053,6 +3163,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers/</guid>
       <description>Link to resource definition: Microsoft.DBforMariaDB/servers
    Default Path Alias     sku.name Microsoft.DBforMariaDB/servers/sku.name   sku.tier Microsoft.DBforMariaDB/servers/sku.tier   sku.capacity Microsoft.DBforMariaDB/servers/sku.capacity   sku.size Microsoft.DBforMariaDB/servers/sku.size   sku.family Microsoft.DBforMariaDB/servers/sku.family   sku Microsoft.DBforMariaDB/servers/sku   properties.version Microsoft.DBforMariaDB/servers/version   properties.sslEnforcement Microsoft.DBforMariaDB/servers/sslEnforcement   properties.storageProfile.backupRetentionDays Microsoft.DBforMariaDB/servers/storageProfile.backupRetentionDays   properties.storageProfile.geoRedundantBackup Microsoft.DBforMariaDB/servers/storageProfile.geoRedundantBackup   properties.storageProfile.storageMB Microsoft.DBforMariaDB/servers/storageProfile.storageMB   properties.storageProfile Microsoft.DBforMariaDB/servers/storageProfile   properties.storageProfile.storageAutogrow Microsoft.DBforMariaDB/servers/storageProfile.storageAutogrow   properties.publicNetworkAccess Microsoft.DBforMariaDB/servers/publicNetworkAccess   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</guid>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/administrators
+   Default Path Alias     properties.administratorType Microsoft.DBforMySQL/flexibleServers/administrators/administratorType   properties.login Microsoft.DBforMySQL/flexibleServers/administrators/login   properties.sid Microsoft.DBforMySQL/flexibleServers/administrators/sid   properties.tenantId Microsoft.DBforMySQL/flexibleServers/administrators/tenantId   properties.identityResourceId Microsoft.DBforMySQL/flexibleServers/administrators/identityResourceId    </description>
     </item>
     
     <item>

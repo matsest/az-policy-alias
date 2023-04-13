@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DBforMySQL/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</guid>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/administrators
+   Default Path Alias     properties.administratorType Microsoft.DBforMySQL/flexibleServers/administrators/administratorType   properties.login Microsoft.DBforMySQL/flexibleServers/administrators/login   properties.sid Microsoft.DBforMySQL/flexibleServers/administrators/sid   properties.tenantId Microsoft.DBforMySQL/flexibleServers/administrators/tenantId   properties.identityResourceId Microsoft.DBforMySQL/flexibleServers/administrators/identityResourceId    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
