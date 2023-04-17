@@ -728,40 +728,40 @@
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/clusters/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Clusters/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/datastores/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Datastores/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/hosts/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Hosts/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/resourcepools/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/ResourcePools/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualnetworks/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualNetworks/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Consumption/</loc>

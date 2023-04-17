@@ -2157,51 +2157,51 @@
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/clusters/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Clusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/clusters/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/clusters
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Clusters/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/Clusters
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/clusters/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/clusters/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/clusters/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/clusters/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/clusters/moName   properties.statuses Microsoft.ConnectedVMwarevSphere/clusters/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/clusters/statuses[*]   properties.statuses[*].type Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].type   properties.statuses[*].status Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].status   properties.statuses[*].reason Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].reason   properties.statuses[*].message Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].message   properties.statuses[*].severity Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].severity   properties.statuses[*].lastUpdatedAt Microsoft.ConnectedVMwarevSphere/clusters/statuses[*].lastUpdatedAt   properties.customResourceName Microsoft.ConnectedVMwarevSphere/clusters/customResourceName   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/datastores/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Datastores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/datastores/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/datastores
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Datastores/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/Datastores
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/datastores/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/datastores/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/datastores/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/datastores/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/datastores/moName   properties.statuses Microsoft.ConnectedVMwarevSphere/datastores/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/datastores/statuses[*]   properties.statuses[*].type Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].type   properties.statuses[*].status Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].status   properties.statuses[*].reason Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].reason   properties.statuses[*].message Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].message   properties.statuses[*].severity Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].severity   properties.statuses[*].lastUpdatedAt Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].lastUpdatedAt   properties.customResourceName Microsoft.ConnectedVMwarevSphere/datastores/customResourceName   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/hosts/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Hosts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/hosts/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/hosts
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Hosts/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/Hosts
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/hosts/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/hosts/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/hosts/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/hosts/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/hosts/moName   properties.statuses Microsoft.ConnectedVMwarevSphere/hosts/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/hosts/statuses[*]   properties.statuses[*].type Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].type   properties.statuses[*].status Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].status   properties.statuses[*].reason Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].reason   properties.statuses[*].message Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].message   properties.statuses[*].severity Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].severity   properties.statuses[*].lastUpdatedAt Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].lastUpdatedAt   properties.customResourceName Microsoft.ConnectedVMwarevSphere/hosts/customResourceName   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/resourcepools/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/ResourcePools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/resourcepools/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/resourcepools
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/ResourcePools/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/ResourcePools
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/resourcePools/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/resourcePools/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/resourcePools/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/resourcePools/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/resourcePools/moName   properties.cpuSharesLevel Microsoft.ConnectedVMwarevSphere/resourcePools/cpuSharesLevel   properties.cpuReservationMHz Microsoft.ConnectedVMwarevSphere/resourcePools/cpuReservationMHz   properties.cpuLimitMHz Microsoft.ConnectedVMwarevSphere/resourcePools/cpuLimitMHz   properties.memSharesLevel Microsoft.ConnectedVMwarevSphere/resourcePools/memSharesLevel   properties.memReservationMB Microsoft.ConnectedVMwarevSphere/resourcePools/memReservationMB   properties.memLimitMB Microsoft.ConnectedVMwarevSphere/resourcePools/memLimitMB   properties.customResourceName Microsoft.ConnectedVMwarevSphere/resourcePools/customResourceName   properties.statuses Microsoft.ConnectedVMwarevSphere/resourcePools/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/resourcePools/statuses[*]   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VCenters/InventoryItems
    Default Path Alias     properties.parent Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/Host.parent   properties.parent Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/ResourcePool.parent   properties.parent.inventoryItemId Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/Host.parent.inventoryItemId   properties.parent.inventoryItemId Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/ResourcePool.parent.inventoryItemId   properties.parent.moName Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/Host.parent.moName   properties.parent.moName Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/ResourcePool.parent.moName   properties.capacityGB Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/Datastore.capacityGB   properties.freeSpaceGB Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/Datastore.freeSpaceGB   properties.memorySizeMB Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachineTemplate.memorySizeMB   properties.numCPUs Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachineTemplate.numCPUs   properties.numCoresPerSocket Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachineTemplate.numCoresPerSocket   properties.osType Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachineTemplate.osType   properties.osType Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachine.osType   properties.osName Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/VirtualMachineTemplate.osName   properties.</description>
     </item>
     
@@ -2217,21 +2217,21 @@
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VirtualMachines/Extensions
    Default Path Alias     properties.forceUpdateTag Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/forceUpdateTag   properties.publisher Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/publisher   properties.type Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/type   properties.typeHandlerVersion Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/typeHandlerVersion   properties.autoUpgradeMinorVersion Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/autoUpgradeMinorVersion   properties.provisioningState Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/provisioningState   properties.instanceView Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView   properties.instanceView.name Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.name   properties.instanceView.type Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.type   properties.instanceView.typeHandlerVersion Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.typeHandlerVersion   properties.instanceView.status Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status   properties.instanceView.status.code Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.code   properties.instanceView.status.level Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.level   properties.instanceView.status.displayStatus Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.displayStatus   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VirtualMachines/GuestAgents
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/uuid   properties.credentials Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/credentials   properties.credentials.username Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/credentials.username   properties.credentials.password Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/credentials.password   properties.httpProxyConfig Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/httpProxyConfig   properties.httpProxyConfig.httpsProxy Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/httpProxyConfig.httpsProxy   properties.provisioningAction Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/provisioningAction   properties.status Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/status   properties.customResourceName Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/customResourceName   properties.statuses Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*]   properties.statuses[*].type Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*].type   properties.statuses[*].status Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*].status   properties.statuses[*].reason Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*].reason   properties.</description>
     </item>
     
@@ -2247,31 +2247,31 @@
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachines/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/virtualmachines
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VirtualMachines
    Default Path Alias     properties.resourcePoolId Microsoft.ConnectedVMwarevSphere/virtualMachines/resourcePoolId   properties.templateId Microsoft.ConnectedVMwarevSphere/virtualMachines/templateId   properties.vCenterId Microsoft.ConnectedVMwarevSphere/virtualMachines/vCenterId   properties.placementProfile Microsoft.ConnectedVMwarevSphere/virtualMachines/placementProfile   properties.placementProfile.resourcePoolId Microsoft.ConnectedVMwarevSphere/virtualMachines/placementProfile.resourcePoolId   properties.placementProfile.clusterId Microsoft.ConnectedVMwarevSphere/virtualMachines/placementProfile.clusterId   properties.placementProfile.hostId Microsoft.ConnectedVMwarevSphere/virtualMachines/placementProfile.hostId   properties.placementProfile.datastoreId Microsoft.ConnectedVMwarevSphere/virtualMachines/placementProfile.datastoreId   properties.osProfile Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile   properties.osProfile.computerName Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile.computerName   properties.osProfile.adminUsername Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile.adminUsername   properties.osProfile.adminPassword Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile.adminPassword   properties.osProfile.osType Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile.osType   properties.osProfile.osName Microsoft.ConnectedVMwarevSphere/virtualMachines/osProfile.osName   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/moName   properties.memorySizeMB Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/memorySizeMB   properties.numCPUs Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/numCPUs   properties.numCoresPerSocket Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/numCoresPerSocket   properties.osType Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/osType   properties.osName Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/osName   properties.folderPath Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/folderPath   properties.networkInterfaces Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/networkInterfaces   properties.networkInterfaces[*] Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/networkInterfaces[*]   properties.networkInterfaces[*].name Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/networkInterfaces[*].name   properties.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualnetworks/</link>
+      <link>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualNetworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/virtualnetworks/</guid>
-      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/virtualnetworks
+      <guid>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualNetworks/</guid>
+      <description>Link to resource definition: Microsoft.ConnectedVMwarevSphere/VirtualNetworks
    Default Path Alias     properties.uuid Microsoft.ConnectedVMwarevSphere/virtualNetworks/uuid   properties.vCenterId Microsoft.ConnectedVMwarevSphere/virtualNetworks/vCenterId   properties.moRefId Microsoft.ConnectedVMwarevSphere/virtualNetworks/moRefId   properties.inventoryItemId Microsoft.ConnectedVMwarevSphere/virtualNetworks/inventoryItemId   properties.moName Microsoft.ConnectedVMwarevSphere/virtualNetworks/moName   properties.customResourceName Microsoft.ConnectedVMwarevSphere/virtualNetworks/customResourceName   properties.statuses Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses   properties.statuses[*] Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*]   properties.statuses[*].type Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].type   properties.statuses[*].status Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].status   properties.statuses[*].reason Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].reason   properties.statuses[*].message Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].message   properties.statuses[*].severity Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].severity   properties.statuses[*].lastUpdatedAt Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].lastUpdatedAt   properties.</description>
     </item>
     
