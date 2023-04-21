@@ -47,6 +47,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</guid>
+      <description>Link to resource definition: Microsoft.Security/assessments/governanceAssignments
+   Default Path Alias     properties.owner Microsoft.Security/assessments/governanceAssignments/owner   properties.remediationDueDate Microsoft.Security/assessments/governanceAssignments/remediationDueDate   properties.remediationEta Microsoft.Security/assessments/governanceAssignments/remediationEta   properties.remediationEta.eta Microsoft.Security/assessments/governanceAssignments/remediationEta.eta   properties.remediationEta.justification Microsoft.Security/assessments/governanceAssignments/remediationEta.justification   properties.isGracePeriod Microsoft.Security/assessments/governanceAssignments/isGracePeriod   properties.governanceEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification   properties.governanceEmailNotification.disableManagerEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification.disableManagerEmailNotification   properties.governanceEmailNotification.disableOwnerEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification.disableOwnerEmailNotification   properties.additionalData Microsoft.Security/assessments/governanceAssignments/additionalData   properties.additionalData.ticketNumber Microsoft.Security/assessments/governanceAssignments/additionalData.ticketNumber   properties.additionalData.ticketLink Microsoft.Security/assessments/governanceAssignments/additionalData.ticketLink   properties.additionalData.ticketStatus Microsoft.Security/assessments/governanceAssignments/additionalData.ticketStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Security/assessments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,6 +103,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</guid>
       <description>Link to resource definition: Microsoft.Security/deviceSecurityGroups
    Default Path Alias     properties.thresholdRules[*].displayName Microsoft.Security/deviceSecurityGroups/thresholdRules[*].displayName   properties.thresholdRules[*].description Microsoft.Security/deviceSecurityGroups/thresholdRules[*].description   properties.thresholdRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/thresholdRules[*].isEnabled   properties.thresholdRules[*].ruleType Microsoft.Security/deviceSecurityGroups/thresholdRules[*].ruleType   properties.thresholdRules[*] Microsoft.Security/deviceSecurityGroups/thresholdRules[*]   properties.thresholdRules Microsoft.Security/deviceSecurityGroups/thresholdRules   properties.thresholdRules[*].minThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].minThreshold   properties.thresholdRules[*].maxThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].maxThreshold   properties.timeWindowRules[*].displayName Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].displayName   properties.timeWindowRules[*].description Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].description   properties.timeWindowRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].isEnabled   properties.timeWindowRules[*].ruleType Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].ruleType   properties.timeWindowRules[*] Microsoft.Security/deviceSecurityGroups/timeWindowRules[*]   properties.timeWindowRules Microsoft.Security/deviceSecurityGroups/timeWindowRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</guid>
+      <description>Link to resource definition: Microsoft.Security/governanceRules
+   Default Path Alias     properties.tenantId Microsoft.Security/governanceRules/tenantId   properties.displayName Microsoft.Security/governanceRules/displayName   properties.description Microsoft.Security/governanceRules/description   properties.remediationTimeframe Microsoft.Security/governanceRules/remediationTimeframe   properties.isGracePeriod Microsoft.Security/governanceRules/isGracePeriod   properties.rulePriority Microsoft.Security/governanceRules/rulePriority   properties.isDisabled Microsoft.Security/governanceRules/isDisabled   properties.ruleType Microsoft.Security/governanceRules/ruleType   properties.sourceResourceType Microsoft.Security/governanceRules/sourceResourceType   properties.excludedScopes Microsoft.Security/governanceRules/excludedScopes   properties.excludedScopes[*] Microsoft.Security/governanceRules/excludedScopes[*]   properties.conditionSets Microsoft.Security/governanceRules/conditionSets   properties.conditionSets[*] Microsoft.Security/governanceRules/conditionSets[*]   properties.includeMemberScopes Microsoft.Security/governanceRules/includeMemberScopes   properties.</description>
     </item>
     
     <item>
@@ -152,7 +172,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Security/pricings/</guid>
       <description>Link to resource definition: Microsoft.Security/pricings
-   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime   properties.subPlan Microsoft.Security/pricings/subPlan    </description>
+   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime   properties.subPlan Microsoft.Security/pricings/subPlan   properties.deprecated Microsoft.Security/pricings/deprecated   properties.replacedBy Microsoft.Security/pricings/replacedBy   properties.replacedBy[*] Microsoft.Security/pricings/replacedBy[*]    </description>
     </item>
     
     <item>

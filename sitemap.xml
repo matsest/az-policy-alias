@@ -188,6 +188,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-authconfigs/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerApps/</loc>
     <priority>0</priority>
   </url><url>
@@ -2837,6 +2840,9 @@
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessmentMetadata/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessments/</loc>
     <priority>0</priority>
   </url><url>
@@ -2850,6 +2856,9 @@
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/InformationProtectionPolicies/</loc>
@@ -3722,10 +3731,16 @@
     <loc>http://policyalias.mats.codes/Microsoft.Web/sourceControls/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</loc>

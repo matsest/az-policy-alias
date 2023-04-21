@@ -557,6 +557,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</guid>
+      <description>Link to resource definition: Microsoft.App/containerapps/sourcecontrols
+   Default Path Alias     properties.operationState Microsoft.App/containerApps/sourcecontrols/operationState   properties.repoUrl Microsoft.App/containerApps/sourcecontrols/repoUrl   properties.branch Microsoft.App/containerApps/sourcecontrols/branch   properties.githubActionConfiguration Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration   properties.githubActionConfiguration.registryInfo Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.registryInfo   properties.githubActionConfiguration.registryInfo.registryUrl Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.registryInfo.registryUrl   properties.githubActionConfiguration.registryInfo.registryUserName Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.registryInfo.registryUserName   properties.githubActionConfiguration.registryInfo.registryPassword Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.registryInfo.registryPassword   properties.githubActionConfiguration.azureCredentials Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials   properties.githubActionConfiguration.azureCredentials.clientId Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials.clientId   properties.githubActionConfiguration.azureCredentials.clientSecret Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials.clientSecret   properties.githubActionConfiguration.azureCredentials.tenantId Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials.tenantId   properties.githubActionConfiguration.azureCredentials.subscriptionId Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials.subscriptionId   properties.githubActionConfiguration.dockerfilePath Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.dockerfilePath   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.App/containerApps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -572,7 +582,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-certificates/</guid>
       <description>Link to resource definition: Microsoft.App/managedEnvironments/certificates
-   Default Path Alias     properties.provisioningState Microsoft.App/managedEnvironments/certificates/provisioningState   properties.password Microsoft.App/managedEnvironments/certificates/password   properties.subjectName Microsoft.App/managedEnvironments/certificates/subjectName   properties.value Microsoft.App/managedEnvironments/certificates/value   properties.issuer Microsoft.App/managedEnvironments/certificates/issuer   properties.issueDate Microsoft.App/managedEnvironments/certificates/issueDate   properties.expirationDate Microsoft.App/managedEnvironments/certificates/expirationDate   properties.thumbprint Microsoft.App/managedEnvironments/certificates/thumbprint   properties.valid Microsoft.App/managedEnvironments/certificates/valid   properties.publicKeyHash Microsoft.App/managedEnvironments/certificates/publicKeyHash    </description>
+   Default Path Alias     properties.provisioningState Microsoft.App/managedEnvironments/certificates/provisioningState   properties.password Microsoft.App/managedEnvironments/certificates/password   properties.subjectName Microsoft.App/managedEnvironments/certificates/subjectName   properties.value Microsoft.App/managedEnvironments/certificates/value   properties.issuer Microsoft.App/managedEnvironments/certificates/issuer   properties.issueDate Microsoft.App/managedEnvironments/certificates/issueDate   properties.expirationDate Microsoft.App/managedEnvironments/certificates/expirationDate   properties.thumbprint Microsoft.App/managedEnvironments/certificates/thumbprint   properties.valid Microsoft.App/managedEnvironments/certificates/valid   properties.publicKeyHash Microsoft.App/managedEnvironments/certificates/publicKeyHash   properties.subjectAlternativeNames Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames   properties.subjectAlternativeNames[*] Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames[*]    </description>
     </item>
     
     <item>
@@ -8457,6 +8467,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</guid>
+      <description>Link to resource definition: Microsoft.Security/assessments/governanceAssignments
+   Default Path Alias     properties.owner Microsoft.Security/assessments/governanceAssignments/owner   properties.remediationDueDate Microsoft.Security/assessments/governanceAssignments/remediationDueDate   properties.remediationEta Microsoft.Security/assessments/governanceAssignments/remediationEta   properties.remediationEta.eta Microsoft.Security/assessments/governanceAssignments/remediationEta.eta   properties.remediationEta.justification Microsoft.Security/assessments/governanceAssignments/remediationEta.justification   properties.isGracePeriod Microsoft.Security/assessments/governanceAssignments/isGracePeriod   properties.governanceEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification   properties.governanceEmailNotification.disableManagerEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification.disableManagerEmailNotification   properties.governanceEmailNotification.disableOwnerEmailNotification Microsoft.Security/assessments/governanceAssignments/governanceEmailNotification.disableOwnerEmailNotification   properties.additionalData Microsoft.Security/assessments/governanceAssignments/additionalData   properties.additionalData.ticketNumber Microsoft.Security/assessments/governanceAssignments/additionalData.ticketNumber   properties.additionalData.ticketLink Microsoft.Security/assessments/governanceAssignments/additionalData.ticketLink   properties.additionalData.ticketStatus Microsoft.Security/assessments/governanceAssignments/additionalData.ticketStatus    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Security/assessments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8503,6 +8523,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</guid>
       <description>Link to resource definition: Microsoft.Security/deviceSecurityGroups
    Default Path Alias     properties.thresholdRules[*].displayName Microsoft.Security/deviceSecurityGroups/thresholdRules[*].displayName   properties.thresholdRules[*].description Microsoft.Security/deviceSecurityGroups/thresholdRules[*].description   properties.thresholdRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/thresholdRules[*].isEnabled   properties.thresholdRules[*].ruleType Microsoft.Security/deviceSecurityGroups/thresholdRules[*].ruleType   properties.thresholdRules[*] Microsoft.Security/deviceSecurityGroups/thresholdRules[*]   properties.thresholdRules Microsoft.Security/deviceSecurityGroups/thresholdRules   properties.thresholdRules[*].minThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].minThreshold   properties.thresholdRules[*].maxThreshold Microsoft.Security/deviceSecurityGroups/thresholdRules[*].maxThreshold   properties.timeWindowRules[*].displayName Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].displayName   properties.timeWindowRules[*].description Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].description   properties.timeWindowRules[*].isEnabled Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].isEnabled   properties.timeWindowRules[*].ruleType Microsoft.Security/deviceSecurityGroups/timeWindowRules[*].ruleType   properties.timeWindowRules[*] Microsoft.Security/deviceSecurityGroups/timeWindowRules[*]   properties.timeWindowRules Microsoft.Security/deviceSecurityGroups/timeWindowRules   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</guid>
+      <description>Link to resource definition: Microsoft.Security/governanceRules
+   Default Path Alias     properties.tenantId Microsoft.Security/governanceRules/tenantId   properties.displayName Microsoft.Security/governanceRules/displayName   properties.description Microsoft.Security/governanceRules/description   properties.remediationTimeframe Microsoft.Security/governanceRules/remediationTimeframe   properties.isGracePeriod Microsoft.Security/governanceRules/isGracePeriod   properties.rulePriority Microsoft.Security/governanceRules/rulePriority   properties.isDisabled Microsoft.Security/governanceRules/isDisabled   properties.ruleType Microsoft.Security/governanceRules/ruleType   properties.sourceResourceType Microsoft.Security/governanceRules/sourceResourceType   properties.excludedScopes Microsoft.Security/governanceRules/excludedScopes   properties.excludedScopes[*] Microsoft.Security/governanceRules/excludedScopes[*]   properties.conditionSets Microsoft.Security/governanceRules/conditionSets   properties.conditionSets[*] Microsoft.Security/governanceRules/conditionSets[*]   properties.includeMemberScopes Microsoft.Security/governanceRules/includeMemberScopes   properties.</description>
     </item>
     
     <item>
@@ -8562,7 +8592,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Security/pricings/</guid>
       <description>Link to resource definition: Microsoft.Security/pricings
-   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime   properties.subPlan Microsoft.Security/pricings/subPlan    </description>
+   Default Path Alias     properties.pricingTier Microsoft.Security/pricings/pricingTier   properties.freeTrialRemainingTime Microsoft.Security/pricings/freeTrialRemainingTime   properties.subPlan Microsoft.Security/pricings/subPlan   properties.deprecated Microsoft.Security/pricings/deprecated   properties.replacedBy Microsoft.Security/pricings/replacedBy   properties.replacedBy[*] Microsoft.Security/pricings/replacedBy[*]    </description>
     </item>
     
     <item>
@@ -11217,6 +11247,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/builds/databaseConnections
+   Default Path Alias     properties.resourceId Microsoft.Web/staticSites/builds/databaseConnections/resourceId   properties.connectionIdentity Microsoft.Web/staticSites/builds/databaseConnections/connectionIdentity   properties.connectionString Microsoft.Web/staticSites/builds/databaseConnections/connectionString   properties.region Microsoft.Web/staticSites/builds/databaseConnections/region   properties.configurationFiles Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles   properties.configurationFiles[*] Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*]   properties.configurationFiles[*].fileName Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].fileName   properties.configurationFiles[*].contents Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].contents   properties.configurationFiles[*].type Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].type    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -11233,6 +11273,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</guid>
       <description>Link to resource definition: Microsoft.Web/staticSites/builds/userProvidedFunctionApps
    Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/builds/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/databaseConnections
+   Default Path Alias     properties.resourceId Microsoft.Web/staticSites/databaseConnections/resourceId   properties.connectionIdentity Microsoft.Web/staticSites/databaseConnections/connectionIdentity   properties.connectionString Microsoft.Web/staticSites/databaseConnections/connectionString   properties.region Microsoft.Web/staticSites/databaseConnections/region   properties.configurationFiles Microsoft.Web/staticSites/databaseConnections/configurationFiles   properties.configurationFiles[*] Microsoft.Web/staticSites/databaseConnections/configurationFiles[*]   properties.configurationFiles[*].fileName Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].fileName   properties.configurationFiles[*].contents Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].contents   properties.configurationFiles[*].type Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].type    </description>
     </item>
     
     <item>

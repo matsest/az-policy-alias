@@ -467,6 +467,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/builds/databaseConnections
+   Default Path Alias     properties.resourceId Microsoft.Web/staticSites/builds/databaseConnections/resourceId   properties.connectionIdentity Microsoft.Web/staticSites/builds/databaseConnections/connectionIdentity   properties.connectionString Microsoft.Web/staticSites/builds/databaseConnections/connectionString   properties.region Microsoft.Web/staticSites/builds/databaseConnections/region   properties.configurationFiles Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles   properties.configurationFiles[*] Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*]   properties.configurationFiles[*].fileName Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].fileName   properties.configurationFiles[*].contents Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].contents   properties.configurationFiles[*].type Microsoft.Web/staticSites/builds/databaseConnections/configurationFiles[*].type    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -483,6 +493,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</guid>
       <description>Link to resource definition: Microsoft.Web/staticSites/builds/userProvidedFunctionApps
    Default Path Alias     properties.functionAppResourceId Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppResourceId   properties.functionAppRegion Microsoft.Web/staticSites/builds/userProvidedFunctionApps/functionAppRegion   properties.createdOn Microsoft.Web/staticSites/builds/userProvidedFunctionApps/createdOn    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</guid>
+      <description>Link to resource definition: Microsoft.Web/staticSites/databaseConnections
+   Default Path Alias     properties.resourceId Microsoft.Web/staticSites/databaseConnections/resourceId   properties.connectionIdentity Microsoft.Web/staticSites/databaseConnections/connectionIdentity   properties.connectionString Microsoft.Web/staticSites/databaseConnections/connectionString   properties.region Microsoft.Web/staticSites/databaseConnections/region   properties.configurationFiles Microsoft.Web/staticSites/databaseConnections/configurationFiles   properties.configurationFiles[*] Microsoft.Web/staticSites/databaseConnections/configurationFiles[*]   properties.configurationFiles[*].fileName Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].fileName   properties.configurationFiles[*].contents Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].contents   properties.configurationFiles[*].type Microsoft.Web/staticSites/databaseConnections/configurationFiles[*].type    </description>
     </item>
     
     <item>
