@@ -2348,10 +2348,16 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections/</loc>

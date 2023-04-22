@@ -6977,6 +6977,16 @@
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.displayName   properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.displayName   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.description   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.description   properties.flag Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.flag   properties.protocol Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.protocol   properties.protocol Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.protocol   properties.sources Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.sources   properties.sources Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.sources   properties.sources[*] Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.sources[*]   properties.sources[*] Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.sources[*]   properties.sources[*].addressPrefix Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.sources[*].addressPrefix   properties.sources[*].addressPrefix Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.sources[*].addressPrefix   properties.sources[*].addressPrefixType Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.sources[*].addressPrefixType   properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -6993,6 +7003,16 @@
       <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</guid>
       <description>Link to resource definition: Microsoft.Network/networkManagers/securityAdminConfigurations
    Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityAdminConfigurations/displayName   properties.description Microsoft.Network/networkManagers/securityAdminConfigurations/description   properties.securityType Microsoft.Network/networkManagers/securityAdminConfigurations/securityType   properties.deleteExistingNSGs Microsoft.Network/networkManagers/securityAdminConfigurations/deleteExistingNSGs   properties.provisioningState Microsoft.Network/networkManagers/securityAdminConfigurations/provisioningState   properties.applyOnNetworkIntentPolicyBasedServices Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices   properties.applyOnNetworkIntentPolicyBasedServices[*] Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices[*]    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules/</guid>
+      <description>Link to resource definition: Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules
+   Default Path Alias     properties.displayName Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.displayName   properties.displayName Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.displayName   properties.description Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.description   properties.description Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.description   properties.flag Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.flag   properties.protocol Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.protocol   properties.protocol Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.protocol   properties.sources Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.sources   properties.sources Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.sources   properties.sources[*] Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.sources[*]   properties.sources[*] Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.sources[*]   properties.sources[*].addressPrefix Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.sources[*].addressPrefix   properties.sources[*].addressPrefix Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.sources[*].addressPrefix   properties.sources[*].addressPrefixType Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.sources[*].addressPrefixType   properties.</description>
     </item>
     
     <item>
