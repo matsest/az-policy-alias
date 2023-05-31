@@ -1406,6 +1406,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbRoleDefinitions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbUserDefinitions/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces/</loc>
     <priority>0</priority>
   </url><url>
