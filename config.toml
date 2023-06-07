@@ -27,7 +27,7 @@ enableRobotsTXT = true
 [params]
 
   description = "Search and find Azure Policy Aliases. Lists all Azure Policy Aliases and is updated every day. Made by matsest."
-  keywords = "azure, policy, azure policy, azure policy alias, azure policy aliases, find azure policy alias, matsest, policy alias powershell, azure policy alias reference"
+  keywords = [ "azure", "policy", "azure policy", "azure policy alias", "azure policy aliases", "find azure policy alias", "matsest", "policy alias powershell", "azure policy alias reference" ]
   images = [ 'overview.png' ]
 
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
