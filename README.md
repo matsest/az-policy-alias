@@ -33,7 +33,7 @@ You can see the latest updated aliases in the [gh-pages branch](https://github.c
 
 ## Related
 
-- [AzAdvertizer.net Policy Aliases](https://www.azadvertizer.net/azpolicyaliasesadvertizer_singlelines.html) by [@JulianHayward](https://github.com/JulianHayward): Release and change tracking on Azure Governance capabilities, including policy aliases
+- [AzAdvertizer.net Policy Aliases](https://www.azadvertizer.net/azpolicyaliasesadvertizer_singlelinesx.html) by [@JulianHayward](https://github.com/JulianHayward): Release and change tracking on Azure Governance capabilities, including policy aliases
 
 ## License
 
