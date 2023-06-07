@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Subscription/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Subscription/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Subscription/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Subscription/aliases/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Subscription/aliases/</guid>
       <description>Link to resource definition: Microsoft.Subscription/aliases
-   Default Path Alias     properties.subscriptionId Microsoft.Subscription/aliases/subscriptionId    </description>
+Default Path Alias properties.subscriptionId Microsoft.Subscription/aliases/subscriptionId </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Subscription/SubscriptionDefinitions/</guid>
       <description>Link to resource definition: Microsoft.Subscription/SubscriptionDefinitions
-   Default Path Alias     properties.subscriptionId Microsoft.Subscription/SubscriptionDefinitions/subscriptionId   properties.subscriptionDisplayName Microsoft.Subscription/SubscriptionDefinitions/subscriptionDisplayName   properties.offerType Microsoft.Subscription/SubscriptionDefinitions/offerType   properties.etag Microsoft.Subscription/SubscriptionDefinitions/etag    </description>
+Default Path Alias properties.subscriptionId Microsoft.Subscription/SubscriptionDefinitions/subscriptionId properties.subscriptionDisplayName Microsoft.Subscription/SubscriptionDefinitions/subscriptionDisplayName properties.offerType Microsoft.Subscription/SubscriptionDefinitions/offerType properties.etag Microsoft.Subscription/SubscriptionDefinitions/etag </description>
     </item>
     
   </channel>

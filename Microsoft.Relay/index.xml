@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Relay/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Relay/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Relay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Relay/namespaces-authorizationrules/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-authorizationrules/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/authorizationrules
-   Default Path Alias     properties.rights Microsoft.Relay/namespaces/AuthorizationRules/rights   properties.rights[*] Microsoft.Relay/namespaces/AuthorizationRules/rights[*]    </description>
+Default Path Alias properties.rights Microsoft.Relay/namespaces/AuthorizationRules/rights properties.rights[*] Microsoft.Relay/namespaces/AuthorizationRules/rights[*] </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-hybridconnections-authorizationrules/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/hybridconnections/authorizationrules
-   Default Path Alias     properties.rights Microsoft.Relay/namespaces/HybridConnections/authorizationRules/rights   properties.rights[*] Microsoft.Relay/namespaces/HybridConnections/authorizationRules/rights[*]    </description>
+Default Path Alias properties.rights Microsoft.Relay/namespaces/HybridConnections/authorizationRules/rights properties.rights[*] Microsoft.Relay/namespaces/HybridConnections/authorizationRules/rights[*] </description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-hybridconnections/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/hybridconnections
-   Default Path Alias     properties.createdAt Microsoft.Relay/namespaces/HybridConnections/createdAt   properties.updatedAt Microsoft.Relay/namespaces/HybridConnections/updatedAt   properties.listenerCount Microsoft.Relay/namespaces/HybridConnections/listenerCount   properties.requiresClientAuthorization Microsoft.Relay/namespaces/HybridConnections/requiresClientAuthorization   properties.userMetadata Microsoft.Relay/namespaces/HybridConnections/userMetadata    </description>
+Default Path Alias properties.createdAt Microsoft.Relay/namespaces/HybridConnections/createdAt properties.updatedAt Microsoft.Relay/namespaces/HybridConnections/updatedAt properties.listenerCount Microsoft.Relay/namespaces/HybridConnections/listenerCount properties.requiresClientAuthorization Microsoft.Relay/namespaces/HybridConnections/requiresClientAuthorization properties.userMetadata Microsoft.Relay/namespaces/HybridConnections/userMetadata </description>
     </item>
     
     <item>
@@ -42,7 +43,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-networkrulesets/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/networkrulesets
-   Default Path Alias     properties.defaultAction Microsoft.Relay/namespaces/networkRuleSets/defaultAction   properties.ipRules Microsoft.Relay/namespaces/networkRuleSets/ipRules   properties.ipRules[*] Microsoft.Relay/namespaces/networkRuleSets/ipRules[*]   properties.ipRules[*].ipMask Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].ipMask   properties.ipRules[*].action Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].action   properties.publicNetworkAccess Microsoft.Relay/namespaces/networkRuleSets/publicNetworkAccess    </description>
+Default Path Alias properties.defaultAction Microsoft.Relay/namespaces/networkRuleSets/defaultAction properties.ipRules Microsoft.Relay/namespaces/networkRuleSets/ipRules properties.ipRules[*] Microsoft.Relay/namespaces/networkRuleSets/ipRules[*] properties.ipRules[*].ipMask Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].ipMask properties.ipRules[*].action Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].action properties.publicNetworkAccess Microsoft.Relay/namespaces/networkRuleSets/publicNetworkAccess </description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-privateEndpointConnections/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/privateEndpointConnections
-   Default Path Alias     properties.privateEndpoint Microsoft.Relay/namespaces/privateEndpointConnections/privateEndpoint   properties.privateEndpoint.id Microsoft.Relay/namespaces/privateEndpointConnections/privateEndpoint.id   properties.privateLinkServiceConnectionState Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState   properties.privateLinkServiceConnectionState.status Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status   properties.privateLinkServiceConnectionState.description Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description   properties.privateLinkServiceConnectionState.actionRequired Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired   properties.provisioningState Microsoft.Relay/namespaces/privateEndpointConnections/provisioningState    </description>
+Default Path Alias properties.privateEndpoint Microsoft.Relay/namespaces/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.Relay/namespaces/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.status Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status properties.privateLinkServiceConnectionState.description Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.actionRequired Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired properties.provisioningState Microsoft.Relay/namespaces/privateEndpointConnections/provisioningState </description>
     </item>
     
     <item>
@@ -62,7 +63,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-wcfrelays-authorizationrules/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/wcfrelays/authorizationrules
-   Default Path Alias     properties.rights Microsoft.Relay/namespaces/WcfRelays/authorizationRules/rights   properties.rights[*] Microsoft.Relay/namespaces/WcfRelays/authorizationRules/rights[*]    </description>
+Default Path Alias properties.rights Microsoft.Relay/namespaces/WcfRelays/authorizationRules/rights properties.rights[*] Microsoft.Relay/namespaces/WcfRelays/authorizationRules/rights[*] </description>
     </item>
     
     <item>
@@ -72,7 +73,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces-wcfrelays/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces/wcfrelays
-   Default Path Alias     properties.relayType Microsoft.Relay/namespaces/WcfRelays/relayType   properties.createdAt Microsoft.Relay/namespaces/WcfRelays/createdAt   properties.updatedAt Microsoft.Relay/namespaces/WcfRelays/updatedAt   properties.listenerCount Microsoft.Relay/namespaces/WcfRelays/listenerCount   properties.requiresClientAuthorization Microsoft.Relay/namespaces/WcfRelays/requiresClientAuthorization   properties.requiresTransportSecurity Microsoft.Relay/namespaces/WcfRelays/requiresTransportSecurity   properties.isDynamic Microsoft.Relay/namespaces/WcfRelays/isDynamic   properties.userMetadata Microsoft.Relay/namespaces/WcfRelays/userMetadata    </description>
+Default Path Alias properties.relayType Microsoft.Relay/namespaces/WcfRelays/relayType properties.createdAt Microsoft.Relay/namespaces/WcfRelays/createdAt properties.updatedAt Microsoft.Relay/namespaces/WcfRelays/updatedAt properties.listenerCount Microsoft.Relay/namespaces/WcfRelays/listenerCount properties.requiresClientAuthorization Microsoft.Relay/namespaces/WcfRelays/requiresClientAuthorization properties.requiresTransportSecurity Microsoft.Relay/namespaces/WcfRelays/requiresTransportSecurity properties.isDynamic Microsoft.Relay/namespaces/WcfRelays/isDynamic properties.userMetadata Microsoft.Relay/namespaces/WcfRelays/userMetadata </description>
     </item>
     
     <item>
@@ -82,7 +83,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Relay/namespaces/</guid>
       <description>Link to resource definition: Microsoft.Relay/namespaces
-   Default Path Alias     sku Microsoft.Relay/namespaces/sku   sku.name Microsoft.Relay/namespaces/sku.name   sku.tier Microsoft.Relay/namespaces/sku.tier   properties.provisioningState Microsoft.Relay/namespaces/provisioningState   properties.createdAt Microsoft.Relay/namespaces/createdAt   properties.updatedAt Microsoft.Relay/namespaces/updatedAt   properties.serviceBusEndpoint Microsoft.Relay/namespaces/serviceBusEndpoint   properties.metricId Microsoft.Relay/namespaces/metricId   properties.status Microsoft.Relay/namespaces/status   properties.privateEndpointConnections Microsoft.Relay/namespaces/privateEndpointConnections   properties.privateEndpointConnections[*] Microsoft.Relay/namespaces/privateEndpointConnections[*]   properties.privateEndpointConnections[*].id Microsoft.Relay/namespaces/privateEndpointConnections[*].id   properties.privateEndpointConnections[*].name Microsoft.Relay/namespaces/privateEndpointConnections[*].name   properties.privateEndpointConnections[*].type Microsoft.Relay/namespaces/privateEndpointConnections[*].type   properties.</description>
+Default Path Alias sku Microsoft.Relay/namespaces/sku sku.name Microsoft.Relay/namespaces/sku.name sku.tier Microsoft.Relay/namespaces/sku.tier properties.provisioningState Microsoft.Relay/namespaces/provisioningState properties.createdAt Microsoft.Relay/namespaces/createdAt properties.updatedAt Microsoft.Relay/namespaces/updatedAt properties.serviceBusEndpoint Microsoft.Relay/namespaces/serviceBusEndpoint properties.metricId Microsoft.Relay/namespaces/metricId properties.status Microsoft.Relay/namespaces/status properties.privateEndpointConnections Microsoft.Relay/namespaces/privateEndpointConnections properties.privateEndpointConnections[*] Microsoft.Relay/namespaces/privateEndpointConnections[*] properties.privateEndpointConnections[*].id Microsoft.Relay/namespaces/privateEndpointConnections[*].id properties.privateEndpointConnections[*].name Microsoft.Relay/namespaces/privateEndpointConnections[*].name properties.privateEndpointConnections[*].type Microsoft.Relay/namespaces/privateEndpointConnections[*].type properties.privateEndpointConnections[*].location Microsoft.Relay/namespaces/privateEndpointConnections[*].location properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.Relay/namespaces/privateEndpointConnections[*].privateEndpoint properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.Relay/namespaces/privateEndpointConnections[*].privateEndpoint.id properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.Relay/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.Relay/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState.status properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.Relay/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState.description properties.privateEndpointConnections[*].properties.provisioningState Microsoft.Relay/namespaces/privateEndpointConnections[*].provisioningState properties.privateEndpointConnections[*].systemData Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData properties.privateEndpointConnections[*].systemData.createdBy Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.createdBy properties.privateEndpointConnections[*].systemData.createdByType Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.createdByType properties.privateEndpointConnections[*].systemData.createdAt Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.createdAt properties.privateEndpointConnections[*].systemData.lastModifiedBy Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.lastModifiedBy properties.privateEndpointConnections[*].systemData.lastModifiedByType Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType properties.privateEndpointConnections[*].systemData.lastModifiedAt Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt properties.publicNetworkAccess Microsoft.Relay/namespaces/publicNetworkAccess </description>
     </item>
     
   </channel>

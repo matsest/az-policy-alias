@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.ManagedIdentity/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.ManagedIdentity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</guid>
       <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
-   Default Path Alias     properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer   properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject   properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences   properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*]    </description>
+Default Path Alias properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</guid>
       <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities
-   Default Path Alias     properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId   properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId   properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId   properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl    </description>
+Default Path Alias properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl </description>
     </item>
     
   </channel>

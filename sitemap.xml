@@ -3,3799 +3,2534 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://policyalias.mats.codes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AAD/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AAD/DomainServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/smartDetectorAlertRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AnalysisServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AnalysisServices/servers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-diagnostics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-issues-attachments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-issues-comments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-issues/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-operations-policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-operations-tags/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-operations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-releases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-schemas/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-tagDescriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-tags/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apiVersionSets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-backends/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-caches/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-contentTypes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-diagnostics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-certificateAuthorities/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-hostnameConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-groups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-identityProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-loggers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-namedValues/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-notifications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-openidConnectProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyFragments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalConfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalRevisions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalsettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-tags/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-properties/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-schemas/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-subscriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-templates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tenant/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-authconfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerApps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-daprcomponents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-storages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-keyValues/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apiPortals/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationAccelerators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-applicationLiveViews/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-bindings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-deployments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps-domains/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-apps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-configurationServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-devToolPortals/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-gateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-monitoringSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring-storages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/Spring/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Attestation/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/locks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policySetDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleAssignmentScheduleInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleAssignmentScheduleRequests/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleEligibilityScheduleRequests/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/roleManagementPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automanage/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfileAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automanage/configurationProfiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-compilationjobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-connectionTypes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-credentials/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobSchedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-modules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodeConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-nodes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-python2Packages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-runbooks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-variables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-watchers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-webhooks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/b2cDirectories/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/guestUsages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/DataControllers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/PostgresInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlManagedInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/galleryImages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/marketplaceGalleryImages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkInterfaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/storageContainers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualNetworks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-applications-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-pools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Blueprint/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Blueprint/blueprintAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Blueprint/blueprints-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Blueprint/blueprints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-channels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/Redis-firewallrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redis-linkedservers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redis-patchSchedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/Redis-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/Redis/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/RedisEnterprise-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/CdnWebApplicationFirewallPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-afdendpoints-routes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-afdendpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-customdomains/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-endpoints-customdomains/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-endpoints-origingroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-endpoints-origins/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-endpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-origingroups-origins/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-origingroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-rulesets-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-secrets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-securitypolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Codespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Codespaces/plans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/availabilitySets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups-capacityReservations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/capacityReservationGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/cloudServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/diskAccesses/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/diskEncryptionSets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/disks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-images-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-images/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/hostGroups-hosts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/hostGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/images/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections-restorePoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/snapshots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/sshPublicKeys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines-runCommands/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets-virtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/virtualMachineScaleSets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Datastores/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/Hosts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/ResourcePools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VCenters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ConnectedVMwarevSphere/VirtualNetworks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Consumption/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Consumption/Budgets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/containerGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-agentPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-buildTasks-steps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-buildTasks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-connectedRegistries/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-exportPipelines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-importPipelines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-pipelineRuns/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-replications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-scopeMaps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-taskRuns/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-tasks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-tokens/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-webhooks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/containerServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-maintenanceConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedclustersnapshots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CustomProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CustomProviders/associations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CustomProviders/resourceProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBox/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBox/jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-roles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-triggers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataBoxEdge/DataBoxEdgeDevices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/accessConnectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/workspaces-virtualNetworkPeerings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataCatalog/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/monitors-singleSignOnConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/monitors-tagRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/monitors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-dataflows/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-datasets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-integrationRuntimes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-linkedservices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-managedVirtualNetworks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-pipelines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-triggers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-computePolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-dataLakeStoreAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts-storageAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeAnalytics/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeStore/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-trustedIdProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-projects-files/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-projects-tasks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-projects/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-serviceTasks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/BackupVaults/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares-invitations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/accounts-sharesubscriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMariaDB/servers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-migrations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/serverGroupsv2-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/servers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-desktops/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-msixpackages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/IotHubs-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/iotHubs-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/IotHubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/provisioningServices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/ProvisioningServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-instances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-artifactSources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-costs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-customImages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-formulas/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-notificationChannels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-policySets-policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users-disks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users-environments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users-secrets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users-serviceFabrics-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users-serviceFabrics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-users/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-virtualMachines-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-virtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-virtualNetworks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DigitalTwins/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DigitalTwins/digitalTwinsInstances-endpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DigitalTwins/digitalTwinsInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters-dataCenters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/cassandraClusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables-settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-apis-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-graphs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-collections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbDatabases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbRoleDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-mongodbUserDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-services/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-storedProcedures/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-triggers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers-userDefinedFunctions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-containers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlDatabases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables-throughputSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/addresses/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/orderItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-topics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/eventSubscriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-eventChannels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerRegistrations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics-eventSubscriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerTopics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics-eventSubscriptions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/topics-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/topics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-disasterrecoveryconfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs-consumergroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-eventhubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-ipFilterRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-networkrulesets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-schemagroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ExtendedLocation/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations-resourceSyncRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Features/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.FluidRelay/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.FluidRelay/fluidRelayServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.GuestConfiguration/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.GuestConfiguration/guestConfigurationAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HDInsight/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HDInsight/clusters-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HDInsight/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthBot/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthBot/healthBots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/services-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/services/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-dicomservices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-fhirservices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-iotconnectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/actiongroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/activityLogAlerts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/alertrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/autoscalesettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components-analyticsItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components-myAnalyticsItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components-pricingPlans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components-proactiveDetectionConfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionRuleAssociations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/diagnosticSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettingsAssociation/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/logprofiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/metricalerts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-scopedResources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/webtests/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/workbooks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/workbooktemplates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.IoTCentral/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.IoTCentral/IoTApps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/managedHSMs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/vaults-secrets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KeyVault/vaults/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kubernetes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kubernetes/connectedClusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/extensions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/fluxConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/privateLinkScopes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.KubernetesConfiguration/sourceControlConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-attacheddatabaseconfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-dataconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-eventhubconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases-principalassignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-principalassignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-PrivateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labAccounts-galleryImages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labAccounts-labs-environmentSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labAccounts-labs-users/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labAccounts-labs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labaccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labPlans-images/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labplans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labs-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labs-users/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LabServices/labs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-agreements/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-assemblies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-batchConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-maps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-partners/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-schemas/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-sessions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments-managedApis/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationServiceEnvironments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/workflows-accessKeys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/workflows/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/commitmentPlans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/webServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/Workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/registries/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-batchEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-codes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-components/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-computes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-data/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-datastores/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-linkedServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints-deployments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-onlineEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-schedules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/maintenanceConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ManagedServices/registrationDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Management/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Management/managementGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-accountFilters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets-assetFilters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-contentKeyPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents-liveOutputs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-mediaGraphs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingLocators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms-jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-accessPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-edgeModules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-livePipelines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineJobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineTopologies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-videos/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups-assessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-hypervcollectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-importcollectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-servercollectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-vmwarecollectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentProjects/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects-solutions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/migrateprojects/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections-moveResources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups-assessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/projects/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-backupPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-snapshotPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-volumeGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/applicationGateways-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/applicationGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/applicationSecurityGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/azureFirewalls/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/bastionHosts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/customIpPrefixes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ddosCustomPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ddosProtectionPlans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-forwardingRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-inboundEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-outboundEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-A/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-AAAA/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-CAA/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-CNAME/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-MX/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-NS/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-PTR/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-SOA/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-SRV/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-TXT/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCircuits-authorizations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCircuits-peerings-connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCircuits-peerings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCircuits/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCrossConnections-peerings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteCrossConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteGateways-expressRouteConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRouteGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts-authorizations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/expressRoutePorts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/firewallPolicies-ruleCollectionGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/firewallPolicies-ruleGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/firewallPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontDoors-backendPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontDoors-rulesEngines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoorWebApplicationFirewallPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipAllocations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/loadBalancers-backendAddressPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/loadBalancers-inboundNatRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/loadBalancers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/localNetworkGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/natGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkExperimentProfiles-experiments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkExperimentProfiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkInterfaces-tapConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkInterfaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityAdminConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkProfiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityGroups-securityRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-links/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-resourceAssociations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkVirtualAppliances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkWatchers-connectionMonitors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkWatchers-flowLogs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkWatchers-packetCaptures/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkWatchers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/p2sVpnGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-A/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-AAAA/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-CNAME/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-MX/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-PTR/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-SOA/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-SRV/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-TXT/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones-virtualNetworkLinks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateDnsZones/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateEndpoints-privateDnsZoneGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateLinkServices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/privateLinkServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/publicIPAddresses/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/publicIPPrefixes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/routeFilters-routeFilterRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/routeFilters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/routeTables-routes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/routeTables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/securityPartnerProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/serviceEndpointPolicies-serviceEndpointPolicyDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/serviceEndpointPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-azureendpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-externalendpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles-nestedendpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficmanagerprofiles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficManagerUserMetricsKeys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-bgpConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubRouteTables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubVirtualNetworkConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-ipConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeMaps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routeTables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworks-subnets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworks-virtualNetworkPeerings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkTaps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualRouters-peerings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualRouters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualWans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnGateways-natRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnGateways-vpnConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/Namespaces-AuthorizationRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/HyperVSites-clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/HyperVSites-hosts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/HyperVSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/MasterSites-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/MasterSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/VMwareSites-vcenters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/VMwareSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks-queries/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/querypacks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataExports/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataSources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-linkedServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-savedSearches/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationsManagement/solutions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Portal/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Portal/consoles/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Portal/dashboards/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Portal/tenantconfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Portal/userSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.PowerBI/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.PowerBI/workspaceCollections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.PowerBIDedicated/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.PowerBIDedicated/capacities/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Purview/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Purview/accounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Purview/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/backupProtectedItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupconfig/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupEncryptionConfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-backupProtectionIntent/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupstorageconfig/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-extendedInformation/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationAlertSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationNetworks-replicationNetworkMappings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationProtectionContainers-replicationMigrationItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationProtectionContainers-replicationProtectedItems/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationProtectionContainers-replicationProtectionContainerMappings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationRecoveryServicesProviders/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationStorageClassifications-replicationStorageClassificationMappings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationvCenters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationFabrics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationProtectionIntents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationRecoveryPlans/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults-replicationVaultSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/OpenShiftClusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-hybridconnections-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-hybridconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-networkrulesets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-wcfrelays-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces-wcfrelays/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Relay/namespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/deployments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/deploymentScripts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/links/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/tags/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/templateSpecs-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/templateSpecs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SaaS/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SaaS/resources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SaaS/saasresources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices-sharedPrivateLinkResources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/advancedThreatProtectionSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/alerts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/alertsSuppressionRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessmentMetadata/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessments-governanceAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/automations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/AutoProvisioningSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/governanceRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/InformationProtectionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/iotSecuritySolutions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/locations-alerts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/locations-jitNetworkAccessPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/policies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/pricings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/workspaceSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules-actions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/alertRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/automationRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks-relations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/bookmarks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases-comments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/cases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/dataConnectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-comments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents-relations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/incidents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/settings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/threatintelligence-indicators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/watchlists/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-disasterrecoveryconfigs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-ipFilterRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-messagingPlan/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-migrationConfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-networkrulesets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-queues-authorizationrules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-queues/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications-services/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters-applicationTypes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/clusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications-services/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes-versions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-applicationTypes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters-nodetypes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceFabric/managedclusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/dryruns/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/linkers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-connectors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-dryruns/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/signalR-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-hubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/accounts-accountQuotaPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/accounts-groupPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/accounts-jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/accounts-storageContainers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Singularity/accounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Solutions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Solutions/applicationDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Solutions/applications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Solutions/jitRequests/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/instancePools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/locations-instanceFailoverGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/locations-serverTrustGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-advancedThreatProtectionSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-azureADOnlyAuthentications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-advancedThreatProtectionSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-backupLongTermRetentionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-backupShortTermRetentionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-schemas-tables-columns-sensitivityLabels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-transparentDataEncryption/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-vulnerabilityAssessments-rules-baselines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-distributedAvailabilityGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-dtc/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-encryptionProtector/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-restorableDroppedDatabases-backupShortTermRetentionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-serverTrustCertificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-advancedThreatProtectionSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-advisors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-auditingPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-auditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-automaticTuning/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-azureADOnlyAuthentications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-backupLongTermRetentionVaults/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-communicationLinks/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-connectionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advancedThreatProtectionSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advisors-recommendedActions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-advisors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-auditingPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-auditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-automaticTuning/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-backupLongTermRetentionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-backupShortTermRetentionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-connectionPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-dataMaskingPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-extendedAuditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-geoBackupPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-ledgerDigestUploads/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-maintenanceWindows/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-schemas-tables-columns-sensitivityLabels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-syncGroups-syncMembers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-syncGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-transparentDataEncryption/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-vulnerabilityAssessments-rules-baselines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-workloadGroups-workloadClassifiers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-workloadGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-devOpsAuditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-disasterRecoveryConfiguration/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-elasticpools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-encryptionProtector/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-extendedAuditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-failoverGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-ipv6FirewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-credentials/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-jobs-steps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-jobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-targetGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-outboundFirewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-sqlvulnerabilityassessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-syncAgents/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-virtualNetworkRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/virtualClusters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups-AvailabilityGroupListeners/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-encryptionScopes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices-shares/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-fileServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-inventoryPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-localusers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-objectReplicationPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices-queues/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices-tables/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/caches-storageTargets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/caches/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-registeredServers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-cloudEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups-serverEndpoints/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-syncGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-functions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-inputs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-outputs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-transformations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Subscription/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Subscription/aliases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Subscription/SubscriptionDefinitions/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/privateLinkHubs/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-administrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-auditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-azureADOnlyAuthentications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-bigDataPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-extendedAuditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-firewallRules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-integrationruntimes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-keys/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools-attacheddatabaseconfigurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools-databases-dataconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools-Databases-PrincipalAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools-databases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-kustoPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-managedIdentitySqlControlSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlAdministrators/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlDatabases/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-auditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-dataMaskingPolicies-rules/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-dataMaskingPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-extendedAuditingSettings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-maintenanceWindows/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-metadataSync/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-schemas-tables-columns-sensitivityLabels/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-securityAlertPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-transparentDataEncryption/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-vulnerabilityAssessments-rules-baselines/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-workloadGroups-workloadClassifiers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools-workloadGroups/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-sqlPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces-vulnerabilityAssessments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments-accessPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments-referenceDataSets/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.VirtualMachineImages/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.VirtualMachineImages/imageTemplates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.visualstudio/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.visualstudio/account-project/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/certificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/connectionGateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/connections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/containerApps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/customApis/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingenvironments-configurations/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-multiRolePools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments-workerPools/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/hostingEnvironments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/kubeEnvironments/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/publishingUsers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-gateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/serverfarms-virtualnetworkconnections-routes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/serverFarms/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-ftp/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies-scm/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-basicPublishingCredentialsPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-config/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-domainownershipidentifiers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-hostNameBindings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnection/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-hybridconnectionnamespaces-relays/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-networkConfig/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-premieraddons/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-privateaccess/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-publiccertificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-config/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-domainownershipidentifiers/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hostNameBindings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnection/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-hybridconnectionnamespaces-relays/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-networkConfig/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-premieraddons/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-publiccertificates/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-sourcecontrols/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections-gateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-virtualnetworkconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-sourcecontrols/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections-gateways/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-virtualnetworkconnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sourceControls/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-databaseConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-linkedBackends/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-builds-userProvidedFunctionApps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-databaseConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-linkedBackends/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-privateEndpointConnections/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites-userProvidedFunctionApps/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/staticSites/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors-providerInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors-sapLandscapeMonitor/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/monitors/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads-wordpressInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/phpWorkloads/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-applicationInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-centralInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances-databaseInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://policyalias.mats.codes/tags/</loc>
   </url>

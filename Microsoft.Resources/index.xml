@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Resources/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Resources/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Resources/deployments/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/deployments/</guid>
       <description>Link to resource definition: Microsoft.Resources/deployments
-   Default Path Alias     properties.template Microsoft.Resources/deployments/template   properties.templateLink.uri Microsoft.Resources/deployments/templateLink.uri   properties.templateLink.contentVersion Microsoft.Resources/deployments/templateLink.contentVersion   properties.templateLink Microsoft.Resources/deployments/templateLink   properties.parameters Microsoft.Resources/deployments/parameters   properties.parametersLink.uri Microsoft.Resources/deployments/parametersLink.uri   properties.parametersLink.contentVersion Microsoft.Resources/deployments/parametersLink.contentVersion   properties.parametersLink Microsoft.Resources/deployments/parametersLink   properties.mode Microsoft.Resources/deployments/mode   properties.debugSetting.detailLevel Microsoft.Resources/deployments/debugSetting.detailLevel   properties.debugSetting Microsoft.Resources/deployments/debugSetting   properties.onErrorDeployment.type Microsoft.Resources/deployments/onErrorDeployment.type   properties.onErrorDeployment.deploymentName Microsoft.Resources/deployments/onErrorDeployment.deploymentName   properties.onErrorDeployment Microsoft.Resources/deployments/onErrorDeployment   properties.</description>
+Default Path Alias properties.template Microsoft.Resources/deployments/template properties.templateLink.uri Microsoft.Resources/deployments/templateLink.uri properties.templateLink.contentVersion Microsoft.Resources/deployments/templateLink.contentVersion properties.templateLink Microsoft.Resources/deployments/templateLink properties.parameters Microsoft.Resources/deployments/parameters properties.parametersLink.uri Microsoft.Resources/deployments/parametersLink.uri properties.parametersLink.contentVersion Microsoft.Resources/deployments/parametersLink.contentVersion properties.parametersLink Microsoft.Resources/deployments/parametersLink properties.mode Microsoft.Resources/deployments/mode properties.debugSetting.detailLevel Microsoft.Resources/deployments/debugSetting.detailLevel properties.debugSetting Microsoft.Resources/deployments/debugSetting properties.onErrorDeployment.type Microsoft.Resources/deployments/onErrorDeployment.type properties.onErrorDeployment.deploymentName Microsoft.Resources/deployments/onErrorDeployment.deploymentName properties.onErrorDeployment Microsoft.Resources/deployments/onErrorDeployment properties.templateLink.id Microsoft.Resources/deployments/templateLink.id properties.templateLink.relativePath Microsoft.Resources/deployments/templateLink.relativePath properties.templateLink.queryString Microsoft.Resources/deployments/templateLink.queryString </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/deploymentScripts/</guid>
       <description>Link to resource definition: Microsoft.Resources/deploymentScripts
-   Default Path Alias     properties.containerSettings Microsoft.Resources/deploymentScripts/AzurePowerShell.containerSettings   properties.containerSettings.containerGroupName Microsoft.Resources/deploymentScripts/AzurePowerShell.containerSettings.containerGroupName   properties.storageAccountSettings Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings   properties.storageAccountSettings.storageAccountName Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings.storageAccountName   properties.storageAccountSettings.storageAccountKey Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings.storageAccountKey   properties.cleanupPreference Microsoft.Resources/deploymentScripts/AzurePowerShell.cleanupPreference   properties.provisioningState Microsoft.Resources/deploymentScripts/AzurePowerShell.provisioningState   properties.status Microsoft.Resources/deploymentScripts/AzurePowerShell.status   properties.status.containerInstanceId Microsoft.Resources/deploymentScripts/AzurePowerShell.status.containerInstanceId   properties.status.storageAccountId Microsoft.Resources/deploymentScripts/AzurePowerShell.status.storageAccountId   properties.status.startTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.startTime   properties.status.endTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.endTime   properties.status.expirationTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.expirationTime   properties.status.error Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error   properties.</description>
+Default Path Alias properties.containerSettings Microsoft.Resources/deploymentScripts/AzurePowerShell.containerSettings properties.containerSettings.containerGroupName Microsoft.Resources/deploymentScripts/AzurePowerShell.containerSettings.containerGroupName properties.storageAccountSettings Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings properties.storageAccountSettings.storageAccountName Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings.storageAccountName properties.storageAccountSettings.storageAccountKey Microsoft.Resources/deploymentScripts/AzurePowerShell.storageAccountSettings.storageAccountKey properties.cleanupPreference Microsoft.Resources/deploymentScripts/AzurePowerShell.cleanupPreference properties.provisioningState Microsoft.Resources/deploymentScripts/AzurePowerShell.provisioningState properties.status Microsoft.Resources/deploymentScripts/AzurePowerShell.status properties.status.containerInstanceId Microsoft.Resources/deploymentScripts/AzurePowerShell.status.containerInstanceId properties.status.storageAccountId Microsoft.Resources/deploymentScripts/AzurePowerShell.status.storageAccountId properties.status.startTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.startTime properties.status.endTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.endTime properties.status.expirationTime Microsoft.Resources/deploymentScripts/AzurePowerShell.status.expirationTime properties.status.error Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error properties.status.error.code Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.code properties.status.error.message Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.message properties.status.error.target Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.target properties.status.error.details Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details properties.status.error.details[*] Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*] properties.status.error.details[*].code Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].code properties.status.error.details[*].message Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].message properties.status.error.details[*].target Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].target properties.status.error.details[*].details Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].details properties.status.error.details[*].details[*] Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].details[*] properties.status.error.details[*].additionalInfo Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].additionalInfo properties.status.error.details[*].additionalInfo[*] Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].additionalInfo[*] properties.status.error.details[*].additionalInfo[*].type Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.details[*].additionalInfo[*].type properties.status.error.additionalInfo Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.additionalInfo properties.status.error.additionalInfo[*] Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.additionalInfo[*] properties.status.error.additionalInfo[*].type Microsoft.Resources/deploymentScripts/AzurePowerShell.status.error.additionalInfo[*].type properties.outputs Microsoft.Resources/deploymentScripts/AzurePowerShell.outputs properties.</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/links/</guid>
       <description>Link to resource definition: Microsoft.Resources/links
-   Default Path Alias     properties.sourceId Microsoft.Resources/links/sourceId   properties.targetId Microsoft.Resources/links/targetId   properties.notes Microsoft.Resources/links/notes    </description>
+Default Path Alias properties.sourceId Microsoft.Resources/links/sourceId properties.targetId Microsoft.Resources/links/targetId properties.notes Microsoft.Resources/links/notes </description>
     </item>
     
     <item>
@@ -42,7 +43,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/tags/</guid>
       <description>Link to resource definition: Microsoft.Resources/tags
-   Default Path Alias     properties.tags Microsoft.Resources/tags/default.tags   properties.tags Microsoft.Resources/tags/tags    </description>
+Default Path Alias properties.tags Microsoft.Resources/tags/default.tags properties.tags Microsoft.Resources/tags/tags </description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/templateSpecs-versions/</guid>
       <description>Link to resource definition: Microsoft.Resources/templateSpecs/versions
-   Default Path Alias     properties.artifacts Microsoft.Resources/templateSpecs/versions/artifacts   properties.artifacts[*] Microsoft.Resources/templateSpecs/versions/artifacts[*]   properties.artifacts[*].path Microsoft.Resources/templateSpecs/versions/artifacts[*].path   properties.artifacts[*].kind Microsoft.Resources/templateSpecs/versions/artifacts[*].kind   properties.description Microsoft.Resources/templateSpecs/versions/description    </description>
+Default Path Alias properties.artifacts Microsoft.Resources/templateSpecs/versions/artifacts properties.artifacts[*] Microsoft.Resources/templateSpecs/versions/artifacts[*] properties.artifacts[*].path Microsoft.Resources/templateSpecs/versions/artifacts[*].path properties.artifacts[*].kind Microsoft.Resources/templateSpecs/versions/artifacts[*].kind properties.description Microsoft.Resources/templateSpecs/versions/description </description>
     </item>
     
     <item>
@@ -62,7 +63,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/templateSpecs/</guid>
       <description>Link to resource definition: Microsoft.Resources/templateSpecs
-   Default Path Alias     properties.description Microsoft.Resources/templateSpecs/description   properties.displayName Microsoft.Resources/templateSpecs/displayName   properties.versions Microsoft.Resources/templateSpecs/versions    </description>
+Default Path Alias properties.description Microsoft.Resources/templateSpecs/description properties.displayName Microsoft.Resources/templateSpecs/displayName properties.versions Microsoft.Resources/templateSpecs/versions </description>
     </item>
     
   </channel>

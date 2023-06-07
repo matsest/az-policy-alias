@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.DataCatalog/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.DataCatalog/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.DataCatalog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</guid>
       <description>Link to resource definition: Microsoft.DataCatalog/catalogs
-   Default Path Alias     properties.sku Microsoft.DataCatalog/catalogs/sku   properties.units Microsoft.DataCatalog/catalogs/units   properties.admins[*] Microsoft.DataCatalog/catalogs/admins[*]   properties.admins[*].upn Microsoft.DataCatalog/catalogs/admins[*].upn   properties.admins[*].objectId Microsoft.DataCatalog/catalogs/admins[*].objectId   properties.admins Microsoft.DataCatalog/catalogs/admins   properties.users[*] Microsoft.DataCatalog/catalogs/users[*]   properties.users[*].upn Microsoft.DataCatalog/catalogs/users[*].upn   properties.users[*].objectId Microsoft.DataCatalog/catalogs/users[*].objectId   properties.users Microsoft.DataCatalog/catalogs/users   properties.successfullyProvisioned Microsoft.DataCatalog/catalogs/successfullyProvisioned   properties.enableAutomaticUnitAdjustment Microsoft.DataCatalog/catalogs/enableAutomaticUnitAdjustment    </description>
+Default Path Alias properties.sku Microsoft.DataCatalog/catalogs/sku properties.units Microsoft.DataCatalog/catalogs/units properties.admins[*] Microsoft.DataCatalog/catalogs/admins[*] properties.admins[*].upn Microsoft.DataCatalog/catalogs/admins[*].upn properties.admins[*].objectId Microsoft.DataCatalog/catalogs/admins[*].objectId properties.admins Microsoft.DataCatalog/catalogs/admins properties.users[*] Microsoft.DataCatalog/catalogs/users[*] properties.users[*].upn Microsoft.DataCatalog/catalogs/users[*].upn properties.users[*].objectId Microsoft.DataCatalog/catalogs/users[*].objectId properties.users Microsoft.DataCatalog/catalogs/users properties.successfullyProvisioned Microsoft.DataCatalog/catalogs/successfullyProvisioned properties.enableAutomaticUnitAdjustment Microsoft.DataCatalog/catalogs/enableAutomaticUnitAdjustment </description>
     </item>
     
   </channel>

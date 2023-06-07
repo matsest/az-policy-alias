@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.OperationsManagement/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.OperationsManagement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.OperationsManagement/managementassociations/</guid>
       <description>Link to resource definition: Microsoft.OperationsManagement/managementassociations
-   Default Path Alias     properties.applicationId Microsoft.OperationsManagement/managementassociations/applicationId    </description>
+Default Path Alias properties.applicationId Microsoft.OperationsManagement/managementassociations/applicationId </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.OperationsManagement/solutions/</guid>
       <description>Link to resource definition: Microsoft.OperationsManagement/solutions
-   Default Path Alias     properties.workspaceResourceId Microsoft.OperationsManagement/solutions/workspaceResourceId   properties.provisioningState Microsoft.OperationsManagement/solutions/provisioningState   properties.containedResources[*] Microsoft.OperationsManagement/solutions/containedResources[*]   properties.containedResources Microsoft.OperationsManagement/solutions/containedResources   properties.referencedResources[*] Microsoft.OperationsManagement/solutions/referencedResources[*]   properties.referencedResources Microsoft.OperationsManagement/solutions/referencedResources    </description>
+Default Path Alias properties.workspaceResourceId Microsoft.OperationsManagement/solutions/workspaceResourceId properties.provisioningState Microsoft.OperationsManagement/solutions/provisioningState properties.containedResources[*] Microsoft.OperationsManagement/solutions/containedResources[*] properties.containedResources Microsoft.OperationsManagement/solutions/containedResources properties.referencedResources[*] Microsoft.OperationsManagement/solutions/referencedResources[*] properties.referencedResources Microsoft.OperationsManagement/solutions/referencedResources </description>
     </item>
     
   </channel>

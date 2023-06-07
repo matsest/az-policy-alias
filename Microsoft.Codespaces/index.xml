@@ -4,7 +4,8 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Codespaces/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://policyalias.mats.codes/Microsoft.Codespaces/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Codespaces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Codespaces/plans/</link>
@@ -12,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.Codespaces/plans/</guid>
       <description>Link to resource definition: Microsoft.Codespaces/plans
-   Default Path Alias     sku Microsoft.Codespaces/plans/sku   sku.name Microsoft.Codespaces/plans/sku.name   sku.tier Microsoft.Codespaces/plans/sku.tier   properties.defaultAutoSuspendDelayMinutes Microsoft.Codespaces/plans/defaultAutoSuspendDelayMinutes   properties.defaultCodespaceSku Microsoft.Codespaces/plans/defaultCodespaceSku   properties.vnetProperties Microsoft.Codespaces/plans/vnetProperties   properties.vnetProperties.subnetId Microsoft.Codespaces/plans/vnetProperties.subnetId    </description>
+Default Path Alias sku Microsoft.Codespaces/plans/sku sku.name Microsoft.Codespaces/plans/sku.name sku.tier Microsoft.Codespaces/plans/sku.tier properties.defaultAutoSuspendDelayMinutes Microsoft.Codespaces/plans/defaultAutoSuspendDelayMinutes properties.defaultCodespaceSku Microsoft.Codespaces/plans/defaultCodespaceSku properties.vnetProperties Microsoft.Codespaces/plans/vnetProperties properties.vnetProperties.subnetId Microsoft.Codespaces/plans/vnetProperties.subnetId </description>
     </item>
     
   </channel>
