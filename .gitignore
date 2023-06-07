@@ -3,4 +3,5 @@ public/
 .hugo_build.lock
 content/Microsoft.**
 content/microsoft.**
+data/menu/main.yaml
 .vscode
