@@ -66,7 +66,7 @@ Default Path Alias properties.lastModifiedTime Microsoft.Storage/storageAccounts
       "headline": "Storage Accounts Management Policies",
       "description": "Link to resource definition: Microsoft.Storage\/storageAccounts\/managementPolicies\nDefault Path Alias properties.lastModifiedTime Microsoft.Storage\/storageAccounts\/managementPolicies\/lastModifiedTime properties.policy Microsoft.Storage\/storageAccounts\/managementPolicies\/policy properties.policy.rules[*].enabled Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].enabled properties.policy.rules[*].name Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].name properties.policy.rules[*].type Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].type properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan properties.policy.rules[*].definition.actions.baseBlob.tierToCool Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToCool properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterModificationGreaterThan properties.policy.rules[*].definition.actions.baseBlob.tierToArchive Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.tierToArchive properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.delete.daysAfterModificationGreaterThan properties.policy.rules[*].definition.actions.baseBlob.delete Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob.delete properties.policy.rules[*].definition.actions.baseBlob Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.baseBlob properties.policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.snapshot.delete.daysAfterCreationGreaterThan properties.policy.rules[*].definition.actions.snapshot.delete Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.snapshot.delete properties.policy.rules[*].definition.actions.snapshot Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions.snapshot properties.policy.rules[*].definition.actions Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.actions properties.policy.rules[*].definition.filters.prefixMatch[*] Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.filters.prefixMatch[*] properties.policy.rules[*].definition.filters.prefixMatch Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.filters.prefixMatch properties.policy.rules[*].definition.filters.blobTypes[*] Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.filters.blobTypes[*] properties.policy.rules[*].definition.filters.blobTypes Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.filters.blobTypes properties.policy.rules[*].definition.filters Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition.filters properties.policy.rules[*].definition Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*].definition properties.policy.rules[*] Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules[*] properties.policy.rules Microsoft.Storage\/storageAccounts\/managementPolicies\/policy.rules properties.lastModifiedTime Microsoft.Storage\/storageAccounts\/managementPolicies\/default.lastModifiedTime properties.policy Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy properties.policy.rules[*].enabled Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy.rules[*].enabled properties.policy.rules[*].name Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy.rules[*].name properties.policy.rules[*].type Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy.rules[*].type properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterModificationGreaterThan properties.policy.rules[*].definition.actions.baseBlob.tierToCool Microsoft.Storage\/storageAccounts\/managementPolicies\/default.policy.rules[*].definition.actions.baseBlob.tierToCool properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "178",
+      "wordCount" : "222",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -6124,6 +6124,94 @@ Default Path Alias properties.lastModifiedTime Microsoft.Storage/storageAccounts
 <tr>
 <td><code>properties.policy.rules[*].definition.actions.version.delete.daysAfterLastTierChangeGreaterThan</code></td>
 <td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.delete.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCold</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCold</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterModificationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterModificationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterLastAccessTimeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterLastAccessTimeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCold.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToHot</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToHot</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterModificationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterModificationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterLastAccessTimeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterLastAccessTimeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToHot.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToCold</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCold</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToCold.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCold.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToHot</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToHot</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToHot.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToHot.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.snapshot.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToCold</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCold</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToCold.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCold.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCold.daysAfterLastTierChangeGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToHot</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToHot.daysAfterCreationGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot.daysAfterCreationGreaterThan</code></td>
+</tr>
+<tr>
+<td><code>properties.policy.rules[*].definition.actions.version.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
+<td><code>Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot.daysAfterLastTierChangeGreaterThan</code></td>
 </tr>
 </tbody>
 </table> </div>
