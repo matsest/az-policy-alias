@@ -300,7 +300,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/PostgresInstances/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlManagedInstances-FailoverGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlManagedInstances/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances-Databases/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
   </url><url>
