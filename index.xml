@@ -8548,6 +8548,16 @@ Default Path Alias properties.resourceDetails.source Microsoft.Security/assessme
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/assignments/</guid>
+      <description>Link to resource definition: Microsoft.Security/assignments
+Default Path Alias properties.displayName Microsoft.Security/assignments/displayName properties.description Microsoft.Security/assignments/description properties.assignedStandard Microsoft.Security/assignments/assignedStandard properties.assignedStandard.id Microsoft.Security/assignments/assignedStandard.id properties.assignedComponent Microsoft.Security/assignments/assignedComponent properties.assignedComponent.key Microsoft.Security/assignments/assignedComponent.key properties.scope Microsoft.Security/assignments/scope properties.effect Microsoft.Security/assignments/effect properties.expiresOn Microsoft.Security/assignments/expiresOn properties.additionalData Microsoft.Security/assignments/additionalData properties.additionalData.exemptionCategory Microsoft.Security/assignments/additionalData.exemptionCategory </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Security/automations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8574,6 +8584,16 @@ Default Path Alias properties.autoProvision Microsoft.Security/AutoProvisioningS
       <guid>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</guid>
       <description>Link to resource definition: Microsoft.Security/complianceResults
 Default Path Alias properties.resourceStatus Microsoft.Security/complianceResults/resourceStatus </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/defenderForStorageSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/defenderForStorageSettings/</guid>
+      <description>Link to resource definition: Microsoft.Security/defenderForStorageSettings
+Default Path Alias properties.isEnabled Microsoft.Security/defenderForStorageSettings/isEnabled properties.malwareScanning Microsoft.Security/defenderForStorageSettings/malwareScanning properties.malwareScanning.onUpload Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload properties.malwareScanning.onUpload.isEnabled Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.isEnabled properties.malwareScanning.onUpload.capGBPerMonth Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.capGBPerMonth properties.malwareScanning.operationStatus Microsoft.Security/defenderForStorageSettings/malwareScanning.operationStatus properties.malwareScanning.operationStatus.code Microsoft.Security/defenderForStorageSettings/malwareScanning.operationStatus.code properties.malwareScanning.operationStatus.message Microsoft.Security/defenderForStorageSettings/malwareScanning.operationStatus.message properties.sensitiveDataDiscovery Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery properties.sensitiveDataDiscovery.isEnabled Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.isEnabled properties.sensitiveDataDiscovery.operationStatus Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus properties.sensitiveDataDiscovery.operationStatus.code Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.code properties.sensitiveDataDiscovery.operationStatus.message Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.message properties.overrideSubscriptionLevelSettings Microsoft.Security/defenderForStorageSettings/overrideSubscriptionLevelSettings </description>
     </item>
     
     <item>
@@ -8668,12 +8688,32 @@ Default Path Alias properties.emails Microsoft.Security/securityContacts/email p
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</guid>
+      <description>Link to resource definition: Microsoft.Security/serverVulnerabilityAssessmentsSettings
+Default Path Alias properties.selectedProvider Microsoft.Security/serverVulnerabilityAssessmentsSettings/AzureServersSetting.selectedProvider </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Security/settings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Security/settings/</guid>
       <description>Link to resource definition: Microsoft.Security/settings
 Default Path Alias properties.enabled Microsoft.Security/settings/DataExportSetting.enabled properties.enabled Microsoft.Security/settings/DataExportSettings.enabled properties.enabled Microsoft.Security/settings/AlertSyncSettings.enabled </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Security/standards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Security/standards/</guid>
+      <description>Link to resource definition: Microsoft.Security/standards
+Default Path Alias properties.displayName Microsoft.Security/standards/displayName properties.standardType Microsoft.Security/standards/standardType properties.description Microsoft.Security/standards/description properties.category Microsoft.Security/standards/category properties.components Microsoft.Security/standards/components properties.components[*] Microsoft.Security/standards/components[*] properties.components[*].key Microsoft.Security/standards/components[*].key properties.supportedClouds Microsoft.Security/standards/supportedClouds properties.supportedClouds[*] Microsoft.Security/standards/supportedClouds[*] </description>
     </item>
     
     <item>

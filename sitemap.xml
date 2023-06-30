@@ -1910,11 +1910,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/assessments/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/assignments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/automations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/AutoProvisioningSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/defenderForStorageSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</loc>
   </url><url>
@@ -1934,7 +1938,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/settings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/standards/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/workspaceSettings/</loc>
   </url><url>
