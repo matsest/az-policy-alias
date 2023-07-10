@@ -1848,16 +1848,6 @@ Default Path Alias sku.name Microsoft.CDN/profiles/sku.name sku Microsoft.Cdn/pr
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.Codespaces/plans/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.Codespaces/plans/</guid>
-      <description>Link to resource definition: Microsoft.Codespaces/plans
-Default Path Alias sku Microsoft.Codespaces/plans/sku sku.name Microsoft.Codespaces/plans/sku.name sku.tier Microsoft.Codespaces/plans/sku.tier properties.defaultAutoSuspendDelayMinutes Microsoft.Codespaces/plans/defaultAutoSuspendDelayMinutes properties.defaultCodespaceSku Microsoft.Codespaces/plans/defaultCodespaceSku properties.vnetProperties Microsoft.Codespaces/plans/vnetProperties properties.vnetProperties.subnetId Microsoft.Codespaces/plans/vnetProperties.subnetId </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
