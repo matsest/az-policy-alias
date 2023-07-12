@@ -66,7 +66,7 @@ Default Path Alias properties.TTL Microsoft.Network/dnszones/AAAA/TTL properties
       "headline": "Dnszones Aaaa",
       "description": "Link to resource definition: Microsoft.Network\/dnszones\/AAAA\nDefault Path Alias properties.TTL Microsoft.Network\/dnszones\/AAAA\/TTL properties.ARecords[*].ipv4Address Microsoft.Network\/dnszones\/AAAA\/ARecords[*].ipv4Address properties.ARecords[*] Microsoft.Network\/dnszones\/AAAA\/ARecords[*] properties.ARecords Microsoft.Network\/dnszones\/AAAA\/ARecords properties.AAAARecords[*].ipv6Address Microsoft.Network\/dnszones\/AAAA\/AAAARecords[*].ipv6Address properties.AAAARecords[*] Microsoft.Network\/dnszones\/AAAA\/AAAARecords[*] properties.AAAARecords Microsoft.Network\/dnszones\/AAAA\/AAAARecords properties.MXRecords[*].preference Microsoft.Network\/dnszones\/AAAA\/MXRecords[*].preference properties.MXRecords[*].exchange Microsoft.Network\/dnszones\/AAAA\/MXRecords[*].exchange properties.MXRecords[*] Microsoft.Network\/dnszones\/AAAA\/MXRecords[*] properties.MXRecords Microsoft.Network\/dnszones\/AAAA\/MXRecords properties.NSRecords[*].nsdname Microsoft.Network\/dnszones\/AAAA\/NSRecords[*].nsdname properties.NSRecords[*] Microsoft.Network\/dnszones\/AAAA\/NSRecords[*] properties.NSRecords Microsoft.Network\/dnszones\/AAAA\/NSRecords properties.PTRRecords[*].ptrdname Microsoft.Network\/dnszones\/AAAA\/PTRRecords[*].ptrdname properties.PTRRecords[*] Microsoft.Network\/dnszones\/AAAA\/PTRRecords[*] properties.PTRRecords Microsoft.Network\/dnszones\/AAAA\/PTRRecords properties.SRVRecords[*].priority Microsoft.Network\/dnszones\/AAAA\/SRVRecords[*].priority properties.SRVRecords[*].weight Microsoft.Network\/dnszones\/AAAA\/SRVRecords[*].weight properties.SRVRecords[*].port Microsoft.Network\/dnszones\/AAAA\/SRVRecords[*].port properties.SRVRecords[*].target Microsoft.Network\/dnszones\/AAAA\/SRVRecords[*].target properties.SRVRecords[*] Microsoft.Network\/dnszones\/AAAA\/SRVRecords[*] properties.SRVRecords Microsoft.Network\/dnszones\/AAAA\/SRVRecords properties.TXTRecords[*] Microsoft.Network\/dnszones\/AAAA\/TXTRecords[*] properties.TXTRecords Microsoft.Network\/dnszones\/AAAA\/TXTRecords properties.CNAMERecord.cname Microsoft.Network\/dnszones\/AAAA\/CNAMERecord.cname properties.CNAMERecord Microsoft.Network\/dnszones\/AAAA\/CNAMERecord properties.SOARecord.host Microsoft.Network\/dnszones\/AAAA\/SOARecord.host properties.SOARecord.email Microsoft.Network\/dnszones\/AAAA\/SOARecord.email properties.SOARecord.serialNumber Microsoft.Network\/dnszones\/AAAA\/SOARecord.serialNumber properties.SOARecord.refreshTime Microsoft.Network\/dnszones\/AAAA\/SOARecord.refreshTime properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "102",
+      "wordCount" : "144",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -5927,6 +5927,90 @@ Default Path Alias properties.TTL Microsoft.Network/dnszones/AAAA/TTL properties
 <tr>
 <td><code>properties.TXTRecords[*].value[*]</code></td>
 <td><code>Microsoft.Network/dnszones/AAAA/TXTRecords[*].value[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*]</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*].keyTag</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*].keyTag</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*].algorithm</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*].algorithm</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*].digest</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*].digest</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*].digest.algorithmType</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*].digest.algorithmType</code></td>
+</tr>
+<tr>
+<td><code>properties.DSRecords[*].digest.value</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/DSRecords[*].digest.value</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords[*]</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords[*].usage</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords[*].usage</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords[*].selector</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords[*].selector</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords[*].matchingType</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords[*].matchingType</code></td>
+</tr>
+<tr>
+<td><code>properties.TLSARecords[*].certAssociationData</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/TLSARecords[*].certAssociationData</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*]</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].order</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].order</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].preference</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].preference</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].flags</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].flags</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].services</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].services</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].regexp</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].regexp</code></td>
+</tr>
+<tr>
+<td><code>properties.NAPTRRecords[*].replacement</code></td>
+<td><code>Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].replacement</code></td>
 </tr>
 </tbody>
 </table> </div>
