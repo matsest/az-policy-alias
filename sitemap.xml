@@ -366,6 +366,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicyAssignments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/Redis-firewallrules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redis-linkedservers/</loc>
@@ -1137,6 +1141,8 @@
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.insights/tenantactiongroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/webtests/</loc>
   </url><url>

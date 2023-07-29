@@ -8,6 +8,26 @@
     <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Cache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicies/</guid>
+      <description>Link to resource definition: Microsoft.Cache/redis/accessPolicies
+Default Path Alias properties.provisioningState Microsoft.Cache/redis/accessPolicies/provisioningState properties.type Microsoft.Cache/redis/accessPolicies/type properties.permissions Microsoft.Cache/redis/accessPolicies/permissions </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicyAssignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Cache/redis-accessPolicyAssignments/</guid>
+      <description>Link to resource definition: Microsoft.Cache/redis/accessPolicyAssignments
+Default Path Alias properties.provisioningState Microsoft.Cache/redis/accessPolicyAssignments/provisioningState properties.objectId Microsoft.Cache/redis/accessPolicyAssignments/objectId properties.objectIdAlias Microsoft.Cache/redis/accessPolicyAssignments/objectIdAlias properties.accessPolicyName Microsoft.Cache/redis/accessPolicyAssignments/accessPolicyName </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Cache/Redis-firewallrules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,7 +43,7 @@ Default Path Alias properties.startIP Microsoft.Cache/Redis/firewallrules/startI
       
       <guid>http://policyalias.mats.codes/Microsoft.Cache/redis-linkedservers/</guid>
       <description>Link to resource definition: Microsoft.Cache/redis/linkedservers
-Default Path Alias properties.linkedRedisCacheId Microsoft.Cache/redis/linkedservers/linkedRedisCacheId properties.linkedRedisCacheLocation Microsoft.Cache/redis/linkedservers/linkedRedisCacheLocation properties.serverRole Microsoft.Cache/redis/linkedservers/serverRole </description>
+Default Path Alias properties.linkedRedisCacheId Microsoft.Cache/redis/linkedservers/linkedRedisCacheId properties.linkedRedisCacheLocation Microsoft.Cache/redis/linkedservers/linkedRedisCacheLocation properties.serverRole Microsoft.Cache/redis/linkedservers/serverRole properties.geoReplicatedPrimaryHostName Microsoft.Cache/Redis/linkedServers/geoReplicatedPrimaryHostName properties.primaryHostName Microsoft.Cache/Redis/linkedServers/primaryHostName </description>
     </item>
     
     <item>
@@ -83,7 +103,7 @@ Default Path Alias properties.privateEndpoint Microsoft.Cache/redisEnterprise/pr
       
       <guid>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</guid>
       <description>Link to resource definition: Microsoft.Cache/redisEnterprise
-Default Path Alias sku Microsoft.Cache/redisEnterprise/sku sku.name Microsoft.Cache/redisEnterprise/sku.name sku.capacity Microsoft.Cache/redisEnterprise/sku.capacity zones Microsoft.Cache/redisEnterprise/zones zones[*] Microsoft.Cache/redisEnterprise/zones[*] properties.minimumTlsVersion Microsoft.Cache/redisEnterprise/minimumTlsVersion properties.hostName Microsoft.Cache/redisEnterprise/hostName properties.provisioningState Microsoft.Cache/redisEnterprise/provisioningState properties.resourceState Microsoft.Cache/redisEnterprise/resourceState properties.redisVersion Microsoft.Cache/redisEnterprise/redisVersion properties.privateEndpointConnections Microsoft.Cache/redisEnterprise/privateEndpointConnections properties.privateEndpointConnections[*] Microsoft.Cache/redisEnterprise/privateEndpointConnections[*] properties.privateEndpointConnections[*].id Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].id properties.privateEndpointConnections[*].name Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].name properties.privateEndpointConnections[*].type Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].type properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateEndpoint properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateEndpoint.id properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.status properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.description properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired properties.privateEndpointConnections[*].properties.provisioningState Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].provisioningState </description>
+Default Path Alias sku Microsoft.Cache/redisEnterprise/sku sku.name Microsoft.Cache/redisEnterprise/sku.name sku.capacity Microsoft.Cache/redisEnterprise/sku.capacity zones Microsoft.Cache/redisEnterprise/zones zones[*] Microsoft.Cache/redisEnterprise/zones[*] properties.minimumTlsVersion Microsoft.Cache/redisEnterprise/minimumTlsVersion properties.hostName Microsoft.Cache/redisEnterprise/hostName properties.provisioningState Microsoft.Cache/redisEnterprise/provisioningState properties.resourceState Microsoft.Cache/redisEnterprise/resourceState properties.redisVersion Microsoft.Cache/redisEnterprise/redisVersion properties.privateEndpointConnections Microsoft.Cache/redisEnterprise/privateEndpointConnections properties.privateEndpointConnections[*] Microsoft.Cache/redisEnterprise/privateEndpointConnections[*] properties.privateEndpointConnections[*].id Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].id properties.privateEndpointConnections[*].name Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].name properties.privateEndpointConnections[*].type Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].type properties.privateEndpointConnections[*].properties.privateEndpoint Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateEndpoint properties.privateEndpointConnections[*].properties.privateEndpoint.id Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateEndpoint.id properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.status properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.description properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired properties.privateEndpointConnections[*].properties.provisioningState Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].provisioningState properties.encryption Microsoft.Cache/redisEnterprise/encryption properties.encryption.customerManagedKeyEncryption Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl </description>
     </item>
     
   </channel>
