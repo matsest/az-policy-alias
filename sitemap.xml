@@ -20,7 +20,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/prometheusRuleGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/smartDetectorAlertRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/tenantActivityLogAlerts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AnalysisServices/</loc>
   </url><url>
@@ -562,6 +566,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-updateRuns/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</loc>
@@ -569,6 +575,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-maintenanceConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-trustedAccessRoleBindings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters/</loc>
   </url><url>
