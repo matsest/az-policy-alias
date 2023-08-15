@@ -1098,6 +1098,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-runcommands/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections/</loc>
