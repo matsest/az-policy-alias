@@ -23,7 +23,7 @@ Default Path Alias properties.administratorType Microsoft.DBforMySQL/flexibleSer
       
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</guid>
       <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/configurations
-Default Path Alias properties.value Microsoft.DBForMySql/flexibleServers/configurations/value properties.description Microsoft.DBForMySql/flexibleServers/configurations/description properties.defaultValue Microsoft.DBForMySql/flexibleServers/configurations/defaultValue properties.dataType Microsoft.DBForMySql/flexibleServers/configurations/dataType properties.allowedValues Microsoft.DBForMySql/flexibleServers/configurations/allowedValues properties.source Microsoft.DBForMySql/flexibleServers/configurations/source properties.isReadOnly Microsoft.DBForMySql/flexibleServers/configurations/isReadOnly properties.isConfigPendingRestart Microsoft.DBForMySql/flexibleServers/configurations/isConfigPendingRestart properties.isDynamicConfig Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig </description>
+Default Path Alias properties.value Microsoft.DBForMySql/flexibleServers/configurations/value properties.description Microsoft.DBForMySql/flexibleServers/configurations/description properties.defaultValue Microsoft.DBForMySql/flexibleServers/configurations/defaultValue properties.dataType Microsoft.DBForMySql/flexibleServers/configurations/dataType properties.allowedValues Microsoft.DBForMySql/flexibleServers/configurations/allowedValues properties.source Microsoft.DBForMySql/flexibleServers/configurations/source properties.isReadOnly Microsoft.DBForMySql/flexibleServers/configurations/isReadOnly properties.isConfigPendingRestart Microsoft.DBForMySql/flexibleServers/configurations/isConfigPendingRestart properties.isDynamicConfig Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig properties.currentValue Microsoft.DBforMySQL/flexibleServers/configurations/currentValue properties.documentationLink Microsoft.DBforMySQL/flexibleServers/configurations/documentationLink </description>
     </item>
     
     <item>
@@ -44,6 +44,16 @@ Default Path Alias properties.charset Microsoft.DBForMySql/flexibleServers/datab
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-firewallRules/</guid>
       <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/firewallRules
 Default Path Alias properties.startIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/startIpAddress properties.endIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/endIpAddress </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections
+Default Path Alias properties.groupIds Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds properties.groupIds[*] Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds[*] properties.privateEndpoint Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.status Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.privateLinkServiceConnectionState.description Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.provisioningState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/provisioningState </description>
     </item>
     
     <item>

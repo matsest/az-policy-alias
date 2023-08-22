@@ -66,7 +66,7 @@ Default Path Alias properties.provisioningState Microsoft.ContainerService/manag
       "headline": "Managed Clusters",
       "description": "Link to resource definition: Microsoft.ContainerService\/managedClusters\nDefault Path Alias properties.provisioningState Microsoft.ContainerService\/managedClusters\/provisioningState properties.kubernetesVersion Microsoft.ContainerService\/managedClusters\/kubernetesVersion properties.dnsPrefix Microsoft.ContainerService\/managedClusters\/dnsPrefix properties.fqdn Microsoft.ContainerService\/managedClusters\/fqdn properties.agentPoolProfiles Microsoft.ContainerService\/managedClusters\/agentPoolProfiles properties.agentPoolProfiles[*] Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*] properties.agentPoolProfiles[*].name Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].name properties.agentPoolProfiles[*].count Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].count properties.agentPoolProfiles[*].vmSize Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].vmSize properties.agentPoolProfiles[*].osDiskSizeGB Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].osDiskSizeGB properties.agentPoolProfiles[*].storageProfile Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].storageProfile properties.agentPoolProfiles[*].osType Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].osType properties.linuxProfile Microsoft.ContainerService\/managedClusters\/linuxProfile properties.linuxProfile.adminUsername Microsoft.ContainerService\/managedClusters\/linuxProfile.adminUsername properties.linuxProfile.ssh Microsoft.ContainerService\/managedClusters\/linuxProfile.ssh properties.linuxProfile.ssh.publicKeys Microsoft.ContainerService\/managedClusters\/linuxProfile.ssh.publicKeys properties.linuxProfile.ssh.publicKeys[*] Microsoft.ContainerService\/managedClusters\/linuxProfile.ssh.publicKeys[*] properties.linuxProfile.ssh.publicKeys[*].keyData Microsoft.ContainerService\/managedClusters\/linuxProfile.ssh.publicKeys[*].keyData properties.servicePrincipalProfile Microsoft.ContainerService\/managedClusters\/servicePrincipalProfile properties.servicePrincipalProfile.clientId Microsoft.ContainerService\/managedClusters\/servicePrincipalProfile.clientId properties.agentPoolProfiles[*].maxPods Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].maxPods properties.nodeResourceGroup Microsoft.ContainerService\/managedClusters\/nodeResourceGroup properties.enableRBAC Microsoft.ContainerService\/managedClusters\/enableRBAC properties.networkProfile Microsoft.ContainerService\/managedClusters\/networkProfile properties.networkProfile.networkPlugin Microsoft.ContainerService\/managedClusters\/networkProfile.networkPlugin properties.networkProfile.podCidr Microsoft.ContainerService\/managedClusters\/networkProfile.podCidr properties.networkProfile.serviceCidr Microsoft.ContainerService\/managedClusters\/networkProfile.serviceCidr properties.networkProfile.dnsServiceIP Microsoft.ContainerService\/managedClusters\/networkProfile.dnsServiceIP properties.networkProfile.dockerBridgeCidr Microsoft.ContainerService\/managedClusters\/networkProfile.dockerBridgeCidr properties.agentPoolProfiles[*].vnetSubnetID Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].vnetSubnetID properties.agentPoolProfiles[*].maxCount Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].maxCount properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "782",
+      "wordCount" : "808",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -7287,6 +7287,58 @@ Default Path Alias properties.provisioningState Microsoft.ContainerService/manag
 <tr>
 <td><code>properties.agentPoolProfiles[*].upgradeSettings.drainTimeoutInMinutes</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.drainTimeoutInMinutes</code></td>
+</tr>
+<tr>
+<td><code>properties.agentPoolProfiles[*].securityProfile</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile</code></td>
+</tr>
+<tr>
+<td><code>properties.agentPoolProfiles[*].securityProfile.sshAccess</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile.sshAccess</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.imageIntegrity</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.imageIntegrity</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.imageIntegrity.enabled</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.imageIntegrity.enabled</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin.keyVaultId</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.keyVaultId</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin.certObjectName</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.certObjectName</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin.keyObjectName</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.keyObjectName</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin.rootCertObjectName</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.rootCertObjectName</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.certificateAuthority.plugin.certChainObjectName</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.certChainObjectName</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.revisions</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.revisions</code></td>
+</tr>
+<tr>
+<td><code>properties.serviceMeshProfile.istio.revisions[*]</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.revisions[*]</code></td>
 </tr>
 </tbody>
 </table> </div>
