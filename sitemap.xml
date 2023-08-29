@@ -1210,7 +1210,7 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-databases/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-managedPrivateEndpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Kusto/clusters-principalassignments/</loc>
   </url><url>
