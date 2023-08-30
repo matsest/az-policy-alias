@@ -994,6 +994,14 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/orderItems/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans-volumeGroups-volumes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans-volumeGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-privateEndpointConnections/</loc>
