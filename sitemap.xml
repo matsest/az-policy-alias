@@ -536,17 +536,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-buildTasks/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-cacheRules/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-connectedRegistries/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-credentialSets/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-exportPipelines/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-importPipelines/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-packages-archives/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-pipelineRuns/</loc>
   </url><url>
