@@ -2388,12 +2388,32 @@ Default Path Alias properties.provisioningState Microsoft.ContainerRegistry/regi
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-cacheRules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-cacheRules/</guid>
+      <description>Link to resource definition: Microsoft.ContainerRegistry/registries/cacheRules
+Default Path Alias properties.credentialSetResourceId Microsoft.ContainerRegistry/registries/cacheRules/credentialSetResourceId properties.sourceRepository Microsoft.ContainerRegistry/registries/cacheRules/sourceRepository properties.targetRepository Microsoft.ContainerRegistry/registries/cacheRules/targetRepository properties.creationDate Microsoft.ContainerRegistry/registries/cacheRules/creationDate properties.provisioningState Microsoft.ContainerRegistry/registries/cacheRules/provisioningState </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-connectedRegistries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-connectedRegistries/</guid>
       <description>Link to resource definition: Microsoft.ContainerRegistry/registries/connectedRegistries
 Default Path Alias properties.provisioningState Microsoft.ContainerRegistry/registries/connectedRegistries/provisioningState properties.mode Microsoft.ContainerRegistry/registries/connectedRegistries/mode properties.version Microsoft.ContainerRegistry/registries/connectedRegistries/version properties.connectionState Microsoft.ContainerRegistry/registries/connectedRegistries/connectionState properties.lastActivityTime Microsoft.ContainerRegistry/registries/connectedRegistries/lastActivityTime properties.activation Microsoft.ContainerRegistry/registries/connectedRegistries/activation properties.activation.status Microsoft.ContainerRegistry/registries/connectedRegistries/activation.status properties.parent Microsoft.ContainerRegistry/registries/connectedRegistries/parent properties.parent.id Microsoft.ContainerRegistry/registries/connectedRegistries/parent.id properties.parent.syncProperties Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties properties.parent.syncProperties.tokenId Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.tokenId properties.parent.syncProperties.schedule Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.schedule properties.parent.syncProperties.syncWindow Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.syncWindow properties.parent.syncProperties.messageTtl Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.messageTtl properties.parent.syncProperties.lastSyncTime Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.lastSyncTime properties.parent.syncProperties.gatewayEndpoint Microsoft.ContainerRegistry/registries/connectedRegistries/parent.syncProperties.gatewayEndpoint properties.clientTokenIds Microsoft.ContainerRegistry/registries/connectedRegistries/clientTokenIds properties.clientTokenIds[*] Microsoft.ContainerRegistry/registries/connectedRegistries/clientTokenIds[*] properties.loginServer Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer properties.loginServer.host Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.host properties.loginServer.tls Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.tls properties.loginServer.tls.status Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.tls.status properties.loginServer.tls.certificate Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.tls.certificate properties.loginServer.tls.certificate.type Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.tls.certificate.type properties.loginServer.tls.certificate.location Microsoft.ContainerRegistry/registries/connectedRegistries/loginServer.tls.certificate.location properties.logging Microsoft.ContainerRegistry/registries/connectedRegistries/logging properties.logging.logLevel Microsoft.ContainerRegistry/registries/connectedRegistries/logging.logLevel properties.logging.auditLogStatus Microsoft.ContainerRegistry/registries/connectedRegistries/logging.auditLogStatus properties.statusDetails Microsoft.ContainerRegistry/registries/connectedRegistries/statusDetails properties.statusDetails[*] Microsoft.ContainerRegistry/registries/connectedRegistries/statusDetails[*] properties.statusDetails[*].type Microsoft.ContainerRegistry/registries/connectedRegistries/statusDetails[*].type properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-credentialSets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-credentialSets/</guid>
+      <description>Link to resource definition: Microsoft.ContainerRegistry/registries/credentialSets
+Default Path Alias properties.loginServer Microsoft.ContainerRegistry/registries/credentialSets/loginServer properties.authCredentials Microsoft.ContainerRegistry/registries/credentialSets/authCredentials properties.authCredentials[*] Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*] properties.authCredentials[*].name Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].name properties.authCredentials[*].usernameSecretIdentifier Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].usernameSecretIdentifier properties.authCredentials[*].passwordSecretIdentifier Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].passwordSecretIdentifier properties.authCredentials[*].credentialHealth Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].credentialHealth properties.authCredentials[*].credentialHealth.status Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].credentialHealth.status properties.authCredentials[*].credentialHealth.errorCode Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].credentialHealth.errorCode properties.authCredentials[*].credentialHealth.errorMessage Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].credentialHealth.errorMessage properties.creationDate Microsoft.ContainerRegistry/registries/credentialSets/creationDate properties.provisioningState Microsoft.ContainerRegistry/registries/credentialSets/provisioningState </description>
     </item>
     
     <item>
@@ -2414,6 +2434,16 @@ Default Path Alias properties.target Microsoft.ContainerRegistry/registries/expo
       <guid>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-importPipelines/</guid>
       <description>Link to resource definition: Microsoft.ContainerRegistry/registries/importPipelines
 Default Path Alias properties.source Microsoft.ContainerRegistry/registries/importPipelines/source properties.source.type Microsoft.ContainerRegistry/registries/importPipelines/source.type properties.source.uri Microsoft.ContainerRegistry/registries/importPipelines/source.uri properties.source.keyVaultUri Microsoft.ContainerRegistry/registries/importPipelines/source.keyVaultUri properties.trigger Microsoft.ContainerRegistry/registries/importPipelines/trigger properties.trigger.sourceTrigger Microsoft.ContainerRegistry/registries/importPipelines/trigger.sourceTrigger properties.trigger.sourceTrigger.status Microsoft.ContainerRegistry/registries/importPipelines/trigger.sourceTrigger.status properties.options Microsoft.ContainerRegistry/registries/importPipelines/options properties.options[*] Microsoft.ContainerRegistry/registries/importPipelines/options[*] properties.provisioningState Microsoft.ContainerRegistry/registries/importPipelines/provisioningState </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-packages-archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries-packages-archives/</guid>
+      <description>Link to resource definition: Microsoft.ContainerRegistry/registries/packages/archives
+Default Path Alias properties.packageSource Microsoft.ContainerRegistry/registries/packages/archives/packageSource properties.packageSource.type Microsoft.ContainerRegistry/registries/packages/archives/packageSource.type properties.packageSource.url Microsoft.ContainerRegistry/registries/packages/archives/packageSource.url properties.publishedVersion Microsoft.ContainerRegistry/registries/packages/archives/publishedVersion properties.repositoryEndpointPrefix Microsoft.ContainerRegistry/registries/packages/archives/repositoryEndpointPrefix properties.repositoryEndpoint Microsoft.ContainerRegistry/registries/packages/archives/repositoryEndpoint properties.provisioningState Microsoft.ContainerRegistry/registries/packages/archives/provisioningState </description>
     </item>
     
     <item>
