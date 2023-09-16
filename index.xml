@@ -6408,36 +6408,6 @@ Default Path Alias properties.sourceRegion Microsoft.Migrate/moveCollections/sou
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups-assessments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups-assessments/</guid>
-      <description>Link to resource definition: Microsoft.Migrate/projects/groups/assessments
-Default Path Alias properties.azureLocation Microsoft.Migrate/projects/groups/assessments/azureLocation properties.azureOfferCode Microsoft.Migrate/projects/groups/assessments/azureOfferCode properties.azurePricingTier Microsoft.Migrate/projects/groups/assessments/azurePricingTier properties.azureStorageRedundancy Microsoft.Migrate/projects/groups/assessments/azureStorageRedundancy properties.scalingFactor Microsoft.Migrate/projects/groups/assessments/scalingFactor properties.percentile Microsoft.Migrate/projects/groups/assessments/percentile properties.timeRange Microsoft.Migrate/projects/groups/assessments/timeRange properties.stage Microsoft.Migrate/projects/groups/assessments/stage properties.currency Microsoft.Migrate/projects/groups/assessments/currency properties.azureHybridUseBenefit Microsoft.Migrate/projects/groups/assessments/azureHybridUseBenefit properties.discountPercentage Microsoft.Migrate/projects/groups/assessments/discountPercentage properties.pricesTimestamp Microsoft.Migrate/projects/groups/assessments/pricesTimestamp properties.createdTimestamp Microsoft.Migrate/projects/groups/assessments/createdTimestamp properties.updatedTimestamp Microsoft.Migrate/projects/groups/assessments/updatedTimestamp properties.monthlyComputeCost Microsoft.Migrate/projects/groups/assessments/monthlyComputeCost properties.monthlyBandwidthCost Microsoft.Migrate/projects/groups/assessments/monthlyBandwidthCost properties.monthlyStorageCost Microsoft.Migrate/projects/groups/assessments/monthlyStorageCost properties.status Microsoft.Migrate/projects/groups/assessments/status properties.numberOfMachines Microsoft.Migrate/projects/groups/assessments/numberOfMachines properties.confidenceRatingInPercentage Microsoft.Migrate/projects/groups/assessments/confidenceRatingInPercentage properties.sizingCriterion Microsoft.Migrate/projects/groups/assessments/sizingCriterion </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects-groups/</guid>
-      <description>Link to resource definition: Microsoft.Migrate/projects/groups
-Default Path Alias properties.machines[*] Microsoft.Migrate/projects/groups/machines[*] properties.machines Microsoft.Migrate/projects/groups/machines properties.assessments[*] Microsoft.Migrate/projects/groups/assessments[*] properties.assessments Microsoft.Migrate/projects/groups/assessments properties.createdTimestamp Microsoft.Migrate/projects/groups/createdTimestamp properties.updatedTimestamp Microsoft.Migrate/projects/groups/updatedTimestamp </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.Migrate/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.Migrate/projects/</guid>
-      <description>Link to resource definition: Microsoft.Migrate/projects
-Default Path Alias properties.numberOfMachines Microsoft.Migrate/projects/numberOfMachines properties.numberOfGroups Microsoft.Migrate/projects/numberOfGroups properties.numberOfAssessments Microsoft.Migrate/projects/numberOfAssessments properties.createdTimestamp Microsoft.Migrate/projects/createdTimestamp properties.updatedTimestamp Microsoft.Migrate/projects/updatedTimestamp properties.discoveryStatus Microsoft.Migrate/projects/discoveryStatus properties.customerWorkspaceId Microsoft.Migrate/projects/customerWorkspaceId properties.provisioningState Microsoft.Migrate/projects/provisioningState properties.customerWorkspaceLocation Microsoft.Migrate/projects/customerWorkspaceLocation properties.lastDiscoveryTimestamp Microsoft.Migrate/projects/lastDiscoveryTimestamp properties.lastDiscoverySessionId Microsoft.Migrate/projects/lastDiscoverySessionId properties.lastAssessmentTimestamp Microsoft.Migrate/projects/lastAssessmentTimestamp </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
