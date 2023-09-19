@@ -2328,6 +2328,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/clusters-privateEndpoints/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/clusters/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-functions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StreamAnalytics/streamingjobs-inputs/</loc>
