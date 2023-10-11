@@ -1112,7 +1112,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/licenses/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-licenseProfiles/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-runcommands/</loc>
   </url><url>

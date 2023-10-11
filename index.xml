@@ -4918,12 +4918,32 @@ Default Path Alias properties.provisioningState Microsoft.HealthcareApis/workspa
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/licenses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/licenses/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/licenses
+Default Path Alias properties.provisioningState Microsoft.HybridCompute/licenses/provisioningState properties.tenantId Microsoft.HybridCompute/licenses/tenantId properties.licenseType Microsoft.HybridCompute/licenses/licenseType properties.licenseDetails Microsoft.HybridCompute/licenses/licenseDetails properties.licenseDetails.state Microsoft.HybridCompute/licenses/licenseDetails.state properties.licenseDetails.target Microsoft.HybridCompute/licenses/licenseDetails.target properties.licenseDetails.edition Microsoft.HybridCompute/licenses/licenseDetails.edition properties.licenseDetails.type Microsoft.HybridCompute/licenses/licenseDetails.type properties.licenseDetails.processors Microsoft.HybridCompute/licenses/licenseDetails.processors properties.licenseDetails.assignedLicenses Microsoft.HybridCompute/licenses/licenseDetails.assignedLicenses properties.licenseDetails.immutableId Microsoft.HybridCompute/licenses/licenseDetails.immutableId </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</guid>
       <description>Link to resource definition: Microsoft.HybridCompute/machines/extensions
 Default Path Alias properties.forceUpdateTag Microsoft.HybridCompute/machines/extensions/forceUpdateTag properties.publisher Microsoft.HybridCompute/machines/extensions/publisher properties.type Microsoft.HybridCompute/machines/extensions/type properties.typeHandlerVersion Microsoft.HybridCompute/machines/extensions/typeHandlerVersion properties.autoUpgradeMinorVersion Microsoft.HybridCompute/machines/extensions/autoUpgradeMinorVersion properties.settings Microsoft.HybridCompute/machines/extensions/settings properties.protectedSettings Microsoft.HybridCompute/machines/extensions/protectedSettings properties.provisioningState Microsoft.HybridCompute/machines/extensions/provisioningState properties.instanceView.name Microsoft.HybridCompute/machines/extensions/instanceView.name properties.instanceView.type Microsoft.HybridCompute/machines/extensions/instanceView.type properties.instanceView.typeHandlerVersion Microsoft.HybridCompute/machines/extensions/instanceView.typeHandlerVersion properties.instanceView.status.code Microsoft.HybridCompute/machines/extensions/instanceView.status.code properties.instanceView.status.level Microsoft.HybridCompute/machines/extensions/instanceView.status.level properties.instanceView.status.displayStatus Microsoft.HybridCompute/machines/extensions/instanceView.status.displayStatus properties.instanceView.status.message Microsoft.HybridCompute/machines/extensions/instanceView.status.message properties.instanceView.status.time Microsoft.HybridCompute/machines/extensions/instanceView.status.time properties.instanceView.status Microsoft.HybridCompute/machines/extensions/instanceView.status properties.instanceView Microsoft.HybridCompute/machines/extensions/instanceView properties.enableAutomaticUpgrade Microsoft.HybridCompute/machines/extensions/enableAutomaticUpgrade </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-licenseProfiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-licenseProfiles/</guid>
+      <description>Link to resource definition: Microsoft.HybridCompute/machines/licenseProfiles
+Default Path Alias properties.esuProfile Microsoft.HybridCompute/machines/licenseProfiles/esuProfile properties.esuProfile.assignedLicenseImmutableId Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.assignedLicenseImmutableId properties.esuProfile.esuKeys Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuKeys properties.esuProfile.esuKeys[*] Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuKeys[*] properties.esuProfile.esuKeys[*].sku Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuKeys[*].sku properties.esuProfile.esuKeys[*].licenseStatus Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuKeys[*].licenseStatus properties.esuProfile.serverType Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.serverType properties.esuProfile.esuEligibility Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuEligibility properties.esuProfile.esuKeyState Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.esuKeyState properties.esuProfile.assignedLicense Microsoft.HybridCompute/machines/licenseProfiles/esuProfile.assignedLicense properties.provisioningState Microsoft.HybridCompute/machines/licenseProfiles/provisioningState </description>
     </item>
     
     <item>

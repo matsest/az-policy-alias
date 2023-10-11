@@ -66,7 +66,7 @@ Default Path Alias properties.osVersion Microsoft.HybridCompute/imageSKU propert
       "headline": "Machines",
       "description": "Link to resource definition: Microsoft.HybridCompute\/machines\nDefault Path Alias properties.osVersion Microsoft.HybridCompute\/imageSKU properties.osName Microsoft.HybridCompute\/imageOffer properties.osProfile.computerName Microsoft.HybridCompute\/machines\/osProfile.computerName properties.osProfile Microsoft.HybridCompute\/machines\/osProfile properties.provisioningState Microsoft.HybridCompute\/machines\/provisioningState properties.status Microsoft.HybridCompute\/machines\/status properties.lastStatusChange Microsoft.HybridCompute\/machines\/lastStatusChange properties.errorDetails[*].code Microsoft.HybridCompute\/machines\/errorDetails[*].code properties.errorDetails[*].message Microsoft.HybridCompute\/machines\/errorDetails[*].message properties.errorDetails[*].target Microsoft.HybridCompute\/machines\/errorDetails[*].target properties.errorDetails[*].details[*].code Microsoft.HybridCompute\/machines\/errorDetails[*].details[*].code properties.errorDetails[*].details[*].message Microsoft.HybridCompute\/machines\/errorDetails[*].details[*].message properties.errorDetails[*].details[*].target Microsoft.HybridCompute\/machines\/errorDetails[*].details[*].target properties.errorDetails[*].details[*] Microsoft.HybridCompute\/machines\/errorDetails[*].details[*] properties.errorDetails[*].details Microsoft.HybridCompute\/machines\/errorDetails[*].details properties.errorDetails[*] Microsoft.HybridCompute\/machines\/errorDetails[*] properties.errorDetails Microsoft.HybridCompute\/machines\/errorDetails properties.agentVersion Microsoft.HybridCompute\/machines\/agentVersion properties.vmId Microsoft.HybridCompute\/machines\/vmId properties.displayName Microsoft.HybridCompute\/machines\/displayName properties.machineFqdn Microsoft.HybridCompute\/machines\/machineFqdn properties.physicalLocation Microsoft.HybridCompute\/machines\/physicalLocation properties.clientPublicKey Microsoft.HybridCompute\/machines\/clientPublicKey properties.osName Microsoft.HybridCompute\/machines\/osName properties.osVersion Microsoft.HybridCompute\/machines\/osVersion properties.extensions[*].name Microsoft.HybridCompute\/machines\/extensions[*].name properties.extensions[*].type Microsoft.HybridCompute\/machines\/extensions[*].type properties.extensions[*].typeHandlerVersion Microsoft.HybridCompute\/machines\/extensions[*].typeHandlerVersion properties.extensions[*].status.code Microsoft.HybridCompute\/machines\/extensions[*].status.code properties.extensions[*].status.level Microsoft.HybridCompute\/machines\/extensions[*].status.level properties.extensions[*].status.displayStatus Microsoft.HybridCompute\/machines\/extensions[*].status.displayStatus properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "232",
+      "wordCount" : "282",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -6232,6 +6232,106 @@ Default Path Alias properties.osVersion Microsoft.HybridCompute/imageSKU propert
 <tr>
 <td><code>properties.networkProfile.networkInterfaces[*].ipAddresses[*].subnet.addressPrefix</code></td>
 <td><code>Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*].subnet.addressPrefix</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicenseImmutableId</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicenseImmutableId</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuKeys</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuKeys</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuKeys[*]</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuKeys[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuKeys[*].sku</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuKeys[*].sku</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuKeys[*].licenseStatus</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuKeys[*].licenseStatus</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.serverType</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.serverType</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuEligibility</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuEligibility</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.esuKeyState</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.esuKeyState</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.tags</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.tags</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.location</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.location</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.provisioningState</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.provisioningState</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.tenantId</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.tenantId</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseType</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseType</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.state</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.state</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.target</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.target</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.edition</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.edition</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.type</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.type</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.processors</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.processors</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.assignedLicenses</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.assignedLicenses</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.assignedLicense.properties.licenseDetails.immutableId</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.assignedLicense.licenseDetails.immutableId</code></td>
+</tr>
+<tr>
+<td><code>properties.licenseProfile.esuProfile.licenseAssignmentState</code></td>
+<td><code>Microsoft.HybridCompute/machines/licenseProfile.esuProfile.licenseAssignmentState</code></td>
 </tr>
 </tbody>
 </table> </div>
