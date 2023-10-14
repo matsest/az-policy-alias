@@ -1010,7 +1010,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-eventSubscriptions/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-topics-eventSubscriptions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/domains-topics/</loc>
   </url><url>
@@ -1018,7 +1022,29 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/eventSubscriptions/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-caCertificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-clientGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-clients/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-permissionBindings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces-topicSpaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/namespaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerDestinations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-channels/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-eventChannels/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/partnerNamespaces/</loc>
   </url><url>
@@ -1031,6 +1057,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics-eventSubscriptions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/systemTopics/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventGrid/topics-eventSubscriptions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventGrid/topics-privateEndpointConnections/</loc>
   </url><url>
