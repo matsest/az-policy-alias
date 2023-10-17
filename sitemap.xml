@@ -330,6 +330,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachineInstances/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines-extensions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</loc>
