@@ -1004,6 +1004,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans-volumeGroups-snapshots/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans-volumeGroups-volumes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ElasticSan/elasticSans-volumeGroups/</loc>
