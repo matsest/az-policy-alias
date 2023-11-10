@@ -2148,6 +2148,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-backupShortTermRetentionPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-ledgerDigestUploads/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-schemas-tables-columns-sensitivityLabels/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-databases-securityAlertPolicies/</loc>
@@ -2174,7 +2176,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-securityAlertPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-serverConfigurationOptions/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-serverTrustCertificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-startStopSchedules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/managedInstances-vulnerabilityAssessments/</loc>
   </url><url>
@@ -2228,6 +2234,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-maintenanceWindows/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-replicationLinks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-schemas-tables-columns-sensitivityLabels/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-securityAlertPolicies/</loc>
@@ -2273,6 +2281,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-jobs-steps/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-jobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-privateEndpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-jobAgents-targetGroups/</loc>
   </url><url>
