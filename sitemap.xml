@@ -1438,22 +1438,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-accessPolicies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-edgeModules/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-livePipelines/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineJobs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-pipelineTopologies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-privateEndpointConnections/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers-videos/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/videoAnalyzers/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups-assessments/</loc>
