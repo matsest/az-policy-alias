@@ -18,6 +18,16 @@ Default Path Alias properties.principalType Microsoft.DBforPostgreSQL/flexibleSe
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-advancedThreatProtectionSettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-advancedThreatProtectionSettings/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings
+Default Path Alias properties.state Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/state properties.creationTime Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/creationTime </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -54,6 +64,26 @@ Default Path Alias properties.startIpAddress Microsoft.DBForPostgreSql/flexibleS
       <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-migrations/</guid>
       <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/migrations
 Default Path Alias properties.migrationId Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationId properties.migrationName Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationName properties.migrationDetailsLevel Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationDetailsLevel properties.currentStatus Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus properties.currentStatus.state Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.state properties.currentStatus.error Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.error properties.currentStatus.currentSubStateDetails Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.currentSubStateDetails properties.currentStatus.currentSubStateDetails.currentSubState Microsoft.DBforPostgreSQL/flexibleServers/migrations/currentStatus.currentSubStateDetails.currentSubState properties.sourceDBServerMetadata Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata properties.sourceDBServerMetadata.location Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.location properties.sourceDBServerMetadata.version Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.version properties.sourceDBServerMetadata.storageMB Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.storageMB properties.sourceDBServerMetadata.sku Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.sku properties.sourceDBServerMetadata.sku.name Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.sku.name properties.sourceDBServerMetadata.sku.tier Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerMetadata.sku.tier properties.targetDBServerMetadata Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata properties.targetDBServerMetadata.location Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.location properties.targetDBServerMetadata.version Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.version properties.targetDBServerMetadata.storageMB Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.storageMB properties.targetDBServerMetadata.sku Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.sku properties.targetDBServerMetadata.sku.name Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.sku.name properties.targetDBServerMetadata.sku.tier Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerMetadata.sku.tier properties.sourceDBServerResourceId Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerResourceId properties.secretParameters Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters properties.secretParameters.adminCredentials Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.adminCredentials properties.secretParameters.adminCredentials.sourceServerPassword Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.adminCredentials.sourceServerPassword properties.secretParameters.adminCredentials.targetServerPassword Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.adminCredentials.targetServerPassword properties.secretParameters.aadApp Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.aadApp properties.secretParameters.aadApp.aadSecret Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.aadApp.aadSecret properties.secretParameters.aadApp.clientId Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.aadApp.clientId properties.secretParameters.aadApp.tenantId Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.aadApp.tenantId properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-privateEndpointConnections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-privateEndpointConnections/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections
+Default Path Alias properties.groupIds Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/groupIds properties.groupIds[*] Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/groupIds[*] properties.privateEndpoint Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.status Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.privateLinkServiceConnectionState.description Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.provisioningState Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/provisioningState </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints/</guid>
+      <description>Link to resource definition: Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints
+Default Path Alias properties.endpointType Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/endpointType properties.members Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/members properties.members[*] Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/members[*] properties.virtualEndpoints Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/virtualEndpoints properties.virtualEndpoints[*] Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/virtualEndpoints[*] </description>
     </item>
     
     <item>

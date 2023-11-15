@@ -23,7 +23,7 @@ Default Path Alias properties.privateEndpoint Microsoft.Attestation/attestationP
       
       <guid>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</guid>
       <description>Link to resource definition: Microsoft.Attestation/attestationProviders
-Default Path Alias properties.publicNetworkAccess Microsoft.Attestation/attestationProviders/publicNetworkAccess </description>
+Default Path Alias properties.publicNetworkAccess Microsoft.Attestation/attestationProviders/publicNetworkAccess properties.tpmAttestationAuthentication Microsoft.Attestation/attestationProviders/tpmAttestationAuthentication </description>
     </item>
     
   </channel>

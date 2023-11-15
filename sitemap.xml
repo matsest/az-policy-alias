@@ -784,6 +784,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-administrators/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-advancedThreatProtectionSettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-configurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-databases/</loc>
@@ -791,6 +793,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-migrations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforPostgreSQL/flexibleServers/</loc>
   </url><url>
@@ -816,6 +822,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/appattachpackages/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-applications/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/applicationgroups-desktops/</loc>
@@ -824,9 +832,19 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-msixpackages/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-privateendpointconnections/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/scalingplans-personalSchedules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/scalingplans-pooledSchedules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/scalingplans/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces-privateendpointconnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces/</loc>
   </url><url>
