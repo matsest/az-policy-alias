@@ -13,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</guid>
       <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
-Default Path Alias properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] </description>
+Default Path Alias properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject </description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ Default Path Alias properties.issuer Microsoft.ManagedIdentity/userAssignedIdent
       
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</guid>
       <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities
-Default Path Alias properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl </description>
+Default Path Alias properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId </description>
     </item>
     
   </channel>

@@ -23,7 +23,7 @@ Default Path Alias properties.subscriptionId Microsoft.Subscription/aliases/subs
       
       <guid>http://policyalias.mats.codes/Microsoft.Subscription/SubscriptionDefinitions/</guid>
       <description>Link to resource definition: Microsoft.Subscription/SubscriptionDefinitions
-Default Path Alias properties.subscriptionId Microsoft.Subscription/SubscriptionDefinitions/subscriptionId properties.subscriptionDisplayName Microsoft.Subscription/SubscriptionDefinitions/subscriptionDisplayName properties.offerType Microsoft.Subscription/SubscriptionDefinitions/offerType properties.etag Microsoft.Subscription/SubscriptionDefinitions/etag </description>
+Default Path Alias properties.etag Microsoft.Subscription/SubscriptionDefinitions/etag properties.offerType Microsoft.Subscription/SubscriptionDefinitions/offerType properties.subscriptionDisplayName Microsoft.Subscription/SubscriptionDefinitions/subscriptionDisplayName properties.subscriptionId Microsoft.Subscription/SubscriptionDefinitions/subscriptionId </description>
     </item>
     
   </channel>

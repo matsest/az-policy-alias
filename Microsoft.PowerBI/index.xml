@@ -13,7 +13,7 @@
       
       <guid>http://policyalias.mats.codes/Microsoft.PowerBI/workspaceCollections/</guid>
       <description>Link to resource definition: Microsoft.PowerBI/workspaceCollections
-Default Path Alias sku.name Microsoft.PowerBI/workspaceCollections/sku.name sku.tier Microsoft.PowerBI/workspaceCollections/sku.tier sku Microsoft.PowerBI/workspaceCollections/sku </description>
+Default Path Alias sku Microsoft.PowerBI/workspaceCollections/sku sku.name Microsoft.PowerBI/workspaceCollections/sku.name sku.tier Microsoft.PowerBI/workspaceCollections/sku.tier </description>
     </item>
     
   </channel>
