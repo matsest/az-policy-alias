@@ -19,7 +19,7 @@ $resourceTypes = Get-AzPolicyAlias -ListAvailable
 $providers = $resourceTypes | Group-Object -Property Namespace
 
 foreach ($provider in $providers) {
-    $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 }
+    $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 } | Sort-Object -Property ResourceType
 
     if ($resourceTypesWithAliases.Count -gt 0) {
 
@@ -34,12 +34,13 @@ foreach ($provider in $providers) {
 
         $menuContent += "  - name: $($provider.Name)`n    ref: '/$($provider.Name)'`n"
         $tocContent = "## Resource Types`n`n"
-        
+
         foreach ($resourceType in $resourceTypesWithAliases) {
             $resourceString = "$($resourceType.Namespace)/$($resourceType.ResourceType)"
             $resourceMarkdown = "Link to resource definition: [``$resourceString``](https://docs.microsoft.com/en-us/azure/templates/$($resourceString.ToLower()))`n`n"
             $resourceMarkdown += "| Default Path | Alias |`n|---|---|`n"
-            foreach ($alias in $resourceType.Aliases) {
+            $sortedAliases = $resourceType.Aliases | Sort-Object -Property DefaultPath
+            foreach ($alias in $sortedAliases) {
                 $resourceMarkdown += "| ``$($alias.DefaultPath)`` | ``$($alias.Name)`` |`n"
             }
             $fileName = $resourceType.ResourceType.Replace("/", "-")
