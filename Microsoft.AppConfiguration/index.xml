@@ -28,16 +28,6 @@ Default Path Alias properties.privateEndpoint Microsoft.AppConfiguration/configu
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-replicas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-replicas/</guid>
-      <description>Link to resource definition: Microsoft.AppConfiguration/configurationStores/replicas
-Default Path Alias properties.endpoint Microsoft.AppConfiguration/configurationStores/replicas/endpoint properties.provisioningState Microsoft.AppConfiguration/configurationStores/replicas/provisioningState </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
