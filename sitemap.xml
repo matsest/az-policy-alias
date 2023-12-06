@@ -148,6 +148,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-replicas/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/</loc>
@@ -1501,6 +1503,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/netAppAccounts-capacityPools-volumes/</loc>
   </url><url>
