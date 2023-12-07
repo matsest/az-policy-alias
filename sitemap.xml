@@ -752,6 +752,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-databases/</loc>
@@ -1558,6 +1560,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-CNAME/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-DS/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-MX/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-NS/</loc>
@@ -1567,6 +1571,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-SOA/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-SRV/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-TLSA/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnszones-TXT/</loc>
   </url><url>
