@@ -850,6 +850,30 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/workspaces/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-attachednetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-catalogs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-devboxdefinitions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-environmentTypes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-galleries/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/networkconnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-environmentTypes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-pools-schedules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-pools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/IotHubs-certificates/</loc>
