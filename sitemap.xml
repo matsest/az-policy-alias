@@ -320,9 +320,17 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-deploymentSettings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/Clusters-SecuritySettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/edgeDevices/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/galleryImages/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/logicalNetworks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/marketplaceGalleryImages/</loc>
   </url><url>
