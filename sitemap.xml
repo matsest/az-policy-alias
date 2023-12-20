@@ -322,7 +322,7 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-deploymentSettings/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/Clusters-SecuritySettings/</loc>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-securitySettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters/</loc>
   </url><url>

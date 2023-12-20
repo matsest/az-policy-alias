@@ -1438,11 +1438,11 @@ Default Path Alias properties.arcNodeResourceIds Microsoft.AzureStackHCI/cluster
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/Clusters-SecuritySettings/</link>
+      <link>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-securitySettings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/Clusters-SecuritySettings/</guid>
-      <description>Link to resource definition: Microsoft.AzureStackHCI/Clusters/SecuritySettings
+      <guid>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-securitySettings/</guid>
+      <description>Link to resource definition: Microsoft.AzureStackHCI/clusters/securitySettings
 Default Path Alias properties.provisioningState Microsoft.AzureStackHCI/clusters/securitySettings/provisioningState properties.securedCoreComplianceAssignment Microsoft.AzureStackHCI/clusters/securitySettings/securedCoreComplianceAssignment properties.securityComplianceStatus Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus properties.securityComplianceStatus.dataAtRestEncrypted Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.dataAtRestEncrypted properties.securityComplianceStatus.dataInTransitProtected Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.dataInTransitProtected properties.securityComplianceStatus.lastUpdated Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.lastUpdated properties.securityComplianceStatus.securedCoreCompliance Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.securedCoreCompliance properties.securityComplianceStatus.wdacCompliance Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.wdacCompliance </description>
     </item>
     
