@@ -404,8 +404,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1529,34 +1527,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-dataNetworks/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-services/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-simPolicies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-sites/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-slices/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCaptures/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes-attachedDataNetworks/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/simGroups-sims/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/simGroups/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/sims/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/</loc>
   </url><url>
