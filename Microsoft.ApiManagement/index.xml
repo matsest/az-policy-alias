@@ -98,12 +98,22 @@ Default Path Alias properties.apiId Microsoft.ApiManagement/service/apis/release
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/apis/resolvers
+Default Path Alias properties.description Microsoft.ApiManagement/service/apis/resolvers/description properties.displayName Microsoft.ApiManagement/service/apis/resolvers/displayName properties.path Microsoft.ApiManagement/service/apis/resolvers/path </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-schemas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-schemas/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/apis/schemas
-Default Path Alias properties.contentType Microsoft.ApiManagement/service/apis/schemas/contentType properties.document Microsoft.ApiManagement/service/apis/schemas/document properties.document.definitions Microsoft.ApiManagement/service/apis/schemas/document.definitions properties.document.value Microsoft.ApiManagement/service/apis/schemas/document.value </description>
+Default Path Alias properties.contentType Microsoft.ApiManagement/service/apis/schemas/contentType properties.document Microsoft.ApiManagement/service/apis/schemas/document properties.document.definitions Microsoft.ApiManagement/service/apis/schemas/document.definitions properties.document.value Microsoft.ApiManagement/service/apis/schemas/document.value properties.provisioningState Microsoft.ApiManagement/service/apis/schemas/provisioningState </description>
     </item>
     
     <item>
@@ -148,6 +158,16 @@ Default Path Alias properties.description Microsoft.ApiManagement/service/apiVer
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders-authorizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders-authorizations/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/authorizationProviders/authorizations
+Default Path Alias properties.authorizationType Microsoft.ApiManagement/service/authorizationProviders/authorizations/authorizationType properties.error Microsoft.ApiManagement/service/authorizationProviders/authorizations/error properties.error.code Microsoft.ApiManagement/service/authorizationProviders/authorizations/error.code properties.error.message Microsoft.ApiManagement/service/authorizationProviders/authorizations/error.message properties.oauth2grantType Microsoft.ApiManagement/service/authorizationProviders/authorizations/oauth2grantType properties.parameters Microsoft.ApiManagement/service/authorizationProviders/authorizations/parameters properties.status Microsoft.ApiManagement/service/authorizationProviders/authorizations/status </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -173,7 +193,7 @@ Default Path Alias properties.authorizationEndpoint Microsoft.ApiManagement/serv
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-backends/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/backends
-Default Path Alias properties.credentials Microsoft.ApiManagement/service/backends/credentials properties.credentials.authorization Microsoft.ApiManagement/service/backends/credentials.authorization properties.credentials.authorization.parameter Microsoft.ApiManagement/service/backends/credentials.authorization.parameter properties.credentials.authorization.scheme Microsoft.ApiManagement/service/backends/credentials.authorization.scheme properties.credentials.certificate Microsoft.ApiManagement/service/backends/credentials.certificate properties.credentials.certificate[*] Microsoft.ApiManagement/service/backends/credentials.certificate[*] properties.credentials.certificateIds Microsoft.ApiManagement/service/backends/credentials.certificateIds properties.credentials.certificateIds[*] Microsoft.ApiManagement/service/backends/credentials.certificateIds[*] properties.credentials.header Microsoft.ApiManagement/service/backends/credentials.header properties.credentials.query Microsoft.ApiManagement/service/backends/credentials.query properties.description Microsoft.ApiManagement/service/backends/description properties.properties.serviceFabricCluster Microsoft.ApiManagement/service/backends/serviceFabricCluster properties.properties.serviceFabricCluster.clientCertificateId Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificateId properties.properties.serviceFabricCluster.clientCertificatethumbprint Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificatethumbprint properties.properties.serviceFabricCluster.managementEndpoints Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints properties.properties.serviceFabricCluster.managementEndpoints[*] Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints[*] properties.properties.serviceFabricCluster.maxPartitionResolutionRetries Microsoft.ApiManagement/service/backends/serviceFabricCluster.maxPartitionResolutionRetries properties.properties.serviceFabricCluster.serverCertificateThumbprints Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints properties.properties.serviceFabricCluster.serverCertificateThumbprints[*] Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints[*] properties.properties.serviceFabricCluster.serverX509Names Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names properties.properties.serviceFabricCluster.serverX509Names[*] Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*] properties.properties.serviceFabricCluster.serverX509Names[*].externalDocs Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].externalDocs properties.properties.serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint properties.properties.serviceFabricCluster.serverX509Names[*].name Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].name properties.protocol Microsoft.ApiManagement/service/backends/protocol properties.proxy Microsoft.ApiManagement/service/backends/proxy properties.proxy.externalDocs Microsoft.ApiManagement/service/backends/proxy.externalDocs properties.proxy.password Microsoft.ApiManagement/service/backends/proxy.password properties.proxy.url Microsoft.ApiManagement/service/backends/proxy.url properties.proxy.username Microsoft.ApiManagement/service/backends/proxy.username properties.resourceId Microsoft.ApiManagement/service/backends/resourceId properties.</description>
+Default Path Alias properties.circuitBreaker Microsoft.ApiManagement/service/backends/circuitBreaker properties.circuitBreaker.rules Microsoft.ApiManagement/service/backends/circuitBreaker.rules properties.circuitBreaker.rules[*] Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*] properties.circuitBreaker.rules[*].failureCondition Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition properties.circuitBreaker.rules[*].failureCondition.count Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.count properties.circuitBreaker.rules[*].failureCondition.errorReasons Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.errorReasons properties.circuitBreaker.rules[*].failureCondition.errorReasons[*] Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.errorReasons[*] properties.circuitBreaker.rules[*].failureCondition.interval Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.interval properties.circuitBreaker.rules[*].failureCondition.percentage Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.percentage properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*] Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*] properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].max Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].max properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].min Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].min properties.circuitBreaker.rules[*].name Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].name properties.circuitBreaker.rules[*].tripDuration Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].tripDuration properties.credentials Microsoft.ApiManagement/service/backends/credentials properties.credentials.authorization Microsoft.ApiManagement/service/backends/credentials.authorization properties.credentials.authorization.parameter Microsoft.ApiManagement/service/backends/credentials.authorization.parameter properties.credentials.authorization.scheme Microsoft.ApiManagement/service/backends/credentials.authorization.scheme properties.credentials.certificate Microsoft.ApiManagement/service/backends/credentials.certificate properties.credentials.certificate[*] Microsoft.ApiManagement/service/backends/credentials.certificate[*] properties.credentials.certificateIds Microsoft.ApiManagement/service/backends/credentials.certificateIds properties.credentials.certificateIds[*] Microsoft.ApiManagement/service/backends/credentials.certificateIds[*] properties.credentials.header Microsoft.ApiManagement/service/backends/credentials.header properties.credentials.query Microsoft.ApiManagement/service/backends/credentials.query properties.description Microsoft.ApiManagement/service/backends/description properties.pool Microsoft.ApiManagement/service/backends/pool properties.pool.services Microsoft.ApiManagement/service/backends/pool.services properties.pool.services[*] Microsoft.ApiManagement/service/backends/pool.services[*] properties.pool.services[*].id Microsoft.ApiManagement/service/backends/pool.services[*].id properties.properties.serviceFabricCluster Microsoft.ApiManagement/service/backends/serviceFabricCluster properties.</description>
     </item>
     
     <item>
@@ -214,6 +234,16 @@ Default Path Alias properties.description Microsoft.ApiManagement/service/conten
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-diagnostics/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/diagnostics
 Default Path Alias properties.alwaysLog Microsoft.ApiManagement/service/diagnostics/alwaysLog properties.backend Microsoft.ApiManagement/service/diagnostics/backend properties.backend.request Microsoft.ApiManagement/service/diagnostics/backend.request properties.backend.request.body Microsoft.ApiManagement/service/diagnostics/backend.request.body properties.backend.request.body.bytes Microsoft.ApiManagement/service/diagnostics/backend.request.body.bytes properties.backend.request.dataMasking Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking properties.backend.request.dataMasking.headers Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.headers properties.backend.request.dataMasking.headers[*] Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.headers[*] properties.backend.request.dataMasking.headers[*].mode Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.headers[*].mode properties.backend.request.dataMasking.headers[*].value Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.headers[*].value properties.backend.request.dataMasking.queryParams Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.queryParams properties.backend.request.dataMasking.queryParams[*] Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.queryParams[*] properties.backend.request.dataMasking.queryParams[*].mode Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.queryParams[*].mode properties.backend.request.dataMasking.queryParams[*].value Microsoft.ApiManagement/service/diagnostics/backend.request.dataMasking.queryParams[*].value properties.backend.request.headers Microsoft.ApiManagement/service/diagnostics/backend.request.headers properties.backend.request.headers[*] Microsoft.ApiManagement/service/diagnostics/backend.request.headers[*] properties.backend.response Microsoft.ApiManagement/service/diagnostics/backend.response properties.backend.response.body Microsoft.ApiManagement/service/diagnostics/backend.response.body properties.backend.response.body.bytes Microsoft.ApiManagement/service/diagnostics/backend.response.body.bytes properties.backend.response.dataMasking Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking properties.backend.response.dataMasking.headers Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.headers properties.backend.response.dataMasking.headers[*] Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.headers[*] properties.backend.response.dataMasking.headers[*].mode Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.headers[*].mode properties.backend.response.dataMasking.headers[*].value Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.headers[*].value properties.backend.response.dataMasking.queryParams Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.queryParams properties.backend.response.dataMasking.queryParams[*] Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.queryParams[*] properties.backend.response.dataMasking.queryParams[*].mode Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.queryParams[*].mode properties.backend.response.dataMasking.queryParams[*].value Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.queryParams[*].value properties.backend.response.headers Microsoft.ApiManagement/service/diagnostics/backend.response.headers properties.backend.response.headers[*] Microsoft.ApiManagement/service/diagnostics/backend.response.headers[*] properties.enabled Microsoft.ApiManagement/service/diagnostics/enabled properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-documentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-documentations/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/documentations
+Default Path Alias properties.content Microsoft.ApiManagement/service/documentations/content properties.title Microsoft.ApiManagement/service/documentations/title </description>
     </item>
     
     <item>
@@ -323,7 +353,17 @@ Default Path Alias properties.contentFormat Microsoft.ApiManagement/service/poli
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyFragments/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/policyFragments
-Default Path Alias properties.description Microsoft.ApiManagement/service/policyFragments/description properties.format Microsoft.ApiManagement/service/policyFragments/format properties.value Microsoft.ApiManagement/service/policyFragments/value </description>
+Default Path Alias properties.description Microsoft.ApiManagement/service/policyFragments/description properties.format Microsoft.ApiManagement/service/policyFragments/format properties.provisioningState Microsoft.ApiManagement/service/policyFragments/provisioningState properties.value Microsoft.ApiManagement/service/policyFragments/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyRestrictions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyRestrictions/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/policyRestrictions
+Default Path Alias properties.requireBase Microsoft.ApiManagement/service/policyRestrictions/requireBase properties.scope Microsoft.ApiManagement/service/policyRestrictions/scope </description>
     </item>
     
     <item>
@@ -343,7 +383,7 @@ Default Path Alias properties.cors Microsoft.ApiManagement/service/portalconfigs
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalRevisions/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/portalRevisions
-Default Path Alias properties.createdDateTime Microsoft.ApiManagement/service/portalRevisions/createdDateTime properties.description Microsoft.ApiManagement/service/portalRevisions/description properties.isCurrent Microsoft.ApiManagement/service/portalRevisions/isCurrent properties.status Microsoft.ApiManagement/service/portalRevisions/status properties.statusDetails Microsoft.ApiManagement/service/portalRevisions/statusDetails properties.updatedDateTime Microsoft.ApiManagement/service/portalRevisions/updatedDateTime </description>
+Default Path Alias properties.createdDateTime Microsoft.ApiManagement/service/portalRevisions/createdDateTime properties.description Microsoft.ApiManagement/service/portalRevisions/description properties.isCurrent Microsoft.ApiManagement/service/portalRevisions/isCurrent properties.provisioningState Microsoft.ApiManagement/service/portalRevisions/provisioningState properties.status Microsoft.ApiManagement/service/portalRevisions/status properties.statusDetails Microsoft.ApiManagement/service/portalRevisions/statusDetails properties.updatedDateTime Microsoft.ApiManagement/service/portalRevisions/updatedDateTime </description>
     </item>
     
     <item>
@@ -364,6 +404,26 @@ Default Path Alias properties.enabled Microsoft.ApiManagement/service/portalsett
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-privateEndpointConnections/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/privateEndpointConnections
 Default Path Alias properties.privateLinkServiceConnectionState Microsoft.ApiManagement/service/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired Microsoft.ApiManagement/service/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description Microsoft.ApiManagement/service/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status Microsoft.ApiManagement/service/privateEndpointConnections/privateLinkServiceConnectionState.status </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-apiLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-apiLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/products/apiLinks
+Default Path Alias properties.apiId Microsoft.ApiManagement/service/products/apiLinks/apiId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-groupLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-groupLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/products/groupLinks
+Default Path Alias properties.groupId Microsoft.ApiManagement/service/products/groupLinks/groupId </description>
     </item>
     
     <item>
@@ -413,7 +473,7 @@ Default Path Alias properties.displayName Microsoft.ApiManagement/service/proper
       
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-schemas/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/schemas
-Default Path Alias properties.description Microsoft.ApiManagement/service/schemas/description properties.schemaType Microsoft.ApiManagement/service/schemas/schemaType properties.value Microsoft.ApiManagement/service/schemas/value </description>
+Default Path Alias properties.description Microsoft.ApiManagement/service/schemas/description properties.provisioningState Microsoft.ApiManagement/service/schemas/provisioningState properties.schemaType Microsoft.ApiManagement/service/schemas/schemaType properties.value Microsoft.ApiManagement/service/schemas/value </description>
     </item>
     
     <item>
@@ -424,6 +484,36 @@ Default Path Alias properties.description Microsoft.ApiManagement/service/schema
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-subscriptions/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/subscriptions
 Default Path Alias properties.allowTracing Microsoft.ApiManagement/service/subscriptions/allowTracing properties.displayName Microsoft.ApiManagement/service/subscriptions/displayName properties.ownerId Microsoft.ApiManagement/service/subscriptions/ownerId properties.primaryKey Microsoft.ApiManagement/service/subscriptions/primaryKey properties.productId Microsoft.ApiManagement/service/subscriptions/productId properties.scope Microsoft.ApiManagement/service/subscriptions/scope properties.secondaryKey Microsoft.ApiManagement/service/subscriptions/secondaryKey properties.state Microsoft.ApiManagement/service/subscriptions/state properties.userId Microsoft.ApiManagement/service/subscriptions/userId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-apiLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-apiLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/tags/apiLinks
+Default Path Alias properties.apiId Microsoft.ApiManagement/service/tags/apiLinks/apiId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-operationLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-operationLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/tags/operationLinks
+Default Path Alias properties.operationId Microsoft.ApiManagement/service/tags/operationLinks/operationId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-productLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-productLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/tags/productLinks
+Default Path Alias properties.productId Microsoft.ApiManagement/service/tags/productLinks/productId </description>
     </item>
     
     <item>
@@ -464,6 +554,16 @@ Default Path Alias properties.enabled Microsoft.ApiManagement/service/tenant/ena
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/users
 Default Path Alias properties.email Microsoft.ApiManagement/service/users/email properties.firstName Microsoft.ApiManagement/service/users/firstName properties.identities Microsoft.ApiManagement/service/users/identities properties.identities[*] Microsoft.ApiManagement/service/users/identities[*] properties.identities[*].id Microsoft.ApiManagement/service/users/identities[*].id properties.identities[*].provider Microsoft.ApiManagement/service/users/identities[*].provider properties.lastName Microsoft.ApiManagement/service/users/lastName properties.note Microsoft.ApiManagement/service/users/note properties.state Microsoft.ApiManagement/service/users/state </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/description properties.displayName Microsoft.ApiManagement/service/workspaces/displayName </description>
     </item>
     
     <item>

@@ -50,6 +50,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-releases/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-schemas/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-tagDescriptions/</loc>
@@ -59,6 +61,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apiVersionSets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders-authorizations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-authorizationProviders/</loc>
   </url><url>
@@ -73,6 +77,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-contentTypes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-diagnostics/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-documentations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-gateways-certificateAuthorities/</loc>
   </url><url>
@@ -96,6 +102,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyFragments/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-policyRestrictions/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalConfigs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalRevisions/</loc>
@@ -103,6 +111,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-portalsettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-apiLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-groupLinks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-products-policies/</loc>
   </url><url>
@@ -116,6 +128,12 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-subscriptions/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-apiLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-operationLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags-productLinks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tags/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-templates/</loc>
@@ -123,6 +141,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tenant/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service/</loc>
   </url><url>
@@ -404,6 +424,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -442,7 +464,13 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-encryptionScopes/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</loc>
   </url><url>
@@ -996,6 +1024,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-dataTransferJobs/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-graphs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-gremlinDatabases-graphs-throughputSettings/</loc>
@@ -1049,6 +1079,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-tables/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters-firewallRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/</loc>
   </url><url>
@@ -1527,6 +1561,34 @@
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-dataNetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-services/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-simPolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-sites/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks-slices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/mobileNetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCaptures/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes-attachedDataNetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/packetCoreControlPlanes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/simGroups-sims/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/simGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MobileNetwork/sims/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NetApp/</loc>
   </url><url>
