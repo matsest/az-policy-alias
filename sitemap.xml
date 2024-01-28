@@ -424,6 +424,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -605,8 +607,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/containerServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
   </url><url>
