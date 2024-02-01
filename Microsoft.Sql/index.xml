@@ -453,7 +453,7 @@ Default Path Alias properties.actualState Microsoft.Sql/servers/databases/automa
       
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-databases-backupLongTermRetentionPolicies/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies
-Default Path Alias properties.makeBackupsImmutable Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/makeBackupsImmutable properties.monthlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/monthlyRetention properties.monthlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.monthlyRetention properties.recoveryServicesBackupPolicyResourceId Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/recoveryServicesBackupPolicyResourceId properties.recoveryServicesBackupPolicyResourceId Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.recoveryServicesBackupPolicyResourceId properties.state Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/state properties.state Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.state properties.weeklyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/weeklyRetention properties.weeklyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.weeklyRetention properties.weekOfYear Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/weekOfYear properties.weekOfYear Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.weekOfYear properties.yearlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/yearlyRetention properties.yearlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.yearlyRetention </description>
+Default Path Alias properties.backupStorageAccessTier Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/backupStorageAccessTier properties.makeBackupsImmutable Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/makeBackupsImmutable properties.monthlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/monthlyRetention properties.monthlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.monthlyRetention properties.recoveryServicesBackupPolicyResourceId Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/recoveryServicesBackupPolicyResourceId properties.recoveryServicesBackupPolicyResourceId Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.recoveryServicesBackupPolicyResourceId properties.state Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/state properties.state Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.state properties.weeklyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/weeklyRetention properties.weeklyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.weeklyRetention properties.weekOfYear Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/weekOfYear properties.weekOfYear Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.weekOfYear properties.yearlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/yearlyRetention properties.yearlyRetention Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.yearlyRetention </description>
     </item>
     
     <item>
@@ -804,6 +804,16 @@ Default Path Alias properties.createTime Microsoft.Sql/servers/jobAgents/jobs.ex
       <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-keys/</guid>
       <description>Link to resource definition: Microsoft.Sql/servers/keys
 Default Path Alias properties.autoRotationEnabled Microsoft.Sql/servers/keys/autoRotationEnabled properties.creationDate Microsoft.Sql/servers/keys/creationDate properties.serverKeyType Microsoft.Sql/servers/keys/serverKeyType properties.subregion Microsoft.Sql/servers/keys/subregion properties.thumbprint Microsoft.Sql/servers/keys/thumbprint properties.uri Microsoft.Sql/servers/keys/uri </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.Sql/servers/networkSecurityPerimeterConfigurations
+Default Path Alias properties.networkSecurityPerimeter.id Microsoft.Sql/servers/networkSecurityPerimeterConfigurations/networkSecurityPerimeter.id properties.profile.name Microsoft.Sql/servers/networkSecurityPerimeterConfigurations/profile.name properties.resourceAssociation.accessMode Microsoft.Sql/servers/networkSecurityPerimeterConfigurations/resourceAssociation.accessMode </description>
     </item>
     
     <item>

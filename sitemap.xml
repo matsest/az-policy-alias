@@ -2392,6 +2392,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-keys/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-outboundFirewallRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Sql/servers-privateEndpointConnections/</loc>
