@@ -396,6 +396,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-connections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.BotService/botServices/</loc>
@@ -1169,6 +1171,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-ipFilterRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-networkrulesets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-networkSecurityPerimeterConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EventHub/namespaces-privateEndpointConnections/</loc>
   </url><url>

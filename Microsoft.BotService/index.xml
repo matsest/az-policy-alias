@@ -28,6 +28,16 @@ Default Path Alias properties.clientId Microsoft.BotService/botServices/connecti
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations/</guid>
+      <description>Link to resource definition: Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations
+Default Path Alias properties.networkSecurityPerimeter.id Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations/networkSecurityPerimeter.id properties.profile.name Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations/profile.name properties.resourceAssociation.accessMode Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations/resourceAssociation.accessMode </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.BotService/botServices-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
