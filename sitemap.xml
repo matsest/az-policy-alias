@@ -1446,9 +1446,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-datastores/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-endpoints/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments-versions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-environments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-featuresets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-featurestoreEntities/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-jobs/</loc>
   </url><url>
@@ -1465,6 +1471,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-schedules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-serverlessEndpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces/</loc>
   </url><url>
