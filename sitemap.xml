@@ -2474,6 +2474,18 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/caches/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-agents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-endpoints/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-projects-jobDefinitions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-projects/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections/</loc>
