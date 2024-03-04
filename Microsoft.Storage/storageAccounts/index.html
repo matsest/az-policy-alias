@@ -66,7 +66,7 @@ Default Path Alias properties.accessTier Microsoft.Storage/storageAccounts/acces
       "headline": "Storage Accounts",
       "description": "Link to resource definition: Microsoft.Storage\/storageAccounts\nDefault Path Alias properties.accessTier Microsoft.Storage\/storageAccounts\/accessTier properties.accountType Microsoft.Storage\/storageAccounts\/accountType properties.allowBlobPublicAccess Microsoft.Storage\/storageAccounts\/allowBlobPublicAccess properties.allowCrossTenantReplication Microsoft.Storage\/storageAccounts\/allowCrossTenantReplication properties.allowedCopyScope Microsoft.Storage\/storageAccounts\/allowedCopyScope properties.allowSharedKeyAccess Microsoft.Storage\/storageAccounts\/allowSharedKeyAccess properties.azureFilesAadIntegration Microsoft.Storage\/storageAccounts\/azureFilesAadIntegration properties.azureFilesIdentityBasedAuthentication Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.accountType Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.accountType properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.azureStorageSid Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.azureStorageSid properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainGuid Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainGuid properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainName Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainName properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainSid Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.domainSid properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.forestName Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.forestName properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.netBiosDomainName Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.netBiosDomainName properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.samAccountName Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.samAccountName properties.azureFilesIdentityBasedAuthentication.defaultSharePermission Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.defaultSharePermission properties.azureFilesIdentityBasedAuthentication.directoryServiceOptions Microsoft.Storage\/storageAccounts\/azureFilesIdentityBasedAuthentication.directoryServiceOptions properties.customDomain Microsoft.Storage\/storageAccounts\/customDomain properties.customDomain.name Microsoft.Storage\/storageAccounts\/customDomain.name properties.customDomain.useSubDomainName Microsoft.Storage\/storageAccounts\/customDomain.useSubDomainName properties.defaultToOAuthAuthentication Microsoft.Storage\/storageAccounts\/defaultToOAuthAuthentication properties.dnsEndpointType Microsoft.Storage\/storageAccounts\/dnsEndpointType properties.encryption Microsoft.Storage\/storageAccounts\/encryption properties.encryption.identity Microsoft.Storage\/storageAccounts\/encryption.identity properties.encryption.identity.federatedIdentityClientId Microsoft.Storage\/storageAccounts\/encryption.identity.federatedIdentityClientId properties.encryption.identity.userAssignedIdentity Microsoft.Storage\/storageAccounts\/encryption.identity.userAssignedIdentity properties.encryption.keySource Microsoft.Storage\/storageAccounts\/encryption.keySource properties.encryption.keyvaultproperties Microsoft.Storage\/storageAccounts\/encryption.keyvaultproperties properties.encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp Microsoft.Storage\/storageAccounts\/encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "306",
+      "wordCount" : "280",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -6078,11 +6078,11 @@ Default Path Alias properties.accessTier Microsoft.Storage/storageAccounts/acces
 </tr>
 <tr>
 <td><code>properties.encryption.services.blob.enabled</code></td>
-<td><code>Microsoft.Storage/storageAccounts/encryption.services.blob.enabled</code></td>
+<td><code>Microsoft.Storage/storageAccounts/enableBlobEncryption</code></td>
 </tr>
 <tr>
 <td><code>properties.encryption.services.blob.enabled</code></td>
-<td><code>Microsoft.Storage/storageAccounts/enableBlobEncryption</code></td>
+<td><code>Microsoft.Storage/storageAccounts/encryption.services.blob.enabled</code></td>
 </tr>
 <tr>
 <td><code>properties.encryption.services.blob.keyType</code></td>
@@ -6098,11 +6098,11 @@ Default Path Alias properties.accessTier Microsoft.Storage/storageAccounts/acces
 </tr>
 <tr>
 <td><code>properties.encryption.services.file.enabled</code></td>
-<td><code>Microsoft.Storage/storageAccounts/encryption.services.file.enabled</code></td>
+<td><code>Microsoft.Storage/storageAccounts/enableFileEncryption</code></td>
 </tr>
 <tr>
 <td><code>properties.encryption.services.file.enabled</code></td>
-<td><code>Microsoft.Storage/storageAccounts/enableFileEncryption</code></td>
+<td><code>Microsoft.Storage/storageAccounts/encryption.services.file.enabled</code></td>
 </tr>
 <tr>
 <td><code>properties.encryption.services.file.keyType</code></td>
@@ -6285,60 +6285,8 @@ Default Path Alias properties.accessTier Microsoft.Storage/storageAccounts/acces
 <td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.blob</code></td>
 </tr>
 <tr>
-<td><code>properties.primaryEndpoints.dfs</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.dfs</code></td>
-</tr>
-<tr>
 <td><code>properties.primaryEndpoints.file</code></td>
 <td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.file</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.internetEndpoints</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.internetEndpoints.blob</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.blob</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.internetEndpoints.dfs</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.dfs</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.internetEndpoints.file</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.file</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.internetEndpoints.web</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.web</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.blob</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.blob</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.dfs</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.dfs</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.file</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.file</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.queue</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.queue</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.table</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.table</code></td>
-</tr>
-<tr>
-<td><code>properties.primaryEndpoints.microsoftEndpoints.web</code></td>
-<td><code>Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.web</code></td>
 </tr>
 <tr>
 <td><code>properties.primaryEndpoints.queue</code></td>
