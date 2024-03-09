@@ -474,6 +474,20 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices-Domains-SenderUsernames/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices-Domains-SuppressionLists-SuppressionListAddresses/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices-Domains-SuppressionLists/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices-Domains/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/availabilitySets/</loc>
