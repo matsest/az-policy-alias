@@ -426,6 +426,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -2121,6 +2123,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.Security/policies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/pricings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</loc>
   </url><url>
