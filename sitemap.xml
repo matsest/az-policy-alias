@@ -2122,6 +2122,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/pricings/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</loc>
