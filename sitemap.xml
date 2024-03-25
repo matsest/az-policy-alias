@@ -362,6 +362,12 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachineInstances/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines-extensions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualMachines/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualNetworks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Batch/batchAccounts-applications-versions/</loc>
@@ -419,8 +425,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
