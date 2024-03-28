@@ -32,7 +32,7 @@ jobs:
           enable-AzPSSession: true
 
       - name: "Get all Policy Aliases"
-        uses: azure/powershell@v1
+        uses: azure/powershell@v2
         with:
           inlineScript: |
             ./src/ps1/Get-AzResourcePolicyAliases.ps1
