@@ -256,6 +256,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-credentials/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups-hybridRunbookWorkers/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-jobSchedules/</loc>
