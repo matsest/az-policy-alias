@@ -648,6 +648,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-managedPrivateEndpoints/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana/</loc>
