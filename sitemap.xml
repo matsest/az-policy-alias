@@ -1296,6 +1296,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/metricalerts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-scopedResources/</loc>

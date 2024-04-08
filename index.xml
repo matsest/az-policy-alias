@@ -5808,6 +5808,16 @@ Default Path Alias properties.actions Microsoft.Insights/metricalerts/actions pr
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/microsoft.insights/myWorkbooks/</guid>
+      <description>Link to resource definition: microsoft.insights/myWorkbooks
+Default Path Alias properties.category Microsoft.Insights/myWorkbooks/category properties.displayName Microsoft.Insights/myWorkbooks/displayName properties.serializedData Microsoft.Insights/myWorkbooks/serializedData properties.sourceId Microsoft.Insights/myWorkbooks/sourceId properties.storageUri Microsoft.Insights/myWorkbooks/storageUri properties.tags Microsoft.Insights/myWorkbooks/tags properties.tags[*] Microsoft.Insights/myWorkbooks/tags[*] properties.timeModified Microsoft.Insights/myWorkbooks/timeModified properties.userId Microsoft.Insights/myWorkbooks/userId properties.version Microsoft.Insights/myWorkbooks/version </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
