@@ -59,3 +59,5 @@ jobs:
           publish_dir: ./public
           cname: policyalias.mats.codes
           commit_message: "docs: update and publish (${{ github.event_name }})"
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
