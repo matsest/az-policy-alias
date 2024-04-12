@@ -424,6 +424,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -455,6 +457,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles-securitypolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/profiles/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CertificateRegistration/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CertificateRegistration/certificateOrders-certificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CertificateRegistration/certificateOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/</loc>
   </url><url>
