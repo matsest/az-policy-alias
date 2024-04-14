@@ -334,6 +334,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlManagedInstances/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances-AvailabilityGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances-Databases/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
@@ -423,6 +425,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
