@@ -8,12 +8,22 @@
     <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Maintenance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Maintenance/applyUpdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Maintenance/applyUpdates/</guid>
+      <description>Link to resource definition: Microsoft.Maintenance/applyUpdates
+Default Path Alias properties.lastUpdateTime Microsoft.Maintenance/applyUpdates/lastUpdateTime properties.resourceId Microsoft.Maintenance/applyUpdates/resourceId properties.status Microsoft.Maintenance/applyUpdates/status </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</guid>
       <description>Link to resource definition: Microsoft.Maintenance/configurationAssignments
-Default Path Alias properties.maintenanceConfigurationId Microsoft.Maintenance/configurationAssignments/maintenanceConfigurationId properties.resourceId Microsoft.Maintenance/configurationAssignments/resourceId </description>
+Default Path Alias properties.filter Microsoft.Maintenance/configurationAssignments/filter properties.filter.locations Microsoft.Maintenance/configurationAssignments/filter.locations properties.filter.locations[*] Microsoft.Maintenance/configurationAssignments/filter.locations[*] properties.filter.osTypes Microsoft.Maintenance/configurationAssignments/filter.osTypes properties.filter.osTypes[*] Microsoft.Maintenance/configurationAssignments/filter.osTypes[*] properties.filter.resourceGroups Microsoft.Maintenance/configurationAssignments/filter.resourceGroups properties.filter.resourceGroups[*] Microsoft.Maintenance/configurationAssignments/filter.resourceGroups[*] properties.filter.resourceTypes Microsoft.Maintenance/configurationAssignments/filter.resourceTypes properties.filter.resourceTypes[*] Microsoft.Maintenance/configurationAssignments/filter.resourceTypes[*] properties.filter.tagSettings Microsoft.Maintenance/configurationAssignments/filter.tagSettings properties.filter.tagSettings.filterOperator Microsoft.Maintenance/configurationAssignments/filter.tagSettings.filterOperator properties.filter.tagSettings.tags Microsoft.Maintenance/configurationAssignments/filter.tagSettings.tags properties.maintenanceConfigurationId Microsoft.Maintenance/configurationAssignments/maintenanceConfigurationId properties.resourceId Microsoft.Maintenance/configurationAssignments/resourceId </description>
     </item>
     
     <item>

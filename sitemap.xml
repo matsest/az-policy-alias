@@ -426,6 +426,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1498,6 +1500,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maintenance/applyUpdates/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/configurationAssignments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maintenance/maintenanceConfigurations/</loc>
@@ -1983,6 +1987,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.PowerBIDedicated/capacities/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Purview/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Purview/accounts-kafkaConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Purview/accounts-privateEndpointConnections/</loc>
   </url><url>
