@@ -2178,6 +2178,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SecurityInsights/watchlists/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SerialConsole/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SerialConsole/consoleServices/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceBus/namespaces-authorizationrules/</loc>
