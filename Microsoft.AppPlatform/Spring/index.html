@@ -66,7 +66,7 @@ Default Path Alias properties.active Microsoft.AppPlatform/Spring/apps.deploymen
       "headline": "Spring",
       "description": "Link to resource definition: Microsoft.AppPlatform\/Spring\nDefault Path Alias properties.active Microsoft.AppPlatform\/Spring\/apps.deployments.active properties.activeDeploymentName Microsoft.AppPlatform\/Spring\/apps.activeDeploymentName properties.appName Microsoft.AppPlatform\/Spring\/apps.deployments.appName properties.bindingParameters Microsoft.AppPlatform\/Spring\/apps.bindings.bindingParameters properties.configServerProperties Microsoft.AppPlatform\/Spring\/configServerProperties properties.configServerProperties.configServer Microsoft.AppPlatform\/Spring\/configServerProperties.configServer properties.configServerProperties.configServer.gitProperty Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty properties.configServerProperties.configServer.gitProperty.hostKey Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.hostKey properties.configServerProperties.configServer.gitProperty.hostKeyAlgorithm Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.hostKeyAlgorithm properties.configServerProperties.configServer.gitProperty.label Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.label properties.configServerProperties.configServer.gitProperty.password Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.password properties.configServerProperties.configServer.gitProperty.privateKey Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.privateKey properties.configServerProperties.configServer.gitProperty.repositories Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories properties.configServerProperties.configServer.gitProperty.repositories[*] Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*] properties.configServerProperties.configServer.gitProperty.repositories[*].hostKey Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].hostKey properties.configServerProperties.configServer.gitProperty.repositories[*].hostKeyAlgorithm Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].hostKeyAlgorithm properties.configServerProperties.configServer.gitProperty.repositories[*].label Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].label properties.configServerProperties.configServer.gitProperty.repositories[*].name Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].name properties.configServerProperties.configServer.gitProperty.repositories[*].password Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].password properties.configServerProperties.configServer.gitProperty.repositories[*].pattern Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].pattern properties.configServerProperties.configServer.gitProperty.repositories[*].pattern[*] Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].pattern[*] properties.configServerProperties.configServer.gitProperty.repositories[*].privateKey Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].privateKey properties.configServerProperties.configServer.gitProperty.repositories[*].searchPaths Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].searchPaths properties.configServerProperties.configServer.gitProperty.repositories[*].searchPaths[*] Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].searchPaths[*] properties.configServerProperties.configServer.gitProperty.repositories[*].strictHostKeyChecking Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].strictHostKeyChecking properties.configServerProperties.configServer.gitProperty.repositories[*].uri Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].uri properties.configServerProperties.configServer.gitProperty.repositories[*].username Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.repositories[*].username properties.configServerProperties.configServer.gitProperty.searchPaths Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.searchPaths properties.configServerProperties.configServer.gitProperty.searchPaths[*] Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.searchPaths[*] properties.configServerProperties.configServer.gitProperty.strictHostKeyChecking Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.strictHostKeyChecking properties.configServerProperties.configServer.gitProperty.uri Microsoft.AppPlatform\/Spring\/configServerProperties.configServer.gitProperty.uri properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "240",
+      "wordCount" : "262",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -6242,6 +6242,10 @@ Default Path Alias properties.active Microsoft.AppPlatform/Spring/apps.deploymen
 <td><code>Microsoft.AppPlatform/Spring/apps.bindings.generatedProperties</code></td>
 </tr>
 <tr>
+<td><code>properties.infraResourceGroup</code></td>
+<td><code>Microsoft.AppPlatform/Spring/infraResourceGroup</code></td>
+</tr>
+<tr>
 <td><code>properties.instances</code></td>
 <td><code>Microsoft.AppPlatform/Spring/apps.deployments.instances</code></td>
 </tr>
@@ -6268,6 +6272,34 @@ Default Path Alias properties.active Microsoft.AppPlatform/Spring/apps.deploymen
 <tr>
 <td><code>properties.key</code></td>
 <td><code>Microsoft.AppPlatform/Spring/apps.bindings.key</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration.day</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.day</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration.duration</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.duration</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration.frequency</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.frequency</code></td>
+</tr>
+<tr>
+<td><code>properties.maintenanceScheduleConfiguration.hour</code></td>
+<td><code>Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.hour</code></td>
+</tr>
+<tr>
+<td><code>properties.managedEnvironmentId</code></td>
+<td><code>Microsoft.AppPlatform/Spring/managedEnvironmentId</code></td>
 </tr>
 <tr>
 <td><code>properties.marketplaceResource</code></td>
@@ -6494,8 +6526,20 @@ Default Path Alias properties.active Microsoft.AppPlatform/Spring/apps.deploymen
 <td><code>Microsoft.AppPlatform/Spring/vnetAddons</code></td>
 </tr>
 <tr>
+<td><code>properties.vnetAddons.dataPlanePublicEndpoint</code></td>
+<td><code>Microsoft.AppPlatform/Spring/vnetAddons.dataPlanePublicEndpoint</code></td>
+</tr>
+<tr>
 <td><code>properties.vnetAddons.logStreamPublicEndpoint</code></td>
 <td><code>Microsoft.AppPlatform/Spring/vnetAddons.logStreamPublicEndpoint</code></td>
+</tr>
+<tr>
+<td><code>properties.vnetAddons.privateDnsZoneId</code></td>
+<td><code>Microsoft.AppPlatform/Spring/vnetAddons.privateDnsZoneId</code></td>
+</tr>
+<tr>
+<td><code>properties.vnetAddons.privateStorageAccess</code></td>
+<td><code>Microsoft.AppPlatform/Spring/vnetAddons.privateStorageAccess</code></td>
 </tr>
 <tr>
 <td><code>properties.zoneRedundant</code></td>
