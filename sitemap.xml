@@ -954,6 +954,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceUpdate/accounts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevOpsInfrastructure/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevOpsInfrastructure/pools/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevTestLab/labs-artifactSources/</loc>
