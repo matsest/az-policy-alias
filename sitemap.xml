@@ -148,25 +148,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.App/builders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-authconfigs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerApps/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.App/jobs/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-certificates/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-daprComponents/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-dotNetComponents/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-javaComponents/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-managedCertificates/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-storages/</loc>
   </url><url>
@@ -435,8 +425,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
