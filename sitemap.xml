@@ -436,8 +436,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -933,8 +931,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/networkconnections/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-catalogs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-environmentTypes/</loc>
   </url><url>
