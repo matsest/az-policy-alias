@@ -66,7 +66,7 @@ Default Path Alias properties.defaultSecurityRules Microsoft.Network/networkSecu
       "headline": "Network Security Groups",
       "description": "Link to resource definition: Microsoft.Network\/networkSecurityGroups\nDefault Path Alias properties.defaultSecurityRules Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules properties.defaultSecurityRules[*] Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*] properties.defaultSecurityRules[*].etag Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].etag properties.defaultSecurityRules[*].id Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].id properties.defaultSecurityRules[*].name Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].name properties.defaultSecurityRules[*].properties.access Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].access properties.defaultSecurityRules[*].properties.description Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].description properties.defaultSecurityRules[*].properties.destinationAddressPrefix Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationAddressPrefix properties.defaultSecurityRules[*].properties.destinationAddressPrefixes Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationAddressPrefixes properties.defaultSecurityRules[*].properties.destinationAddressPrefixes[*] Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationAddressPrefixes[*] properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*] Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*] properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].etag Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].etag properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].id Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].id properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].location Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].location properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].name Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].name properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].properties.provisioningState Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].provisioningState properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].properties.resourceGuid Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].resourceGuid properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].tags Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].tags properties.defaultSecurityRules[*].properties.destinationApplicationSecurityGroups[*].type Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationApplicationSecurityGroups[*].type properties.defaultSecurityRules[*].properties.destinationPortRange Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationPortRange properties.defaultSecurityRules[*].properties.destinationPortRanges Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationPortRanges properties.defaultSecurityRules[*].properties.destinationPortRanges[*] Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].destinationPortRanges[*] properties.defaultSecurityRules[*].properties.direction Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].direction properties.defaultSecurityRules[*].properties.priority Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].priority properties.defaultSecurityRules[*].properties.protocol Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].protocol properties.defaultSecurityRules[*].properties.provisioningState Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].provisioningState properties.defaultSecurityRules[*].properties.sourceAddressPrefix Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].sourceAddressPrefix properties.defaultSecurityRules[*].properties.sourceAddressPrefixes Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].sourceAddressPrefixes properties.defaultSecurityRules[*].properties.sourceAddressPrefixes[*] Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].sourceAddressPrefixes[*] properties.defaultSecurityRules[*].properties.sourceApplicationSecurityGroups Microsoft.Network\/networkSecurityGroups\/defaultSecurityRules[*].sourceApplicationSecurityGroups properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "1588",
+      "wordCount" : "1600",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -6336,6 +6336,26 @@ Default Path Alias properties.defaultSecurityRules Microsoft.Network/networkSecu
 <td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].id</code></td>
 </tr>
 <tr>
+<td><code>properties.flowLogs[*].identity</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].identity</code></td>
+</tr>
+<tr>
+<td><code>properties.flowLogs[*].identity.principalId</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.principalId</code></td>
+</tr>
+<tr>
+<td><code>properties.flowLogs[*].identity.tenantId</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.tenantId</code></td>
+</tr>
+<tr>
+<td><code>properties.flowLogs[*].identity.type</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.type</code></td>
+</tr>
+<tr>
+<td><code>properties.flowLogs[*].identity.userAssignedIdentities</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.userAssignedIdentities</code></td>
+</tr>
+<tr>
 <td><code>properties.flowLogs[*].location</code></td>
 <td><code>Microsoft.Network/networkSecurityGroups/flowLogs[*].location</code></td>
 </tr>
@@ -9298,6 +9318,10 @@ Default Path Alias properties.defaultSecurityRules Microsoft.Network/networkSecu
 <tr>
 <td><code>properties.subnets[*].properties.serviceEndpoints[*].service</code></td>
 <td><code>Microsoft.Network/networkSecurityGroups/subnets[*].serviceEndpoints[*].service</code></td>
+</tr>
+<tr>
+<td><code>properties.subnets[*].properties.sharingScope</code></td>
+<td><code>Microsoft.Network/networkSecurityGroups/subnets[*].sharingScope</code></td>
 </tr>
 <tr>
 <td><code>properties.subnets[*].type</code></td>
