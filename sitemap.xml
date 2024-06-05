@@ -180,6 +180,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-replicas/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-snapshots/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppPlatform/</loc>
@@ -435,6 +437,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
@@ -1496,6 +1500,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-linkedServices/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-marketplaceSubscriptions/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models-versions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-models/</loc>
@@ -2089,6 +2095,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Resources/deployments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/deploymentScripts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Resources/links/</loc>
   </url><url>

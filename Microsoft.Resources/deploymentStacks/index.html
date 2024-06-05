@@ -12,11 +12,11 @@
 <meta name="generator" content="Hugo 0.113.0">
 
 
-  <meta name="description" content="Link to resource definition: Microsoft.Authorization/policyExemptions
-Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/policyExemptions/assignmentScopeValidation properties.description Microsoft.Authorization/policyExemptions/description properties.displayName Microsoft.Authorization/policyExemptions/displayName properties.exemptionCategory Microsoft.Authorization/policyExemptions/exemptionCategory properties.expiresOn Microsoft.Authorization/policyExemptions/expiresOn properties.policyAssignmentId Microsoft.Authorization/policyExemptions/policyAssignmentId properties.policyDefinitionReferenceIds Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds properties.policyDefinitionReferenceIds[*] Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds[*] properties.resourceSelectors Microsoft.Authorization/policyExemptions/resourceSelectors properties.resourceSelectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*] properties.resourceSelectors[*].name Microsoft.Authorization/policyExemptions/resourceSelectors[*].name properties.resourceSelectors[*].selectors Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors properties.resourceSelectors[*].selectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*] properties.resourceSelectors[*].selectors[*].in Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in properties.resourceSelectors[*].selectors[*].in[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in[*] properties.resourceSelectors[*].selectors[*].kind Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].kind properties.resourceSelectors[*].selectors[*].notIn Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn properties.resourceSelectors[*].selectors[*].notIn[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn[*] " />
+  <meta name="description" content="Link to resource definition: Microsoft.Resources/deploymentStacks
+Default Path Alias properties.actionOnUnmanage Microsoft.Resources/deploymentStacks/actionOnUnmanage properties.actionOnUnmanage.managementGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.managementGroups properties.actionOnUnmanage.resourceGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.resourceGroups properties.actionOnUnmanage.resources Microsoft.Resources/deploymentStacks/actionOnUnmanage.resources properties.bypassStackOutOfSyncError Microsoft.Resources/deploymentStacks/bypassStackOutOfSyncError properties.correlationId Microsoft.Resources/deploymentStacks/correlationId properties.debugSetting Microsoft.Resources/deploymentStacks/debugSetting properties.debugSetting.detailLevel Microsoft.Resources/deploymentStacks/debugSetting.detailLevel properties.deletedResources Microsoft.Resources/deploymentStacks/deletedResources properties.deletedResources[*] Microsoft.Resources/deploymentStacks/deletedResources[*] properties.deletedResources[*].id Microsoft.Resources/deploymentStacks/deletedResources[*].id properties.denySettings Microsoft.Resources/deploymentStacks/denySettings properties.denySettings.applyToChildScopes Microsoft.Resources/deploymentStacks/denySettings.applyToChildScopes properties.denySettings.excludedActions Microsoft.Resources/deploymentStacks/denySettings.excludedActions properties.denySettings.excludedActions[*] Microsoft.Resources/deploymentStacks/denySettings.excludedActions[*] properties.denySettings.excludedPrincipals Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals properties.denySettings.excludedPrincipals[*] Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals[*] properties.denySettings.mode Microsoft.Resources/deploymentStacks/denySettings.mode properties.deploymentId Microsoft.Resources/deploymentStacks/deploymentId properties.deploymentScope Microsoft.Resources/deploymentStacks/deploymentScope properties.description Microsoft.Resources/deploymentStacks/description properties.detachedResources Microsoft.Resources/deploymentStacks/detachedResources properties.detachedResources[*] Microsoft.Resources/deploymentStacks/detachedResources[*] properties.detachedResources[*].id Microsoft.Resources/deploymentStacks/detachedResources[*].id properties.duration Microsoft.Resources/deploymentStacks/duration properties.error Microsoft.Resources/deploymentStacks/error properties.error.additionalInfo Microsoft.Resources/deploymentStacks/error.additionalInfo properties.error.additionalInfo[*] Microsoft.Resources/deploymentStacks/error.additionalInfo[*] properties.error.additionalInfo[*].type Microsoft.Resources/deploymentStacks/error.additionalInfo[*].type properties.error.code Microsoft.Resources/deploymentStacks/error.code properties.error.details Microsoft.Resources/deploymentStacks/error.details properties." />
   <meta name="keywords" content="azure,policy,azure policy,azure policy alias,azure policy aliases,find azure policy alias,matsest,policy alias powershell,azure policy alias reference" />
 
-    <title>Policy Exemptions | Azure Policy Aliases</title>
+    <title>Deployment Stacks | Azure Policy Aliases</title>
 
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link
@@ -37,42 +37,42 @@ Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/
     
   <meta
     property="og:title"
-    content="Policy Exemptions"
+    content="Deployment Stacks"
   />
   <meta property="og:site_name" content="Azure Policy Aliases" />
   <meta property="og:image" content="http://policyalias.mats.codes/overview.png" />
-  <meta property="og:description" content="Link to resource definition: Microsoft.Authorization/policyExemptions
-Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/policyExemptions/assignmentScopeValidation properties.description Microsoft.Authorization/policyExemptions/description properties.displayName Microsoft.Authorization/policyExemptions/displayName properties.exemptionCategory Microsoft.Authorization/policyExemptions/exemptionCategory properties.expiresOn Microsoft.Authorization/policyExemptions/expiresOn properties.policyAssignmentId Microsoft.Authorization/policyExemptions/policyAssignmentId properties.policyDefinitionReferenceIds Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds properties.policyDefinitionReferenceIds[*] Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds[*] properties.resourceSelectors Microsoft.Authorization/policyExemptions/resourceSelectors properties.resourceSelectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*] properties.resourceSelectors[*].name Microsoft.Authorization/policyExemptions/resourceSelectors[*].name properties.resourceSelectors[*].selectors Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors properties.resourceSelectors[*].selectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*] properties.resourceSelectors[*].selectors[*].in Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in properties.resourceSelectors[*].selectors[*].in[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in[*] properties.resourceSelectors[*].selectors[*].kind Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].kind properties.resourceSelectors[*].selectors[*].notIn Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn properties.resourceSelectors[*].selectors[*].notIn[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn[*] " />
+  <meta property="og:description" content="Link to resource definition: Microsoft.Resources/deploymentStacks
+Default Path Alias properties.actionOnUnmanage Microsoft.Resources/deploymentStacks/actionOnUnmanage properties.actionOnUnmanage.managementGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.managementGroups properties.actionOnUnmanage.resourceGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.resourceGroups properties.actionOnUnmanage.resources Microsoft.Resources/deploymentStacks/actionOnUnmanage.resources properties.bypassStackOutOfSyncError Microsoft.Resources/deploymentStacks/bypassStackOutOfSyncError properties.correlationId Microsoft.Resources/deploymentStacks/correlationId properties.debugSetting Microsoft.Resources/deploymentStacks/debugSetting properties.debugSetting.detailLevel Microsoft.Resources/deploymentStacks/debugSetting.detailLevel properties.deletedResources Microsoft.Resources/deploymentStacks/deletedResources properties.deletedResources[*] Microsoft.Resources/deploymentStacks/deletedResources[*] properties.deletedResources[*].id Microsoft.Resources/deploymentStacks/deletedResources[*].id properties.denySettings Microsoft.Resources/deploymentStacks/denySettings properties.denySettings.applyToChildScopes Microsoft.Resources/deploymentStacks/denySettings.applyToChildScopes properties.denySettings.excludedActions Microsoft.Resources/deploymentStacks/denySettings.excludedActions properties.denySettings.excludedActions[*] Microsoft.Resources/deploymentStacks/denySettings.excludedActions[*] properties.denySettings.excludedPrincipals Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals properties.denySettings.excludedPrincipals[*] Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals[*] properties.denySettings.mode Microsoft.Resources/deploymentStacks/denySettings.mode properties.deploymentId Microsoft.Resources/deploymentStacks/deploymentId properties.deploymentScope Microsoft.Resources/deploymentStacks/deploymentScope properties.description Microsoft.Resources/deploymentStacks/description properties.detachedResources Microsoft.Resources/deploymentStacks/detachedResources properties.detachedResources[*] Microsoft.Resources/deploymentStacks/detachedResources[*] properties.detachedResources[*].id Microsoft.Resources/deploymentStacks/detachedResources[*].id properties.duration Microsoft.Resources/deploymentStacks/duration properties.error Microsoft.Resources/deploymentStacks/error properties.error.additionalInfo Microsoft.Resources/deploymentStacks/error.additionalInfo properties.error.additionalInfo[*] Microsoft.Resources/deploymentStacks/error.additionalInfo[*] properties.error.additionalInfo[*].type Microsoft.Resources/deploymentStacks/error.additionalInfo[*].type properties.error.code Microsoft.Resources/deploymentStacks/error.code properties.error.details Microsoft.Resources/deploymentStacks/error.details properties." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/" />
+<meta property="og:url" content="http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/" />
 
-<meta property="article:section" content="Microsoft. Authorization" />
+<meta property="article:section" content="Microsoft. Resources" />
 
 
   <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Policy Exemptions" />
+<meta name="twitter:title" content="Deployment Stacks" />
   <meta property="twitter:image" content="http://policyalias.mats.codes/overview.png" />
-  <meta name="twitter:description" content="Link to resource definition: Microsoft.Authorization/policyExemptions
-Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/policyExemptions/assignmentScopeValidation properties.description Microsoft.Authorization/policyExemptions/description properties.displayName Microsoft.Authorization/policyExemptions/displayName properties.exemptionCategory Microsoft.Authorization/policyExemptions/exemptionCategory properties.expiresOn Microsoft.Authorization/policyExemptions/expiresOn properties.policyAssignmentId Microsoft.Authorization/policyExemptions/policyAssignmentId properties.policyDefinitionReferenceIds Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds properties.policyDefinitionReferenceIds[*] Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds[*] properties.resourceSelectors Microsoft.Authorization/policyExemptions/resourceSelectors properties.resourceSelectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*] properties.resourceSelectors[*].name Microsoft.Authorization/policyExemptions/resourceSelectors[*].name properties.resourceSelectors[*].selectors Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors properties.resourceSelectors[*].selectors[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*] properties.resourceSelectors[*].selectors[*].in Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in properties.resourceSelectors[*].selectors[*].in[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in[*] properties.resourceSelectors[*].selectors[*].kind Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].kind properties.resourceSelectors[*].selectors[*].notIn Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn properties.resourceSelectors[*].selectors[*].notIn[*] Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn[*] " />
+  <meta name="twitter:description" content="Link to resource definition: Microsoft.Resources/deploymentStacks
+Default Path Alias properties.actionOnUnmanage Microsoft.Resources/deploymentStacks/actionOnUnmanage properties.actionOnUnmanage.managementGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.managementGroups properties.actionOnUnmanage.resourceGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.resourceGroups properties.actionOnUnmanage.resources Microsoft.Resources/deploymentStacks/actionOnUnmanage.resources properties.bypassStackOutOfSyncError Microsoft.Resources/deploymentStacks/bypassStackOutOfSyncError properties.correlationId Microsoft.Resources/deploymentStacks/correlationId properties.debugSetting Microsoft.Resources/deploymentStacks/debugSetting properties.debugSetting.detailLevel Microsoft.Resources/deploymentStacks/debugSetting.detailLevel properties.deletedResources Microsoft.Resources/deploymentStacks/deletedResources properties.deletedResources[*] Microsoft.Resources/deploymentStacks/deletedResources[*] properties.deletedResources[*].id Microsoft.Resources/deploymentStacks/deletedResources[*].id properties.denySettings Microsoft.Resources/deploymentStacks/denySettings properties.denySettings.applyToChildScopes Microsoft.Resources/deploymentStacks/denySettings.applyToChildScopes properties.denySettings.excludedActions Microsoft.Resources/deploymentStacks/denySettings.excludedActions properties.denySettings.excludedActions[*] Microsoft.Resources/deploymentStacks/denySettings.excludedActions[*] properties.denySettings.excludedPrincipals Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals properties.denySettings.excludedPrincipals[*] Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals[*] properties.denySettings.mode Microsoft.Resources/deploymentStacks/denySettings.mode properties.deploymentId Microsoft.Resources/deploymentStacks/deploymentId properties.deploymentScope Microsoft.Resources/deploymentStacks/deploymentScope properties.description Microsoft.Resources/deploymentStacks/description properties.detachedResources Microsoft.Resources/deploymentStacks/detachedResources properties.detachedResources[*] Microsoft.Resources/deploymentStacks/detachedResources[*] properties.detachedResources[*].id Microsoft.Resources/deploymentStacks/detachedResources[*].id properties.duration Microsoft.Resources/deploymentStacks/duration properties.error Microsoft.Resources/deploymentStacks/error properties.error.additionalInfo Microsoft.Resources/deploymentStacks/error.additionalInfo properties.error.additionalInfo[*] Microsoft.Resources/deploymentStacks/error.additionalInfo[*] properties.error.additionalInfo[*].type Microsoft.Resources/deploymentStacks/error.additionalInfo[*].type properties.error.code Microsoft.Resources/deploymentStacks/error.code properties.error.details Microsoft.Resources/deploymentStacks/error.details properties." />
 
 
   <script type="application/ld+json">
   {
       "@context": "http://schema.org",
       "@type": "TechArticle",
-      "articleSection": "Microsoft. Authorization",
-      "name": "Policy Exemptions",
-      "url" : "http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/",
-      "headline": "Policy Exemptions",
-      "description": "Link to resource definition: Microsoft.Authorization\/policyExemptions\nDefault Path Alias properties.assignmentScopeValidation Microsoft.Authorization\/policyExemptions\/assignmentScopeValidation properties.description Microsoft.Authorization\/policyExemptions\/description properties.displayName Microsoft.Authorization\/policyExemptions\/displayName properties.exemptionCategory Microsoft.Authorization\/policyExemptions\/exemptionCategory properties.expiresOn Microsoft.Authorization\/policyExemptions\/expiresOn properties.policyAssignmentId Microsoft.Authorization\/policyExemptions\/policyAssignmentId properties.policyDefinitionReferenceIds Microsoft.Authorization\/policyExemptions\/policyDefinitionReferenceIds properties.policyDefinitionReferenceIds[*] Microsoft.Authorization\/policyExemptions\/policyDefinitionReferenceIds[*] properties.resourceSelectors Microsoft.Authorization\/policyExemptions\/resourceSelectors properties.resourceSelectors[*] Microsoft.Authorization\/policyExemptions\/resourceSelectors[*] properties.resourceSelectors[*].name Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].name properties.resourceSelectors[*].selectors Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors properties.resourceSelectors[*].selectors[*] Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*] properties.resourceSelectors[*].selectors[*].in Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*].in properties.resourceSelectors[*].selectors[*].in[*] Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*].in[*] properties.resourceSelectors[*].selectors[*].kind Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*].kind properties.resourceSelectors[*].selectors[*].notIn Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*].notIn properties.resourceSelectors[*].selectors[*].notIn[*] Microsoft.Authorization\/policyExemptions\/resourceSelectors[*].selectors[*].notIn[*] ",
+      "articleSection": "Microsoft. Resources",
+      "name": "Deployment Stacks",
+      "url" : "http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/",
+      "headline": "Deployment Stacks",
+      "description": "Link to resource definition: Microsoft.Resources\/deploymentStacks\nDefault Path Alias properties.actionOnUnmanage Microsoft.Resources\/deploymentStacks\/actionOnUnmanage properties.actionOnUnmanage.managementGroups Microsoft.Resources\/deploymentStacks\/actionOnUnmanage.managementGroups properties.actionOnUnmanage.resourceGroups Microsoft.Resources\/deploymentStacks\/actionOnUnmanage.resourceGroups properties.actionOnUnmanage.resources Microsoft.Resources\/deploymentStacks\/actionOnUnmanage.resources properties.bypassStackOutOfSyncError Microsoft.Resources\/deploymentStacks\/bypassStackOutOfSyncError properties.correlationId Microsoft.Resources\/deploymentStacks\/correlationId properties.debugSetting Microsoft.Resources\/deploymentStacks\/debugSetting properties.debugSetting.detailLevel Microsoft.Resources\/deploymentStacks\/debugSetting.detailLevel properties.deletedResources Microsoft.Resources\/deploymentStacks\/deletedResources properties.deletedResources[*] Microsoft.Resources\/deploymentStacks\/deletedResources[*] properties.deletedResources[*].id Microsoft.Resources\/deploymentStacks\/deletedResources[*].id properties.denySettings Microsoft.Resources\/deploymentStacks\/denySettings properties.denySettings.applyToChildScopes Microsoft.Resources\/deploymentStacks\/denySettings.applyToChildScopes properties.denySettings.excludedActions Microsoft.Resources\/deploymentStacks\/denySettings.excludedActions properties.denySettings.excludedActions[*] Microsoft.Resources\/deploymentStacks\/denySettings.excludedActions[*] properties.denySettings.excludedPrincipals Microsoft.Resources\/deploymentStacks\/denySettings.excludedPrincipals properties.denySettings.excludedPrincipals[*] Microsoft.Resources\/deploymentStacks\/denySettings.excludedPrincipals[*] properties.denySettings.mode Microsoft.Resources\/deploymentStacks\/denySettings.mode properties.deploymentId Microsoft.Resources\/deploymentStacks\/deploymentId properties.deploymentScope Microsoft.Resources\/deploymentStacks\/deploymentScope properties.description Microsoft.Resources\/deploymentStacks\/description properties.detachedResources Microsoft.Resources\/deploymentStacks\/detachedResources properties.detachedResources[*] Microsoft.Resources\/deploymentStacks\/detachedResources[*] properties.detachedResources[*].id Microsoft.Resources\/deploymentStacks\/detachedResources[*].id properties.duration Microsoft.Resources\/deploymentStacks\/duration properties.error Microsoft.Resources\/deploymentStacks\/error properties.error.additionalInfo Microsoft.Resources\/deploymentStacks\/error.additionalInfo properties.error.additionalInfo[*] Microsoft.Resources\/deploymentStacks\/error.additionalInfo[*] properties.error.additionalInfo[*].type Microsoft.Resources\/deploymentStacks\/error.additionalInfo[*].type properties.error.code Microsoft.Resources\/deploymentStacks\/error.code properties.error.details Microsoft.Resources\/deploymentStacks\/error.details properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "44",
+      "wordCount" : "232",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/"
+          "@id": "http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/"
       },
       "copyrightHolder" : "Azure Policy Aliases",
       "copyrightYear" : "0001",
@@ -156,7 +156,7 @@ Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/
   href="/custom.css"
   media="all"
 />
-  <link href="http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/" rel="canonical" type="text/html" />
+  <link href="http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/" rel="canonical" type="text/html" />
 
 <!-- Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc -->
 
@@ -6112,7 +6112,7 @@ Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/
     
   
   
-    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/Microsoft.Authorization/' href='/Microsoft.Authorization/'><span itemprop='name'>Microsoft. Authorization</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Policy Exemptions</span><meta itemprop='position' content='3' /></li>
+    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/Microsoft.Resources/' href='/Microsoft.Resources/'><span itemprop='name'>Microsoft. Resources</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Deployment Stacks</span><meta itemprop='position' content='3' /></li>
   
 
   
@@ -6130,11 +6130,11 @@ Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/
   <article
     class="gdoc-markdown gdoc-markdown__align--left"
   >
-    <h1>Policy Exemptions</h1>
+    <h1>Deployment Stacks</h1>
     <p>Link to resource definition: <a
   class="gdoc-markdown__link--code"
-  href="https://docs.microsoft.com/en-us/azure/templates/microsoft.authorization/policyexemptions"
-><code>Microsoft.Authorization/policyExemptions</code></a></p>
+  href="https://docs.microsoft.com/en-us/azure/templates/microsoft.resources/deploymentstacks"
+><code>Microsoft.Resources/deploymentStacks</code></a></p>
 <div class="table-wrap"> <table>
 <thead>
 <tr>
@@ -6144,76 +6144,452 @@ Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/
 </thead>
 <tbody>
 <tr>
-<td><code>properties.assignmentScopeValidation</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/assignmentScopeValidation</code></td>
+<td><code>properties.actionOnUnmanage</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/actionOnUnmanage</code></td>
+</tr>
+<tr>
+<td><code>properties.actionOnUnmanage.managementGroups</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/actionOnUnmanage.managementGroups</code></td>
+</tr>
+<tr>
+<td><code>properties.actionOnUnmanage.resourceGroups</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/actionOnUnmanage.resourceGroups</code></td>
+</tr>
+<tr>
+<td><code>properties.actionOnUnmanage.resources</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/actionOnUnmanage.resources</code></td>
+</tr>
+<tr>
+<td><code>properties.bypassStackOutOfSyncError</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/bypassStackOutOfSyncError</code></td>
+</tr>
+<tr>
+<td><code>properties.correlationId</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/correlationId</code></td>
+</tr>
+<tr>
+<td><code>properties.debugSetting</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/debugSetting</code></td>
+</tr>
+<tr>
+<td><code>properties.debugSetting.detailLevel</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/debugSetting.detailLevel</code></td>
+</tr>
+<tr>
+<td><code>properties.deletedResources</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/deletedResources</code></td>
+</tr>
+<tr>
+<td><code>properties.deletedResources[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/deletedResources[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.deletedResources[*].id</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/deletedResources[*].id</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.applyToChildScopes</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.applyToChildScopes</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.excludedActions</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.excludedActions</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.excludedActions[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.excludedActions[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.excludedPrincipals</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.excludedPrincipals[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.denySettings.mode</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/denySettings.mode</code></td>
+</tr>
+<tr>
+<td><code>properties.deploymentId</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/deploymentId</code></td>
+</tr>
+<tr>
+<td><code>properties.deploymentScope</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/deploymentScope</code></td>
 </tr>
 <tr>
 <td><code>properties.description</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/description</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/description</code></td>
 </tr>
 <tr>
-<td><code>properties.displayName</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/displayName</code></td>
+<td><code>properties.detachedResources</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/detachedResources</code></td>
 </tr>
 <tr>
-<td><code>properties.exemptionCategory</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/exemptionCategory</code></td>
+<td><code>properties.detachedResources[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/detachedResources[*]</code></td>
 </tr>
 <tr>
-<td><code>properties.expiresOn</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/expiresOn</code></td>
+<td><code>properties.detachedResources[*].id</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/detachedResources[*].id</code></td>
 </tr>
 <tr>
-<td><code>properties.policyAssignmentId</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/policyAssignmentId</code></td>
+<td><code>properties.duration</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/duration</code></td>
 </tr>
 <tr>
-<td><code>properties.policyDefinitionReferenceIds</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds</code></td>
+<td><code>properties.error</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error</code></td>
 </tr>
 <tr>
-<td><code>properties.policyDefinitionReferenceIds[*]</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/policyDefinitionReferenceIds[*]</code></td>
+<td><code>properties.error.additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.additionalInfo</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors</code></td>
+<td><code>properties.error.additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.additionalInfo[*]</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*]</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*]</code></td>
+<td><code>properties.error.additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.additionalInfo[*].type</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].name</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].name</code></td>
+<td><code>properties.error.code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.code</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors</code></td>
+<td><code>properties.error.details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*]</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*]</code></td>
+<td><code>properties.error.details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*]</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*].in</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in</code></td>
+<td><code>properties.error.details[*].additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].additionalInfo</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*].in[*]</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].in[*]</code></td>
+<td><code>properties.error.details[*].additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].additionalInfo[*]</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*].kind</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].kind</code></td>
+<td><code>properties.error.details[*].additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].additionalInfo[*].type</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*].notIn</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn</code></td>
+<td><code>properties.error.details[*].code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].code</code></td>
 </tr>
 <tr>
-<td><code>properties.resourceSelectors[*].selectors[*].notIn[*]</code></td>
-<td><code>Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn[*]</code></td>
+<td><code>properties.error.details[*].details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].details</code></td>
+</tr>
+<tr>
+<td><code>properties.error.details[*].details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.error.details[*].message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].message</code></td>
+</tr>
+<tr>
+<td><code>properties.error.details[*].target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.details[*].target</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.code</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].code</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].details</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].message</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.details[*].target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.details[*].target</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.message</code></td>
+</tr>
+<tr>
+<td><code>properties.error.error.target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.error.target</code></td>
+</tr>
+<tr>
+<td><code>properties.error.message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.message</code></td>
+</tr>
+<tr>
+<td><code>properties.error.target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/error.target</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.code</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].code</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].details</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].message</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.details[*].target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.details[*].target</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.code</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].additionalInfo</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].additionalInfo</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].additionalInfo[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].additionalInfo[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].additionalInfo[*].type</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].additionalInfo[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].code</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].code</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].details</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].details</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].details[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].details[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].message</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.details[*].target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.details[*].target</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.message</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.error.target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.error.target</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.message</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.message</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].error.target</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].error.target</code></td>
+</tr>
+<tr>
+<td><code>properties.failedResources[*].id</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/failedResources[*].id</code></td>
+</tr>
+<tr>
+<td><code>properties.parameters</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/parameters</code></td>
+</tr>
+<tr>
+<td><code>properties.parametersLink</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/parametersLink</code></td>
+</tr>
+<tr>
+<td><code>properties.parametersLink.contentVersion</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/parametersLink.contentVersion</code></td>
+</tr>
+<tr>
+<td><code>properties.parametersLink.uri</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/parametersLink.uri</code></td>
+</tr>
+<tr>
+<td><code>properties.provisioningState</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/provisioningState</code></td>
+</tr>
+<tr>
+<td><code>properties.resources</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/resources</code></td>
+</tr>
+<tr>
+<td><code>properties.resources[*]</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/resources[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.resources[*].denyStatus</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/resources[*].denyStatus</code></td>
+</tr>
+<tr>
+<td><code>properties.resources[*].id</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/resources[*].id</code></td>
+</tr>
+<tr>
+<td><code>properties.resources[*].status</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/resources[*].status</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink.contentVersion</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink.contentVersion</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink.id</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink.id</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink.queryString</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink.queryString</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink.relativePath</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink.relativePath</code></td>
+</tr>
+<tr>
+<td><code>properties.templateLink.uri</code></td>
+<td><code>Microsoft.Resources/deploymentStacks/templateLink.uri</code></td>
 </tr>
 </tbody>
 </table> </div>

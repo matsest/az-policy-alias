@@ -28,6 +28,16 @@ Default Path Alias properties.arguments Microsoft.Resources/deploymentScripts/Az
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Resources/deploymentStacks/</guid>
+      <description>Link to resource definition: Microsoft.Resources/deploymentStacks
+Default Path Alias properties.actionOnUnmanage Microsoft.Resources/deploymentStacks/actionOnUnmanage properties.actionOnUnmanage.managementGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.managementGroups properties.actionOnUnmanage.resourceGroups Microsoft.Resources/deploymentStacks/actionOnUnmanage.resourceGroups properties.actionOnUnmanage.resources Microsoft.Resources/deploymentStacks/actionOnUnmanage.resources properties.bypassStackOutOfSyncError Microsoft.Resources/deploymentStacks/bypassStackOutOfSyncError properties.correlationId Microsoft.Resources/deploymentStacks/correlationId properties.debugSetting Microsoft.Resources/deploymentStacks/debugSetting properties.debugSetting.detailLevel Microsoft.Resources/deploymentStacks/debugSetting.detailLevel properties.deletedResources Microsoft.Resources/deploymentStacks/deletedResources properties.deletedResources[*] Microsoft.Resources/deploymentStacks/deletedResources[*] properties.deletedResources[*].id Microsoft.Resources/deploymentStacks/deletedResources[*].id properties.denySettings Microsoft.Resources/deploymentStacks/denySettings properties.denySettings.applyToChildScopes Microsoft.Resources/deploymentStacks/denySettings.applyToChildScopes properties.denySettings.excludedActions Microsoft.Resources/deploymentStacks/denySettings.excludedActions properties.denySettings.excludedActions[*] Microsoft.Resources/deploymentStacks/denySettings.excludedActions[*] properties.denySettings.excludedPrincipals Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals properties.denySettings.excludedPrincipals[*] Microsoft.Resources/deploymentStacks/denySettings.excludedPrincipals[*] properties.denySettings.mode Microsoft.Resources/deploymentStacks/denySettings.mode properties.deploymentId Microsoft.Resources/deploymentStacks/deploymentId properties.deploymentScope Microsoft.Resources/deploymentStacks/deploymentScope properties.description Microsoft.Resources/deploymentStacks/description properties.detachedResources Microsoft.Resources/deploymentStacks/detachedResources properties.detachedResources[*] Microsoft.Resources/deploymentStacks/detachedResources[*] properties.detachedResources[*].id Microsoft.Resources/deploymentStacks/detachedResources[*].id properties.duration Microsoft.Resources/deploymentStacks/duration properties.error Microsoft.Resources/deploymentStacks/error properties.error.additionalInfo Microsoft.Resources/deploymentStacks/error.additionalInfo properties.error.additionalInfo[*] Microsoft.Resources/deploymentStacks/error.additionalInfo[*] properties.error.additionalInfo[*].type Microsoft.Resources/deploymentStacks/error.additionalInfo[*].type properties.error.code Microsoft.Resources/deploymentStacks/error.code properties.error.details Microsoft.Resources/deploymentStacks/error.details properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Resources/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +63,7 @@ Default Path Alias properties.tags Microsoft.Resources/tags/default.tags propert
       
       <guid>http://policyalias.mats.codes/Microsoft.Resources/templateSpecs-versions/</guid>
       <description>Link to resource definition: Microsoft.Resources/templateSpecs/versions
-Default Path Alias properties.artifacts Microsoft.Resources/templateSpecs/versions/artifacts properties.artifacts[*] Microsoft.Resources/templateSpecs/versions/artifacts[*] properties.artifacts[*].kind Microsoft.Resources/templateSpecs/versions/artifacts[*].kind properties.artifacts[*].path Microsoft.Resources/templateSpecs/versions/artifacts[*].path properties.description Microsoft.Resources/templateSpecs/versions/description </description>
+Default Path Alias properties.artifacts Microsoft.Resources/templateSpecs/versions/artifacts properties.artifacts[*] Microsoft.Resources/templateSpecs/versions/artifacts[*] properties.artifacts[*] Microsoft.Resources/templateSpecs/versions/artifacts[*].template properties.artifacts[*].kind Microsoft.Resources/templateSpecs/versions/artifacts[*].kind properties.artifacts[*].path Microsoft.Resources/templateSpecs/versions/artifacts[*].path properties.description Microsoft.Resources/templateSpecs/versions/description properties.linkedTemplates Microsoft.Resources/templateSpecs/versions/linkedTemplates properties.linkedTemplates[*] Microsoft.Resources/templateSpecs/versions/linkedTemplates[*] properties.linkedTemplates[*].path Microsoft.Resources/templateSpecs/versions/linkedTemplates[*].path </description>
     </item>
     
     <item>
