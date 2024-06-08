@@ -188,6 +188,16 @@ Default Path Alias properties.apiId Microsoft.ApiManagement/service/apis/release
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers-policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers-policies/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/apis/resolvers/policies
+Default Path Alias properties.format Microsoft.ApiManagement/service/apis/resolvers/policies/format properties.value Microsoft.ApiManagement/service/apis/resolvers/policies/value </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -644,6 +654,216 @@ Default Path Alias properties.enabled Microsoft.ApiManagement/service/tenant/ena
       <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</guid>
       <description>Link to resource definition: Microsoft.ApiManagement/service/users
 Default Path Alias properties.email Microsoft.ApiManagement/service/users/email properties.firstName Microsoft.ApiManagement/service/users/firstName properties.identities Microsoft.ApiManagement/service/users/identities properties.identities[*] Microsoft.ApiManagement/service/users/identities[*] properties.identities[*].id Microsoft.ApiManagement/service/users/identities[*].id properties.identities[*].provider Microsoft.ApiManagement/service/users/identities[*].provider properties.lastName Microsoft.ApiManagement/service/users/lastName properties.note Microsoft.ApiManagement/service/users/note properties.state Microsoft.ApiManagement/service/users/state </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations-policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations-policies/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis/operations/policies
+Default Path Alias properties.format Microsoft.ApiManagement/service/workspaces/apis/operations/policies/format properties.value Microsoft.ApiManagement/service/workspaces/apis/operations/policies/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis/operations
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/apis/operations/description properties.displayName Microsoft.ApiManagement/service/workspaces/apis/operations/displayName properties.method Microsoft.ApiManagement/service/workspaces/apis/operations/method properties.policies Microsoft.ApiManagement/service/workspaces/apis/operations/policies properties.request Microsoft.ApiManagement/service/workspaces/apis/operations/request properties.request.description Microsoft.ApiManagement/service/workspaces/apis/operations/request.description properties.request.headers Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers properties.request.headers[*] Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*] properties.request.headers[*].defaultValue Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].defaultValue properties.request.headers[*].description Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].description properties.request.headers[*].examples Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].examples properties.request.headers[*].name Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].name properties.request.headers[*].required Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].required properties.request.headers[*].schemaId Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].schemaId properties.request.headers[*].type Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].type properties.request.headers[*].typeName Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].typeName properties.request.headers[*].values Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].values properties.request.headers[*].values[*] Microsoft.ApiManagement/service/workspaces/apis/operations/request.headers[*].values[*] properties.request.queryParameters Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters properties.request.queryParameters[*] Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*] properties.request.queryParameters[*].defaultValue Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].defaultValue properties.request.queryParameters[*].description Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].description properties.request.queryParameters[*].examples Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].examples properties.request.queryParameters[*].name Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].name properties.request.queryParameters[*].required Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].required properties.request.queryParameters[*].schemaId Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].schemaId properties.request.queryParameters[*].type Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].type properties.request.queryParameters[*].typeName Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].typeName properties.request.queryParameters[*].values Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].values properties.request.queryParameters[*].values[*] Microsoft.ApiManagement/service/workspaces/apis/operations/request.queryParameters[*].values[*] properties.request.representations Microsoft.ApiManagement/service/workspaces/apis/operations/request.representations properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-policies/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis/policies
+Default Path Alias properties.format Microsoft.ApiManagement/service/workspaces/apis/policies/format properties.value Microsoft.ApiManagement/service/workspaces/apis/policies/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-releases/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis/releases
+Default Path Alias properties.apiId Microsoft.ApiManagement/service/workspaces/apis/releases/apiId properties.createdDateTime Microsoft.ApiManagement/service/workspaces/apis/releases/createdDateTime properties.notes Microsoft.ApiManagement/service/workspaces/apis/releases/notes properties.updatedDateTime Microsoft.ApiManagement/service/workspaces/apis/releases/updatedDateTime </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-schemas/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis/schemas
+Default Path Alias properties.contentType Microsoft.ApiManagement/service/workspaces/apis/schemas/contentType properties.document Microsoft.ApiManagement/service/workspaces/apis/schemas/document properties.document.value Microsoft.ApiManagement/service/workspaces/apis/schemas/document.value properties.provisioningState Microsoft.ApiManagement/service/workspaces/apis/schemas/provisioningState </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apis
+Default Path Alias properties.apiRevision Microsoft.ApiManagement/service/workspaces/apis/apiRevision properties.apiRevisionDescription Microsoft.ApiManagement/service/workspaces/apis/apiRevisionDescription properties.apiVersion Microsoft.ApiManagement/service/workspaces/apis/apiVersion properties.apiVersionDescription Microsoft.ApiManagement/service/workspaces/apis/apiVersionDescription properties.apiVersionSet Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet properties.apiVersionSet.description Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.description properties.apiVersionSet.id Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.id properties.apiVersionSet.name Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.name properties.apiVersionSet.versionHeaderName Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionHeaderName properties.apiVersionSet.versioningScheme Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versioningScheme properties.apiVersionSet.versionQueryName Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionQueryName properties.apiVersionSetId Microsoft.ApiManagement/service/workspaces/apis/apiVersionSetId properties.authenticationSettings Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings properties.authenticationSettings.oAuth2 Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2 properties.authenticationSettings.oAuth2.authorizationServerId Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2.authorizationServerId properties.authenticationSettings.oAuth2.scope Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2.scope properties.authenticationSettings.oAuth2AuthenticationSettings Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2AuthenticationSettings properties.authenticationSettings.oAuth2AuthenticationSettings[*] Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2AuthenticationSettings[*] properties.authenticationSettings.oAuth2AuthenticationSettings[*].authorizationServerId Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2AuthenticationSettings[*].authorizationServerId properties.authenticationSettings.oAuth2AuthenticationSettings[*].scope Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.oAuth2AuthenticationSettings[*].scope properties.authenticationSettings.openid Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openid properties.authenticationSettings.openid.bearerTokenSendingMethods Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openid.bearerTokenSendingMethods properties.authenticationSettings.openid.bearerTokenSendingMethods[*] Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openid.bearerTokenSendingMethods[*] properties.authenticationSettings.openid.openidProviderId Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openid.openidProviderId properties.authenticationSettings.openidAuthenticationSettings Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openidAuthenticationSettings properties.authenticationSettings.openidAuthenticationSettings[*] Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openidAuthenticationSettings[*] properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*] Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*] properties.authenticationSettings.openidAuthenticationSettings[*].openidProviderId Microsoft.ApiManagement/service/workspaces/apis/authenticationSettings.openidAuthenticationSettings[*].openidProviderId properties.contact Microsoft.ApiManagement/service/workspaces/apis/contact properties.contact.email Microsoft.ApiManagement/service/workspaces/apis/contact.email properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apiVersionSets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apiVersionSets/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/apiVersionSets
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/apiVersionSets/description properties.displayName Microsoft.ApiManagement/service/workspaces/apiVersionSets/displayName properties.versionHeaderName Microsoft.ApiManagement/service/workspaces/apiVersionSets/versionHeaderName properties.versioningScheme Microsoft.ApiManagement/service/workspaces/apiVersionSets/versioningScheme properties.versionQueryName Microsoft.ApiManagement/service/workspaces/apiVersionSets/versionQueryName </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-groups/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/groups
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/groups/description properties.displayName Microsoft.ApiManagement/service/workspaces/groups/displayName properties.externalId Microsoft.ApiManagement/service/workspaces/groups/externalId properties.type Microsoft.ApiManagement/service/workspaces/groups/type </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-namedValues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-namedValues/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/namedValues
+Default Path Alias properties.displayName Microsoft.ApiManagement/service/workspaces/namedValues/displayName properties.keyVault Microsoft.ApiManagement/service/workspaces/namedValues/keyVault properties.keyVault.identityClientId Microsoft.ApiManagement/service/workspaces/namedValues/keyVault.identityClientId properties.keyVault.secretIdentifier Microsoft.ApiManagement/service/workspaces/namedValues/keyVault.secretIdentifier properties.secret Microsoft.ApiManagement/service/workspaces/namedValues/secret properties.tags Microsoft.ApiManagement/service/workspaces/namedValues/tags properties.tags[*] Microsoft.ApiManagement/service/workspaces/namedValues/tags[*] properties.value Microsoft.ApiManagement/service/workspaces/namedValues/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policies/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/policies
+Default Path Alias properties.format Microsoft.ApiManagement/service/workspaces/policies/format properties.value Microsoft.ApiManagement/service/workspaces/policies/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policyFragments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policyFragments/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/policyFragments
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/policyFragments/description properties.format Microsoft.ApiManagement/service/workspaces/policyFragments/format properties.provisioningState Microsoft.ApiManagement/service/workspaces/policyFragments/provisioningState properties.value Microsoft.ApiManagement/service/workspaces/policyFragments/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-apiLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-apiLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/products/apiLinks
+Default Path Alias properties.apiId Microsoft.ApiManagement/service/workspaces/products/apiLinks/apiId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-groupLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-groupLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/products/groupLinks
+Default Path Alias properties.groupId Microsoft.ApiManagement/service/workspaces/products/groupLinks/groupId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-policies/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/products/policies
+Default Path Alias properties.format Microsoft.ApiManagement/service/workspaces/products/policies/format properties.value Microsoft.ApiManagement/service/workspaces/products/policies/value </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/products
+Default Path Alias properties.approvalRequired Microsoft.ApiManagement/service/workspaces/products/approvalRequired properties.description Microsoft.ApiManagement/service/workspaces/products/description properties.displayName Microsoft.ApiManagement/service/workspaces/products/displayName properties.state Microsoft.ApiManagement/service/workspaces/products/state properties.subscriptionRequired Microsoft.ApiManagement/service/workspaces/products/subscriptionRequired properties.subscriptionsLimit Microsoft.ApiManagement/service/workspaces/products/subscriptionsLimit properties.terms Microsoft.ApiManagement/service/workspaces/products/terms </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-schemas/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/schemas
+Default Path Alias properties.description Microsoft.ApiManagement/service/workspaces/schemas/description properties.provisioningState Microsoft.ApiManagement/service/workspaces/schemas/provisioningState properties.schemaType Microsoft.ApiManagement/service/workspaces/schemas/schemaType </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-subscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-subscriptions/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/subscriptions
+Default Path Alias properties.allowTracing Microsoft.ApiManagement/service/workspaces/subscriptions/allowTracing properties.displayName Microsoft.ApiManagement/service/workspaces/subscriptions/displayName properties.ownerId Microsoft.ApiManagement/service/workspaces/subscriptions/ownerId properties.primaryKey Microsoft.ApiManagement/service/workspaces/subscriptions/primaryKey properties.scope Microsoft.ApiManagement/service/workspaces/subscriptions/scope properties.secondaryKey Microsoft.ApiManagement/service/workspaces/subscriptions/secondaryKey properties.state Microsoft.ApiManagement/service/workspaces/subscriptions/state </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-apiLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-apiLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/tags/apiLinks
+Default Path Alias properties.apiId Microsoft.ApiManagement/service/workspaces/tags/apiLinks/apiId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-operationLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-operationLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/tags/operationLinks
+Default Path Alias properties.operationId Microsoft.ApiManagement/service/workspaces/tags/operationLinks/operationId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-productLinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-productLinks/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/tags/productLinks
+Default Path Alias properties.productId Microsoft.ApiManagement/service/workspaces/tags/productLinks/productId </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags/</guid>
+      <description>Link to resource definition: Microsoft.ApiManagement/service/workspaces/tags
+Default Path Alias properties.displayName Microsoft.ApiManagement/service/workspaces/tags/displayName </description>
     </item>
     
     <item>

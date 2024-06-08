@@ -50,6 +50,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-releases/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers-policies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-resolvers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-schemas/</loc>
@@ -141,6 +143,48 @@
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-tenant/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations-policies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-policies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-releases/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-schemas/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apiVersionSets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-groups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-namedValues/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-policyFragments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-apiLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-groupLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products-policies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-products/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-schemas/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-subscriptions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-apiLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-operationLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags-productLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-tags/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces/</loc>
   </url><url>
