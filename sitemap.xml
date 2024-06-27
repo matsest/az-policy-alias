@@ -482,6 +482,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -2562,6 +2564,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-managementPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-objectReplicationPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-privateEndpointConnections/</loc>
@@ -2569,6 +2573,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices-queues/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-queueServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-storageTaskAssignments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-tableServices-tables/</loc>
   </url><url>
