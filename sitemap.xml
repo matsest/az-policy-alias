@@ -1274,6 +1274,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ExtendedLocation/customLocations/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Fabric/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Fabric/capacities/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Features/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</loc>

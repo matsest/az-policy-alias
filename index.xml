@@ -5758,6 +5758,16 @@ Default Path Alias properties.authentication Microsoft.ExtendedLocation/customLo
     
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Fabric/capacities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://policyalias.mats.codes/Microsoft.Fabric/capacities/</guid>
+      <description>Link to resource definition: Microsoft.Fabric/capacities
+Default Path Alias properties.administration Microsoft.Fabric/capacities/administration properties.administration.members Microsoft.Fabric/capacities/administration.members properties.administration.members[*] Microsoft.Fabric/capacities/administration.members[*] properties.provisioningState Microsoft.Fabric/capacities/provisioningState properties.state Microsoft.Fabric/capacities/state sku Microsoft.Fabric/capacities/sku sku.name Microsoft.Fabric/capacities/sku.name sku.tier Microsoft.Fabric/capacities/sku.tier </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
