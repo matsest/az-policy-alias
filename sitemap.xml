@@ -204,6 +204,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-certificates/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-daprcomponents-resiliencypolicies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-daprComponents/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-dotNetComponents/</loc>
@@ -212,9 +214,13 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-managedCertificates/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-privateendpointconnections/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-storages/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/sessionPools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/</loc>
   </url><url>
@@ -481,6 +487,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
@@ -1991,6 +1999,42 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnServerConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/vpnSites/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/bareMetalMachines/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/cloudServicesNetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/clusterManagers/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/clusters-bareMetalMachineKeySets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/clusters-bmcKeySets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/clusters-metricsConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/clusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/kubernetesClusters-agentPools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/kubernetesClusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/l2Networks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/l3Networks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/racks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/storageAppliances/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/trunkedNetworks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/virtualMachines-consoles/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/virtualMachines/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NetworkCloud/volumes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/</loc>
   </url><url>
