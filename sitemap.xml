@@ -2764,14 +2764,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Synapse/workspaces/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments-accessPolicies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments-referenceDataSets/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.TimeSeriesInsights/environments/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.VirtualMachineImages/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.VirtualMachineImages/imageTemplates/</loc>
