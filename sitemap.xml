@@ -2130,6 +2130,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-backupProtectionIntent/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems-recoveryPoints/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers/</loc>
