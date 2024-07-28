@@ -760,10 +760,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Databricks/workspaces/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.DataCatalog/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Datadog/monitors-singleSignOnConfigurations/</loc>

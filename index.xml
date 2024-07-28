@@ -3428,16 +3428,6 @@ Default Path Alias properties.accessConnector Microsoft.Databricks/workspaces/ac
     
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://policyalias.mats.codes/Microsoft.DataCatalog/catalogs/</guid>
-      <description>Link to resource definition: Microsoft.DataCatalog/catalogs
-Default Path Alias properties.admins Microsoft.DataCatalog/catalogs/admins properties.admins[*] Microsoft.DataCatalog/catalogs/admins[*] properties.admins[*].objectId Microsoft.DataCatalog/catalogs/admins[*].objectId properties.admins[*].upn Microsoft.DataCatalog/catalogs/admins[*].upn properties.enableAutomaticUnitAdjustment Microsoft.DataCatalog/catalogs/enableAutomaticUnitAdjustment properties.sku Microsoft.DataCatalog/catalogs/sku properties.successfullyProvisioned Microsoft.DataCatalog/catalogs/successfullyProvisioned properties.units Microsoft.DataCatalog/catalogs/units properties.users Microsoft.DataCatalog/catalogs/users properties.users[*] Microsoft.DataCatalog/catalogs/users[*] properties.users[*].objectId Microsoft.DataCatalog/catalogs/users[*].objectId properties.users[*].upn Microsoft.DataCatalog/catalogs/users[*].upn </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Datadog/monitors-singleSignOnConfigurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
