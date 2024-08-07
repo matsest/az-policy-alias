@@ -488,6 +488,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1323,6 +1325,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthcareApis/workspaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/deidServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/</loc>
   </url><url>
