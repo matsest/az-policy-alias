@@ -8,11 +8,11 @@
     <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.HealthDataAIServices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/deidServices/</link>
+      <link>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/DeidServices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/deidServices/</guid>
-      <description>Link to resource definition: Microsoft.HealthDataAIServices/deidServices
+      <guid>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/DeidServices/</guid>
+      <description>Link to resource definition: Microsoft.HealthDataAIServices/DeidServices
 Default Path Alias properties.privateEndpointConnections Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections properties.privateEndpointConnections[*] Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections[*] properties.provisioningState Microsoft.HealthDataAIServices/deidServices/provisioningState properties.publicNetworkAccess Microsoft.HealthDataAIServices/deidServices/publicNetworkAccess properties.serviceUrl Microsoft.HealthDataAIServices/deidServices/serviceUrl </description>
     </item>
     
