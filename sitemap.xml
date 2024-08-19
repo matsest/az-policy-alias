@@ -10,8 +10,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/microsoft.aadiam/azureADMetrics/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</loc>
