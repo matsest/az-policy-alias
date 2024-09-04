@@ -400,6 +400,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureArcData/SqlServerInstances/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureFleet/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureFleet/fleets/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/clusters-arcSettings-extensions/</loc>
