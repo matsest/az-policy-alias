@@ -490,6 +490,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1178,6 +1180,12 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DomainRegistration/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DomainRegistration/domains-domainOwnershipIdentifiers/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DomainRegistration/domains/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/addresses/</loc>
@@ -1520,14 +1528,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/workflows/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/commitmentPlans/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/webServices/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/Workspaces/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/registries/</loc>
@@ -1862,9 +1862,17 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-routingConfigurations-ruleCollections-rules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-routingConfigurations-ruleCollections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-routingConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-scopeConnections/</loc>
   </url><url>
@@ -1879,6 +1887,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-securityUserConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-verifierWorkspaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers/</loc>
   </url><url>
