@@ -490,8 +490,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1527,6 +1525,14 @@
     <loc>http://policyalias.mats.codes/Microsoft.Logic/workflows-accessKeys/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/workflows/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/commitmentPlans/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/webServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearning/Workspaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/</loc>
   </url><url>
