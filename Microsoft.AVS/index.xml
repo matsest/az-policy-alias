@@ -4,137 +4,99 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.AVS/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.AVS/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.AVS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-addons/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/addons
-Default Path Alias properties.addonType Microsoft.AVS/privateClouds/addons/addonType properties.licenseKey Microsoft.AVS/privateClouds/addons/licenseKey properties.licenseKey Microsoft.AVS/privateClouds/addons/SRM.licenseKey properties.offer Microsoft.AVS/privateClouds/addons/HCX.offer properties.provisioningState Microsoft.AVS/privateClouds/addons/provisioningState properties.vrsCount Microsoft.AVS/privateClouds/addons/VR.vrsCount </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/addons&#xA;Default Path Alias properties.addonType Microsoft.AVS/privateClouds/addons/addonType properties.licenseKey Microsoft.AVS/privateClouds/addons/licenseKey properties.licenseKey Microsoft.AVS/privateClouds/addons/SRM.licenseKey properties.offer Microsoft.AVS/privateClouds/addons/HCX.offer properties.provisioningState Microsoft.AVS/privateClouds/addons/provisioningState properties.vrsCount Microsoft.AVS/privateClouds/addons/VR.vrsCount </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-authorizations/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/authorizations
-Default Path Alias properties.expressRouteAuthorizationId Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationId properties.expressRouteAuthorizationKey Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationKey properties.expressRouteId Microsoft.AVS/privateClouds/authorizations/expressRouteId properties.provisioningState Microsoft.AVS/privateClouds/authorizations/provisioningState </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/authorizations&#xA;Default Path Alias properties.expressRouteAuthorizationId Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationId properties.expressRouteAuthorizationKey Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationKey properties.expressRouteId Microsoft.AVS/privateClouds/authorizations/expressRouteId properties.provisioningState Microsoft.AVS/privateClouds/authorizations/provisioningState </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters-datastores/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters/datastores
-Default Path Alias properties.diskPoolVolume Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume properties.diskPoolVolume.endpoints Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints properties.diskPoolVolume.endpoints[*] Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints[*] properties.diskPoolVolume.lunName Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.lunName properties.diskPoolVolume.mountOption Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.mountOption properties.diskPoolVolume.path Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.path properties.diskPoolVolume.targetId Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.targetId properties.netAppVolume Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume properties.netAppVolume.id Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.id properties.netAppVolume.nfsFilePath Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsFilePath properties.netAppVolume.nfsProviderIp Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsProviderIp properties.provisioningState Microsoft.AVS/privateClouds/clusters/datastores/provisioningState properties.status Microsoft.AVS/privateClouds/clusters/datastores/status </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters/datastores&#xA;Default Path Alias properties.diskPoolVolume Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume properties.diskPoolVolume.endpoints Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints properties.diskPoolVolume.endpoints[*] Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.endpoints[*] properties.diskPoolVolume.lunName Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.lunName properties.diskPoolVolume.mountOption Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.mountOption properties.diskPoolVolume.path Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.path properties.diskPoolVolume.targetId Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.targetId properties.netAppVolume Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume properties.netAppVolume.id Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.id properties.netAppVolume.nfsFilePath Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsFilePath properties.netAppVolume.nfsProviderIp Microsoft.AVS/privateClouds/clusters/datastores/netAppVolume.nfsProviderIp properties.provisioningState Microsoft.AVS/privateClouds/clusters/datastores/provisioningState properties.status Microsoft.AVS/privateClouds/clusters/datastores/status </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-clusters/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters
-Default Path Alias properties.clusterId Microsoft.AVS/privateClouds/clusters/clusterId properties.clusterSize Microsoft.AVS/privateClouds/clusters/clusterSize properties.hosts Microsoft.AVS/privateClouds/clusters/hosts properties.hosts[*] Microsoft.AVS/privateClouds/clusters/hosts[*] properties.provisioningState Microsoft.AVS/privateClouds/clusters/provisioningState sku Microsoft.AVS/privateClouds/clusters/sku sku.name Microsoft.AVS/privateClouds/clusters/sku.name </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/clusters&#xA;Default Path Alias properties.clusterId Microsoft.AVS/privateClouds/clusters/clusterId properties.clusterSize Microsoft.AVS/privateClouds/clusters/clusterSize properties.hosts Microsoft.AVS/privateClouds/clusters/hosts properties.hosts[*] Microsoft.AVS/privateClouds/clusters/hosts[*] properties.provisioningState Microsoft.AVS/privateClouds/clusters/provisioningState sku Microsoft.AVS/privateClouds/clusters/sku sku.name Microsoft.AVS/privateClouds/clusters/sku.name </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-globalReachConnections/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/globalReachConnections
-Default Path Alias properties.addressPrefix Microsoft.AVS/privateClouds/globalReachConnections/addressPrefix properties.authorizationKey Microsoft.AVS/privateClouds/globalReachConnections/authorizationKey properties.circuitConnectionStatus Microsoft.AVS/privateClouds/globalReachConnections/circuitConnectionStatus properties.expressRouteId Microsoft.AVS/privateClouds/globalReachConnections/expressRouteId properties.peerExpressRouteCircuit Microsoft.AVS/privateClouds/globalReachConnections/peerExpressRouteCircuit properties.provisioningState Microsoft.AVS/privateClouds/globalReachConnections/provisioningState </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/globalReachConnections&#xA;Default Path Alias properties.addressPrefix Microsoft.AVS/privateClouds/globalReachConnections/addressPrefix properties.authorizationKey Microsoft.AVS/privateClouds/globalReachConnections/authorizationKey properties.circuitConnectionStatus Microsoft.AVS/privateClouds/globalReachConnections/circuitConnectionStatus properties.expressRouteId Microsoft.AVS/privateClouds/globalReachConnections/expressRouteId properties.peerExpressRouteCircuit Microsoft.AVS/privateClouds/globalReachConnections/peerExpressRouteCircuit properties.provisioningState Microsoft.AVS/privateClouds/globalReachConnections/provisioningState </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-hcxEnterpriseSites/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/hcxEnterpriseSites
-Default Path Alias properties.activationKey Microsoft.AVS/privateClouds/hcxEnterpriseSites/activationKey properties.status Microsoft.AVS/privateClouds/hcxEnterpriseSites/status </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/hcxEnterpriseSites&#xA;Default Path Alias properties.activationKey Microsoft.AVS/privateClouds/hcxEnterpriseSites/activationKey properties.status Microsoft.AVS/privateClouds/hcxEnterpriseSites/status </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations
-Default Path Alias properties.dhcpType Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/dhcpType properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/displayName properties.leaseTime Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.leaseTime properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/revision properties.segments Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments properties.segments[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments[*] properties.serverAddress Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.serverAddress properties.serverAddresses Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses properties.serverAddresses[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses[*] </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations&#xA;Default Path Alias properties.dhcpType Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/dhcpType properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/displayName properties.leaseTime Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.leaseTime properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/revision properties.segments Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments properties.segments[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments[*] properties.serverAddress Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/SERVER.serverAddress properties.serverAddresses Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses properties.serverAddresses[*] Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/RELAY.serverAddresses[*] </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsServices
-Default Path Alias properties.defaultDnsZone Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/defaultDnsZone properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/displayName properties.dnsServiceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/dnsServiceIp properties.fqdnZones Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones properties.fqdnZones[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones[*] properties.logLevel Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/logLevel properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/status </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsServices&#xA;Default Path Alias properties.defaultDnsZone Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/defaultDnsZone properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/displayName properties.dnsServiceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/dnsServiceIp properties.fqdnZones Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones properties.fqdnZones[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/fqdnZones[*] properties.logLevel Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/logLevel properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/status </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsZones
-Default Path Alias properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/displayName properties.dnsServerIps Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps properties.dnsServerIps[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps[*] properties.dnsServices Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServices properties.domain Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain properties.domain[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain[*] properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/revision properties.sourceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/sourceIp </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/dnsZones&#xA;Default Path Alias properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/displayName properties.dnsServerIps Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps properties.dnsServerIps[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServerIps[*] properties.dnsServices Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/dnsServices properties.domain Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain properties.domain[*] Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/domain[*] properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/revision properties.sourceIp Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/sourceIp </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles
-Default Path Alias properties.destination Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/destination properties.direction Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/direction properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/displayName properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/revision properties.source Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/source properties.status Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/status </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles&#xA;Default Path Alias properties.destination Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/destination properties.direction Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/direction properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/displayName properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/revision properties.source Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/source properties.status Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/status </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-segments/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/segments
-Default Path Alias properties.connectedGateway Microsoft.AVS/privateClouds/workloadNetworks/segments/connectedGateway properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/segments/displayName properties.portVif Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif properties.portVif[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*] properties.portVif[*].portName Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*].portName properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/segments/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/segments/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/segments/status properties.subnet Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet properties.subnet.dhcpRanges Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges properties.subnet.dhcpRanges[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges[*] properties.subnet.gatewayAddress Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.gatewayAddress </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/segments&#xA;Default Path Alias properties.connectedGateway Microsoft.AVS/privateClouds/workloadNetworks/segments/connectedGateway properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/segments/displayName properties.portVif Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif properties.portVif[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*] properties.portVif[*].portName Microsoft.AVS/privateClouds/workloadNetworks/segments/portVif[*].portName properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/segments/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/segments/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/segments/status properties.subnet Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet properties.subnet.dhcpRanges Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges properties.subnet.dhcpRanges[*] Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.dhcpRanges[*] properties.subnet.gatewayAddress Microsoft.AVS/privateClouds/workloadNetworks/segments/subnet.gatewayAddress </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/vmGroups
-Default Path Alias properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/displayName properties.members Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members properties.members[*] Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members[*] properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/status </description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds/workloadNetworks/vmGroups&#xA;Default Path Alias properties.displayName Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/displayName properties.members Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members properties.members[*] Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/members[*] properties.provisioningState Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/provisioningState properties.revision Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/revision properties.status Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/status </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AVS/privateClouds/</guid>
-      <description>Link to resource definition: Microsoft.AVS/privateClouds
-Default Path Alias properties.availability Microsoft.AVS/privateClouds/availability properties.availability.secondaryZone Microsoft.AVS/privateClouds/availability.secondaryZone properties.availability.strategy Microsoft.AVS/privateClouds/availability.strategy properties.availability.zone Microsoft.AVS/privateClouds/availability.zone properties.circuit Microsoft.AVS/privateClouds/circuit properties.circuit.expressRouteID Microsoft.AVS/privateClouds/circuit.expressRouteID properties.circuit.expressRoutePrivatePeeringID Microsoft.AVS/privateClouds/circuit.expressRoutePrivatePeeringID properties.circuit.primarySubnet Microsoft.AVS/privateClouds/circuit.primarySubnet properties.circuit.secondarySubnet Microsoft.AVS/privateClouds/circuit.secondarySubnet properties.encryption Microsoft.AVS/privateClouds/encryption properties.encryption.keyVaultProperties Microsoft.AVS/privateClouds/encryption.keyVaultProperties properties.encryption.keyVaultProperties.keyName Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyName properties.encryption.keyVaultProperties.keyState Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyState properties.encryption.keyVaultProperties.keyVaultUrl Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyVaultUrl properties.encryption.keyVaultProperties.keyVersion Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyVersion properties.encryption.keyVaultProperties.versionType Microsoft.AVS/privateClouds/encryption.keyVaultProperties.versionType properties.encryption.status Microsoft.AVS/privateClouds/encryption.status properties.endpoints Microsoft.AVS/privateClouds/endpoints properties.endpoints.hcxCloudManager Microsoft.AVS/privateClouds/endpoints.hcxCloudManager properties.endpoints.nsxtManager Microsoft.AVS/privateClouds/endpoints.nsxtManager properties.endpoints.vcsa Microsoft.AVS/privateClouds/endpoints.vcsa properties.externalCloudLinks Microsoft.AVS/privateClouds/externalCloudLinks properties.externalCloudLinks[*] Microsoft.AVS/privateClouds/externalCloudLinks[*] properties.identitySources Microsoft.AVS/privateClouds/identitySources properties.identitySources[*] Microsoft.AVS/privateClouds/identitySources[*] properties.identitySources[*].alias Microsoft.AVS/privateClouds/identitySources[*].alias properties.identitySources[*].baseGroupDN Microsoft.AVS/privateClouds/identitySources[*].baseGroupDN properties.identitySources[*].baseUserDN Microsoft.AVS/privateClouds/identitySources[*].baseUserDN properties.identitySources[*].domain Microsoft.AVS/privateClouds/identitySources[*].domain properties.identitySources[*].name Microsoft.AVS/privateClouds/identitySources[*].name properties.identitySources[*].password Microsoft.AVS/privateClouds/identitySources[*].password properties.</description>
+      <description>Link to resource definition: Microsoft.AVS/privateClouds&#xA;Default Path Alias properties.availability Microsoft.AVS/privateClouds/availability properties.availability.secondaryZone Microsoft.AVS/privateClouds/availability.secondaryZone properties.availability.strategy Microsoft.AVS/privateClouds/availability.strategy properties.availability.zone Microsoft.AVS/privateClouds/availability.zone properties.circuit Microsoft.AVS/privateClouds/circuit properties.circuit.expressRouteID Microsoft.AVS/privateClouds/circuit.expressRouteID properties.circuit.expressRoutePrivatePeeringID Microsoft.AVS/privateClouds/circuit.expressRoutePrivatePeeringID properties.circuit.primarySubnet Microsoft.AVS/privateClouds/circuit.primarySubnet properties.circuit.secondarySubnet Microsoft.AVS/privateClouds/circuit.secondarySubnet properties.encryption Microsoft.AVS/privateClouds/encryption properties.encryption.keyVaultProperties Microsoft.AVS/privateClouds/encryption.keyVaultProperties properties.encryption.keyVaultProperties.keyName Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyName properties.encryption.keyVaultProperties.keyState Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyState properties.encryption.keyVaultProperties.keyVaultUrl Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyVaultUrl properties.encryption.keyVaultProperties.keyVersion Microsoft.AVS/privateClouds/encryption.keyVaultProperties.keyVersion properties.encryption.keyVaultProperties.versionType Microsoft.AVS/privateClouds/encryption.keyVaultProperties.versionType properties.encryption.status Microsoft.AVS/privateClouds/encryption.status properties.endpoints Microsoft.AVS/privateClouds/endpoints properties.endpoints.hcxCloudManager Microsoft.AVS/privateClouds/endpoints.hcxCloudManager properties.endpoints.nsxtManager Microsoft.AVS/privateClouds/endpoints.nsxtManager properties.endpoints.vcsa Microsoft.AVS/privateClouds/endpoints.vcsa properties.externalCloudLinks Microsoft.AVS/privateClouds/externalCloudLinks properties.externalCloudLinks[*] Microsoft.AVS/privateClouds/externalCloudLinks[*] properties.identitySources Microsoft.AVS/privateClouds/identitySources properties.identitySources[*] Microsoft.AVS/privateClouds/identitySources[*] properties.identitySources[*].alias Microsoft.AVS/privateClouds/identitySources[*].alias properties.identitySources[*].baseGroupDN Microsoft.AVS/privateClouds/identitySources[*].baseGroupDN properties.identitySources[*].baseUserDN Microsoft.AVS/privateClouds/identitySources[*].baseUserDN properties.identitySources[*].domain Microsoft.AVS/privateClouds/identitySources[*].domain properties.identitySources[*].name Microsoft.AVS/privateClouds/identitySources[*].name properties.identitySources[*].password Microsoft.AVS/privateClouds/identitySources[*].password properties.</description>
     </item>
-    
   </channel>
 </rss>

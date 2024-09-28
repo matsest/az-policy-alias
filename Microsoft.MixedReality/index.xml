@@ -4,37 +4,29 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.MixedReality/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.MixedReality/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.MixedReality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</guid>
-      <description>Link to resource definition: Microsoft.MixedReality/objectAnchorsAccounts
-Default Path Alias properties.accountDomain Microsoft.MixedReality/objectAnchorsAccounts/accountDomain properties.accountId Microsoft.MixedReality/objectAnchorsAccounts/accountId properties.storageAccountName Microsoft.MixedReality/objectAnchorsAccounts/storageAccountName sku Microsoft.MixedReality/objectAnchorsAccounts/sku sku.capacity Microsoft.MixedReality/objectAnchorsAccounts/sku.capacity sku.family Microsoft.MixedReality/objectAnchorsAccounts/sku.family sku.name Microsoft.MixedReality/objectAnchorsAccounts/sku.name sku.size Microsoft.MixedReality/objectAnchorsAccounts/sku.size sku.tier Microsoft.MixedReality/objectAnchorsAccounts/sku.tier </description>
+      <description>Link to resource definition: Microsoft.MixedReality/objectAnchorsAccounts&#xA;Default Path Alias properties.accountDomain Microsoft.MixedReality/objectAnchorsAccounts/accountDomain properties.accountId Microsoft.MixedReality/objectAnchorsAccounts/accountId properties.storageAccountName Microsoft.MixedReality/objectAnchorsAccounts/storageAccountName sku Microsoft.MixedReality/objectAnchorsAccounts/sku sku.capacity Microsoft.MixedReality/objectAnchorsAccounts/sku.capacity sku.family Microsoft.MixedReality/objectAnchorsAccounts/sku.family sku.name Microsoft.MixedReality/objectAnchorsAccounts/sku.name sku.size Microsoft.MixedReality/objectAnchorsAccounts/sku.size sku.tier Microsoft.MixedReality/objectAnchorsAccounts/sku.tier </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</guid>
-      <description>Link to resource definition: Microsoft.MixedReality/remoteRenderingAccounts
-Default Path Alias properties.accountDomain Microsoft.MixedReality/remoteRenderingAccounts/accountDomain properties.accountId Microsoft.MixedReality/remoteRenderingAccounts/accountId properties.storageAccountName Microsoft.MixedReality/remoteRenderingAccounts/storageAccountName sku Microsoft.MixedReality/remoteRenderingAccounts/sku sku.capacity Microsoft.MixedReality/remoteRenderingAccounts/sku.capacity sku.family Microsoft.MixedReality/remoteRenderingAccounts/sku.family sku.name Microsoft.MixedReality/remoteRenderingAccounts/sku.name sku.size Microsoft.MixedReality/remoteRenderingAccounts/sku.size sku.tier Microsoft.MixedReality/remoteRenderingAccounts/sku.tier </description>
+      <description>Link to resource definition: Microsoft.MixedReality/remoteRenderingAccounts&#xA;Default Path Alias properties.accountDomain Microsoft.MixedReality/remoteRenderingAccounts/accountDomain properties.accountId Microsoft.MixedReality/remoteRenderingAccounts/accountId properties.storageAccountName Microsoft.MixedReality/remoteRenderingAccounts/storageAccountName sku Microsoft.MixedReality/remoteRenderingAccounts/sku sku.capacity Microsoft.MixedReality/remoteRenderingAccounts/sku.capacity sku.family Microsoft.MixedReality/remoteRenderingAccounts/sku.family sku.name Microsoft.MixedReality/remoteRenderingAccounts/sku.name sku.size Microsoft.MixedReality/remoteRenderingAccounts/sku.size sku.tier Microsoft.MixedReality/remoteRenderingAccounts/sku.tier </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.MixedReality/spatialAnchorsAccounts/</guid>
-      <description>Link to resource definition: Microsoft.MixedReality/spatialAnchorsAccounts
-Default Path Alias properties.accountDomain Microsoft.MixedReality/spatialAnchorsAccounts/accountDomain properties.accountId Microsoft.MixedReality/spatialAnchorsAccounts/accountId properties.storageAccountName Microsoft.MixedReality/spatialAnchorsAccounts/storageAccountName sku Microsoft.MixedReality/spatialAnchorsAccounts/sku sku.capacity Microsoft.MixedReality/spatialAnchorsAccounts/sku.capacity sku.family Microsoft.MixedReality/spatialAnchorsAccounts/sku.family sku.name Microsoft.MixedReality/spatialAnchorsAccounts/sku.name sku.size Microsoft.MixedReality/spatialAnchorsAccounts/sku.size sku.tier Microsoft.MixedReality/spatialAnchorsAccounts/sku.tier </description>
+      <description>Link to resource definition: Microsoft.MixedReality/spatialAnchorsAccounts&#xA;Default Path Alias properties.accountDomain Microsoft.MixedReality/spatialAnchorsAccounts/accountDomain properties.accountId Microsoft.MixedReality/spatialAnchorsAccounts/accountId properties.storageAccountName Microsoft.MixedReality/spatialAnchorsAccounts/storageAccountName sku Microsoft.MixedReality/spatialAnchorsAccounts/sku sku.capacity Microsoft.MixedReality/spatialAnchorsAccounts/sku.capacity sku.family Microsoft.MixedReality/spatialAnchorsAccounts/sku.family sku.name Microsoft.MixedReality/spatialAnchorsAccounts/sku.name sku.size Microsoft.MixedReality/spatialAnchorsAccounts/sku.size sku.tier Microsoft.MixedReality/spatialAnchorsAccounts/sku.tier </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,27 +4,22 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Maps/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Maps/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.Maps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</guid>
-      <description>Link to resource definition: Microsoft.Maps/accounts/creators
-Default Path Alias properties.provisioningState Microsoft.Maps/accounts/creators/provisioningState properties.storageUnits Microsoft.Maps/accounts/creators/storageUnits </description>
+      <description>Link to resource definition: Microsoft.Maps/accounts/creators&#xA;Default Path Alias properties.provisioningState Microsoft.Maps/accounts/creators/provisioningState properties.storageUnits Microsoft.Maps/accounts/creators/storageUnits </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Maps/accounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.Maps/accounts/</guid>
-      <description>Link to resource definition: Microsoft.Maps/accounts
-Default Path Alias properties.cors Microsoft.Maps/accounts/cors properties.cors.corsRules Microsoft.Maps/accounts/cors.corsRules properties.cors.corsRules[*] Microsoft.Maps/accounts/cors.corsRules[*] properties.cors.corsRules[*].allowedOrigins Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins[*] properties.disableLocalAuth Microsoft.Maps/accounts/disableLocalAuth properties.linkedResources Microsoft.Maps/accounts/linkedResources properties.linkedResources[*] Microsoft.Maps/accounts/linkedResources[*] properties.linkedResources[*].id Microsoft.Maps/accounts/linkedResources[*].id properties.linkedResources[*].uniqueName Microsoft.Maps/accounts/linkedResources[*].uniqueName properties.provisioningState Microsoft.Maps/accounts/provisioningState properties.uniqueId Microsoft.Maps/accounts/uniqueId sku Microsoft.Maps/accounts/sku sku.name Microsoft.Maps/accounts/sku.name sku.tier Microsoft.Maps/accounts/sku.tier </description>
+      <description>Link to resource definition: Microsoft.Maps/accounts&#xA;Default Path Alias properties.cors Microsoft.Maps/accounts/cors properties.cors.corsRules Microsoft.Maps/accounts/cors.corsRules properties.cors.corsRules[*] Microsoft.Maps/accounts/cors.corsRules[*] properties.cors.corsRules[*].allowedOrigins Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins properties.cors.corsRules[*].allowedOrigins[*] Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins[*] properties.disableLocalAuth Microsoft.Maps/accounts/disableLocalAuth properties.linkedResources Microsoft.Maps/accounts/linkedResources properties.linkedResources[*] Microsoft.Maps/accounts/linkedResources[*] properties.linkedResources[*].id Microsoft.Maps/accounts/linkedResources[*].id properties.linkedResources[*].uniqueName Microsoft.Maps/accounts/linkedResources[*].uniqueName properties.provisioningState Microsoft.Maps/accounts/provisioningState properties.uniqueId Microsoft.Maps/accounts/uniqueId sku Microsoft.Maps/accounts/sku sku.name Microsoft.Maps/accounts/sku.name sku.tier Microsoft.Maps/accounts/sku.tier </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,27 +4,22 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/b2cDirectories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/b2cDirectories/</guid>
-      <description>Link to resource definition: Microsoft.AzureActiveDirectory/b2cDirectories
-Default Path Alias sku Microsoft.AzureActiveDirectory/b2cDirectories/sku sku.name Microsoft.AzureActiveDirectory/b2cDirectories/sku.name sku.tier Microsoft.AzureActiveDirectory/b2cDirectories/sku.tier </description>
+      <description>Link to resource definition: Microsoft.AzureActiveDirectory/b2cDirectories&#xA;Default Path Alias sku Microsoft.AzureActiveDirectory/b2cDirectories/sku sku.name Microsoft.AzureActiveDirectory/b2cDirectories/sku.name sku.tier Microsoft.AzureActiveDirectory/b2cDirectories/sku.tier </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/guestUsages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.AzureActiveDirectory/guestUsages/</guid>
-      <description>Link to resource definition: Microsoft.AzureActiveDirectory/guestUsages
-Default Path Alias properties.tenantId Microsoft.AzureActiveDirectory/guestUsages/tenantId </description>
+      <description>Link to resource definition: Microsoft.AzureActiveDirectory/guestUsages&#xA;Default Path Alias properties.tenantId Microsoft.AzureActiveDirectory/guestUsages/tenantId </description>
     </item>
-    
   </channel>
 </rss>

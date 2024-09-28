@@ -4,17 +4,15 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Capacity/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Capacity/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.Capacity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</guid>
-      <description>Link to resource definition: Microsoft.Capacity/resourceProviders/locations/serviceLimits
-Default Path Alias properties.currentValue Microsoft.Capacity/resourceProviders/locations/serviceLimits/currentValue properties.limit Microsoft.Capacity/resourceProviders/locations/serviceLimits/limit properties.name Microsoft.Capacity/resourceProviders/locations/serviceLimits/name properties.name.localizedValue Microsoft.Capacity/resourceProviders/locations/serviceLimits/name.localizedValue properties.name.value Microsoft.Capacity/resourceProviders/locations/serviceLimits/name.value properties.quotaPeriod Microsoft.Capacity/resourceProviders/locations/serviceLimits/quotaPeriod properties.resourceType Microsoft.Capacity/resourceProviders/locations/serviceLimits/resourceType properties.unit Microsoft.Capacity/resourceProviders/locations/serviceLimits/unit </description>
+      <description>Link to resource definition: Microsoft.Capacity/resourceProviders/locations/serviceLimits&#xA;Default Path Alias properties.currentValue Microsoft.Capacity/resourceProviders/locations/serviceLimits/currentValue properties.limit Microsoft.Capacity/resourceProviders/locations/serviceLimits/limit properties.name Microsoft.Capacity/resourceProviders/locations/serviceLimits/name properties.name.localizedValue Microsoft.Capacity/resourceProviders/locations/serviceLimits/name.localizedValue properties.name.value Microsoft.Capacity/resourceProviders/locations/serviceLimits/name.value properties.quotaPeriod Microsoft.Capacity/resourceProviders/locations/serviceLimits/quotaPeriod properties.resourceType Microsoft.Capacity/resourceProviders/locations/serviceLimits/resourceType properties.unit Microsoft.Capacity/resourceProviders/locations/serviceLimits/unit </description>
     </item>
-    
   </channel>
 </rss>

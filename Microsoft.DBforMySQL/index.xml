@@ -4,167 +4,120 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.DBforMySQL/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.DBforMySQL/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-administrators/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/administrators
-Default Path Alias properties.administratorType Microsoft.DBforMySQL/flexibleServers/administrators/administratorType properties.identityResourceId Microsoft.DBforMySQL/flexibleServers/administrators/identityResourceId properties.login Microsoft.DBforMySQL/flexibleServers/administrators/login properties.sid Microsoft.DBforMySQL/flexibleServers/administrators/sid properties.tenantId Microsoft.DBforMySQL/flexibleServers/administrators/tenantId </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/administrators&#xA;Default Path Alias properties.administratorType Microsoft.DBforMySQL/flexibleServers/administrators/administratorType properties.identityResourceId Microsoft.DBforMySQL/flexibleServers/administrators/identityResourceId properties.login Microsoft.DBforMySQL/flexibleServers/administrators/login properties.sid Microsoft.DBforMySQL/flexibleServers/administrators/sid properties.tenantId Microsoft.DBforMySQL/flexibleServers/administrators/tenantId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings
-Default Path Alias properties.state Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/state </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings&#xA;Default Path Alias properties.state Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/state </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/configurations
-Default Path Alias properties.allowedValues Microsoft.DBForMySql/flexibleServers/configurations/allowedValues properties.currentValue Microsoft.DBforMySQL/flexibleServers/configurations/currentValue properties.dataType Microsoft.DBForMySql/flexibleServers/configurations/dataType properties.defaultValue Microsoft.DBForMySql/flexibleServers/configurations/defaultValue properties.description Microsoft.DBForMySql/flexibleServers/configurations/description properties.documentationLink Microsoft.DBforMySQL/flexibleServers/configurations/documentationLink properties.isConfigPendingRestart Microsoft.DBForMySql/flexibleServers/configurations/isConfigPendingRestart properties.isDynamicConfig Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig properties.isReadOnly Microsoft.DBForMySql/flexibleServers/configurations/isReadOnly properties.source Microsoft.DBForMySql/flexibleServers/configurations/source properties.value Microsoft.DBForMySql/flexibleServers/configurations/value </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/configurations&#xA;Default Path Alias properties.allowedValues Microsoft.DBForMySql/flexibleServers/configurations/allowedValues properties.currentValue Microsoft.DBforMySQL/flexibleServers/configurations/currentValue properties.dataType Microsoft.DBForMySql/flexibleServers/configurations/dataType properties.defaultValue Microsoft.DBForMySql/flexibleServers/configurations/defaultValue properties.description Microsoft.DBForMySql/flexibleServers/configurations/description properties.documentationLink Microsoft.DBforMySQL/flexibleServers/configurations/documentationLink properties.isConfigPendingRestart Microsoft.DBForMySql/flexibleServers/configurations/isConfigPendingRestart properties.isDynamicConfig Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig properties.isReadOnly Microsoft.DBForMySql/flexibleServers/configurations/isReadOnly properties.source Microsoft.DBForMySql/flexibleServers/configurations/source properties.value Microsoft.DBForMySql/flexibleServers/configurations/value </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-databases/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/databases
-Default Path Alias properties.charset Microsoft.DBForMySql/flexibleServers/databases/charset properties.collation Microsoft.DBForMySql/flexibleServers/databases/collation </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/databases&#xA;Default Path Alias properties.charset Microsoft.DBForMySql/flexibleServers/databases/charset properties.collation Microsoft.DBForMySql/flexibleServers/databases/collation </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-firewallRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-firewallRules/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/firewallRules
-Default Path Alias properties.endIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/endIpAddress properties.startIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/startIpAddress </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/firewallRules&#xA;Default Path Alias properties.endIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/endIpAddress properties.startIpAddress Microsoft.DBForMySql/flexibleServers/firewallRules/startIpAddress </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections
-Default Path Alias properties.groupIds Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds properties.groupIds[*] Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds[*] properties.privateEndpoint Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/provisioningState </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections&#xA;Default Path Alias properties.groupIds Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds properties.groupIds[*] Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/groupIds[*] properties.privateEndpoint Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/provisioningState </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers
-Default Path Alias properties.administratorLogin Microsoft.DBForMySql/flexibleServers/administratorLogin properties.administratorLoginPassword Microsoft.DBForMySql/flexibleServers/administratorLoginPassword properties.availabilityZone Microsoft.DBForMySql/flexibleServers/availabilityZone properties.backup Microsoft.DBForMySql/flexibleServers/backup properties.backup.backupRetentionDays Microsoft.DBForMySql/flexibleServers/backup.backupRetentionDays properties.backup.earliestRestoreDate Microsoft.DBForMySql/flexibleServers/backup.earliestRestoreDate properties.backup.geoRedundantBackup Microsoft.DBForMySql/flexibleServers/backup.geoRedundantBackup properties.byokEnforcement Microsoft.DBForMySql/flexibleServers/byokEnforcement properties.createMode Microsoft.DBForMySql/flexibleServers/createMode properties.dataEncryption Microsoft.DBForMySql/flexibleServers/dataEncryption properties.dataEncryption.geoBackupKeyURI Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupKeyUri properties.dataEncryption.geoBackupUserAssignedIdentityId Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupUserAssignedIdentityId properties.dataEncryption.primaryKeyURI Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryKeyUri properties.dataEncryption.primaryUserAssignedIdentityId Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryUserAssignedIdentityId properties.dataEncryption.type Microsoft.DBForMySql/flexibleServers/dataEncryption.type properties.delegatedSubnetArguments Microsoft.DBForMySql/flexibleServers/delegatedSubnetArguments properties.delegatedSubnetArguments.subnetArmResourceId Microsoft.DBForMySql/flexibleServers/delegatedSubnetArguments.subnetArmResourceId properties.earliestRestoreDate Microsoft.DBForMySql/flexibleServers/earliestRestoreDate properties.fullyQualifiedDomainName Microsoft.DBForMySql/flexibleServers/fullyQualifiedDomainName properties.haEnabled Microsoft.DBForMySql/flexibleServers/haEnabled properties.haState Microsoft.DBForMySql/flexibleServers/haState properties.highAvailability Microsoft.DBForMySql/flexibleServers/highAvailability properties.highAvailability.mode Microsoft.DBForMySql/flexibleServers/highAvailability.mode properties.highAvailability.standbyAvailabilityZone Microsoft.DBForMySql/flexibleServers/highAvailability.standbyAvailabilityZone properties.highAvailability.state Microsoft.DBForMySql/flexibleServers/highAvailability.state properties.importSourceProperties Microsoft.DBforMySQL/flexibleServers/importSourceProperties properties.importSourceProperties.dataDirPath Microsoft.DBforMySQL/flexibleServers/importSourceProperties.dataDirPath properties.importSourceProperties.sasToken Microsoft.DBforMySQL/flexibleServers/importSourceProperties.sasToken properties.importSourceProperties.storageType Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageType properties.importSourceProperties.storageUrl Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageUrl properties.infrastructureEncryption Microsoft.DBForMySql/flexibleServers/infrastructureEncryption properties.</description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/flexibleServers&#xA;Default Path Alias properties.administratorLogin Microsoft.DBForMySql/flexibleServers/administratorLogin properties.administratorLoginPassword Microsoft.DBForMySql/flexibleServers/administratorLoginPassword properties.availabilityZone Microsoft.DBForMySql/flexibleServers/availabilityZone properties.backup Microsoft.DBForMySql/flexibleServers/backup properties.backup.backupRetentionDays Microsoft.DBForMySql/flexibleServers/backup.backupRetentionDays properties.backup.earliestRestoreDate Microsoft.DBForMySql/flexibleServers/backup.earliestRestoreDate properties.backup.geoRedundantBackup Microsoft.DBForMySql/flexibleServers/backup.geoRedundantBackup properties.byokEnforcement Microsoft.DBForMySql/flexibleServers/byokEnforcement properties.createMode Microsoft.DBForMySql/flexibleServers/createMode properties.dataEncryption Microsoft.DBForMySql/flexibleServers/dataEncryption properties.dataEncryption.geoBackupKeyURI Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupKeyUri properties.dataEncryption.geoBackupUserAssignedIdentityId Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupUserAssignedIdentityId properties.dataEncryption.primaryKeyURI Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryKeyUri properties.dataEncryption.primaryUserAssignedIdentityId Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryUserAssignedIdentityId properties.dataEncryption.type Microsoft.DBForMySql/flexibleServers/dataEncryption.type properties.delegatedSubnetArguments Microsoft.DBForMySql/flexibleServers/delegatedSubnetArguments properties.delegatedSubnetArguments.subnetArmResourceId Microsoft.DBForMySql/flexibleServers/delegatedSubnetArguments.subnetArmResourceId properties.earliestRestoreDate Microsoft.DBForMySql/flexibleServers/earliestRestoreDate properties.fullyQualifiedDomainName Microsoft.DBForMySql/flexibleServers/fullyQualifiedDomainName properties.haEnabled Microsoft.DBForMySql/flexibleServers/haEnabled properties.haState Microsoft.DBForMySql/flexibleServers/haState properties.highAvailability Microsoft.DBForMySql/flexibleServers/highAvailability properties.highAvailability.mode Microsoft.DBForMySql/flexibleServers/highAvailability.mode properties.highAvailability.standbyAvailabilityZone Microsoft.DBForMySql/flexibleServers/highAvailability.standbyAvailabilityZone properties.highAvailability.state Microsoft.DBForMySql/flexibleServers/highAvailability.state properties.importSourceProperties Microsoft.DBforMySQL/flexibleServers/importSourceProperties properties.importSourceProperties.dataDirPath Microsoft.DBforMySQL/flexibleServers/importSourceProperties.dataDirPath properties.importSourceProperties.sasToken Microsoft.DBforMySQL/flexibleServers/importSourceProperties.sasToken properties.importSourceProperties.storageType Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageType properties.importSourceProperties.storageUrl Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageUrl properties.infrastructureEncryption Microsoft.DBForMySql/flexibleServers/infrastructureEncryption properties.</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-administrators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-administrators/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/administrators
-Default Path Alias properties.administratorType Microsoft.DBforMySQL/servers/administrators/activeDirectory.administratorType properties.administratorType Microsoft.DBForMySQL/servers/Administrators/administratorType properties.login Microsoft.DBforMySQL/servers/administrators/activeDirectory.login properties.login Microsoft.DBForMySQL/servers/Administrators/login properties.sid Microsoft.DBforMySQL/servers/administrators/activeDirectory.sid properties.sid Microsoft.DBForMySQL/servers/Administrators/sid properties.tenantId Microsoft.DBforMySQL/servers/administrators/activeDirectory.tenantId properties.tenantId Microsoft.DBForMySQL/servers/Administrators/tenantId </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/administrators&#xA;Default Path Alias properties.administratorType Microsoft.DBforMySQL/servers/administrators/activeDirectory.administratorType properties.administratorType Microsoft.DBForMySQL/servers/Administrators/administratorType properties.login Microsoft.DBforMySQL/servers/administrators/activeDirectory.login properties.login Microsoft.DBForMySQL/servers/Administrators/login properties.sid Microsoft.DBforMySQL/servers/administrators/activeDirectory.sid properties.sid Microsoft.DBForMySQL/servers/Administrators/sid properties.tenantId Microsoft.DBforMySQL/servers/administrators/activeDirectory.tenantId properties.tenantId Microsoft.DBForMySQL/servers/Administrators/tenantId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-configurations/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/configurations
-Default Path Alias properties.allowedValues Microsoft.DBforMySQL/servers/configurations/allowedValues properties.dataType Microsoft.DBforMySQL/servers/configurations/dataType properties.defaultValue Microsoft.DBforMySQL/servers/configurations/defaultValue properties.description Microsoft.DBforMySQL/servers/configurations/description properties.source Microsoft.DBforMySQL/servers/configurations/source properties.value Microsoft.DBforMySQL/servers/configurations/value </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/configurations&#xA;Default Path Alias properties.allowedValues Microsoft.DBforMySQL/servers/configurations/allowedValues properties.dataType Microsoft.DBforMySQL/servers/configurations/dataType properties.defaultValue Microsoft.DBforMySQL/servers/configurations/defaultValue properties.description Microsoft.DBforMySQL/servers/configurations/description properties.source Microsoft.DBforMySQL/servers/configurations/source properties.value Microsoft.DBforMySQL/servers/configurations/value </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-databases/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/databases
-Default Path Alias properties.charset Microsoft.DBforMySQL/servers/databases/charset properties.collation Microsoft.DBforMySQL/servers/databases/collation </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/databases&#xA;Default Path Alias properties.charset Microsoft.DBforMySQL/servers/databases/charset properties.collation Microsoft.DBforMySQL/servers/databases/collation </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-firewallRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-firewallRules/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/firewallRules
-Default Path Alias properties.endIpAddress Microsoft.DBforMySQL/servers/firewallRules/endIpAddress properties.startIpAddress Microsoft.DBforMySQL/servers/firewallRules/startIpAddress </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/firewallRules&#xA;Default Path Alias properties.endIpAddress Microsoft.DBforMySQL/servers/firewallRules/endIpAddress properties.startIpAddress Microsoft.DBforMySQL/servers/firewallRules/startIpAddress </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-keys/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/keys
-Default Path Alias properties.creationDate Microsoft.DBforMySQL/servers/keys/creationDate properties.serverKeyType Microsoft.DBforMySQL/servers/keys/serverKeyType properties.uri Microsoft.DBforMySQL/servers/keys/uri </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/keys&#xA;Default Path Alias properties.creationDate Microsoft.DBforMySQL/servers/keys/creationDate properties.serverKeyType Microsoft.DBforMySQL/servers/keys/serverKeyType properties.uri Microsoft.DBforMySQL/servers/keys/uri </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-privateEndpointConnections/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/privateEndpointConnections
-Default Path Alias properties.privateEndpoint Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState Microsoft.DBforMySQL/servers/privateEndpointConnections/provisioningState </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/privateEndpointConnections&#xA;Default Path Alias properties.privateEndpoint Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint.id properties.privateLinkServiceConnectionState Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState Microsoft.DBforMySQL/servers/privateEndpointConnections/provisioningState </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-securityAlertPolicies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-securityAlertPolicies/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/securityAlertPolicies
-Default Path Alias properties.disabledAlerts Microsoft.DBforMySQL/servers/securityAlertPolicies/disabledAlerts properties.disabledAlerts Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.disabledAlerts properties.disabledAlerts[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/disabledAlerts[*] properties.disabledAlerts[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.disabledAlerts[*] properties.emailAccountAdmins Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAccountAdmins properties.emailAccountAdmins Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAccountAdmins properties.emailAddresses Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAddresses properties.emailAddresses Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAddresses properties.emailAddresses[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAddresses[*] properties.emailAddresses[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAddresses[*] properties.retentionDays Microsoft.DBforMySQL/servers/securityAlertPolicies/retentionDays properties.retentionDays Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.retentionDays properties.state Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.state properties.state Microsoft.DBforMySQL/servers/securityAlertPolicies/state properties.storageAccountAccessKey Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageAccountAccessKey properties.storageAccountAccessKey Microsoft.DBforMySQL/servers/securityAlertPolicies/storageAccountAccessKey properties.storageEndpoint Microsoft.DBforMySQL/servers/securityAlertPolicies/storageEndpoint properties.storageEndpoint Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageEndpoint </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/securityAlertPolicies&#xA;Default Path Alias properties.disabledAlerts Microsoft.DBforMySQL/servers/securityAlertPolicies/disabledAlerts properties.disabledAlerts Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.disabledAlerts properties.disabledAlerts[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/disabledAlerts[*] properties.disabledAlerts[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.disabledAlerts[*] properties.emailAccountAdmins Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAccountAdmins properties.emailAccountAdmins Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAccountAdmins properties.emailAddresses Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAddresses properties.emailAddresses Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAddresses properties.emailAddresses[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/emailAddresses[*] properties.emailAddresses[*] Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.emailAddresses[*] properties.retentionDays Microsoft.DBforMySQL/servers/securityAlertPolicies/retentionDays properties.retentionDays Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.retentionDays properties.state Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.state properties.state Microsoft.DBforMySQL/servers/securityAlertPolicies/state properties.storageAccountAccessKey Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageAccountAccessKey properties.storageAccountAccessKey Microsoft.DBforMySQL/servers/securityAlertPolicies/storageAccountAccessKey properties.storageEndpoint Microsoft.DBforMySQL/servers/securityAlertPolicies/storageEndpoint properties.storageEndpoint Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageEndpoint </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-virtualNetworkRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers-virtualNetworkRules/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers/virtualNetworkRules
-Default Path Alias properties.ignoreMissingVnetServiceEndpoint Microsoft.DBforMySQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint properties.state Microsoft.DBforMySQL/servers/virtualNetworkRules/state properties.virtualNetworkSubnetId Microsoft.DBforMySQL/servers/virtualNetworkRules/virtualNetworkSubnetId </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers/virtualNetworkRules&#xA;Default Path Alias properties.ignoreMissingVnetServiceEndpoint Microsoft.DBforMySQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint properties.state Microsoft.DBforMySQL/servers/virtualNetworkRules/state properties.virtualNetworkSubnetId Microsoft.DBforMySQL/servers/virtualNetworkRules/virtualNetworkSubnetId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DBforMySQL/servers/</guid>
-      <description>Link to resource definition: Microsoft.DBforMySQL/servers
-Default Path Alias properties.administratorLogin Microsoft.DBforMySQL/servers/administratorLogin properties.earliestRestoreDate Microsoft.DBforMySQL/servers/earliestRestoreDate properties.fullyQualifiedDomainName Microsoft.DBforMySQL/servers/fullyQualifiedDomainName properties.infrastructureEncryption Microsoft.DBforMySQL/servers/infrastructureEncryption properties.masterServerId Microsoft.DBforMySQL/servers/masterServerId properties.minimalTlsVersion Microsoft.DBforMySQL/servers/minimalTlsVersion properties.publicNetworkAccess Microsoft.DBforMySQL/servers/publicNetworkAccess properties.replicaCapacity Microsoft.DBforMySQL/servers/replicaCapacity properties.replicationRole Microsoft.DBforMySQL/servers/replicationRole properties.sslEnforcement Microsoft.DBforMySQL/servers/sslEnforcement properties.storageProfile Microsoft.DBforMySQL/servers/storageProfile properties.storageProfile.backupRetentionDays Microsoft.DBforMySQL/servers/storageProfile.backupRetentionDays properties.storageProfile.geoRedundantBackup Microsoft.DBforMySQL/servers/storageProfile.geoRedundantBackup properties.storageProfile.storageAutogrow Microsoft.DBforMySQL/servers/storageProfile.storageAutogrow properties.storageProfile.storageMB Microsoft.DBforMySQL/servers/storageProfile.storageMB properties.userVisibleState Microsoft.DBforMySQL/servers/userVisibleState properties.version Microsoft.DBforMySQL/servers/version sku Microsoft.DBforMySQL/servers/sku sku.capacity Microsoft.DBforMySQL/servers/sku.capacity sku.family Microsoft.DBforMySQL/servers/sku.family sku.name Microsoft.DBforMySQL/servers/sku.name sku.size Microsoft.DBforMySQL/servers/sku.size sku.tier Microsoft.DBforMySQL/servers/sku.tier </description>
+      <description>Link to resource definition: Microsoft.DBforMySQL/servers&#xA;Default Path Alias properties.administratorLogin Microsoft.DBforMySQL/servers/administratorLogin properties.earliestRestoreDate Microsoft.DBforMySQL/servers/earliestRestoreDate properties.fullyQualifiedDomainName Microsoft.DBforMySQL/servers/fullyQualifiedDomainName properties.infrastructureEncryption Microsoft.DBforMySQL/servers/infrastructureEncryption properties.masterServerId Microsoft.DBforMySQL/servers/masterServerId properties.minimalTlsVersion Microsoft.DBforMySQL/servers/minimalTlsVersion properties.publicNetworkAccess Microsoft.DBforMySQL/servers/publicNetworkAccess properties.replicaCapacity Microsoft.DBforMySQL/servers/replicaCapacity properties.replicationRole Microsoft.DBforMySQL/servers/replicationRole properties.sslEnforcement Microsoft.DBforMySQL/servers/sslEnforcement properties.storageProfile Microsoft.DBforMySQL/servers/storageProfile properties.storageProfile.backupRetentionDays Microsoft.DBforMySQL/servers/storageProfile.backupRetentionDays properties.storageProfile.geoRedundantBackup Microsoft.DBforMySQL/servers/storageProfile.geoRedundantBackup properties.storageProfile.storageAutogrow Microsoft.DBforMySQL/servers/storageProfile.storageAutogrow properties.storageProfile.storageMB Microsoft.DBforMySQL/servers/storageProfile.storageMB properties.userVisibleState Microsoft.DBforMySQL/servers/userVisibleState properties.version Microsoft.DBforMySQL/servers/version sku Microsoft.DBforMySQL/servers/sku sku.capacity Microsoft.DBforMySQL/servers/sku.capacity sku.family Microsoft.DBforMySQL/servers/sku.family sku.name Microsoft.DBforMySQL/servers/sku.name sku.size Microsoft.DBforMySQL/servers/sku.size sku.tier Microsoft.DBforMySQL/servers/sku.tier </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,47 +4,36 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.DataLakeStore/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.DataLakeStore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-firewallRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-firewallRules/</guid>
-      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/firewallRules
-Default Path Alias properties.endIpAddress Microsoft.DataLakeStore/accounts/firewallRules/endIpAddress properties.startIpAddress Microsoft.DataLakeStore/accounts/firewallRules/startIpAddress </description>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/firewallRules&#xA;Default Path Alias properties.endIpAddress Microsoft.DataLakeStore/accounts/firewallRules/endIpAddress properties.startIpAddress Microsoft.DataLakeStore/accounts/firewallRules/startIpAddress </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-trustedIdProviders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-trustedIdProviders/</guid>
-      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/trustedIdProviders
-Default Path Alias properties.idProvider Microsoft.DataLakeStore/accounts/trustedIdProviders/idProvider </description>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/trustedIdProviders&#xA;Default Path Alias properties.idProvider Microsoft.DataLakeStore/accounts/trustedIdProviders/idProvider </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-virtualNetworkRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts-virtualNetworkRules/</guid>
-      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/virtualNetworkRules
-Default Path Alias properties.subnetId Microsoft.DataLakeStore/accounts/virtualNetworkRules/subnetId </description>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts/virtualNetworkRules&#xA;Default Path Alias properties.subnetId Microsoft.DataLakeStore/accounts/virtualNetworkRules/subnetId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.DataLakeStore/accounts/</guid>
-      <description>Link to resource definition: Microsoft.DataLakeStore/accounts
-Default Path Alias properties.creationTime Microsoft.DataLakeStore/accounts/creationTime properties.defaultGroup Microsoft.DataLakeStore/accounts/defaultGroup properties.encryptionConfig Microsoft.DataLakeStore/accounts/encryptionConfig properties.encryptionConfig.keyVaultMetaInfo Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyName Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyName properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion properties.encryptionConfig.keyVaultMetaInfo.keyVaultResourceId Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.keyVaultResourceId properties.encryptionConfig.type Microsoft.DataLakeStore/accounts/encryptionConfig.type properties.encryptionProvisioningState Microsoft.DataLakeStore/accounts/encryptionProvisioningState properties.encryptionState Microsoft.DataLakeStore/accounts/encryptionState properties.endpoint Microsoft.DataLakeStore/accounts/endpoint properties.firewallAllowAzureIps Microsoft.DataLakeStore/accounts/firewallAllowAzureIps properties.firewallRules Microsoft.DataLakeStore/accounts/firewallRules properties.firewallRules[*] Microsoft.DataLakeStore/accounts/firewallRules[*] properties.firewallRules[*].name Microsoft.DataLakeStore/accounts/firewallRules[*].name properties.firewallRules[*].properties.endIpAddress Microsoft.DataLakeStore/accounts/firewallRules[*].endIpAddress properties.firewallRules[*].properties.startIpAddress Microsoft.DataLakeStore/accounts/firewallRules[*].startIpAddress properties.firewallState Microsoft.DataLakeStore/accounts/firewallState properties.lastModifiedTime Microsoft.DataLakeStore/accounts/lastModifiedTime properties.newTier Microsoft.DataLakeStore/accounts/newTier properties.provisioningState Microsoft.DataLakeStore/accounts/provisioningState properties.state Microsoft.DataLakeStore/accounts/state properties.trustedIdProviders Microsoft.DataLakeStore/accounts/trustedIdProviders properties.trustedIdProviders[*] Microsoft.DataLakeStore/accounts/trustedIdProviders[*] properties.trustedIdProviders[*].name Microsoft.DataLakeStore/accounts/trustedIdProviders[*].name properties.trustedIdProviders[*].properties.idProvider Microsoft.DataLakeStore/accounts/trustedIdProviders[*].idProvider properties.trustedIdProviderState Microsoft.DataLakeStore/accounts/trustedIdProviderState properties.virtualNetworkRules Microsoft.DataLakeStore/accounts/virtualNetworkRules properties.virtualNetworkRules[*] Microsoft.DataLakeStore/accounts/virtualNetworkRules[*] properties.virtualNetworkRules[*].name Microsoft.DataLakeStore/accounts/virtualNetworkRules[*].name properties.virtualNetworkRules[*].properties.subnetId Microsoft.DataLakeStore/accounts/virtualNetworkRules[*].subnetId </description>
+      <description>Link to resource definition: Microsoft.DataLakeStore/accounts&#xA;Default Path Alias properties.creationTime Microsoft.DataLakeStore/accounts/creationTime properties.defaultGroup Microsoft.DataLakeStore/accounts/defaultGroup properties.encryptionConfig Microsoft.DataLakeStore/accounts/encryptionConfig properties.encryptionConfig.keyVaultMetaInfo Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyName Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyName properties.encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.encryptionKeyVersion properties.encryptionConfig.keyVaultMetaInfo.keyVaultResourceId Microsoft.DataLakeStore/accounts/encryptionConfig.keyVaultMetaInfo.keyVaultResourceId properties.encryptionConfig.type Microsoft.DataLakeStore/accounts/encryptionConfig.type properties.encryptionProvisioningState Microsoft.DataLakeStore/accounts/encryptionProvisioningState properties.encryptionState Microsoft.DataLakeStore/accounts/encryptionState properties.endpoint Microsoft.DataLakeStore/accounts/endpoint properties.firewallAllowAzureIps Microsoft.DataLakeStore/accounts/firewallAllowAzureIps properties.firewallRules Microsoft.DataLakeStore/accounts/firewallRules properties.firewallRules[*] Microsoft.DataLakeStore/accounts/firewallRules[*] properties.firewallRules[*].name Microsoft.DataLakeStore/accounts/firewallRules[*].name properties.firewallRules[*].properties.endIpAddress Microsoft.DataLakeStore/accounts/firewallRules[*].endIpAddress properties.firewallRules[*].properties.startIpAddress Microsoft.DataLakeStore/accounts/firewallRules[*].startIpAddress properties.firewallState Microsoft.DataLakeStore/accounts/firewallState properties.lastModifiedTime Microsoft.DataLakeStore/accounts/lastModifiedTime properties.newTier Microsoft.DataLakeStore/accounts/newTier properties.provisioningState Microsoft.DataLakeStore/accounts/provisioningState properties.state Microsoft.DataLakeStore/accounts/state properties.trustedIdProviders Microsoft.DataLakeStore/accounts/trustedIdProviders properties.trustedIdProviders[*] Microsoft.DataLakeStore/accounts/trustedIdProviders[*] properties.trustedIdProviders[*].name Microsoft.DataLakeStore/accounts/trustedIdProviders[*].name properties.trustedIdProviders[*].properties.idProvider Microsoft.DataLakeStore/accounts/trustedIdProviders[*].idProvider properties.trustedIdProviderState Microsoft.DataLakeStore/accounts/trustedIdProviderState properties.virtualNetworkRules Microsoft.DataLakeStore/accounts/virtualNetworkRules properties.virtualNetworkRules[*] Microsoft.DataLakeStore/accounts/virtualNetworkRules[*] properties.virtualNetworkRules[*].name Microsoft.DataLakeStore/accounts/virtualNetworkRules[*].name properties.virtualNetworkRules[*].properties.subnetId Microsoft.DataLakeStore/accounts/virtualNetworkRules[*].subnetId </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,17 +4,15 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.Fabric/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.Fabric/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.Fabric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Fabric/capacities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.Fabric/capacities/</guid>
-      <description>Link to resource definition: Microsoft.Fabric/capacities
-Default Path Alias properties.administration Microsoft.Fabric/capacities/administration properties.administration.members Microsoft.Fabric/capacities/administration.members properties.administration.members[*] Microsoft.Fabric/capacities/administration.members[*] properties.provisioningState Microsoft.Fabric/capacities/provisioningState properties.state Microsoft.Fabric/capacities/state sku Microsoft.Fabric/capacities/sku sku.name Microsoft.Fabric/capacities/sku.name sku.tier Microsoft.Fabric/capacities/sku.tier </description>
+      <description>Link to resource definition: Microsoft.Fabric/capacities&#xA;Default Path Alias properties.administration Microsoft.Fabric/capacities/administration properties.administration.members Microsoft.Fabric/capacities/administration.members properties.administration.members[*] Microsoft.Fabric/capacities/administration.members[*] properties.provisioningState Microsoft.Fabric/capacities/provisioningState properties.state Microsoft.Fabric/capacities/state sku Microsoft.Fabric/capacities/sku sku.name Microsoft.Fabric/capacities/sku.name sku.tier Microsoft.Fabric/capacities/sku.tier </description>
     </item>
-    
   </channel>
 </rss>

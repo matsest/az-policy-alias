@@ -4,27 +4,22 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.ManagedIdentity/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.ManagedIdentity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</guid>
-      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
-Default Path Alias properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject </description>
+      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials&#xA;Default Path Alias properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</guid>
-      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities
-Default Path Alias properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId </description>
+      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities&#xA;Default Path Alias properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId </description>
     </item>
-    
   </channel>
 </rss>

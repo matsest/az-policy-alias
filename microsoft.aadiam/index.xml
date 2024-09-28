@@ -4,27 +4,22 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/microsoft.aadiam/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/microsoft.aadiam/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/microsoft.aadiam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</guid>
-      <description>Link to resource definition: microsoft.aadiam/diagnosticSettings
-Default Path Alias properties.eventHubAuthorizationRuleId microsoft.aadiam/diagnosticSettings/eventHubAuthorizationRuleId properties.eventHubName microsoft.aadiam/diagnosticSettings/eventHubName properties.logs microsoft.aadiam/diagnosticSettings/logs properties.logs[*] microsoft.aadiam/diagnosticSettings/logs[*] properties.logs[*].category microsoft.aadiam/diagnosticSettings/logs[*].category properties.logs[*].enabled microsoft.aadiam/diagnosticSettings/logs[*].enabled properties.logs[*].retentionPolicy microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy properties.logs[*].retentionPolicy.days microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.days properties.logs[*].retentionPolicy.enabled microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.enabled properties.serviceBusRuleId microsoft.aadiam/diagnosticSettings/serviceBusRuleId properties.storageAccountId microsoft.aadiam/diagnosticSettings/storageAccountId properties.workspaceId microsoft.aadiam/diagnosticSettings/workspaceId </description>
+      <description>Link to resource definition: microsoft.aadiam/diagnosticSettings&#xA;Default Path Alias properties.eventHubAuthorizationRuleId microsoft.aadiam/diagnosticSettings/eventHubAuthorizationRuleId properties.eventHubName microsoft.aadiam/diagnosticSettings/eventHubName properties.logs microsoft.aadiam/diagnosticSettings/logs properties.logs[*] microsoft.aadiam/diagnosticSettings/logs[*] properties.logs[*].category microsoft.aadiam/diagnosticSettings/logs[*].category properties.logs[*].enabled microsoft.aadiam/diagnosticSettings/logs[*].enabled properties.logs[*].retentionPolicy microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy properties.logs[*].retentionPolicy.days microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.days properties.logs[*].retentionPolicy.enabled microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.enabled properties.serviceBusRuleId microsoft.aadiam/diagnosticSettings/serviceBusRuleId properties.storageAccountId microsoft.aadiam/diagnosticSettings/storageAccountId properties.workspaceId microsoft.aadiam/diagnosticSettings/workspaceId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</guid>
-      <description>Link to resource definition: microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections
-Default Path Alias properties.privateEndpoint microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint.id properties.privateLinkConnectionTags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags properties.privateLinkConnectionTags.tags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags.tags properties.privateLinkServiceConnectionState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/provisioningState </description>
+      <description>Link to resource definition: microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections&#xA;Default Path Alias properties.privateEndpoint microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint.id properties.privateLinkConnectionTags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags properties.privateLinkConnectionTags.tags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags.tags properties.privateLinkServiceConnectionState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/provisioningState </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,27 +4,22 @@
     <title>Azure Policy Aliases</title>
     <link>http://policyalias.mats.codes/Microsoft.CustomProviders/</link>
     <description>Recent content on Azure Policy Aliases</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://policyalias.mats.codes/Microsoft.CustomProviders/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.CustomProviders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.CustomProviders/associations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.CustomProviders/associations/</guid>
-      <description>Link to resource definition: Microsoft.CustomProviders/associations
-Default Path Alias properties.provisioningState Microsoft.CustomProviders/associations/provisioningState properties.targetResourceId Microsoft.CustomProviders/associations/targetResourceId </description>
+      <description>Link to resource definition: Microsoft.CustomProviders/associations&#xA;Default Path Alias properties.provisioningState Microsoft.CustomProviders/associations/provisioningState properties.targetResourceId Microsoft.CustomProviders/associations/targetResourceId </description>
     </item>
-    
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.CustomProviders/resourceProviders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://policyalias.mats.codes/Microsoft.CustomProviders/resourceProviders/</guid>
-      <description>Link to resource definition: Microsoft.CustomProviders/resourceProviders
-Default Path Alias properties.actions Microsoft.CustomProviders/resourceProviders/actions properties.actions[*] Microsoft.CustomProviders/resourceProviders/actions[*] properties.actions[*].endpoint Microsoft.CustomProviders/resourceProviders/actions[*].endpoint properties.actions[*].name Microsoft.CustomProviders/resourceProviders/actions[*].name properties.actions[*].routingType Microsoft.CustomProviders/resourceProviders/actions[*].routingType properties.provisioningState Microsoft.CustomProviders/resourceProviders/provisioningState properties.resourceTypes Microsoft.CustomProviders/resourceProviders/resourceTypes properties.resourceTypes[*] Microsoft.CustomProviders/resourceProviders/resourceTypes[*] properties.resourceTypes[*].routingType Microsoft.CustomProviders/resourceProviders/resourceTypes[*].routingType properties.validations Microsoft.CustomProviders/resourceProviders/validations properties.validations[*] Microsoft.CustomProviders/resourceProviders/validations[*] properties.validations[*].specification Microsoft.CustomProviders/resourceProviders/validations[*].specification properties.validations[*].validationType Microsoft.CustomProviders/resourceProviders/validations[*].validationType </description>
+      <description>Link to resource definition: Microsoft.CustomProviders/resourceProviders&#xA;Default Path Alias properties.actions Microsoft.CustomProviders/resourceProviders/actions properties.actions[*] Microsoft.CustomProviders/resourceProviders/actions[*] properties.actions[*].endpoint Microsoft.CustomProviders/resourceProviders/actions[*].endpoint properties.actions[*].name Microsoft.CustomProviders/resourceProviders/actions[*].name properties.actions[*].routingType Microsoft.CustomProviders/resourceProviders/actions[*].routingType properties.provisioningState Microsoft.CustomProviders/resourceProviders/provisioningState properties.resourceTypes Microsoft.CustomProviders/resourceProviders/resourceTypes properties.resourceTypes[*] Microsoft.CustomProviders/resourceProviders/resourceTypes[*] properties.resourceTypes[*].routingType Microsoft.CustomProviders/resourceProviders/resourceTypes[*].routingType properties.validations Microsoft.CustomProviders/resourceProviders/validations properties.validations[*] Microsoft.CustomProviders/resourceProviders/validations[*] properties.validations[*].specification Microsoft.CustomProviders/resourceProviders/validations[*].specification properties.validations[*].validationType Microsoft.CustomProviders/resourceProviders/validations[*].validationType </description>
     </item>
-    
   </channel>
 </rss>
