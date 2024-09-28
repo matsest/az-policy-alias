@@ -6,7 +6,7 @@
 [![Hugo Version](https://img.shields.io/badge/hugo-0.128-blue.svg)](https://gohugo.io)
 [![License](https://img.shields.io/github/license/matsest/az-policy-alias)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)
 
-This repo contains code for a website that makes it easier to quickly find and search for [Azure Policy Aliases](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure#aliases) to use when authoring custom Azure policy definitions.
+This repo contains code for a website that makes it easier to quickly find and search for [Azure Policy Aliases](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-alias) to use when authoring custom Azure policy definitions.
 
 This repo is made by me and have no affliations with Microsoft.
 
