@@ -2,6 +2,12 @@ name: Update Theme
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-theme
+      - src/update-theme.sh
+
   schedule:
     - cron: "00 2 * * *"
 
