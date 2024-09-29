@@ -38,18 +38,20 @@ jobs:
             ./src/ps1/Get-AzResourcePolicyAliases.ps1
           azPSVersion: "latest"
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: "0.128.0"
-          extended: true
-
-      - name: Build Hugo site
-        run: hugo
-
       - name: "List generated contents"
         run: |
           ls content
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.128.2"
+          extended: true
+
+      - name: Build Hugo site
+        run: |
+          hugo
+          find ./public -name "*.html" -print0 | xargs -0 sed -i '/^ *$/d'
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4.0.0
