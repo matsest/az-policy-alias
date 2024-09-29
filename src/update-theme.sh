@@ -21,6 +21,7 @@ if [[ $(git status --porcelain -- $THEME_PATH) ]]; then
   echo "Theme updated with changes!"
   NEW_VERSION=$(cat $THEME_PATH/VERSION)
   echo "New version: $NEW_VERSION"
+  echo "{VERSION}={$NEW_VERSION}" >>"$GITHUB_OUTPUT"
 else
   echo "No changes detected"
 fi
