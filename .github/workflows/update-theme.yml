@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - .github/workflows/update-theme
+      - .github/workflows/update-theme.yml
       - src/update-theme.sh
 
   schedule:
