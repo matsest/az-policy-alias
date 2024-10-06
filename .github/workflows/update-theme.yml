@@ -9,7 +9,7 @@ on:
       - src/update-theme.sh
 
   schedule:
-    - cron: "00 2 * * *"
+    - cron: "0 2 * * 1" # every monday 02 AM UTC
 
 permissions:
   contents: write
