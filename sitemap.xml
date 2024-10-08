@@ -532,11 +532,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-defenderForAISettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-encryptionScopes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists/</loc>
   </url><url>
@@ -776,6 +780,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-adfcdcs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-credentials/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-dataflows/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataFactory/factories-datasets/</loc>
@@ -820,6 +828,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataMigration/DatabaseMigrations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataMigration/migrationServices/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-projects-files/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-projects-tasks/</loc>
@@ -829,6 +841,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services-serviceTasks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataMigration/services/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataMigration/SqlMigrationServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/</loc>
   </url><url>

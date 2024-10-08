@@ -16,6 +16,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-defenderForAISettings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-defenderForAISettings/</guid>
+      <description>Link to resource definition: Microsoft.CognitiveServices/accounts/defenderForAISettings&#xA;Default Path Alias properties.state Microsoft.CognitiveServices/accounts/defenderForAISettings/state </description>
+    </item>
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</guid>
@@ -37,6 +44,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems/</guid>
+      <description>Link to resource definition: Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems&#xA;Default Path Alias properties.isRegex Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems/isRegex properties.pattern Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems/pattern </description>
+    </item>
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists/</guid>
@@ -47,7 +61,7 @@
       <link>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiPolicies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiPolicies/</guid>
-      <description>Link to resource definition: Microsoft.CognitiveServices/accounts/raiPolicies&#xA;Default Path Alias properties.basePolicyName Microsoft.CognitiveServices/accounts/raiPolicies/basePolicyName properties.completionBlocklists Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists properties.completionBlocklists[*] Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*] properties.completionBlocklists[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*].blocking properties.completionBlocklists[*].blocklistName Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*].blocklistName properties.contentFilters Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters properties.contentFilters[*] Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*] properties.contentFilters[*].allowedContentLevel Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].allowedContentLevel properties.contentFilters[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].blocking properties.contentFilters[*].enabled Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].enabled properties.contentFilters[*].policyName Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].policyName properties.contentFilters[*].source Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].source properties.mode Microsoft.CognitiveServices/accounts/raiPolicies/mode properties.policyType Microsoft.CognitiveServices/accounts/raiPolicies/policyType properties.promptBlocklists Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists properties.promptBlocklists[*] Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*] properties.promptBlocklists[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*].blocking properties.promptBlocklists[*].blocklistName Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*].blocklistName </description>
+      <description>Link to resource definition: Microsoft.CognitiveServices/accounts/raiPolicies&#xA;Default Path Alias properties.basePolicyName Microsoft.CognitiveServices/accounts/raiPolicies/basePolicyName properties.completionBlocklists Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists properties.completionBlocklists[*] Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*] properties.completionBlocklists[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*].blocking properties.completionBlocklists[*].blocklistName Microsoft.CognitiveServices/accounts/raiPolicies/completionBlocklists[*].blocklistName properties.contentFilters Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters properties.contentFilters[*] Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*] properties.contentFilters[*].allowedContentLevel Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].allowedContentLevel properties.contentFilters[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].blocking properties.contentFilters[*].enabled Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].enabled properties.contentFilters[*].name Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].name properties.contentFilters[*].policyName Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].policyName properties.contentFilters[*].severityThreshold Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].severityThreshold properties.contentFilters[*].source Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].source properties.customBlocklists Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists properties.customBlocklists[*] Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*] properties.customBlocklists[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocking properties.customBlocklists[*].blocklistName Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocklistName properties.customBlocklists[*].source Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].source properties.mode Microsoft.CognitiveServices/accounts/raiPolicies/mode properties.policyType Microsoft.CognitiveServices/accounts/raiPolicies/policyType properties.promptBlocklists Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists properties.promptBlocklists[*] Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*] properties.promptBlocklists[*].blocking Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*].blocking properties.promptBlocklists[*].blocklistName Microsoft.CognitiveServices/accounts/raiPolicies/promptBlocklists[*].blocklistName properties.type Microsoft.CognitiveServices/accounts/raiPolicies/type </description>
     </item>
     <item>
       <title></title>
