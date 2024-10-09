@@ -52,7 +52,7 @@ Default Path Alias properties.administratorLogin Microsoft.DBForPostgreSql/flexi
       "headline": "Flexible Servers",
       "description": "Link to resource definition: Microsoft.DBforPostgreSQL\/flexibleServers\nDefault Path Alias properties.administratorLogin Microsoft.DBForPostgreSql\/flexibleServers\/administratorLogin properties.administratorLoginPassword Microsoft.DBForPostgreSql\/flexibleServers\/administratorLoginPassword properties.authConfig Microsoft.DBForPostgreSql\/flexibleServers\/authConfig properties.authConfig.activeDirectoryAuth Microsoft.DBForPostgreSql\/flexibleServers\/authConfig.activeDirectoryAuth properties.authConfig.activeDirectoryAuthEnabled Microsoft.DBForPostgreSql\/flexibleServers\/authConfig.activeDirectoryAuthEnabled properties.authConfig.passwordAuth Microsoft.DBForPostgreSql\/flexibleServers\/authConfig.passwordAuth properties.authConfig.passwordAuthEnabled Microsoft.DBForPostgreSql\/flexibleServers\/authConfig.passwordAuthEnabled properties.authConfig.tenantId Microsoft.DBForPostgreSql\/flexibleServers\/authConfig.tenantId properties.availabilityZone Microsoft.DBForPostgreSql\/flexibleServers\/availabilityZone properties.backup Microsoft.DBForPostgreSql\/flexibleServers\/backup properties.backup.backupRetentionDays Microsoft.DBForPostgreSql\/flexibleServers\/backup.backupRetentionDays properties.backup.earliestRestoreDate Microsoft.DBForPostgreSql\/flexibleServers\/backup.earliestRestoreDate properties.backup.geoRedundantBackup Microsoft.DBForPostgreSql\/flexibleServers\/backup.geoRedundantBackup properties.byokEnforcement Microsoft.DBForPostgreSql\/flexibleServers\/byokEnforcement properties.createMode Microsoft.DBForPostgreSql\/flexibleServers\/createMode properties.dataEncryption Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption properties.dataEncryption.geoBackupEncryptionKeyStatus Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.geoBackupEncryptionKeyStatus properties.dataEncryption.geoBackupKeyURI Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.geoBackupKeyURI properties.dataEncryption.geoBackupUserAssignedIdentityId Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.geoBackupUserAssignedIdentityId properties.dataEncryption.primaryEncryptionKeyStatus Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.primaryEncryptionKeyStatus properties.dataEncryption.primaryKeyURI Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.primaryKeyURI properties.dataEncryption.primaryUserAssignedIdentityId Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.primaryUserAssignedIdentityId properties.dataEncryption.type Microsoft.DBForPostgreSql\/flexibleServers\/dataEncryption.type properties.delegatedSubnetArguments Microsoft.DBForPostgreSql\/flexibleServers\/delegatedSubnetArguments properties.delegatedSubnetArguments.subnetArmResourceId Microsoft.DBForPostgreSql\/flexibleServers\/delegatedSubnetArguments.subnetArmResourceId properties.displayName Microsoft.DBForPostgreSql\/flexibleServers\/displayName properties.earliestRestoreDate Microsoft.DBForPostgreSql\/flexibleServers\/earliestRestoreDate properties.fullyQualifiedDomainName Microsoft.DBForPostgreSql\/flexibleServers\/fullyQualifiedDomainName properties.haEnabled Microsoft.DBForPostgreSql\/flexibleServers\/haEnabled properties.haState Microsoft.DBForPostgreSql\/flexibleServers\/haState properties.highAvailability Microsoft.DBForPostgreSql\/flexibleServers\/highAvailability properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "198",
+      "wordCount" : "212",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2650,11 +2650,11 @@ Default Path Alias properties.administratorLogin Microsoft.DBForPostgreSql/flexi
 </tr>
 <tr>
 <td><code>properties.network.publicNetworkAccess</code></td>
-<td><code>Microsoft.DBForPostgreSql/flexibleServers/network.publicNetworkAccess</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/publicNetworkAccess</code></td>
 </tr>
 <tr>
 <td><code>properties.network.publicNetworkAccess</code></td>
-<td><code>Microsoft.DBForPostgreSql/flexibleServers/publicNetworkAccess</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/network.publicNetworkAccess</code></td>
 </tr>
 <tr>
 <td><code>properties.pointInTimeUTC</code></td>
@@ -2719,6 +2719,34 @@ Default Path Alias properties.administratorLogin Microsoft.DBForPostgreSql/flexi
 <tr>
 <td><code>properties.privateEndpointConnections[*].properties.provisioningState</code></td>
 <td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].provisioningState</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.createdAt</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdAt</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.createdBy</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdBy</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.createdByType</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdByType</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.lastModifiedAt</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedAt</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.lastModifiedBy</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedBy</code></td>
+</tr>
+<tr>
+<td><code>properties.privateEndpointConnections[*].systemData.lastModifiedByType</code></td>
+<td><code>Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedByType</code></td>
 </tr>
 <tr>
 <td><code>properties.privateEndpointConnections[*].type</code></td>

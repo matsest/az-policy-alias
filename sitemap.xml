@@ -2408,15 +2408,31 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-customCertificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-customDomains/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/signalR-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-replicas-sharedPrivateLinkResources/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-replicas/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-customCertificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-customDomains/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-hubs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-replicas-sharedPrivateLinkResources/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-replicas/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources/</loc>
   </url><url>
