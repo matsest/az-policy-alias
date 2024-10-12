@@ -490,6 +490,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1559,6 +1561,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-computes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections-deployments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists-raiBlocklistItems/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections-raiPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MachineLearningServices/workspaces-connections/</loc>
   </url><url>
