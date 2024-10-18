@@ -2090,6 +2090,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-notificationHubs/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces-privateEndpointConnections/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.NotificationHubs/namespaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OffAzure/</loc>
