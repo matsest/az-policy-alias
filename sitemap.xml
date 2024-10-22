@@ -1378,8 +1378,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/activityLogAlerts/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/microsoft.insights/alertrules/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/autoscalesettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components-analyticsItems/</loc>
