@@ -490,8 +490,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1699,6 +1697,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.MixedReality/objectAnchorsAccounts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</loc>
   </url><url>
