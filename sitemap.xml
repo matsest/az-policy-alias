@@ -30,6 +30,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/gateways-configConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/gateways/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-diagnostics/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-apis-issues-attachments/</loc>
@@ -142,6 +146,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-users/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-diagnostics/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations-policies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apis-operations/</loc>
@@ -156,7 +162,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-apiVersionSets/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-backends/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-certificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-diagnostics/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-groups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-loggers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ApiManagement/service-workspaces-namedValues/</loc>
   </url><url>
