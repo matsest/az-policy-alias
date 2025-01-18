@@ -23,13 +23,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</guid>
-      <description>Link to resource definition: microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections&#xA;Default Path Alias properties.privateEndpoint microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint properties.privateEndpoint.id microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateEndpoint.id properties.privateLinkConnectionTags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags properties.privateLinkConnectionTags.tags microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkConnectionTags.tags properties.privateLinkServiceConnectionState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState properties.privateLinkServiceConnectionState.actionsRequired microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired properties.privateLinkServiceConnectionState.description microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.description properties.privateLinkServiceConnectionState.status microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/privateLinkServiceConnectionState.status properties.provisioningState microsoft.aadiam/privateLinkForAzureAd/privateEndpointConnections/provisioningState </description>
-    </item>
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</guid>

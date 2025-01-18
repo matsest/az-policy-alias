@@ -12,8 +12,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.aadiam/diagnosticSettings/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AlertsManagement/actionRules/</loc>
