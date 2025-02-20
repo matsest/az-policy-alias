@@ -52,7 +52,7 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
       "headline": "Container Apps",
       "description": "Link to resource definition: Microsoft.App\/containerApps\nDefault Path Alias managedBy Microsoft.App\/containerApps\/managedBy properties.configuration Microsoft.App\/containerApps\/configuration properties.configuration.activeRevisionsMode Microsoft.App\/containerApps\/configuration.activeRevisionsMode properties.configuration.dapr Microsoft.App\/containerApps\/configuration.dapr properties.configuration.dapr.appId Microsoft.App\/containerApps\/configuration.dapr.appId properties.configuration.dapr.appPort Microsoft.App\/containerApps\/configuration.dapr.appPort properties.configuration.dapr.appProtocol Microsoft.App\/containerApps\/configuration.dapr.appProtocol properties.configuration.dapr.enableApiLogging Microsoft.App\/containerApps\/configuration.dapr.enableApiLogging properties.configuration.dapr.enabled Microsoft.App\/containerApps\/configuration.dapr.enabled properties.configuration.dapr.httpMaxRequestSize Microsoft.App\/containerApps\/configuration.dapr.httpMaxRequestSize properties.configuration.dapr.httpReadBufferSize Microsoft.App\/containerApps\/configuration.dapr.httpReadBufferSize properties.configuration.dapr.logLevel Microsoft.App\/containerApps\/configuration.dapr.logLevel properties.configuration.identitySettings Microsoft.App\/containerApps\/configuration.identitySettings properties.configuration.identitySettings[*] Microsoft.App\/containerApps\/configuration.identitySettings[*] properties.configuration.identitySettings[*].identity Microsoft.App\/containerApps\/configuration.identitySettings[*].identity properties.configuration.identitySettings[*].lifecycle Microsoft.App\/containerApps\/configuration.identitySettings[*].lifecycle properties.configuration.ingress Microsoft.App\/containerApps\/configuration.ingress properties.configuration.ingress.additionalPortMappings Microsoft.App\/containerApps\/configuration.ingress.additionalPortMappings properties.configuration.ingress.additionalPortMappings[*] Microsoft.App\/containerApps\/configuration.ingress.additionalPortMappings[*] properties.configuration.ingress.additionalPortMappings[*].exposedPort Microsoft.App\/containerApps\/configuration.ingress.additionalPortMappings[*].exposedPort properties.configuration.ingress.additionalPortMappings[*].external Microsoft.App\/containerApps\/configuration.ingress.additionalPortMappings[*].external properties.configuration.ingress.additionalPortMappings[*].targetPort Microsoft.App\/containerApps\/configuration.ingress.additionalPortMappings[*].targetPort properties.configuration.ingress.allowInsecure Microsoft.App\/containerApps\/configuration.ingress.allowInsecure properties.configuration.ingress.clientCertificateMode Microsoft.App\/containerApps\/configuration.ingress.clientCertificateMode properties.configuration.ingress.corsPolicy Microsoft.App\/containerApps\/configuration.ingress.corsPolicy properties.configuration.ingress.corsPolicy.allowCredentials Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowCredentials properties.configuration.ingress.corsPolicy.allowedHeaders Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowedHeaders properties.configuration.ingress.corsPolicy.allowedHeaders[*] Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowedHeaders[*] properties.configuration.ingress.corsPolicy.allowedMethods Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowedMethods properties.configuration.ingress.corsPolicy.allowedMethods[*] Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowedMethods[*] properties.configuration.ingress.corsPolicy.allowedOrigins Microsoft.App\/containerApps\/configuration.ingress.corsPolicy.allowedOrigins properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "456",
+      "wordCount" : "472",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2741,6 +2741,10 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <td><code>Microsoft.App/containerApps/configuration.registries[*].username</code></td>
 </tr>
 <tr>
+<td><code>properties.configuration.revisionTransitionThreshold</code></td>
+<td><code>Microsoft.App/containerApps/configuration.revisionTransitionThreshold</code></td>
+</tr>
+<tr>
 <td><code>properties.configuration.runtime</code></td>
 <td><code>Microsoft.App/containerApps/configuration.runtime</code></td>
 </tr>
@@ -2821,8 +2825,16 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <td><code>Microsoft.App/containerApps/configuration.service.type</code></td>
 </tr>
 <tr>
+<td><code>properties.configuration.targetLabel</code></td>
+<td><code>Microsoft.App/containerApps/configuration.targetLabel</code></td>
+</tr>
+<tr>
 <td><code>properties.customDomainVerificationId</code></td>
 <td><code>Microsoft.App/containerApps/customDomainVerificationId</code></td>
+</tr>
+<tr>
+<td><code>properties.deploymentErrors</code></td>
+<td><code>Microsoft.App/containerApps/deploymentErrors</code></td>
 </tr>
 <tr>
 <td><code>properties.environmentId</code></td>
@@ -2867,6 +2879,10 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <tr>
 <td><code>properties.provisioningState</code></td>
 <td><code>Microsoft.App/containerApps/provisioningState</code></td>
+</tr>
+<tr>
+<td><code>properties.runningStatus</code></td>
+<td><code>Microsoft.App/containerApps/runningStatus</code></td>
 </tr>
 <tr>
 <td><code>properties.template</code></td>
@@ -3025,6 +3041,10 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <td><code>Microsoft.App/containerApps/template.containers[*].resources.ephemeralStorage</code></td>
 </tr>
 <tr>
+<td><code>properties.template.containers[*].resources.gpu</code></td>
+<td><code>Microsoft.App/containerApps/template.containers[*].resources.gpu</code></td>
+</tr>
+<tr>
 <td><code>properties.template.containers[*].resources.memory</code></td>
 <td><code>Microsoft.App/containerApps/template.containers[*].resources.memory</code></td>
 </tr>
@@ -3117,6 +3137,10 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <td><code>Microsoft.App/containerApps/template.initContainers[*].resources.ephemeralStorage</code></td>
 </tr>
 <tr>
+<td><code>properties.template.initContainers[*].resources.gpu</code></td>
+<td><code>Microsoft.App/containerApps/template.initContainers[*].resources.gpu</code></td>
+</tr>
+<tr>
 <td><code>properties.template.initContainers[*].resources.memory</code></td>
 <td><code>Microsoft.App/containerApps/template.initContainers[*].resources.memory</code></td>
 </tr>
@@ -3149,12 +3173,20 @@ Default Path Alias managedBy Microsoft.App/containerApps/managedBy properties.co
 <td><code>Microsoft.App/containerApps/template.scale</code></td>
 </tr>
 <tr>
+<td><code>properties.template.scale.cooldownPeriod</code></td>
+<td><code>Microsoft.App/containerApps/template.scale.cooldownPeriod</code></td>
+</tr>
+<tr>
 <td><code>properties.template.scale.maxReplicas</code></td>
 <td><code>Microsoft.App/containerApps/template.scale.maxReplicas</code></td>
 </tr>
 <tr>
 <td><code>properties.template.scale.minReplicas</code></td>
 <td><code>Microsoft.App/containerApps/template.scale.minReplicas</code></td>
+</tr>
+<tr>
+<td><code>properties.template.scale.pollingInterval</code></td>
+<td><code>Microsoft.App/containerApps/template.scale.pollingInterval</code></td>
 </tr>
 <tr>
 <td><code>properties.template.scale.rules</code></td>

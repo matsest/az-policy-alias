@@ -52,7 +52,7 @@ Default Path Alias properties.configuration Microsoft.App/jobs/configuration pro
       "headline": "Jobs",
       "description": "Link to resource definition: Microsoft.App\/jobs\nDefault Path Alias properties.configuration Microsoft.App\/jobs\/configuration properties.configuration.eventTriggerConfig Microsoft.App\/jobs\/configuration.eventTriggerConfig properties.configuration.eventTriggerConfig.parallelism Microsoft.App\/jobs\/configuration.eventTriggerConfig.parallelism properties.configuration.eventTriggerConfig.replicaCompletionCount Microsoft.App\/jobs\/configuration.eventTriggerConfig.replicaCompletionCount properties.configuration.eventTriggerConfig.scale Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale properties.configuration.eventTriggerConfig.scale.maxExecutions Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.maxExecutions properties.configuration.eventTriggerConfig.scale.minExecutions Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.minExecutions properties.configuration.eventTriggerConfig.scale.pollingInterval Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.pollingInterval properties.configuration.eventTriggerConfig.scale.rules Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules properties.configuration.eventTriggerConfig.scale.rules[*] Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*] properties.configuration.eventTriggerConfig.scale.rules[*].auth Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].auth properties.configuration.eventTriggerConfig.scale.rules[*].auth[*] Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].auth[*] properties.configuration.eventTriggerConfig.scale.rules[*].auth[*].secretRef Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].auth[*].secretRef properties.configuration.eventTriggerConfig.scale.rules[*].auth[*].triggerParameter Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].auth[*].triggerParameter properties.configuration.eventTriggerConfig.scale.rules[*].identity Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].identity properties.configuration.eventTriggerConfig.scale.rules[*].name Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].name properties.configuration.eventTriggerConfig.scale.rules[*].type Microsoft.App\/jobs\/configuration.eventTriggerConfig.scale.rules[*].type properties.configuration.identitySettings Microsoft.App\/jobs\/configuration.identitySettings properties.configuration.identitySettings[*] Microsoft.App\/jobs\/configuration.identitySettings[*] properties.configuration.identitySettings[*].identity Microsoft.App\/jobs\/configuration.identitySettings[*].identity properties.configuration.identitySettings[*].lifecycle Microsoft.App\/jobs\/configuration.identitySettings[*].lifecycle properties.configuration.manualTriggerConfig Microsoft.App\/jobs\/configuration.manualTriggerConfig properties.configuration.manualTriggerConfig.parallelism Microsoft.App\/jobs\/configuration.manualTriggerConfig.parallelism properties.configuration.manualTriggerConfig.replicaCompletionCount Microsoft.App\/jobs\/configuration.manualTriggerConfig.replicaCompletionCount properties.configuration.registries Microsoft.App\/jobs\/configuration.registries properties.configuration.registries[*] Microsoft.App\/jobs\/configuration.registries[*] properties.configuration.registries[*].identity Microsoft.App\/jobs\/configuration.registries[*].identity properties.configuration.registries[*].passwordSecretRef Microsoft.App\/jobs\/configuration.registries[*].passwordSecretRef properties.configuration.registries[*].server Microsoft.App\/jobs\/configuration.registries[*].server properties.configuration.registries[*].username Microsoft.App\/jobs\/configuration.registries[*].username properties.configuration.replicaRetryLimit Microsoft.App\/jobs\/configuration.replicaRetryLimit properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "262",
+      "wordCount" : "268",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2665,6 +2665,10 @@ Default Path Alias properties.configuration Microsoft.App/jobs/configuration pro
 <td><code>Microsoft.App/jobs/provisioningState</code></td>
 </tr>
 <tr>
+<td><code>properties.runningState</code></td>
+<td><code>Microsoft.App/jobs/runningState</code></td>
+</tr>
+<tr>
 <td><code>properties.template</code></td>
 <td><code>Microsoft.App/jobs/template</code></td>
 </tr>
@@ -2821,6 +2825,10 @@ Default Path Alias properties.configuration Microsoft.App/jobs/configuration pro
 <td><code>Microsoft.App/jobs/template.containers[*].resources.ephemeralStorage</code></td>
 </tr>
 <tr>
+<td><code>properties.template.containers[*].resources.gpu</code></td>
+<td><code>Microsoft.App/jobs/template.containers[*].resources.gpu</code></td>
+</tr>
+<tr>
 <td><code>properties.template.containers[*].resources.memory</code></td>
 <td><code>Microsoft.App/jobs/template.containers[*].resources.memory</code></td>
 </tr>
@@ -2911,6 +2919,10 @@ Default Path Alias properties.configuration Microsoft.App/jobs/configuration pro
 <tr>
 <td><code>properties.template.initContainers[*].resources.ephemeralStorage</code></td>
 <td><code>Microsoft.App/jobs/template.initContainers[*].resources.ephemeralStorage</code></td>
+</tr>
+<tr>
+<td><code>properties.template.initContainers[*].resources.gpu</code></td>
+<td><code>Microsoft.App/jobs/template.initContainers[*].resources.gpu</code></td>
 </tr>
 <tr>
 <td><code>properties.template.initContainers[*].resources.memory</code></td>

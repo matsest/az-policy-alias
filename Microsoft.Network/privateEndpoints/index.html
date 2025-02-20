@@ -52,7 +52,7 @@ Default Path Alias properties.applicationSecurityGroups Microsoft.Network/privat
       "headline": "Private Endpoints",
       "description": "Link to resource definition: Microsoft.Network\/privateEndpoints\nDefault Path Alias properties.applicationSecurityGroups Microsoft.Network\/privateEndpoints\/applicationSecurityGroups properties.applicationSecurityGroups[*] Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*] properties.applicationSecurityGroups[*].etag Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].etag properties.applicationSecurityGroups[*].id Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].id properties.applicationSecurityGroups[*].location Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].location properties.applicationSecurityGroups[*].name Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].name properties.applicationSecurityGroups[*].properties.provisioningState Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].provisioningState properties.applicationSecurityGroups[*].properties.resourceGuid Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].resourceGuid properties.applicationSecurityGroups[*].tags Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].tags properties.applicationSecurityGroups[*].type Microsoft.Network\/privateEndpoints\/applicationSecurityGroups[*].type properties.customDnsConfigs Microsoft.Network\/privateEndpoints\/customDnsConfigs properties.customDnsConfigs[*] Microsoft.Network\/privateEndpoints\/customDnsConfigs[*] properties.customDnsConfigs[*].fqdn Microsoft.Network\/privateEndpoints\/customDnsConfigs[*].fqdn properties.customDnsConfigs[*].ipAddresses Microsoft.Network\/privateEndpoints\/customDnsConfigs[*].ipAddresses properties.customDnsConfigs[*].ipAddresses[*] Microsoft.Network\/privateEndpoints\/customDnsConfigs[*].ipAddresses[*] properties.customNetworkInterfaceName Microsoft.Network\/privateEndpoints\/customNetworkInterfaceName properties.ipConfigurations Microsoft.Network\/privateEndpoints\/ipConfigurations properties.ipConfigurations[*] Microsoft.Network\/privateEndpoints\/ipConfigurations[*] properties.ipConfigurations[*].etag Microsoft.Network\/privateEndpoints\/ipConfigurations[*].etag properties.ipConfigurations[*].name Microsoft.Network\/privateEndpoints\/ipConfigurations[*].name properties.ipConfigurations[*].properties.groupId Microsoft.Network\/privateEndpoints\/ipConfigurations[*].groupId properties.ipConfigurations[*].properties.memberName Microsoft.Network\/privateEndpoints\/ipConfigurations[*].memberName properties.ipConfigurations[*].properties.privateIPAddress Microsoft.Network\/privateEndpoints\/ipConfigurations[*].privateIPAddress properties.ipConfigurations[*].type Microsoft.Network\/privateEndpoints\/ipConfigurations[*].type properties.manualPrivateLinkServiceConnections Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections properties.manualPrivateLinkServiceConnections[*] Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*] properties.manualPrivateLinkServiceConnections[*].etag Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*].etag properties.manualPrivateLinkServiceConnections[*].id Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*].id properties.manualPrivateLinkServiceConnections[*].name Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*].name properties.manualPrivateLinkServiceConnections[*].properties.groupIds Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*].groupIds properties.manualPrivateLinkServiceConnections[*].properties.groupIds[*] Microsoft.Network\/privateEndpoints\/manualPrivateLinkServiceConnections[*].groupIds[*] properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "984",
+      "wordCount" : "998",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2681,6 +2681,10 @@ Default Path Alias properties.applicationSecurityGroups Microsoft.Network/privat
 <td><code>Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliarySku</code></td>
 </tr>
 <tr>
+<td><code>properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled</code></td>
+<td><code>Microsoft.Network/privateEndpoints/networkInterfaces[*].defaultOutboundConnectivityEnabled</code></td>
+</tr>
+<tr>
 <td><code>properties.networkInterfaces[*].properties.disableTcpStateTracking</code></td>
 <td><code>Microsoft.Network/privateEndpoints/networkInterfaces[*].disableTcpStateTracking</code></td>
 </tr>
@@ -3163,6 +3167,30 @@ Default Path Alias properties.applicationSecurityGroups Microsoft.Network/privat
 <tr>
 <td><code>properties.subnet.properties.ipAllocations[*].id</code></td>
 <td><code>Microsoft.Network/privateEndpoints/subnet.ipAllocations[*].id</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations[*]</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].numberOfIpAddresses</code></td>
+</tr>
+<tr>
+<td><code>properties.subnet.properties.ipamPoolPrefixAllocations[*].pool</code></td>
+<td><code>Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].pool</code></td>
 </tr>
 <tr>
 <td><code>properties.subnet.properties.ipConfigurationProfiles</code></td>

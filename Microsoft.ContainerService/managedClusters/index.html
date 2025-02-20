@@ -52,7 +52,7 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
       "headline": "Managed Clusters",
       "description": "Link to resource definition: Microsoft.ContainerService\/managedClusters\nDefault Path Alias properties.aadProfile Microsoft.ContainerService\/managedClusters\/aadProfile properties.aadProfile.adminGroupObjectIDs Microsoft.ContainerService\/managedClusters\/aadProfile.adminGroupObjectIDs properties.aadProfile.adminGroupObjectIDs[*] Microsoft.ContainerService\/managedClusters\/aadProfile.adminGroupObjectIDs[*] properties.aadProfile.clientAppID Microsoft.ContainerService\/managedClusters\/aadProfile.clientAppID properties.aadProfile.enableAzureRBAC Microsoft.ContainerService\/managedClusters\/aadProfile.enableAzureRBAC properties.aadProfile.managed Microsoft.ContainerService\/managedClusters\/aadProfile.managed properties.aadProfile.serverAppID Microsoft.ContainerService\/managedClusters\/aadProfile.serverAppID properties.aadProfile.serverAppSecret Microsoft.ContainerService\/managedClusters\/aadProfile.serverAppSecret properties.aadProfile.tenantID Microsoft.ContainerService\/managedClusters\/aadProfile.tenantID properties.addonProfiles Microsoft.ContainerService\/managedClusters\/addonProfiles properties.addonProfiles.azurePolicy.enabled Microsoft.ContainerService\/managedClusters\/addonProfiles.azurePolicy.enabled properties.addonProfiles.omsagent.enabled Microsoft.ContainerService\/managedClusters\/addonProfiles.omsagent.enabled properties.agentPoolProfiles Microsoft.ContainerService\/managedClusters\/agentPoolProfiles properties.agentPoolProfiles[*] Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*] properties.agentPoolProfiles[*].artifactStreamingProfile Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].artifactStreamingProfile properties.agentPoolProfiles[*].artifactStreamingProfile.enabled Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].artifactStreamingProfile.enabled properties.agentPoolProfiles[*].availabilityZones Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].availabilityZones properties.agentPoolProfiles[*].availabilityZones[*] Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].availabilityZones[*] properties.agentPoolProfiles[*].capacityReservationGroupID Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].capacityReservationGroupID properties.agentPoolProfiles[*].count Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].count properties.agentPoolProfiles[*].creationData Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].creationData properties.agentPoolProfiles[*].creationData.sourceResourceId Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].creationData.sourceResourceId properties.agentPoolProfiles[*].currentOrchestratorVersion Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].currentOrchestratorVersion properties.agentPoolProfiles[*].dnsPrefix Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].dnsPrefix properties.agentPoolProfiles[*].enableAutoScaling Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableAutoScaling properties.agentPoolProfiles[*].enableCustomCATrust Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableCustomCATrust properties.agentPoolProfiles[*].enableEncryptionAtHost Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableEncryptionAtHost properties.agentPoolProfiles[*].enableFIPS Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableFIPS properties.agentPoolProfiles[*].enableNodePublicIP Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableNodePublicIP properties.agentPoolProfiles[*].enableUltraSSD Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].enableUltraSSD properties.agentPoolProfiles[*].eTag Microsoft.ContainerService\/managedClusters\/agentPoolProfiles[*].eTag properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "1002",
+      "wordCount" : "1012",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2617,6 +2617,10 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].gpuProfile</code></td>
 </tr>
 <tr>
+<td><code>properties.agentPoolProfiles[*].gpuProfile.driverType</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].gpuProfile.driverType</code></td>
+</tr>
+<tr>
 <td><code>properties.agentPoolProfiles[*].gpuProfile.installGPUDriver</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].gpuProfile.installGPUDriver</code></td>
 </tr>
@@ -2671,6 +2675,10 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 <tr>
 <td><code>properties.agentPoolProfiles[*].kubeletConfig.podMaxPids</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].kubeletConfig.podMaxPids</code></td>
+</tr>
+<tr>
+<td><code>properties.agentPoolProfiles[*].kubeletConfig.seccompDefault</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].kubeletConfig.seccompDefault</code></td>
 </tr>
 <tr>
 <td><code>properties.agentPoolProfiles[*].kubeletConfig.topologyManagerPolicy</code></td>
@@ -3029,6 +3037,10 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.maxSurge</code></td>
 </tr>
 <tr>
+<td><code>properties.agentPoolProfiles[*].upgradeSettings.maxUnavailable</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.maxUnavailable</code></td>
+</tr>
+<tr>
 <td><code>properties.agentPoolProfiles[*].upgradeSettings.nodeSoakDurationInMinutes</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.nodeSoakDurationInMinutes</code></td>
 </tr>
@@ -3146,11 +3158,11 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 </tr>
 <tr>
 <td><code>properties.apiServerAccessProfile.authorizedIPRanges[*]</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/apiServerAccessProfile.authorizedIPRanges[*]</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/apiServerAuthorizedIPRanges[*]</code></td>
 </tr>
 <tr>
 <td><code>properties.apiServerAccessProfile.authorizedIPRanges[*]</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/apiServerAuthorizedIPRanges[*]</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/apiServerAccessProfile.authorizedIPRanges[*]</code></td>
 </tr>
 <tr>
 <td><code>properties.apiServerAccessProfile.disableRunCommand</code></td>
@@ -3581,6 +3593,10 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 <td><code>Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking</code></td>
 </tr>
 <tr>
+<td><code>properties.networkProfile.advancedNetworking.enabled</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.enabled</code></td>
+</tr>
+<tr>
 <td><code>properties.networkProfile.advancedNetworking.observability</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.observability</code></td>
 </tr>
@@ -3595,6 +3611,10 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 <tr>
 <td><code>properties.networkProfile.advancedNetworking.security</code></td>
 <td><code>Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.security</code></td>
+</tr>
+<tr>
+<td><code>properties.networkProfile.advancedNetworking.security.enabled</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.security.enabled</code></td>
 </tr>
 <tr>
 <td><code>properties.networkProfile.advancedNetworking.security.fqdnPolicy</code></td>
@@ -4134,11 +4154,11 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 </tr>
 <tr>
 <td><code>properties.securityProfile.defender.logAnalyticsWorkspaceResourceId</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.logAnalyticsWorkspaceResourceId</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.defender.logAnalyticsWorkspaceResourceId</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.defender.logAnalyticsWorkspaceResourceId</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/securityProfile.defender.logAnalyticsWorkspaceResourceId</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.logAnalyticsWorkspaceResourceId</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.defender.securityMonitoring</code></td>
@@ -4146,11 +4166,11 @@ Default Path Alias properties.aadProfile Microsoft.ContainerService/managedClust
 </tr>
 <tr>
 <td><code>properties.securityProfile.defender.securityMonitoring.enabled</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.enabled</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.defender.securityMonitoring.enabled</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.defender.securityMonitoring.enabled</code></td>
-<td><code>Microsoft.ContainerService/managedClusters/securityProfile.defender.securityMonitoring.enabled</code></td>
+<td><code>Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.enabled</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.imageCleaner</code></td>

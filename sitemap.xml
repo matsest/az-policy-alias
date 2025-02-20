@@ -204,6 +204,14 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/builders/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/connectedEnvironments-certificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/connectedenvironments-daprcomponents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/connectedenvironments-storages/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/connectedEnvironments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-authconfigs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/containerapps-sourcecontrols/</loc>
@@ -220,7 +228,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-dotNetComponents/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-httprouteconfigs/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-javaComponents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/managedenvironments-maintenanceconfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/managedEnvironments-managedCertificates/</loc>
   </url><url>
@@ -502,6 +514,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -707,6 +721,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/registries/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-autoUpgradeProfiles/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
   </url><url>
@@ -1369,6 +1385,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/deidServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/gateways/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/licenses/</loc>
   </url><url>
