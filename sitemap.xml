@@ -2284,6 +2284,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Search/searchServices-sharedPrivateLinkResources/</loc>
