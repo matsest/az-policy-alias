@@ -71,15 +71,15 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
           "url": "http://policyalias.mats.codes/",
           "logo": {
               "@type": "ImageObject",
-              "url": "http://policyalias.mats.codes/brand.svg",
+              "url": "http://policyalias.mats.codes/10316-icon-service-Policy.svg",
               "width":"32",
               "height":"32"
           }
       }
   }
   </script>
-  <script src="/js/colortheme-01ea3db1.bundle.min.js"></script>
-<script src="/js/main-2e274343.bundle.min.js"></script>
+  <script src="/js/colortheme-05deda6f.bundle.min.js"></script>
+<script src="/js/main-c5dd8165.bundle.min.js"></script>
 <link
   rel="preload"
   as="font"
@@ -106,12 +106,12 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
 />
 <link
   rel="preload"
-  href="/mobile-79ddc617.min.css"
+  href="/mobile-7885c8a8.min.css"
   as="style"
 />
 <link
   rel="stylesheet"
-  href="/mobile-79ddc617.min.css"
+  href="/mobile-7885c8a8.min.css"
   media="screen and (max-width: 45rem)"
 />
 <link
@@ -146,19 +146,20 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
     <div
       class="wrapper "
     >
-      <input type="checkbox" class="hidden" id="menu-control" />
-      <input type="checkbox" class="hidden" id="menu-header-control" />
       <header class="gdoc-header">
   <div class="container flex align-center justify-between">
-      <label for="menu-control" class="gdoc-nav__control" tabindex="0">
-        <svg class="gdoc-icon gdoc_menu">
-          <title>Open Navigation</title>
-          <use xlink:href="#gdoc_menu"></use>
-        </svg>
-        <svg class="gdoc-icon gdoc_arrow_back">
-          <title>Close Navigation</title>
-          <use xlink:href="#gdoc_arrow_back"></use>
-        </svg>
+      <label for="menu-control" class="gdoc-nav__control">
+        <div tabindex="0" role="button" aria-pressed="false">
+          <input type="checkbox" class="hidden" id="menu-control" />
+          <svg class="gdoc-icon gdoc_menu">
+            <title>Open Navigation</title>
+            <use xlink:href="#gdoc_menu"></use>
+          </svg>
+          <svg class="gdoc-icon gdoc_arrow_back">
+            <title>Close Navigation</title>
+            <use xlink:href="#gdoc_arrow_back"></use>
+          </svg>
+        </div>
       </label>
     <div>
       <a class="gdoc-brand gdoc-header__link" href="http://policyalias.mats.codes/">
@@ -172,7 +173,7 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
         </span>
       </a>
     </div>
-    <div class="gdoc-menu-header">
+    <div class="gdoc-menu-header flex gap-16">
       <span class="gdoc-menu-header__items">
         <span>
           <a
@@ -185,7 +186,7 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
             </svg>
           </a>
         </span>
-        <span id="gdoc-color-theme">
+        <span id="gdoc-color-theme" tabindex="0" role="button" aria-pressed="false">
           <svg class="gdoc-icon gdoc_brightness_dark">
             <title>Toggle Dark/Light/Auto mode</title>
             <use xlink:href="#gdoc_brightness_dark"></use>
@@ -207,21 +208,22 @@ Default Path Alias properties.subnetResourceId Microsoft.Web/sites/networkConfig
             </svg>
           </a>
         </span>
-        <span class="gdoc-menu-header__control">
-          <label for="menu-header-control">
+      </span>
+      <span class="gdoc-menu-header__control">
+        <label for="menu-header-control">
+          <div tabindex="0" role="button" aria-pressed="false">
+            <input type="checkbox" class="hidden" id="menu-header-control" />
             <svg class="gdoc-icon gdoc_keyboard_arrow_right">
               <use xlink:href="#gdoc_keyboard_arrow_right"></use>
               <title>Close Menu Bar</title>
             </svg>
-          </label>
-        </span>
+            <svg class="gdoc-icon gdoc_keyboard_arrow_left">
+              <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+              <title>Open Menu Bar</title>
+            </svg>
+          </div>
+        </label>
       </span>
-      <label for="menu-header-control" class="gdoc-menu-header__control">
-        <svg class="gdoc-icon gdoc_keyboard_arrow_left">
-          <use xlink:href="#gdoc_keyboard_arrow_left"></use>
-          <title>Open Menu Bar</title>
-        </svg>
-      </label>
     </div>
   </div>
 </header>
