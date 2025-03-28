@@ -52,7 +52,7 @@ Default Path Alias properties.provisioningState Microsoft.Compute/galleries/imag
       "headline": "Galleries Images Versions",
       "description": "Link to resource definition: Microsoft.Compute\/galleries\/images\/versions\nDefault Path Alias properties.provisioningState Microsoft.Compute\/galleries\/images\/versions\/provisioningState properties.publishingProfile Microsoft.Compute\/galleries\/images\/versions\/publishingProfile properties.publishingProfile.endOfLifeDate Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.endOfLifeDate properties.publishingProfile.excludeFromLatest Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.excludeFromLatest properties.publishingProfile.publishedDate Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.publishedDate properties.publishingProfile.replicaCount Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.replicaCount properties.publishingProfile.replicationMode Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.replicationMode properties.publishingProfile.source Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.source properties.publishingProfile.source.managedImage Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.source.managedImage properties.publishingProfile.source.managedImage.id Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.source.managedImage.id properties.publishingProfile.storageAccountType Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.storageAccountType properties.publishingProfile.targetExtendedLocations Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations properties.publishingProfile.targetExtendedLocations[*] Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*] properties.publishingProfile.targetExtendedLocations[*].encryption Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*] Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*] properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.diskEncryptionSetId Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.diskEncryptionSetId properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId properties.publishingProfile.targetExtendedLocations[*].extendedLocation Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].extendedLocation properties.publishingProfile.targetExtendedLocations[*].extendedLocation.name Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].extendedLocation.name properties.publishingProfile.targetExtendedLocations[*].extendedLocation.type Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].extendedLocation.type properties.publishingProfile.targetExtendedLocations[*].extendedLocationReplicaCount Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].extendedLocationReplicaCount properties.publishingProfile.targetExtendedLocations[*].name Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].name properties.publishingProfile.targetExtendedLocations[*].storageAccountType Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetExtendedLocations[*].storageAccountType properties.publishingProfile.targetRegions Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetRegions properties.publishingProfile.targetRegions[*] Microsoft.Compute\/galleries\/images\/versions\/publishingProfile.targetRegions[*] properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "220",
+      "wordCount" : "256",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -2603,6 +2603,22 @@ Default Path Alias properties.provisioningState Microsoft.Compute/galleries/imag
 <td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]</code></td>
 </tr>
 <tr>
+<td><code>properties.publishingProfile.targetRegions[*].additionalReplicaSets</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets</code></td>
+</tr>
+<tr>
+<td><code>properties.publishingProfile.targetRegions[*].additionalReplicaSets[*]</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount</code></td>
+</tr>
+<tr>
+<td><code>properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType</code></td>
+</tr>
+<tr>
 <td><code>properties.publishingProfile.targetRegions[*].encryption</code></td>
 <td><code>Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption</code></td>
 </tr>
@@ -2691,12 +2707,20 @@ Default Path Alias properties.provisioningState Microsoft.Compute/galleries/imag
 <td><code>Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state</code></td>
 </tr>
 <tr>
+<td><code>properties.restore</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/restore</code></td>
+</tr>
+<tr>
 <td><code>properties.safetyProfile</code></td>
 <td><code>Microsoft.Compute/galleries/images/versions/safetyProfile</code></td>
 </tr>
 <tr>
 <td><code>properties.safetyProfile.allowDeletionOfReplicatedLocations</code></td>
 <td><code>Microsoft.Compute/galleries/images/versions/safetyProfile.allowDeletionOfReplicatedLocations</code></td>
+</tr>
+<tr>
+<td><code>properties.safetyProfile.blockDeletionBeforeEndOfLife</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/safetyProfile.blockDeletionBeforeEndOfLife</code></td>
 </tr>
 <tr>
 <td><code>properties.safetyProfile.policyViolations</code></td>
@@ -2901,6 +2925,54 @@ Default Path Alias properties.provisioningState Microsoft.Compute/galleries/imag
 <tr>
 <td><code>properties.storageProfile.source.virtualMachineId</code></td>
 <td><code>Microsoft.Compute/galleries/images/versions/storageProfile.source.virtualMachineId</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations[*]</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations[*].executionTime</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].executionTime</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations[*].status</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].status</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations[*].type</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].type</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.executedValidations[*].version</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].version</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.platformAttributes</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.platformAttributes[*]</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*]</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.platformAttributes[*].name</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].name</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.platformAttributes[*].value</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].value</code></td>
+</tr>
+<tr>
+<td><code>properties.validationsProfile.validationEtag</code></td>
+<td><code>Microsoft.Compute/galleries/images/versions/validationsProfile.validationEtag</code></td>
 </tr>
 </tbody>
 </table> </div>

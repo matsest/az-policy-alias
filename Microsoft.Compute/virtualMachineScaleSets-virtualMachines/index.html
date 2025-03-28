@@ -52,7 +52,7 @@ Default Path Alias properties.additionalCapabilities Microsoft.Compute/virtualMa
       "headline": "Virtual Machine Scale Sets Virtual Machines",
       "description": "Link to resource definition: Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\nDefault Path Alias properties.additionalCapabilities Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/additionalCapabilities properties.additionalCapabilities.hibernationEnabled Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/additionalCapabilities.hibernationEnabled properties.additionalCapabilities.ultraSSDEnabled Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/additionalCapabilities.ultraSSDEnabled properties.autoUpgradeMinorVersion Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/extensions.autoUpgradeMinorVersion properties.availabilitySet Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/availabilitySet properties.availabilitySet.id Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/availabilitySet.id properties.diagnosticsProfile Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/diagnosticsProfile properties.diagnosticsProfile.bootDiagnostics Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/diagnosticsProfile.bootDiagnostics properties.diagnosticsProfile.bootDiagnostics.enabled Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/diagnosticsProfile.bootDiagnostics.enabled properties.diagnosticsProfile.bootDiagnostics.storageUri Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/diagnosticsProfile.bootDiagnostics.storageUri properties.forceUpdateTag Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/extensions.forceUpdateTag properties.hardwareProfile Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/hardwareProfile properties.hardwareProfile.vmSize Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/hardwareProfile.vmSize properties.hardwareProfile.vmSizeProperties Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/hardwareProfile.vmSizeProperties properties.hardwareProfile.vmSizeProperties.vCPUsAvailable Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/hardwareProfile.vmSizeProperties.vCPUsAvailable properties.hardwareProfile.vmSizeProperties.vCPUsPerCore Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/hardwareProfile.vmSizeProperties.vCPUsPerCore properties.latestModelApplied Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/latestModelApplied properties.licenseType Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/licenseType properties.modelDefinitionApplied Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/modelDefinitionApplied properties.networkProfile Microsoft.Compute\/virtualMachineScaleSets\/virtualMachines\/networkProfile properties.networkProfile.networkApiVersion Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkApiVersion properties.networkProfile.networkInterfaceConfigurations Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations properties.networkProfile.networkInterfaceConfigurations[*] Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*] properties.networkProfile.networkInterfaceConfigurations[*].name Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].name properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliaryMode Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].auxiliaryMode properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliarySku Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].auxiliarySku properties.networkProfile.networkInterfaceConfigurations[*].properties.deleteOption Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].deleteOption properties.networkProfile.networkInterfaceConfigurations[*].properties.disableTcpStateTracking Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].disableTcpStateTracking properties.networkProfile.networkInterfaceConfigurations[*].properties.dnsSettings Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].dnsSettings properties.networkProfile.networkInterfaceConfigurations[*].properties.dnsSettings.dnsServers Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].dnsSettings.dnsServers properties.networkProfile.networkInterfaceConfigurations[*].properties.dnsSettings.dnsServers[*] Microsoft.Compute\/virtualMachineScaleSets\/virtualmachines\/networkProfile.networkInterfaceConfigurations[*].dnsSettings.dnsServers[*] properties.",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount" : "584",
+      "wordCount" : "600",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
@@ -3243,6 +3243,10 @@ Default Path Alias properties.additionalCapabilities Microsoft.Compute/virtualMa
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions.publisher</code></td>
 </tr>
 <tr>
+<td><code>properties.resilientVMDeletionStatus</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/resilientVMDeletionStatus</code></td>
+</tr>
+<tr>
 <td><code>properties.securityProfile</code></td>
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile</code></td>
 </tr>
@@ -3267,12 +3271,36 @@ Default Path Alias properties.additionalCapabilities Microsoft.Compute/virtualMa
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.enabled</code></td>
 </tr>
 <tr>
+<td><code>properties.securityProfile.proxyAgentSettings.imds</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.proxyAgentSettings.imds.mode</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds.mode</code></td>
+</tr>
+<tr>
 <td><code>properties.securityProfile.proxyAgentSettings.keyIncarnationId</code></td>
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.keyIncarnationId</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.proxyAgentSettings.mode</code></td>
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.mode</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.proxyAgentSettings.wireServer</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId</code></td>
+</tr>
+<tr>
+<td><code>properties.securityProfile.proxyAgentSettings.wireServer.mode</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer.mode</code></td>
 </tr>
 <tr>
 <td><code>properties.securityProfile.securityType</code></td>
@@ -3297,6 +3325,10 @@ Default Path Alias properties.additionalCapabilities Microsoft.Compute/virtualMa
 <tr>
 <td><code>properties.storageProfile</code></td>
 <td><code>Microsoft.Compute/virtualMachineScaleSets/virtualMachines/storageProfile</code></td>
+</tr>
+<tr>
+<td><code>properties.storageProfile.alignRegionalDisksToVMZone</code></td>
+<td><code>Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.alignRegionalDisksToVMZone</code></td>
 </tr>
 <tr>
 <td><code>properties.storageProfile.dataDisks</code></td>
