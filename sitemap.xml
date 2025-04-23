@@ -1666,36 +1666,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-accountFilters/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets-assetFilters/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-assets/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-contentKeyPolicies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents-liveOutputs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-liveEvents/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-mediaGraphs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-privateEndpointConnections/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingEndpoints/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingLocators/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-streamingPolicies/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms-jobs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices-transforms/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Media/mediaservices/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/assessmentprojects-groups-assessments/</loc>
