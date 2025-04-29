@@ -12,14 +12,14 @@
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials/</guid>
-      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials&#xA;Default Path Alias properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject </description>
+      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials&#xA;Default Path Alias properties.audiences Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences properties.audiences[*] Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/audiences[*] properties.claimsMatchingExpression Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression properties.claimsMatchingExpression.languageVersion Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression.languageVersion properties.claimsMatchingExpression.value Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression.value properties.issuer Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/issuer properties.subject Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/subject </description>
     </item>
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.ManagedIdentity/userAssignedIdentities/</guid>
-      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities&#xA;Default Path Alias properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId </description>
+      <description>Link to resource definition: Microsoft.ManagedIdentity/userAssignedIdentities&#xA;Default Path Alias properties.clientId Microsoft.ManagedIdentity/userAssignedIdentities/clientId properties.clientSecretUrl Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl properties.isolationScope Microsoft.ManagedIdentity/userAssignedIdentities/isolationScope properties.principalId Microsoft.ManagedIdentity/userAssignedIdentities/principalId properties.tenantId Microsoft.ManagedIdentity/userAssignedIdentities/tenantId </description>
     </item>
   </channel>
 </rss>

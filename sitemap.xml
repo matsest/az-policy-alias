@@ -746,6 +746,18 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/snapshots/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/Alerts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/CloudConnectors/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/Exports/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/ScheduledActions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/Views/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CustomProviders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CustomProviders/associations/</loc>
@@ -995,6 +1007,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-msixpackages/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-privateendpointconnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhostconfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhostmanagements/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DesktopVirtualization/hostpools-sessionhosts/</loc>
   </url><url>
