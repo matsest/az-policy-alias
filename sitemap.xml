@@ -450,6 +450,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkInterfaces/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkSecurityGroups-securityRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/networkSecurityGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/storageContainers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AzureStackHCI/virtualHardDisks/</loc>
@@ -514,6 +518,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -556,6 +562,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-connections/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-defenderForAISettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</loc>
@@ -563,6 +571,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-encryptionScopes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects-connections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems/</loc>
   </url><url>
@@ -1037,6 +1049,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-environmentTypes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-galleries/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-projectpolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters/</loc>
   </url><url>
