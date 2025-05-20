@@ -1048,6 +1048,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-galleries/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters-projectpolicies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/devcenters/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/networkconnections/</loc>
