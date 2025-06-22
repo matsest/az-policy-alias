@@ -760,8 +760,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CostManagement/Alerts/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.CostManagement/CloudConnectors/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CostManagement/Exports/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CostManagement/ScheduledActions/</loc>
