@@ -774,6 +774,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Dashboard/dashboards/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-integrationFabrics/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-managedPrivateEndpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Dashboard/grafana-privateEndpointConnections/</loc>
@@ -1428,6 +1432,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.insights/actiongroups-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/actiongroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/activityLogAlerts/</loc>
@@ -1443,6 +1449,8 @@
     <loc>http://policyalias.mats.codes/microsoft.insights/components-proactiveDetectionConfigs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/components/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionEndpoints-networkSecurityPerimeterConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionEndpoints/</loc>
   </url><url>
@@ -2918,6 +2926,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-publiccertificates/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/sites-sitecontainers/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-config/</loc>
@@ -2935,6 +2945,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-premieraddons/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-publiccertificates/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-sitecontainers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Web/sites-slots-sourcecontrols/</loc>
   </url><url>
