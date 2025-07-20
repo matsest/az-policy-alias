@@ -9,17 +9,10 @@
     <atom:link href="http://policyalias.mats.codes/Microsoft.Communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices-SmtpUsernames/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices-SmtpUsernames/</guid>
-      <description>Link to resource definition: Microsoft.Communication/CommunicationServices/SmtpUsernames&#xA;Default Path Alias properties.entraApplicationId Microsoft.Communication/communicationServices/smtpUsernames/entraApplicationId properties.tenantId Microsoft.Communication/communicationServices/smtpUsernames/tenantId properties.username Microsoft.Communication/communicationServices/smtpUsernames/username </description>
-    </item>
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices/</guid>
-      <description>Link to resource definition: Microsoft.Communication/CommunicationServices&#xA;Default Path Alias properties.dataLocation Microsoft.Communication/communicationServices/dataLocation properties.disableLocalAuth Microsoft.Communication/communicationServices/disableLocalAuth properties.hostName Microsoft.Communication/communicationServices/hostName properties.immutableResourceId Microsoft.Communication/communicationServices/immutableResourceId properties.linkedDomains Microsoft.Communication/communicationServices/linkedDomains properties.linkedDomains[*] Microsoft.Communication/communicationServices/linkedDomains[*] properties.notificationHubId Microsoft.Communication/communicationServices/notificationHubId properties.provisioningState Microsoft.Communication/communicationServices/provisioningState properties.publicNetworkAccess Microsoft.Communication/communicationServices/publicNetworkAccess properties.version Microsoft.Communication/communicationServices/version </description>
+      <description>Link to resource definition: Microsoft.Communication/CommunicationServices&#xA;Default Path Alias properties.dataLocation Microsoft.Communication/communicationServices/dataLocation properties.hostName Microsoft.Communication/communicationServices/hostName properties.immutableResourceId Microsoft.Communication/communicationServices/immutableResourceId properties.linkedDomains Microsoft.Communication/communicationServices/linkedDomains properties.linkedDomains[*] Microsoft.Communication/communicationServices/linkedDomains[*] properties.notificationHubId Microsoft.Communication/communicationServices/notificationHubId properties.provisioningState Microsoft.Communication/communicationServices/provisioningState properties.version Microsoft.Communication/communicationServices/version </description>
     </item>
     <item>
       <title></title>
