@@ -584,6 +584,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Communication/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices-SmtpUsernames/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Communication/CommunicationServices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Communication/EmailServices-Domains-SenderUsernames/</loc>
@@ -1474,6 +1476,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/privateLinkScopes/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/scheduledqueryrules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/tenantactiongroups/</loc>
@@ -2149,6 +2153,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-dataSources/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-linkedServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-linkedStorageAccounts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-networkSecurityPerimeterConfigurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-savedSearches/</loc>
   </url><url>
