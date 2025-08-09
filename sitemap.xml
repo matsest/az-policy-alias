@@ -518,6 +518,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1461,10 +1463,6 @@
     <loc>http://policyalias.mats.codes/microsoft.insights/dataCollectionRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/diagnosticSettings/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettings/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/microsoft.insights/guestDiagnosticSettingsAssociation/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/logprofiles/</loc>
   </url><url>
