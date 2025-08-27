@@ -732,7 +732,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/deploymentSafeguards/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-autoUpgradeProfiles/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-gates/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets-members/</loc>
   </url><url>
@@ -742,11 +746,17 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/fleets/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools-machines/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-agentPools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-loadBalancers/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-maintenanceConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-managedNamespaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-namespaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerService/managedClusters-privateEndpointConnections/</loc>
   </url><url>
@@ -1186,6 +1196,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-copyJobs/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-dataTransferJobs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts-graphs/</loc>
@@ -1244,11 +1256,23 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/databaseAccounts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/fleets-fleetAnalytics/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/fleets-fleetspaces-fleetspaceAccounts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/fleets-fleetspaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/fleets/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters-firewallRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters-privateEndpointConnections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters-users/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/mongoClusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DocumentDB/throughputPools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DomainRegistration/</loc>
   </url><url>
