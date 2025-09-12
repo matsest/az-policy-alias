@@ -9,31 +9,10 @@
     <atom:link href="http://policyalias.mats.codes/Microsoft.LoadTestService/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestMappings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestMappings/</guid>
-      <description>Link to resource definition: Microsoft.LoadTestService/loadTestMappings&#xA;Default Path Alias properties.azureLoadTestingResourceId Microsoft.LoadTestService/loadTestMappings/azureLoadTestingResourceId properties.sourceResourceId Microsoft.LoadTestService/loadTestMappings/sourceResourceId properties.testId Microsoft.LoadTestService/loadTestMappings/testId </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestProfileMappings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestProfileMappings/</guid>
-      <description>Link to resource definition: Microsoft.LoadTestService/loadTestProfileMappings&#xA;Default Path Alias properties.azureLoadTestingResourceId Microsoft.LoadTestService/loadTestProfileMappings/azureLoadTestingResourceId properties.sourceResourceId Microsoft.LoadTestService/loadTestProfileMappings/sourceResourceId properties.testProfileId Microsoft.LoadTestService/loadTestProfileMappings/testProfileId </description>
-    </item>
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</guid>
       <description>Link to resource definition: Microsoft.LoadTestService/loadtests&#xA;Default Path Alias properties.dataPlaneURI Microsoft.LoadTestService/loadTests/dataPlaneURI properties.description Microsoft.LoadTestService/loadTests/description properties.encryption Microsoft.LoadTestService/loadTests/encryption properties.encryption.identity Microsoft.LoadTestService/loadTests/encryption.identity properties.encryption.identity.resourceId Microsoft.LoadTestService/loadTests/encryption.identity.resourceId properties.encryption.identity.type Microsoft.LoadTestService/loadTests/encryption.identity.type properties.encryption.keyUrl Microsoft.LoadTestService/loadTests/encryption.keyUrl properties.provisioningState Microsoft.LoadTestService/loadTests/provisioningState </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.LoadTestService/playwrightWorkspaces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/Microsoft.LoadTestService/playwrightWorkspaces/</guid>
-      <description>Link to resource definition: Microsoft.LoadTestService/playwrightWorkspaces&#xA;Default Path Alias properties.dataplaneUri Microsoft.LoadTestService/playwrightWorkspaces/dataplaneUri properties.localAuth Microsoft.LoadTestService/playwrightWorkspaces/localAuth properties.provisioningState Microsoft.LoadTestService/playwrightWorkspaces/provisioningState properties.regionalAffinity Microsoft.LoadTestService/playwrightWorkspaces/regionalAffinity properties.workspaceId Microsoft.LoadTestService/playwrightWorkspaces/workspaceId </description>
     </item>
   </channel>
 </rss>
