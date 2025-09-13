@@ -1394,6 +1394,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.FileShares/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.FileShares/fileShares/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.FluidRelay/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.FluidRelay/fluidRelayServers/</loc>
@@ -1592,7 +1596,13 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestMappings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/loadTestProfileMappings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/loadtests/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.LoadTestService/playwrightWorkspaces/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/</loc>
   </url><url>
