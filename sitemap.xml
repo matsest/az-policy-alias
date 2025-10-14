@@ -518,6 +518,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -623,6 +625,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-images-versions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-images/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-inVMAccessControlProfiles-versions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries-inVMAccessControlProfiles/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/galleries/</loc>
   </url><url>
