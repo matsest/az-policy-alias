@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.ServiceNetworking/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.ServiceNetworking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-associations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-associations/</guid>
+      <description>Link to resource definition: Microsoft.ServiceNetworking/trafficControllers/associations&#xA;Default Path Alias properties.associationType Microsoft.ServiceNetworking/trafficControllers/associations/associationType properties.provisioningState Microsoft.ServiceNetworking/trafficControllers/associations/provisioningState properties.subnet Microsoft.ServiceNetworking/trafficControllers/associations/subnet properties.subnet.id Microsoft.ServiceNetworking/trafficControllers/associations/subnet.id </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-frontends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-frontends/</guid>
+      <description>Link to resource definition: Microsoft.ServiceNetworking/trafficControllers/frontends&#xA;Default Path Alias properties.fqdn Microsoft.ServiceNetworking/trafficControllers/frontends/fqdn properties.ipAddressVersion Microsoft.ServiceNetworking/trafficControllers/frontends/ipAddressVersion properties.mode Microsoft.ServiceNetworking/trafficControllers/frontends/mode properties.provisioningState Microsoft.ServiceNetworking/trafficControllers/frontends/provisioningState properties.publicIPAddress Microsoft.ServiceNetworking/trafficControllers/frontends/publicIPAddress properties.publicIPAddress.id Microsoft.ServiceNetworking/trafficControllers/frontends/publicIPAddress.id properties.securityPolicyConfigurations Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.ipAccessRulesSecurityPolicy properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id properties.securityPolicyConfigurations.wafSecurityPolicy Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.wafSecurityPolicy properties.securityPolicyConfigurations.wafSecurityPolicy.id Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.wafSecurityPolicy.id </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-securityPolicies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-securityPolicies/</guid>
+      <description>Link to resource definition: Microsoft.ServiceNetworking/trafficControllers/securityPolicies&#xA;Default Path Alias properties.ipAccessRulesPolicy Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy properties.ipAccessRulesPolicy.rules Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules properties.ipAccessRulesPolicy.rules[*] Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*] properties.ipAccessRulesPolicy.rules[*].action Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].action properties.ipAccessRulesPolicy.rules[*].name Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].name properties.ipAccessRulesPolicy.rules[*].priority Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].priority properties.ipAccessRulesPolicy.rules[*].sourceAddressPrefixes Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].sourceAddressPrefixes properties.ipAccessRulesPolicy.rules[*].sourceAddressPrefixes[*] Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].sourceAddressPrefixes[*] properties.policyType Microsoft.ServiceNetworking/trafficControllers/securityPolicies/policyType properties.provisioningState Microsoft.ServiceNetworking/trafficControllers/securityPolicies/provisioningState properties.wafPolicy Microsoft.ServiceNetworking/trafficControllers/securityPolicies/wafPolicy properties.wafPolicy.id Microsoft.ServiceNetworking/trafficControllers/securityPolicies/wafPolicy.id </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers/</guid>
+      <description>Link to resource definition: Microsoft.ServiceNetworking/trafficControllers&#xA;Default Path Alias properties.associations Microsoft.ServiceNetworking/trafficControllers/associations properties.associations[*] Microsoft.ServiceNetworking/trafficControllers/associations[*] properties.associations[*].id Microsoft.ServiceNetworking/trafficControllers/associations[*].id properties.configurationEndpoints Microsoft.ServiceNetworking/trafficControllers/configurationEndpoints properties.configurationEndpoints[*] Microsoft.ServiceNetworking/trafficControllers/configurationEndpoints[*] properties.frontends Microsoft.ServiceNetworking/trafficControllers/frontends properties.frontends[*] Microsoft.ServiceNetworking/trafficControllers/frontends[*] properties.frontends[*].id Microsoft.ServiceNetworking/trafficControllers/frontends[*].id properties.provisioningState Microsoft.ServiceNetworking/trafficControllers/provisioningState properties.securityPolicies Microsoft.ServiceNetworking/trafficControllers/securityPolicies properties.securityPolicies[*] Microsoft.ServiceNetworking/trafficControllers/securityPolicies[*] properties.securityPolicies[*].id Microsoft.ServiceNetworking/trafficControllers/securityPolicies[*].id properties.securityPolicyConfigurations Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.ipAccessRulesSecurityPolicy properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id properties.securityPolicyConfigurations.wafSecurityPolicy Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.wafSecurityPolicy properties.securityPolicyConfigurations.wafSecurityPolicy.id Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.wafSecurityPolicy.id </description>
+    </item>
+  </channel>
+</rss>

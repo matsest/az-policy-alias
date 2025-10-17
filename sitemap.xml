@@ -2456,6 +2456,16 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ServiceLinker/locations-dryruns/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceNetworking/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-associations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-frontends/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers-securityPolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ServiceNetworking/trafficControllers/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.SignalRService/SignalR-customCertificates/</loc>
