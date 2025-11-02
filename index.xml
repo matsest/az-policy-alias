@@ -5560,13 +5560,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://policyalias.mats.codes/Microsoft.MixedReality/remoteRenderingAccounts/</guid>
-      <description>Link to resource definition: Microsoft.MixedReality/remoteRenderingAccounts&#xA;Default Path Alias properties.accountDomain Microsoft.MixedReality/remoteRenderingAccounts/accountDomain properties.accountId Microsoft.MixedReality/remoteRenderingAccounts/accountId properties.storageAccountName Microsoft.MixedReality/remoteRenderingAccounts/storageAccountName sku Microsoft.MixedReality/remoteRenderingAccounts/sku sku.capacity Microsoft.MixedReality/remoteRenderingAccounts/sku.capacity sku.family Microsoft.MixedReality/remoteRenderingAccounts/sku.family sku.name Microsoft.MixedReality/remoteRenderingAccounts/sku.name sku.size Microsoft.MixedReality/remoteRenderingAccounts/sku.size sku.tier Microsoft.MixedReality/remoteRenderingAccounts/sku.tier </description>
-    </item>
-    <item>
-      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Monitor/accounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.Monitor/accounts/</guid>
