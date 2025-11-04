@@ -1954,6 +1954,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-links/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkSecurityPerimeters-profiles/</loc>
