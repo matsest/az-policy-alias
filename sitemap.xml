@@ -358,11 +358,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-python2Packages/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-python3Packages/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-runbooks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-schedules/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-sourceControls/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Automation/automationAccounts-variables/</loc>
   </url><url>
@@ -580,6 +584,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiToolLabels/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiTopics/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Communication/</loc>
@@ -694,7 +702,11 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/containerGroupProfiles/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/containerGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.ContainerInstance/nGroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.ContainerRegistry/</loc>
   </url><url>
