@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.Chaos/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.Chaos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Chaos/experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.Chaos/experiments/</guid>
+      <description>Link to resource definition: Microsoft.Chaos/experiments&#xA;Default Path Alias properties.customerDataStorage Microsoft.Chaos/experiments/customerDataStorage properties.customerDataStorage.blobContainerName Microsoft.Chaos/experiments/customerDataStorage.blobContainerName properties.customerDataStorage.storageAccountResourceId Microsoft.Chaos/experiments/customerDataStorage.storageAccountResourceId properties.provisioningState Microsoft.Chaos/experiments/provisioningState properties.selectors Microsoft.Chaos/experiments/selectors properties.selectors[*] Microsoft.Chaos/experiments/selectors[*] properties.selectors[*] Microsoft.Chaos/experiments/selectors[*].Query properties.selectors[*] Microsoft.Chaos/experiments/selectors[*].List properties.selectors[*].filter Microsoft.Chaos/experiments/selectors[*].filter.Simple properties.selectors[*].filter Microsoft.Chaos/experiments/selectors[*].filter properties.selectors[*].filter.parameters Microsoft.Chaos/experiments/selectors[*].filter.Simple.parameters properties.selectors[*].filter.type Microsoft.Chaos/experiments/selectors[*].filter.type properties.selectors[*].id Microsoft.Chaos/experiments/selectors[*].id properties.selectors[*].queryString Microsoft.Chaos/experiments/selectors[*].Query.queryString properties.selectors[*].subscriptionIds Microsoft.Chaos/experiments/selectors[*].Query.subscriptionIds properties.selectors[*].subscriptionIds[*] Microsoft.Chaos/experiments/selectors[*].Query.subscriptionIds[*] properties.selectors[*].targets Microsoft.Chaos/experiments/selectors[*].List.targets properties.selectors[*].targets Microsoft.Chaos/experiments/selectors[*].targets properties.selectors[*].targets[*] Microsoft.Chaos/experiments/selectors[*].targets[*] properties.selectors[*].targets[*] Microsoft.Chaos/experiments/selectors[*].List.targets[*] properties.selectors[*].targets[*].id Microsoft.Chaos/experiments/selectors[*].targets[*].id properties.selectors[*].targets[*].id Microsoft.Chaos/experiments/selectors[*].List.targets[*].id properties.selectors[*].targets[*].type Microsoft.Chaos/experiments/selectors[*].targets[*].type properties.selectors[*].targets[*].type Microsoft.Chaos/experiments/selectors[*].List.targets[*].type properties.selectors[*].type Microsoft.Chaos/experiments/selectors[*].type properties.startOnCreation Microsoft.Chaos/experiments/startOnCreation properties.steps Microsoft.Chaos/experiments/steps properties.steps[*] Microsoft.Chaos/experiments/steps[*] properties.steps[*].branches Microsoft.Chaos/experiments/steps[*].branches properties.steps[*].branches[*] Microsoft.Chaos/experiments/steps[*].branches[*] properties.steps[*].branches[*].actions Microsoft.Chaos/experiments/steps[*].branches[*].actions properties.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Chaos/targets-capabilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.Chaos/targets-capabilities/</guid>
+      <description>Link to resource definition: Microsoft.Chaos/targets/capabilities&#xA;Default Path Alias properties.description Microsoft.Chaos/targets/capabilities/description properties.parametersSchema Microsoft.Chaos/targets/capabilities/parametersSchema properties.provisioningState Microsoft.Chaos/targets/capabilities/provisioningState properties.publisher Microsoft.Chaos/targets/capabilities/publisher properties.targetType Microsoft.Chaos/targets/capabilities/targetType properties.urn Microsoft.Chaos/targets/capabilities/urn </description>
+    </item>
+  </channel>
+</rss>
