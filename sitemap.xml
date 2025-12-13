@@ -1302,6 +1302,14 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DomainRegistration/domains/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DurableTask/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DurableTask/schedulers-retentionpolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DurableTask/schedulers-taskhubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DurableTask/schedulers/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.EdgeOrder/addresses/</loc>
@@ -1838,6 +1846,14 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsForwardingRulesets/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolverDomainLists/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolverPolicies-dnsSecurityRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolverPolicies-virtualNetworkLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolverPolicies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-inboundEndpoints/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/dnsResolvers-outboundEndpoints/</loc>
@@ -2348,6 +2364,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/complianceResults/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/customRecommendations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/defenderForStorageSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/deviceSecurityGroups/</loc>
@@ -2366,15 +2384,29 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/pricings/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/privateLinks-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/privateLinks/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects-repos/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors-devops/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityConnectors/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/securityContacts/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/securityStandards/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/settings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/standardAssignments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/standards/</loc>
   </url><url>
