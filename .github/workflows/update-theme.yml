@@ -27,7 +27,7 @@ jobs:
 
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           commit-message: 'build(deps): update hugo-geekdoc theme to ${{ steps.update.outputs.VERSION }}'
           branch: build/theme-update
