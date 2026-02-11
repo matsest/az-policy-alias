@@ -522,6 +522,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -568,6 +570,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-capabilityhosts/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-connections/</loc>
@@ -579,6 +583,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-encryptionScopes/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects-applications-agentdeployments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects-applications/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects-capabilityhosts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects-connections/</loc>
   </url><url>
@@ -595,6 +605,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiTopics/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/raiExternalSafetyProviders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Communication/</loc>
   </url><url>
