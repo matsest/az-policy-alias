@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy Aliases</title>
+    <link>http://policyalias.mats.codes/Microsoft.PolicyInsights/</link>
+    <description>Recent content on Azure Policy Aliases</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://policyalias.mats.codes/Microsoft.PolicyInsights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.PolicyInsights/attestations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.PolicyInsights/attestations/</guid>
+      <description>Link to resource definition: Microsoft.PolicyInsights/attestations&#xA;Default Path Alias properties.assessmentDate Microsoft.PolicyInsights/attestations/assessmentDate properties.comments Microsoft.PolicyInsights/attestations/comments properties.complianceState Microsoft.PolicyInsights/attestations/complianceState properties.evidence Microsoft.PolicyInsights/attestations/evidence properties.evidence[*] Microsoft.PolicyInsights/attestations/evidence[*] properties.evidence[*].description Microsoft.PolicyInsights/attestations/evidence[*].description properties.evidence[*].sourceUri Microsoft.PolicyInsights/attestations/evidence[*].sourceUri properties.expiresOn Microsoft.PolicyInsights/attestations/expiresOn properties.lastComplianceStateChangeAt Microsoft.PolicyInsights/attestations/lastComplianceStateChangeAt properties.owner Microsoft.PolicyInsights/attestations/owner properties.policyAssignmentId Microsoft.PolicyInsights/attestations/policyAssignmentId properties.policyDefinitionReferenceId Microsoft.PolicyInsights/attestations/policyDefinitionReferenceId properties.provisioningState Microsoft.PolicyInsights/attestations/provisioningState </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.PolicyInsights/remediations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.PolicyInsights/remediations/</guid>
+      <description>Link to resource definition: Microsoft.PolicyInsights/remediations&#xA;Default Path Alias properties.correlationId Microsoft.PolicyInsights/remediations/correlationId properties.createdOn Microsoft.PolicyInsights/remediations/createdOn properties.deploymentStatus Microsoft.PolicyInsights/remediations/deploymentStatus properties.deploymentStatus.failedDeployments Microsoft.PolicyInsights/remediations/deploymentStatus.failedDeployments properties.deploymentStatus.successfulDeployments Microsoft.PolicyInsights/remediations/deploymentStatus.successfulDeployments properties.deploymentStatus.totalDeployments Microsoft.PolicyInsights/remediations/deploymentStatus.totalDeployments properties.failureThreshold Microsoft.PolicyInsights/remediations/failureThreshold properties.failureThreshold.percentage Microsoft.PolicyInsights/remediations/failureThreshold.percentage properties.filters Microsoft.PolicyInsights/remediations/filters properties.filters.locations Microsoft.PolicyInsights/remediations/filters.locations properties.filters.locations[*] Microsoft.PolicyInsights/remediations/filters.locations[*] properties.filters.resourceIds Microsoft.PolicyInsights/remediations/filters.resourceIds properties.filters.resourceIds[*] Microsoft.PolicyInsights/remediations/filters.resourceIds[*] properties.lastUpdatedOn Microsoft.PolicyInsights/remediations/lastUpdatedOn properties.parallelDeployments Microsoft.PolicyInsights/remediations/parallelDeployments properties.policyAssignmentId Microsoft.PolicyInsights/remediations/policyAssignmentId properties.policyDefinitionReferenceId Microsoft.PolicyInsights/remediations/policyDefinitionReferenceId properties.provisioningState Microsoft.PolicyInsights/remediations/provisioningState properties.resourceCount Microsoft.PolicyInsights/remediations/resourceCount properties.resourceDiscoveryMode Microsoft.PolicyInsights/remediations/resourceDiscoveryMode properties.statusMessage Microsoft.PolicyInsights/remediations/statusMessage </description>
+    </item>
+  </channel>
+</rss>
