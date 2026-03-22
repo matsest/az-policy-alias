@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: "Az login"
-        uses: azure/login@v2
+        uses: azure/login@532459ea530d8321f2fb9bb10d1e0bcf23869a43 # v3.0.0
         with:
           client-id: ${{ secrets.AZURE_CLIENT_ID }}
           tenant-id: ${{ secrets.AZURE_TENANT_ID }}
@@ -32,7 +32,7 @@ jobs:
           enable-AzPSSession: true
 
       - name: "Get all Policy Aliases"
-        uses: azure/powershell@v2
+        uses: azure/powershell@53dd145408794f7e80f97cfcca04155c85234709 # v2
         with:
           inlineScript: |
             ./src/ps1/Get-AzResourcePolicyAliases.ps1
@@ -43,7 +43,7 @@ jobs:
           ls content
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
           hugo-version: "0.128.2"
           extended: true
@@ -54,7 +54,7 @@ jobs:
           find ./public -name "*.html" -print0 | xargs -0 sed -i '/^ *$/d'
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4.0.0
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
