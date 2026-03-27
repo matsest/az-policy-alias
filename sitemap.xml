@@ -1510,6 +1510,28 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/privateLinkScopes/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/kubernetesVersions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusterInstances-agentPools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusterInstances-hybridIdentityMetadata/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusterInstances/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusters-agentPools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusters-hybridIdentityMetadata/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/provisionedClusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/skus/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/storageSpaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridContainerService/virtualNetworks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/microsoft.insights/actiongroups-networkSecurityPerimeterConfigurations/</loc>
