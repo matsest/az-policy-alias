@@ -37,6 +37,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.Authorization/policyEnrollments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.Authorization/policyEnrollments/</guid>
+      <description>Link to resource definition: Microsoft.Authorization/policyEnrollments&#xA;Default Path Alias properties.assignmentScopeValidation Microsoft.Authorization/policyEnrollments/assignmentScopeValidation properties.description Microsoft.Authorization/policyEnrollments/description properties.displayName Microsoft.Authorization/policyEnrollments/displayName properties.policyAssignmentId Microsoft.Authorization/policyEnrollments/policyAssignmentId properties.policyAssignmentInstanceId Microsoft.Authorization/policyEnrollments/policyAssignmentInstanceId properties.policyDefinitionReferenceIds Microsoft.Authorization/policyEnrollments/policyDefinitionReferenceIds properties.policyDefinitionReferenceIds[*] Microsoft.Authorization/policyEnrollments/policyDefinitionReferenceIds[*] properties.resourceSelectors Microsoft.Authorization/policyEnrollments/resourceSelectors properties.resourceSelectors[*] Microsoft.Authorization/policyEnrollments/resourceSelectors[*] properties.resourceSelectors[*].name Microsoft.Authorization/policyEnrollments/resourceSelectors[*].name properties.resourceSelectors[*].selectors Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors properties.resourceSelectors[*].selectors[*] Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*] properties.resourceSelectors[*].selectors[*].in Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].in properties.resourceSelectors[*].selectors[*].in[*] Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].in[*] properties.resourceSelectors[*].selectors[*].kind Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].kind properties.resourceSelectors[*].selectors[*].notIn Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].notIn properties.resourceSelectors[*].selectors[*].notIn[*] Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].notIn[*] </description>
+    </item>
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/</guid>

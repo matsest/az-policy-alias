@@ -304,6 +304,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyDefinitions/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyEnrollments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policyExemptions/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/policySetDefinitions-versions/</loc>
@@ -519,6 +521,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Cache/Redis/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise-databases/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Cache/redisEnterprise-migrations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cache/RedisEnterprise-privateEndpointConnections/</loc>
   </url><url>
