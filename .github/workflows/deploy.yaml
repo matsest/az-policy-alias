@@ -42,11 +42,8 @@ jobs:
         run: |
           ls content
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
-        with:
-          hugo-version: "0.128.2"
-          extended: true
+      - name: Install Hugo # uses mise.toml for version
+        uses: jdx/mise-action@1648a78a2ab13945d7b2361b3b04a11bc37c231b # v4.0.1
 
       - name: Build Hugo site
         run: |
