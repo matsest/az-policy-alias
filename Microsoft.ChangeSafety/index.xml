@@ -12,14 +12,14 @@
       <link>http://policyalias.mats.codes/Microsoft.ChangeSafety/changerecords-stageprogressions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.ChangeSafety/changerecords-stageprogressions/</guid>
-      <description>Link to resource definition: Microsoft.ChangeSafety/changerecords/stageprogressions&#xA;Default Path Alias properties.stageReference Microsoft.ChangeSafety/changeRecords/stageProgressions/stageReference properties.status Microsoft.ChangeSafety/changeRecords/stageProgressions/status </description>
+      <description>&lt;p&gt;Link to resource definition: &lt;a&#xA;  class=&#34;gdoc-markdown__link--code&#34;&#xA;  href=&#34;https://docs.microsoft.com/en-us/azure/templates/microsoft.changesafety/changerecords/stageprogressions&#34;&#xA;&gt;&lt;code&gt;Microsoft.ChangeSafety/changerecords/stageprogressions&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Default Path&lt;/th&gt;&#xA;          &lt;th&gt;Alias&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.stageReference&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.ChangeSafety/changeRecords/stageProgressions/stageReference&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.status&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.ChangeSafety/changeRecords/stageProgressions/status&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://policyalias.mats.codes/Microsoft.ChangeSafety/changerecords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.ChangeSafety/changerecords/</guid>
-      <description>Link to resource definition: Microsoft.ChangeSafety/changerecords&#xA;Default Path Alias properties.changeType Microsoft.ChangeSafety/changeRecords/changeType properties.status Microsoft.ChangeSafety/changeRecords/status </description>
+      <description>&lt;p&gt;Link to resource definition: &lt;a&#xA;  class=&#34;gdoc-markdown__link--code&#34;&#xA;  href=&#34;https://docs.microsoft.com/en-us/azure/templates/microsoft.changesafety/changerecords&#34;&#xA;&gt;&lt;code&gt;Microsoft.ChangeSafety/changerecords&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Default Path&lt;/th&gt;&#xA;          &lt;th&gt;Alias&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.changeType&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.ChangeSafety/changeRecords/changeType&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.status&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.ChangeSafety/changeRecords/status&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
