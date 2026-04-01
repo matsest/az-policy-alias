@@ -43,7 +43,7 @@ jobs:
           ls content
 
       - name: Install Hugo # uses mise.toml for version
-        uses: jdx/mise-action@1648a78a2ab13945d7b2361b3b04a11bc37c231b # v4.0.1
+        uses: jdx/mise-action@v4.0.1 # immutable release
 
       - name: Build Hugo site
         run: |
