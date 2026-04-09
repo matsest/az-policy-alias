@@ -202,6 +202,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/agents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/agentSpaces/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/builders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/connectedEnvironments-certificates/</loc>
@@ -295,6 +299,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Authorization/denyAssignments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/locks/</loc>
   </url><url>
@@ -1992,6 +1998,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkmanagers-ipampools-staticcidrs/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</loc>
@@ -2129,6 +2137,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkAppliances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
   </url><url>

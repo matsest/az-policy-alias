@@ -9,10 +9,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="color-scheme" content="light dark" />
 <meta name="generator" content="Hugo 0.159.2">
-  <meta name="description" content="Link to resource definition: Microsoft.Network/natGateways
-Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways/idleTimeoutInMinutes properties.provisioningState Microsoft.Network/natGateways/provisioningState properties.publicIpAddresses Microsoft.Network/natGateways/publicIpAddresses properties.publicIpAddresses[*] Microsoft.Network/natGateways/publicIpAddresses[*] properties.publicIpAddresses[*].id Microsoft.Network/natGateways/publicIpAddresses[*].id properties.publicIpAddressesV6 Microsoft.Network/natGateways/publicIpAddressesV6 properties.publicIpAddressesV6[*] Microsoft.Network/natGateways/publicIpAddressesV6[*] properties.publicIpAddressesV6[*].id Microsoft.Network/natGateways/publicIpAddressesV6[*].id properties.publicIpPrefixes Microsoft.Network/natGateways/publicIpPrefixes properties.publicIpPrefixes[*] Microsoft.Network/natGateways/publicIpPrefixes[*] properties.publicIpPrefixes[*].id Microsoft.Network/natGateways/publicIpPrefixes[*].id properties.publicIpPrefixesV6 Microsoft.Network/natGateways/publicIpPrefixesV6 properties.publicIpPrefixesV6[*] Microsoft.Network/natGateways/publicIpPrefixesV6[*] properties.publicIpPrefixesV6[*].id Microsoft.Network/natGateways/publicIpPrefixesV6[*].id properties.resourceGuid Microsoft.Network/natGateways/resourceGuid properties.serviceGateway Microsoft.Network/natGateways/serviceGateway properties.serviceGateway.id Microsoft.Network/natGateways/serviceGateway.id properties.sourceVirtualNetwork Microsoft.Network/natGateways/sourceVirtualNetwork properties.sourceVirtualNetwork.id Microsoft.Network/natGateways/sourceVirtualNetwork.id properties.subnets Microsoft.Network/natGateways/subnets properties.subnets[*] Microsoft.Network/natGateways/subnets[*] properties.subnets[*].id Microsoft.Network/natGateways/subnets[*].id sku Microsoft.Network/natGateways/sku sku.name Microsoft.Network/natGateways/sku.name zones Microsoft.Network/natGateways/zones zones[*] Microsoft.Network/natGateways/zones[*] " />
+  <meta name="description" content="Link to resource definition: Microsoft.App/agents
+Default Path Alias properties.actionConfiguration Microsoft.App/agents/actionConfiguration properties.actionConfiguration.accessLevel Microsoft.App/agents/actionConfiguration.accessLevel properties.actionConfiguration.identity Microsoft.App/agents/actionConfiguration.identity properties.actionConfiguration.mode Microsoft.App/agents/actionConfiguration.mode properties.agentEndpoint Microsoft.App/agents/agentEndpoint properties.agentIdentity Microsoft.App/agents/agentIdentity properties.agentIdentity.clientId Microsoft.App/agents/agentIdentity.clientId properties.agentIdentity.enabled Microsoft.App/agents/agentIdentity.enabled properties.agentIdentity.initialSponsorGroupId Microsoft.App/agents/agentIdentity.initialSponsorGroupId properties.agentSpaceId Microsoft.App/agents/agentSpaceId properties.defaultModel Microsoft.App/agents/defaultModel properties.defaultModel.name Microsoft.App/agents/defaultModel.name properties.defaultModel.provider Microsoft.App/agents/defaultModel.provider properties.incidentManagementConfiguration Microsoft.App/agents/incidentManagementConfiguration properties.incidentManagementConfiguration.connectionKey Microsoft.App/agents/incidentManagementConfiguration.connectionKey properties.incidentManagementConfiguration.connectionName Microsoft.App/agents/incidentManagementConfiguration.connectionName properties.incidentManagementConfiguration.connectionUrl Microsoft.App/agents/incidentManagementConfiguration.connectionUrl properties.incidentManagementConfiguration.oboUser Microsoft.App/agents/incidentManagementConfiguration.oboUser properties.incidentManagementConfiguration.type Microsoft.App/agents/incidentManagementConfiguration.type properties.knowledgeGraphConfiguration Microsoft.App/agents/knowledgeGraphConfiguration properties.knowledgeGraphConfiguration.identity Microsoft.App/agents/knowledgeGraphConfiguration.identity properties.knowledgeGraphConfiguration.managedResources Microsoft.App/agents/knowledgeGraphConfiguration.managedResources properties.knowledgeGraphConfiguration.managedResources[*] Microsoft.App/agents/knowledgeGraphConfiguration.managedResources[*] properties.logConfiguration Microsoft.App/agents/logConfiguration properties.logConfiguration.applicationInsightsConfiguration Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration properties.logConfiguration.applicationInsightsConfiguration.appId Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.appId properties.logConfiguration.applicationInsightsConfiguration.connectionString Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.connectionString properties.powerState Microsoft.App/agents/powerState properties.provisioningState Microsoft.App/agents/provisioningState properties.runningState Microsoft.App/agents/runningState properties.upgradeChannel Microsoft.App/agents/upgradeChannel " />
   <meta name="keywords" content="azure,policy,azure policy,azure policy alias,azure policy aliases,find azure policy alias,matsest,policy alias powershell,azure policy alias reference" />
-    <title>NAT Gateways | Azure Policy Aliases</title>
+    <title>Agents | Azure Policy Aliases</title>
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link
   rel="icon"
@@ -28,37 +28,37 @@ Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways
 />
   <meta
     property="og:title"
-    content="NAT Gateways"
+    content="Agents"
   />
   <meta property="og:site_name" content="Azure Policy Aliases" />
   <meta property="og:image" content="http://policyalias.mats.codes/overview.png" />
-  <meta property="og:description" content="Link to resource definition: Microsoft.Network/natGateways
-Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways/idleTimeoutInMinutes properties.provisioningState Microsoft.Network/natGateways/provisioningState properties.publicIpAddresses Microsoft.Network/natGateways/publicIpAddresses properties.publicIpAddresses[*] Microsoft.Network/natGateways/publicIpAddresses[*] properties.publicIpAddresses[*].id Microsoft.Network/natGateways/publicIpAddresses[*].id properties.publicIpAddressesV6 Microsoft.Network/natGateways/publicIpAddressesV6 properties.publicIpAddressesV6[*] Microsoft.Network/natGateways/publicIpAddressesV6[*] properties.publicIpAddressesV6[*].id Microsoft.Network/natGateways/publicIpAddressesV6[*].id properties.publicIpPrefixes Microsoft.Network/natGateways/publicIpPrefixes properties.publicIpPrefixes[*] Microsoft.Network/natGateways/publicIpPrefixes[*] properties.publicIpPrefixes[*].id Microsoft.Network/natGateways/publicIpPrefixes[*].id properties.publicIpPrefixesV6 Microsoft.Network/natGateways/publicIpPrefixesV6 properties.publicIpPrefixesV6[*] Microsoft.Network/natGateways/publicIpPrefixesV6[*] properties.publicIpPrefixesV6[*].id Microsoft.Network/natGateways/publicIpPrefixesV6[*].id properties.resourceGuid Microsoft.Network/natGateways/resourceGuid properties.serviceGateway Microsoft.Network/natGateways/serviceGateway properties.serviceGateway.id Microsoft.Network/natGateways/serviceGateway.id properties.sourceVirtualNetwork Microsoft.Network/natGateways/sourceVirtualNetwork properties.sourceVirtualNetwork.id Microsoft.Network/natGateways/sourceVirtualNetwork.id properties.subnets Microsoft.Network/natGateways/subnets properties.subnets[*] Microsoft.Network/natGateways/subnets[*] properties.subnets[*].id Microsoft.Network/natGateways/subnets[*].id sku Microsoft.Network/natGateways/sku sku.name Microsoft.Network/natGateways/sku.name zones Microsoft.Network/natGateways/zones zones[*] Microsoft.Network/natGateways/zones[*] " />
+  <meta property="og:description" content="Link to resource definition: Microsoft.App/agents
+Default Path Alias properties.actionConfiguration Microsoft.App/agents/actionConfiguration properties.actionConfiguration.accessLevel Microsoft.App/agents/actionConfiguration.accessLevel properties.actionConfiguration.identity Microsoft.App/agents/actionConfiguration.identity properties.actionConfiguration.mode Microsoft.App/agents/actionConfiguration.mode properties.agentEndpoint Microsoft.App/agents/agentEndpoint properties.agentIdentity Microsoft.App/agents/agentIdentity properties.agentIdentity.clientId Microsoft.App/agents/agentIdentity.clientId properties.agentIdentity.enabled Microsoft.App/agents/agentIdentity.enabled properties.agentIdentity.initialSponsorGroupId Microsoft.App/agents/agentIdentity.initialSponsorGroupId properties.agentSpaceId Microsoft.App/agents/agentSpaceId properties.defaultModel Microsoft.App/agents/defaultModel properties.defaultModel.name Microsoft.App/agents/defaultModel.name properties.defaultModel.provider Microsoft.App/agents/defaultModel.provider properties.incidentManagementConfiguration Microsoft.App/agents/incidentManagementConfiguration properties.incidentManagementConfiguration.connectionKey Microsoft.App/agents/incidentManagementConfiguration.connectionKey properties.incidentManagementConfiguration.connectionName Microsoft.App/agents/incidentManagementConfiguration.connectionName properties.incidentManagementConfiguration.connectionUrl Microsoft.App/agents/incidentManagementConfiguration.connectionUrl properties.incidentManagementConfiguration.oboUser Microsoft.App/agents/incidentManagementConfiguration.oboUser properties.incidentManagementConfiguration.type Microsoft.App/agents/incidentManagementConfiguration.type properties.knowledgeGraphConfiguration Microsoft.App/agents/knowledgeGraphConfiguration properties.knowledgeGraphConfiguration.identity Microsoft.App/agents/knowledgeGraphConfiguration.identity properties.knowledgeGraphConfiguration.managedResources Microsoft.App/agents/knowledgeGraphConfiguration.managedResources properties.knowledgeGraphConfiguration.managedResources[*] Microsoft.App/agents/knowledgeGraphConfiguration.managedResources[*] properties.logConfiguration Microsoft.App/agents/logConfiguration properties.logConfiguration.applicationInsightsConfiguration Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration properties.logConfiguration.applicationInsightsConfiguration.appId Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.appId properties.logConfiguration.applicationInsightsConfiguration.connectionString Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.connectionString properties.powerState Microsoft.App/agents/powerState properties.provisioningState Microsoft.App/agents/provisioningState properties.runningState Microsoft.App/agents/runningState properties.upgradeChannel Microsoft.App/agents/upgradeChannel " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://policyalias.mats.codes/Microsoft.Network/natGateways/" />
-<meta property="article:section" content="Microsoft.network" />
+<meta property="og:url" content="http://policyalias.mats.codes/Microsoft.App/agents/" />
+<meta property="article:section" content="Microsoft.app" />
   <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="NAT Gateways" />
+<meta name="twitter:title" content="Agents" />
   <meta property="twitter:image" content="http://policyalias.mats.codes/overview.png" />
-  <meta name="twitter:description" content="Link to resource definition: Microsoft.Network/natGateways
-Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways/idleTimeoutInMinutes properties.provisioningState Microsoft.Network/natGateways/provisioningState properties.publicIpAddresses Microsoft.Network/natGateways/publicIpAddresses properties.publicIpAddresses[*] Microsoft.Network/natGateways/publicIpAddresses[*] properties.publicIpAddresses[*].id Microsoft.Network/natGateways/publicIpAddresses[*].id properties.publicIpAddressesV6 Microsoft.Network/natGateways/publicIpAddressesV6 properties.publicIpAddressesV6[*] Microsoft.Network/natGateways/publicIpAddressesV6[*] properties.publicIpAddressesV6[*].id Microsoft.Network/natGateways/publicIpAddressesV6[*].id properties.publicIpPrefixes Microsoft.Network/natGateways/publicIpPrefixes properties.publicIpPrefixes[*] Microsoft.Network/natGateways/publicIpPrefixes[*] properties.publicIpPrefixes[*].id Microsoft.Network/natGateways/publicIpPrefixes[*].id properties.publicIpPrefixesV6 Microsoft.Network/natGateways/publicIpPrefixesV6 properties.publicIpPrefixesV6[*] Microsoft.Network/natGateways/publicIpPrefixesV6[*] properties.publicIpPrefixesV6[*].id Microsoft.Network/natGateways/publicIpPrefixesV6[*].id properties.resourceGuid Microsoft.Network/natGateways/resourceGuid properties.serviceGateway Microsoft.Network/natGateways/serviceGateway properties.serviceGateway.id Microsoft.Network/natGateways/serviceGateway.id properties.sourceVirtualNetwork Microsoft.Network/natGateways/sourceVirtualNetwork properties.sourceVirtualNetwork.id Microsoft.Network/natGateways/sourceVirtualNetwork.id properties.subnets Microsoft.Network/natGateways/subnets properties.subnets[*] Microsoft.Network/natGateways/subnets[*] properties.subnets[*].id Microsoft.Network/natGateways/subnets[*].id sku Microsoft.Network/natGateways/sku sku.name Microsoft.Network/natGateways/sku.name zones Microsoft.Network/natGateways/zones zones[*] Microsoft.Network/natGateways/zones[*] " />
+  <meta name="twitter:description" content="Link to resource definition: Microsoft.App/agents
+Default Path Alias properties.actionConfiguration Microsoft.App/agents/actionConfiguration properties.actionConfiguration.accessLevel Microsoft.App/agents/actionConfiguration.accessLevel properties.actionConfiguration.identity Microsoft.App/agents/actionConfiguration.identity properties.actionConfiguration.mode Microsoft.App/agents/actionConfiguration.mode properties.agentEndpoint Microsoft.App/agents/agentEndpoint properties.agentIdentity Microsoft.App/agents/agentIdentity properties.agentIdentity.clientId Microsoft.App/agents/agentIdentity.clientId properties.agentIdentity.enabled Microsoft.App/agents/agentIdentity.enabled properties.agentIdentity.initialSponsorGroupId Microsoft.App/agents/agentIdentity.initialSponsorGroupId properties.agentSpaceId Microsoft.App/agents/agentSpaceId properties.defaultModel Microsoft.App/agents/defaultModel properties.defaultModel.name Microsoft.App/agents/defaultModel.name properties.defaultModel.provider Microsoft.App/agents/defaultModel.provider properties.incidentManagementConfiguration Microsoft.App/agents/incidentManagementConfiguration properties.incidentManagementConfiguration.connectionKey Microsoft.App/agents/incidentManagementConfiguration.connectionKey properties.incidentManagementConfiguration.connectionName Microsoft.App/agents/incidentManagementConfiguration.connectionName properties.incidentManagementConfiguration.connectionUrl Microsoft.App/agents/incidentManagementConfiguration.connectionUrl properties.incidentManagementConfiguration.oboUser Microsoft.App/agents/incidentManagementConfiguration.oboUser properties.incidentManagementConfiguration.type Microsoft.App/agents/incidentManagementConfiguration.type properties.knowledgeGraphConfiguration Microsoft.App/agents/knowledgeGraphConfiguration properties.knowledgeGraphConfiguration.identity Microsoft.App/agents/knowledgeGraphConfiguration.identity properties.knowledgeGraphConfiguration.managedResources Microsoft.App/agents/knowledgeGraphConfiguration.managedResources properties.knowledgeGraphConfiguration.managedResources[*] Microsoft.App/agents/knowledgeGraphConfiguration.managedResources[*] properties.logConfiguration Microsoft.App/agents/logConfiguration properties.logConfiguration.applicationInsightsConfiguration Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration properties.logConfiguration.applicationInsightsConfiguration.appId Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.appId properties.logConfiguration.applicationInsightsConfiguration.connectionString Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.connectionString properties.powerState Microsoft.App/agents/powerState properties.provisioningState Microsoft.App/agents/provisioningState properties.runningState Microsoft.App/agents/runningState properties.upgradeChannel Microsoft.App/agents/upgradeChannel " />
   <script type="application/ld+json">
   {
       "@context": "http://schema.org",
       "@type": "TechArticle",
-      "articleSection": "Microsoft.network",
-      "name": "NAT Gateways",
-      "url": "http://policyalias.mats.codes/Microsoft.Network/natGateways/",
-      "headline": "NAT Gateways",
-      "description": "Link to resource definition: Microsoft.Network\/natGateways\nDefault Path Alias properties.idleTimeoutInMinutes Microsoft.Network\/natGateways\/idleTimeoutInMinutes properties.provisioningState Microsoft.Network\/natGateways\/provisioningState properties.publicIpAddresses Microsoft.Network\/natGateways\/publicIpAddresses properties.publicIpAddresses[*] Microsoft.Network\/natGateways\/publicIpAddresses[*] properties.publicIpAddresses[*].id Microsoft.Network\/natGateways\/publicIpAddresses[*].id properties.publicIpAddressesV6 Microsoft.Network\/natGateways\/publicIpAddressesV6 properties.publicIpAddressesV6[*] Microsoft.Network\/natGateways\/publicIpAddressesV6[*] properties.publicIpAddressesV6[*].id Microsoft.Network\/natGateways\/publicIpAddressesV6[*].id properties.publicIpPrefixes Microsoft.Network\/natGateways\/publicIpPrefixes properties.publicIpPrefixes[*] Microsoft.Network\/natGateways\/publicIpPrefixes[*] properties.publicIpPrefixes[*].id Microsoft.Network\/natGateways\/publicIpPrefixes[*].id properties.publicIpPrefixesV6 Microsoft.Network\/natGateways\/publicIpPrefixesV6 properties.publicIpPrefixesV6[*] Microsoft.Network\/natGateways\/publicIpPrefixesV6[*] properties.publicIpPrefixesV6[*].id Microsoft.Network\/natGateways\/publicIpPrefixesV6[*].id properties.resourceGuid Microsoft.Network\/natGateways\/resourceGuid properties.serviceGateway Microsoft.Network\/natGateways\/serviceGateway properties.serviceGateway.id Microsoft.Network\/natGateways\/serviceGateway.id properties.sourceVirtualNetwork Microsoft.Network\/natGateways\/sourceVirtualNetwork properties.sourceVirtualNetwork.id Microsoft.Network\/natGateways\/sourceVirtualNetwork.id properties.subnets Microsoft.Network\/natGateways\/subnets properties.subnets[*] Microsoft.Network\/natGateways\/subnets[*] properties.subnets[*].id Microsoft.Network\/natGateways\/subnets[*].id sku Microsoft.Network\/natGateways\/sku sku.name Microsoft.Network\/natGateways\/sku.name zones Microsoft.Network\/natGateways\/zones zones[*] Microsoft.Network\/natGateways\/zones[*] ",
+      "articleSection": "Microsoft.app",
+      "name": "Agents",
+      "url": "http://policyalias.mats.codes/Microsoft.App/agents/",
+      "headline": "Agents",
+      "description": "Link to resource definition: Microsoft.App\/agents\nDefault Path Alias properties.actionConfiguration Microsoft.App\/agents\/actionConfiguration properties.actionConfiguration.accessLevel Microsoft.App\/agents\/actionConfiguration.accessLevel properties.actionConfiguration.identity Microsoft.App\/agents\/actionConfiguration.identity properties.actionConfiguration.mode Microsoft.App\/agents\/actionConfiguration.mode properties.agentEndpoint Microsoft.App\/agents\/agentEndpoint properties.agentIdentity Microsoft.App\/agents\/agentIdentity properties.agentIdentity.clientId Microsoft.App\/agents\/agentIdentity.clientId properties.agentIdentity.enabled Microsoft.App\/agents\/agentIdentity.enabled properties.agentIdentity.initialSponsorGroupId Microsoft.App\/agents\/agentIdentity.initialSponsorGroupId properties.agentSpaceId Microsoft.App\/agents\/agentSpaceId properties.defaultModel Microsoft.App\/agents\/defaultModel properties.defaultModel.name Microsoft.App\/agents\/defaultModel.name properties.defaultModel.provider Microsoft.App\/agents\/defaultModel.provider properties.incidentManagementConfiguration Microsoft.App\/agents\/incidentManagementConfiguration properties.incidentManagementConfiguration.connectionKey Microsoft.App\/agents\/incidentManagementConfiguration.connectionKey properties.incidentManagementConfiguration.connectionName Microsoft.App\/agents\/incidentManagementConfiguration.connectionName properties.incidentManagementConfiguration.connectionUrl Microsoft.App\/agents\/incidentManagementConfiguration.connectionUrl properties.incidentManagementConfiguration.oboUser Microsoft.App\/agents\/incidentManagementConfiguration.oboUser properties.incidentManagementConfiguration.type Microsoft.App\/agents\/incidentManagementConfiguration.type properties.knowledgeGraphConfiguration Microsoft.App\/agents\/knowledgeGraphConfiguration properties.knowledgeGraphConfiguration.identity Microsoft.App\/agents\/knowledgeGraphConfiguration.identity properties.knowledgeGraphConfiguration.managedResources Microsoft.App\/agents\/knowledgeGraphConfiguration.managedResources properties.knowledgeGraphConfiguration.managedResources[*] Microsoft.App\/agents\/knowledgeGraphConfiguration.managedResources[*] properties.logConfiguration Microsoft.App\/agents\/logConfiguration properties.logConfiguration.applicationInsightsConfiguration Microsoft.App\/agents\/logConfiguration.applicationInsightsConfiguration properties.logConfiguration.applicationInsightsConfiguration.appId Microsoft.App\/agents\/logConfiguration.applicationInsightsConfiguration.appId properties.logConfiguration.applicationInsightsConfiguration.connectionString Microsoft.App\/agents\/logConfiguration.applicationInsightsConfiguration.connectionString properties.powerState Microsoft.App\/agents\/powerState properties.provisioningState Microsoft.App\/agents\/provisioningState properties.runningState Microsoft.App\/agents\/runningState properties.upgradeChannel Microsoft.App\/agents\/upgradeChannel ",
       "thumbnailUrl": "http://policyalias.mats.codes/overview.png",
-      "wordCount": "60",
+      "wordCount": "70",
       "license": "MIT",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "http://policyalias.mats.codes/Microsoft.Network/natGateways/"
+          "@id": "http://policyalias.mats.codes/Microsoft.App/agents/"
       },
       "copyrightHolder": "Azure Policy Aliases",
       "copyrightYear": "0001",
@@ -134,7 +134,7 @@ Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways
   href="/custom.css"
   media="all"
 />
-  <link href="http://policyalias.mats.codes/Microsoft.Network/natGateways/" rel="canonical" type="text/html" />
+  <link href="http://policyalias.mats.codes/Microsoft.App/agents/" rel="canonical" type="text/html" />
 <!-- Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc -->
   </head>
   <body itemscope itemtype="https://schema.org/WebPage">
@@ -2559,7 +2559,7 @@ Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways
     <div>
       <svg class="gdoc-icon gdoc_path hidden-mobile"><use xlink:href="#gdoc_path"></use></svg>
       <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/Microsoft.Network/' href='/Microsoft.Network/'><span itemprop='name'>Microsoft. Network</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>NAT Gateways</span><meta itemprop='position' content='3' /></li>
+    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/Microsoft.App/' href='/Microsoft.App/'><span itemprop='name'>Microsoft. App</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Agents</span><meta itemprop='position' content='3' /></li>
       </ol>
     </div>
 </div>
@@ -2567,11 +2567,11 @@ Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways
     class="gdoc-markdown gdoc-markdown__align--left"
     id="main-content" tabindex="-1"
   >
-    <h1>NAT Gateways</h1>
+    <h1>Agents</h1>
     <p>Link to resource definition: <a
   class="gdoc-markdown__link--code"
-  href="https://docs.microsoft.com/en-us/azure/templates/microsoft.network/natgateways"
-><code>Microsoft.Network/natGateways</code></a></p>
+  href="https://docs.microsoft.com/en-us/azure/templates/microsoft.app/agents"
+><code>Microsoft.App/agents</code></a></p>
 <div class="table-wrap"> <table>
   <thead>
       <tr>
@@ -2581,108 +2581,128 @@ Default Path Alias properties.idleTimeoutInMinutes Microsoft.Network/natGateways
   </thead>
   <tbody>
       <tr>
-          <td><code>properties.idleTimeoutInMinutes</code></td>
-          <td><code>Microsoft.Network/natGateways/idleTimeoutInMinutes</code></td>
+          <td><code>properties.actionConfiguration</code></td>
+          <td><code>Microsoft.App/agents/actionConfiguration</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.actionConfiguration.accessLevel</code></td>
+          <td><code>Microsoft.App/agents/actionConfiguration.accessLevel</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.actionConfiguration.identity</code></td>
+          <td><code>Microsoft.App/agents/actionConfiguration.identity</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.actionConfiguration.mode</code></td>
+          <td><code>Microsoft.App/agents/actionConfiguration.mode</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentEndpoint</code></td>
+          <td><code>Microsoft.App/agents/agentEndpoint</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentIdentity</code></td>
+          <td><code>Microsoft.App/agents/agentIdentity</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentIdentity.clientId</code></td>
+          <td><code>Microsoft.App/agents/agentIdentity.clientId</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentIdentity.enabled</code></td>
+          <td><code>Microsoft.App/agents/agentIdentity.enabled</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentIdentity.initialSponsorGroupId</code></td>
+          <td><code>Microsoft.App/agents/agentIdentity.initialSponsorGroupId</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.agentSpaceId</code></td>
+          <td><code>Microsoft.App/agents/agentSpaceId</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.defaultModel</code></td>
+          <td><code>Microsoft.App/agents/defaultModel</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.defaultModel.name</code></td>
+          <td><code>Microsoft.App/agents/defaultModel.name</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.defaultModel.provider</code></td>
+          <td><code>Microsoft.App/agents/defaultModel.provider</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration.connectionKey</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration.connectionKey</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration.connectionName</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration.connectionName</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration.connectionUrl</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration.connectionUrl</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration.oboUser</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration.oboUser</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.incidentManagementConfiguration.type</code></td>
+          <td><code>Microsoft.App/agents/incidentManagementConfiguration.type</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.knowledgeGraphConfiguration</code></td>
+          <td><code>Microsoft.App/agents/knowledgeGraphConfiguration</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.knowledgeGraphConfiguration.identity</code></td>
+          <td><code>Microsoft.App/agents/knowledgeGraphConfiguration.identity</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.knowledgeGraphConfiguration.managedResources</code></td>
+          <td><code>Microsoft.App/agents/knowledgeGraphConfiguration.managedResources</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.knowledgeGraphConfiguration.managedResources[*]</code></td>
+          <td><code>Microsoft.App/agents/knowledgeGraphConfiguration.managedResources[*]</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.logConfiguration</code></td>
+          <td><code>Microsoft.App/agents/logConfiguration</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.logConfiguration.applicationInsightsConfiguration</code></td>
+          <td><code>Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.logConfiguration.applicationInsightsConfiguration.appId</code></td>
+          <td><code>Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.appId</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.logConfiguration.applicationInsightsConfiguration.connectionString</code></td>
+          <td><code>Microsoft.App/agents/logConfiguration.applicationInsightsConfiguration.connectionString</code></td>
+      </tr>
+      <tr>
+          <td><code>properties.powerState</code></td>
+          <td><code>Microsoft.App/agents/powerState</code></td>
       </tr>
       <tr>
           <td><code>properties.provisioningState</code></td>
-          <td><code>Microsoft.Network/natGateways/provisioningState</code></td>
+          <td><code>Microsoft.App/agents/provisioningState</code></td>
       </tr>
       <tr>
-          <td><code>properties.publicIpAddresses</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddresses</code></td>
+          <td><code>properties.runningState</code></td>
+          <td><code>Microsoft.App/agents/runningState</code></td>
       </tr>
       <tr>
-          <td><code>properties.publicIpAddresses[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddresses[*]</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpAddresses[*].id</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddresses[*].id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpAddressesV6</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddressesV6</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpAddressesV6[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddressesV6[*]</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpAddressesV6[*].id</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpAddressesV6[*].id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixes</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixes</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixes[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixes[*]</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixes[*].id</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixes[*].id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixesV6</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixesV6</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixesV6[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixesV6[*]</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.publicIpPrefixesV6[*].id</code></td>
-          <td><code>Microsoft.Network/natGateways/publicIpPrefixesV6[*].id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.resourceGuid</code></td>
-          <td><code>Microsoft.Network/natGateways/resourceGuid</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.serviceGateway</code></td>
-          <td><code>Microsoft.Network/natGateways/serviceGateway</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.serviceGateway.id</code></td>
-          <td><code>Microsoft.Network/natGateways/serviceGateway.id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.sourceVirtualNetwork</code></td>
-          <td><code>Microsoft.Network/natGateways/sourceVirtualNetwork</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.sourceVirtualNetwork.id</code></td>
-          <td><code>Microsoft.Network/natGateways/sourceVirtualNetwork.id</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.subnets</code></td>
-          <td><code>Microsoft.Network/natGateways/subnets</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.subnets[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/subnets[*]</code></td>
-      </tr>
-      <tr>
-          <td><code>properties.subnets[*].id</code></td>
-          <td><code>Microsoft.Network/natGateways/subnets[*].id</code></td>
-      </tr>
-      <tr>
-          <td><code>sku</code></td>
-          <td><code>Microsoft.Network/natGateways/sku</code></td>
-      </tr>
-      <tr>
-          <td><code>sku.name</code></td>
-          <td><code>Microsoft.Network/natGateways/sku.name</code></td>
-      </tr>
-      <tr>
-          <td><code>zones</code></td>
-          <td><code>Microsoft.Network/natGateways/zones</code></td>
-      </tr>
-      <tr>
-          <td><code>zones[*]</code></td>
-          <td><code>Microsoft.Network/natGateways/zones[*]</code></td>
+          <td><code>properties.upgradeChannel</code></td>
+          <td><code>Microsoft.App/agents/upgradeChannel</code></td>
       </tr>
   </tbody>
 </table> </div>
