@@ -202,6 +202,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/agents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.App/agentSpaces/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/builders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.App/connectedEnvironments-certificates/</loc>
@@ -295,6 +299,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Attestation/attestationProviders/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Authorization/denyAssignments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Authorization/locks/</loc>
   </url><url>
