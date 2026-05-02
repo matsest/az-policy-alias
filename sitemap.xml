@@ -3128,6 +3128,30 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Workloads/sapVirtualInstances/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/autonomousDatabases-autonomousDatabaseBackups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/autonomousDatabases/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/cloudExadataInfrastructures/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/cloudVmClusters-virtualNetworkAddresses/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/cloudVmClusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/dbSystems/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/exadbVmClusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/exascaleDbStorageVaults/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/networkAnchors/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/oracleSubscriptions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Oracle.Database/resourceAnchors/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/tags/</loc>
   </url>
 </urlset>
