@@ -536,8 +536,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1998,8 +1996,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/networkmanagers-ipampools-staticcidrs/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-networkGroups-staticMembers/</loc>
@@ -2137,8 +2133,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkAppliances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
   </url><url>
