@@ -536,8 +536,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Capacity/reservationOrders/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Capacity/resourceProviders-locations-serviceLimits/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Cdn/</loc>
@@ -1972,8 +1970,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoorWebApplicationFirewallPolicies/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/interconnectGroups/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipAllocations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipGroups/</loc>
@@ -2125,8 +2121,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/trafficManagerUserMetricsKeys/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-bgpConnections/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-connectionPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubRouteTables/</loc>
   </url><url>
