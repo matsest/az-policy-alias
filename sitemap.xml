@@ -252,6 +252,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-keyValues/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-networkSecurityPerimeterConfigurations/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-replicas/</loc>
@@ -1002,11 +1004,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-backupsv2/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-configurations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-databases/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-firewallRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-maintenances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections/</loc>
   </url><url>
@@ -2816,9 +2822,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-advancedPlatformMetrics/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-blobServices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-connectors/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-dataShares/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-encryptionScopes/</loc>
   </url><url>

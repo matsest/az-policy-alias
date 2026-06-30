@@ -16,6 +16,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-networkSecurityPerimeterConfigurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-networkSecurityPerimeterConfigurations/</guid>
+      <description>&lt;p&gt;Link to resource definition: &lt;a&#xA;  class=&#34;gdoc-markdown__link--code&#34;&#xA;  href=&#34;https://docs.microsoft.com/en-us/azure/templates/microsoft.appconfiguration/configurationstores/networksecurityperimeterconfigurations&#34;&#xA;&gt;&lt;code&gt;Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Default Path&lt;/th&gt;&#xA;          &lt;th&gt;Alias&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.networkSecurityPerimeter.id&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations/networkSecurityPerimeter.id&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.profile.name&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations/profile.name&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;properties.resourceAssociation.accessMode&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations/resourceAssociation.accessMode&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://policyalias.mats.codes/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections/</guid>
