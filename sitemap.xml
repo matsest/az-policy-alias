@@ -686,8 +686,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/images/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Compute/interconnectBlocks/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections-restorePoints/</loc>
@@ -1998,8 +1996,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoorWebApplicationFirewallPolicies/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/interconnectGroups/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipAllocations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipGroups/</loc>
@@ -2025,8 +2021,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/networkmanagers-ipampools-staticcidrs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
   </url><url>
@@ -2152,8 +2146,6 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-bgpConnections/</loc>
   </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-connectionPolicies/</loc>
-  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubRouteTables/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubVirtualNetworkConnections/</loc>
@@ -2167,8 +2159,6 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
-  </url><url>
-    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkAppliances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
   </url><url>
