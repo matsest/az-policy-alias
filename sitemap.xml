@@ -1868,6 +1868,26 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/moveCollections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/approvals/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/communities-communityEndpoints/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/communities-dedicatedHubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/communities-transitHubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/communities/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/enclaveConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/virtualEnclaves-enclaveEndpoints/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/virtualEnclaves-workloads/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Mission/virtualEnclaves/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Monitor/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Monitor/accounts/</loc>
