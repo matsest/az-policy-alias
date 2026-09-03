@@ -990,6 +990,24 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataProtection/BackupVaults/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationFabrics-fabricAgents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationFabrics/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults-alertSettings/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults-protectedItems/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults-replicationExtensions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults-replicationPolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DataReplication/replicationVaults/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DataShare/accounts-shares-invitations/</loc>
