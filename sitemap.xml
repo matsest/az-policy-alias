@@ -4,6 +4,10 @@
   <url>
     <loc>http://policyalias.mats.codes/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/GitHub.Network/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/GitHub.Network/networkSettings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AAD/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.AAD/DomainServices/</loc>
@@ -594,6 +598,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-arcDeployments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-capabilityhosts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
@@ -605,6 +611,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-deployments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-encryptionScopes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-managedComputeDeployments/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-managedNetworks-outboundRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-managedNetworks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-privateEndpointConnections/</loc>
   </url><url>
@@ -1853,6 +1865,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Management/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Management/managementGroups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Management/serviceGroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/</loc>
   </url><url>
