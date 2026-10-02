@@ -2936,6 +2936,18 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems-autoExportJobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems-autoImportJobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems-expansionJobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems-importJobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems-rebalanceJobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageCache/amlFilesystems/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/caches-storageTargets/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageCache/caches/</loc>
