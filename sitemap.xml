@@ -1870,6 +1870,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts-creators/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts-privateEndpointConnections/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Maps/accounts/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Migrate/</loc>
