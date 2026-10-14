@@ -1744,6 +1744,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Logic/automationProjects/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-agreements/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Logic/integrationAccounts-assemblies/</loc>
