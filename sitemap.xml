@@ -698,6 +698,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/images/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Compute/interconnectBlocks/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/restorePointCollections-restorePoints/</loc>
@@ -1185,6 +1187,36 @@
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects-pools/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DevCenter/projects/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/assetEndpointProfiles/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/assets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/discoveredAssetEndpointProfiles/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/discoveredAssets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-assets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-credentials-policies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-credentials/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-devices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-discoveredAssets/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-discoveredDevices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/schemaRegistries-schemas-schemaVersions/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/schemaRegistries-schemas/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/schemaRegistries/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Devices/</loc>
   </url><url>
@@ -2054,6 +2086,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoorWebApplicationFirewallPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/interconnectGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipAllocations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipGroups/</loc>
@@ -2079,6 +2113,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkmanagers-ipampools-staticcidrs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
   </url><url>
@@ -2204,6 +2240,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-bgpConnections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-connectionPolicies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubRouteTables/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubVirtualNetworkConnections/</loc>
@@ -2217,6 +2255,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkAppliances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
   </url><url>
@@ -2965,6 +3005,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.StorageMover/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-agents/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-connections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.StorageMover/storageMovers-endpoints/</loc>
   </url><url>
