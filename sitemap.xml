@@ -1198,6 +1198,10 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-assets/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-certificateAuthorities-certificatePolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-certificateAuthorities/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-credentials-policies/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-credentials/</loc>
@@ -1207,6 +1211,16 @@
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-discoveredAssets/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-discoveredDevices/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-groups/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-jobs-runs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-jobs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-registryDevices-attributes/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces-registryDevices/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.DeviceRegistry/namespaces/</loc>
   </url><url>
@@ -2457,6 +2471,12 @@
     <loc>http://policyalias.mats.codes/Microsoft.RecoveryServices/vaults/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/HCPOpenShiftClusters-ExternalAuths/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/HCPOpenShiftClusters-NodePools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/HCPOpenShiftClusters/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.RedHatOpenShift/OpenShiftClusters/</loc>
   </url><url>
