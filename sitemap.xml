@@ -1602,11 +1602,33 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HealthDataAIServices/deidServices/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-administrators/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-authentications/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-microsoftEntraAdministrators/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-pools-firewallRules/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-pools-replicas/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-pools/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters-privateEndpointConnections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/clusters/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HorizonDB/parameterGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/gateways/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/licenses/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-applications/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.HybridCompute/machines-extensions/</loc>
   </url><url>
