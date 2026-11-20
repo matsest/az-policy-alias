@@ -598,6 +598,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-adapterDeployments/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-arcDeployments/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-capabilityhosts/</loc>
@@ -605,6 +607,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-commitmentplans/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-connections/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-costControls/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-defenderForAISettings/</loc>
   </url><url>
@@ -630,11 +634,15 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-projects/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBindings/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiBlocklists/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiPolicies/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiRegos/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.CognitiveServices/accounts-raiToolLabels/</loc>
   </url><url>
@@ -697,6 +705,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Compute/hostGroups/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/images/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Compute/interconnectBlocks/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Compute/proximityPlacementGroups/</loc>
   </url><url>
@@ -2120,6 +2130,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/frontdoorWebApplicationFirewallPolicies/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/interconnectGroups/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipAllocations/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/ipGroups/</loc>
@@ -2145,6 +2157,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagerConnections/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-connectivityConfigurations/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/networkmanagers-ipampools-staticcidrs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/networkManagers-ipamPools/</loc>
   </url><url>
@@ -2270,6 +2284,8 @@
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-bgpConnections/</loc>
   </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-connectionPolicies/</loc>
+  </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubRouteTables/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-hubVirtualNetworkConnections/</loc>
@@ -2283,6 +2299,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs-routingIntent/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualHubs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkAppliances/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Network/virtualNetworkGateways-natRules/</loc>
   </url><url>
@@ -2399,6 +2417,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-savedSearches/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-storageInsightConfigs/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-summaryLogs/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.OperationalInsights/workspaces-tables/</loc>
   </url><url>
@@ -2617,6 +2637,8 @@
     <loc>http://policyalias.mats.codes/Microsoft.Security/serverVulnerabilityAssessmentsSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/serviceEntitlements/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Security/serviceEntitlementSettings/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Security/settings/</loc>
   </url><url>
@@ -2975,6 +2997,10 @@
     <loc>http://policyalias.mats.codes/Microsoft.SqlVirtualMachine/SqlVirtualMachines/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/contextCaches-contextCacheContainers/</loc>
+  </url><url>
+    <loc>http://policyalias.mats.codes/Microsoft.Storage/contextCaches/</loc>
   </url><url>
     <loc>http://policyalias.mats.codes/Microsoft.Storage/storageAccounts-advancedPlatformMetrics/</loc>
   </url><url>
